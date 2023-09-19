@@ -1,0 +1,2735 @@
+[
+	{
+		"content": "[\"From: OpsNewsTicker Sent: Monday, May 07, 2012 07:51 PM",
+		"entities": [
+			[
+				"Monday",
+				28,
+				34,
+				"DATE"
+			],
+			[
+				"May 07",
+				36,
+				42,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: NEWS-Mahogany Subject: Israeli media: Early election canceled (AP) JERUSALEM (AP) - Israeli media reports indicate that Prime Minister Benjamin Netanyahu has reached agreement with the Kadima opposition party for a unity government, canceling early election.",
+		"entities": [
+			[
+				"NEWS-Mahogany Subject",
+				4,
+				25,
+				"NORP"
+			],
+			[
+				"Israeli",
+				27,
+				34,
+				"GPE"
+			],
+			[
+				"AP",
+				67,
+				69,
+				"ORG"
+			],
+			[
+				"JERUSALEM",
+				71,
+				80,
+				"GPE"
+			],
+			[
+				"AP",
+				82,
+				84,
+				"ORG"
+			],
+			[
+				"Israeli",
+				88,
+				95,
+				"GPE"
+			],
+			[
+				"Prime Minister Benjamin",
+				124,
+				147,
+				"PERSON"
+			],
+			[
+				"Kadima",
+				189,
+				195,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "There was no immediate comment from official sources on the decision that was reported early on the morning of May 8.",
+		"entities": [
+			[
+				"May 8",
+				111,
+				116,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The reports came as Israel's parliament held debates long into the night over whether to disperse ahead of early elections called for the fall.",
+		"entities": [
+			[
+				"Israel",
+				20,
+				26,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Earlier in the day, the Israeli government proposed the election be moved up to September 4.",
+		"entities": [
+			[
+				"Israeli government",
+				24,
+				42,
+				"GPE"
+			],
+			[
+				"September 4",
+				80,
+				91,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The election had originally been set for 2013.",
+		"entities": []
+	},
+	{
+		"content": "But disagreements on a variety of domestic issues such as drafting the ultra-Orthodox into the military and the fate of outposts and settlements in the West Bank have led Netanyahu to bring the date forward.",
+		"entities": [
+			[
+				"West Bank",
+				152,
+				161,
+				"GPE"
+			],
+			[
+				"Netanyahu",
+				171,
+				180,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "News Tickers alert senior Department officials to breaking news.",
+		"entities": [
+			[
+				"News Tickers",
+				0,
+				12,
+				"ORG"
+			],
+			[
+				"Department",
+				26,
+				36,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This item appears as it did in its original publication and does not contain analysis or commentary by Department sources.",
+		"entities": [
+			[
+				"Department",
+				103,
+				113,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "UNCLASSIFIED U.S. Department of State Case No.",
+		"entities": [
+			[
+				"U.S. Department of State Case",
+				13,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05790129 Date: 10/30/2015 \\x0c\"]",
+		"entities": [
+			[
+				"C05790129 Date",
+				0,
+				14,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "[' From: Sullivan, Jacob J <SullivanJJ@state.gov>",
+		"entities": [
+			[
+				"Sullivan",
+				9,
+				17,
+				"PERSON"
+			],
+			[
+				"Jacob J <SullivanJJ@state.gov",
+				19,
+				48,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "To: H Sent: Sun",
+		"entities": [
+			[
+				"Sun",
+				12,
+				15,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "May 02 21:21:08 2010 Subject: AU/Iran 1.4(B) 1.4(D)",
+		"entities": [
+			[
+				"AU/Iran",
+				30,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From Johnnie B1 Regards, Johnnie Classified by DAS, A/GIS, DoS on 08/27/2015 — Class: CONFIDENTIAL — Reason: 1.4(B), 1.4(D) — Declassify on: 05/02/2020 UNCLASSIFIED U.S. Department of State Case No.",
+		"entities": [
+			[
+				"Johnnie B1 Regards",
+				5,
+				23,
+				"PERSON"
+			],
+			[
+				"Johnnie Classified",
+				25,
+				43,
+				"PERSON"
+			],
+			[
+				"DAS",
+				47,
+				50,
+				"ORG"
+			],
+			[
+				"GIS",
+				54,
+				57,
+				"ORG"
+			],
+			[
+				"DoS",
+				59,
+				62,
+				"ORG"
+			],
+			[
+				"1.4(D",
+				117,
+				122,
+				"DATE"
+			],
+			[
+				"UNCLASSIFIED U.S. Department of State Case",
+				152,
+				194,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05774622 Date: 08/31/2015 \\x0c']",
+		"entities": []
+	},
+	{
+		"content": "['UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"UNCLASSIFIED U.S. Department of State Case",
+				2,
+				44,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05781075",
+		"entities": []
+	},
+	{
+		"content": "Date: 09/30/2015 RELEASE IN PART B5 UNCLASSIFIED INFORMATION MEMO FOR THE COUNSELOR FROM: E – Under Secretary Bob Hormats S/GPI – Special Representative Kris Balderston",
+		"entities": [
+			[
+				"Under Secretary Bob Hormats S/GPI",
+				94,
+				127,
+				"PERSON"
+			],
+			[
+				"Kris Balderston",
+				153,
+				168,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SUBJECT:",
+		"entities": []
+	},
+	{
+		"content": "Congressional Co-Chairs for Partners for a New Beginning (PNB) Background As you know, the Partners for New Beginning program is beginning to make progress in spurring private sector investment in targeted countries in the MENA region and the broader Muslim world.",
+		"entities": [
+			[
+				"Congressional Co-Chairs",
+				0,
+				23,
+				"ORG"
+			],
+			[
+				"New Beginning",
+				43,
+				56,
+				"LOC"
+			],
+			[
+				"PNB",
+				58,
+				61,
+				"ORG"
+			],
+			[
+				"the Partners",
+				87,
+				99,
+				"PERSON"
+			],
+			[
+				"New Beginning",
+				104,
+				117,
+				"LOC"
+			],
+			[
+				"MENA",
+				223,
+				227,
+				"PERSON"
+			],
+			[
+				"Muslim",
+				251,
+				257,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "After a successful dinner with the Secretary earlier this week, we believe that the PNB Secretariat— chaired by the Aspen Institute and including leading figures from the private sector— is well positioned to foster significant investments that will make a tangible impact in these critical regions.",
+		"entities": [
+			[
+				"PNB Secretariat",
+				84,
+				99,
+				"ORG"
+			],
+			[
+				"Aspen Institute",
+				116,
+				131,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "As the PNB Secretariat has developed, there has been interest from the Hill in contributing to the program.",
+		"entities": [
+			[
+				"PNB Secretariat",
+				7,
+				22,
+				"ORG"
+			],
+			[
+				"Hill",
+				71,
+				75,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "To capitalize on this interest, the Aspen Institute has proposed to offer Honorary Co-Chairmanships to Senators Kerry and McCain.",
+		"entities": [
+			[
+				"Aspen Institute",
+				36,
+				51,
+				"PERSON"
+			],
+			[
+				"Honorary Co-Chairmanships",
+				74,
+				99,
+				"PERSON"
+			],
+			[
+				"Kerry",
+				112,
+				117,
+				"PERSON"
+			],
+			[
+				"McCain",
+				122,
+				128,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Both Senators are interested in working with the private sector to gain additional support for PNB.",
+		"entities": [
+			[
+				"PNB",
+				95,
+				98,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "They are also willing to help secure support from the Gulf Sovereign wealth funds.",
+		"entities": [
+			[
+				"Gulf Sovereign",
+				54,
+				68,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "CC: Legislative Affairs (H) Office of the Legal Advisor (L) UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"CC",
+				0,
+				2,
+				"ORG"
+			],
+			[
+				"UNCLASSIFIED U.S. Department of State Case",
+				60,
+				102,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05781075",
+		"entities": []
+	},
+	{
+		"content": "Date: 09/30/2015 \\x0c']",
+		"entities": []
+	},
+	{
+		"content": "['From: Mills, Cheryl D Sent: Wednesday, October 19, 2011 01:09 PM",
+		"entities": [
+			[
+				"Mills",
+				8,
+				13,
+				"PERSON"
+			],
+			[
+				"Cheryl",
+				15,
+				21,
+				"PERSON"
+			],
+			[
+				"Wednesday",
+				30,
+				39,
+				"DATE"
+			],
+			[
+				"October 19",
+				41,
+				51,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Mull, Stephen D Cc: Kennedy, Patrick F; Samuelson, Heather F Subject: RE: Update and thanks..",
+		"entities": [
+			[
+				"Mull",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"Stephen",
+				10,
+				17,
+				"PERSON"
+			],
+			[
+				"Kennedy",
+				24,
+				31,
+				"PERSON"
+			],
+			[
+				"Patrick",
+				33,
+				40,
+				"PERSON"
+			],
+			[
+				"Samuelson",
+				44,
+				53,
+				"PERSON"
+			],
+			[
+				"Heather F Subject",
+				55,
+				72,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "+ Heather ']",
+		"entities": [
+			[
+				"Heather",
+				2,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"From: Sherman, Wendy R Sent: Thursday, October 13, 2011 05:54 PM B6 To: Rice, Susan E (USUN); Ryu, Rexon Y; Burns, William 3; Brimmer, Esther D; DiCarlo, Rosemary A (USUN) .",
+		"entities": [
+			[
+				"Sherman",
+				8,
+				15,
+				"PERSON"
+			],
+			[
+				"Wendy R Sent",
+				17,
+				29,
+				"PERSON"
+			],
+			[
+				"Thursday",
+				31,
+				39,
+				"DATE"
+			],
+			[
+				"October 13",
+				41,
+				51,
+				"DATE"
+			],
+			[
+				"Rice",
+				74,
+				78,
+				"PERSON"
+			],
+			[
+				"Susan",
+				80,
+				85,
+				"PERSON"
+			],
+			[
+				"USUN",
+				89,
+				93,
+				"ORG"
+			],
+			[
+				"Ryu",
+				96,
+				99,
+				"PERSON"
+			],
+			[
+				"Rexon Y",
+				101,
+				108,
+				"PERSON"
+			],
+			[
+				"Burns",
+				110,
+				115,
+				"PERSON"
+			],
+			[
+				"William",
+				117,
+				124,
+				"PERSON"
+			],
+			[
+				"Brimmer",
+				128,
+				135,
+				"PERSON"
+			],
+			[
+				"Esther",
+				137,
+				143,
+				"PERSON"
+			],
+			[
+				"DiCarlo",
+				147,
+				154,
+				"PERSON"
+			],
+			[
+				"Rosemary",
+				156,
+				164,
+				"PERSON"
+			],
+			[
+				"USUN",
+				168,
+				172,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Sullivan, Jacob 3; 'mmcfaul 'spower 'dmcdonoug , 'tdonilon ; Benjamin, Daniel S; Ahmed, Salman (USUN); Pelofsky, Eric J Subject: RE: Iran/UN:",
+		"entities": [
+			[
+				"Sullivan",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"Jacob",
+				10,
+				15,
+				"PERSON"
+			],
+			[
+				"Benjamin",
+				61,
+				69,
+				"PERSON"
+			],
+			[
+				"Daniel",
+				71,
+				77,
+				"PERSON"
+			],
+			[
+				"Ahmed",
+				81,
+				86,
+				"PERSON"
+			],
+			[
+				"Salman",
+				88,
+				94,
+				"PERSON"
+			],
+			[
+				"USUN",
+				96,
+				100,
+				"ORG"
+			],
+			[
+				"Pelofsky",
+				103,
+				111,
+				"PERSON"
+			],
+			[
+				"Eric J Subject",
+				113,
+				127,
+				"PERSON"
+			],
+			[
+				"Iran/UN",
+				133,
+				140,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Next Steps I will send to you shortly the readout of my conversation with Ryabkov this morning which is somewhat more optimistic about coming to a common place.",
+		"entities": [
+			[
+				"Ryabkov",
+				74,
+				81,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He was very welcoming of a team and Bill Wood is now scheduled to be in Moscow with his team n the 16'.",
+		"entities": [
+			[
+				"Bill Wood",
+				36,
+				45,
+				"PERSON"
+			],
+			[
+				"Moscow",
+				72,
+				78,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Agree sending a team back to the UN would be a good step.",
+		"entities": [
+			[
+				"UN",
+				33,
+				35,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Will talk with Bob Godec about what we can get to you as soon as possible. \"]",
+		"entities": [
+			[
+				"Bob Godec",
+				15,
+				24,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['From: Sullivan, Jacob J <Sullivann@state.gov>",
+		"entities": [
+			[
+				"Sullivan",
+				8,
+				16,
+				"PERSON"
+			],
+			[
+				"Jacob J <Sullivann@state.gov",
+				18,
+				46,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Wednesday, April 20, 2011 2:38 AM",
+		"entities": [
+			[
+				"Wednesday",
+				6,
+				15,
+				"DATE"
+			],
+			[
+				"April 20",
+				17,
+				25,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To:",
+		"entities": []
+	},
+	{
+		"content": "Subject: Re: H: latest on UK/French advisers in Libya.",
+		"entities": [
+			[
+				"UK/French",
+				26,
+				35,
+				"ORG"
+			],
+			[
+				"Libya",
+				48,
+				53,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Sid Algeria!",
+		"entities": [
+			[
+				"Sid Algeria",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "High on my list... ']",
+		"entities": []
+	},
+	{
+		"content": "[\"From: Nichols, Christopher T [mailto:",
+		"entities": [
+			[
+				"Nichols",
+				8,
+				15,
+				"PERSON"
+			],
+			[
+				"Christopher",
+				17,
+				28,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Friday, January 04, 2013 8:20 AM",
+		"entities": [
+			[
+				"Friday",
+				6,
+				12,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Bob Schmermund Lawrence Galvin Aaron Watts; Olsen, Kevin R.; cahautau0 Runolfson, Case; Harris, Harry B VADM USN (US)",
+		"entities": [
+			[
+				"Bob Schmermund Lawrence Galvin Aaron Watts",
+				4,
+				46,
+				"PERSON"
+			],
+			[
+				"Olsen",
+				48,
+				53,
+				"PERSON"
+			],
+			[
+				"Kevin R.",
+				55,
+				63,
+				"PERSON"
+			],
+			[
+				"cahautau0 Runolfson",
+				65,
+				84,
+				"PERSON"
+			],
+			[
+				"Harris",
+				92,
+				98,
+				"PERSON"
+			],
+			[
+				"Harry",
+				100,
+				105,
+				"PERSON"
+			],
+			[
+				"USN",
+				113,
+				116,
+				"PERSON"
+			],
+			[
+				"US",
+				118,
+				120,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Subject: FW:",
+		"entities": [
+			[
+				"FW",
+				9,
+				11,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "EU Times: Clinton Injured, U.S. Navy Seal Killed In Secret Mission to Iran",
+		"entities": [
+			[
+				"Clinton",
+				10,
+				17,
+				"PERSON"
+			],
+			[
+				"U.S. Navy Seal",
+				27,
+				41,
+				"ORG"
+			],
+			[
+				"Iran",
+				70,
+				74,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Yeah...",
+		"entities": []
+	},
+	{
+		"content": "now that I think about it...",
+		"entities": []
+	},
+	{
+		"content": "I haven't seen HARRY anywhere either!!!",
+		"entities": [
+			[
+				"HARRY",
+				15,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Chris Nichols Original Message \"]",
+		"entities": [
+			[
+				"Chris Nichols Original Message",
+				0,
+				30,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['From: Sullivan, Jacob J [mailto:Sullivann@state.gov]",
+		"entities": [
+			[
+				"Sullivan",
+				8,
+				16,
+				"PERSON"
+			],
+			[
+				"Jacob",
+				18,
+				23,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, March 24, 2011 02:20 PM",
+		"entities": [
+			[
+				"Thursday",
+				6,
+				14,
+				"DATE"
+			],
+			[
+				"March 24",
+				16,
+				24,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: H Subject: FW: Alternative to the Defamation of Religions Resolution",
+		"entities": [
+			[
+				"FW",
+				15,
+				17,
+				"ORG"
+			],
+			[
+				"Defamation of Religions Resolution",
+				38,
+				72,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This is good news.",
+		"entities": []
+	},
+	{
+		"content": "Our defamation of religions resolution passed. ']",
+		"entities": []
+	},
+	{
+		"content": "['From: Mills, Cheryl D <MillsCD@state.gov>",
+		"entities": [
+			[
+				"Mills",
+				8,
+				13,
+				"PERSON"
+			],
+			[
+				"Cheryl",
+				15,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Sunday, April 11, 2010 11:35 PM To: Subject Fw: SMS Gateway Success",
+		"entities": [
+			[
+				"Sunday",
+				6,
+				12,
+				"DATE"
+			],
+			[
+				"April 11",
+				14,
+				22,
+				"DATE"
+			],
+			[
+				"2010 11:35",
+				24,
+				34,
+				"DATE"
+			],
+			[
+				"Subject Fw",
+				42,
+				52,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Fyi ']",
+		"entities": []
+	},
+	{
+		"content": "[\"From: wburns66",
+		"entities": []
+	},
+	{
+		"content": "Sent: Monday, April 13, 2009 1:07 PM To: Subject: Re: Fried Turkey Madam Secretary, Thanks again.",
+		"entities": [
+			[
+				"Monday",
+				6,
+				12,
+				"DATE"
+			],
+			[
+				"April 13",
+				14,
+				22,
+				"DATE"
+			],
+			[
+				"Fried Turkey Madam Secretary",
+				54,
+				82,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "n1 send the Princeton speech text to Jake.",
+		"entities": [
+			[
+				"Princeton",
+				12,
+				21,
+				"PERSON"
+			],
+			[
+				"Jake",
+				37,
+				41,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "On Libya, I did talk to New York -- the Libyans did not object to our text in the end, and we're on track for adoption of statement this afternoon.",
+		"entities": [
+			[
+				"Libya",
+				3,
+				8,
+				"GPE"
+			],
+			[
+				"New York",
+				24,
+				32,
+				"LOC"
+			],
+			[
+				"Libyans",
+				40,
+				47,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "All best, Bill Original Message \"]",
+		"entities": [
+			[
+				"Bill Original Message",
+				10,
+				31,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"UNCLASSIFIED U.S. Department of State Case",
+				2,
+				44,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439",
+		"entities": []
+	},
+	{
+		"content": "Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05769137 Date: 08/31/2015 RELEASE IN FULL FOR OFFICIAL U.S. GOVERNMENT USE ONLY Appendix Table.",
+		"entities": [
+			[
+				"C05769137 Date",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"U.S. GOVERNMENT USE ONLY Appendix Table",
+				56,
+				95,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "West European Views of International Assistance for",
+		"entities": [
+			[
+				"West European",
+				0,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Haiti Q.",
+		"entities": [
+			[
+				"Haiti Q.",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I'm going to read you a list of countries and organizations.",
+		"entities": []
+	},
+	{
+		"content": "For each one, please tell me whether you think they generally have done a very good job, a good job, a poor, or a very poor job in helping Haitians after the earthquake, or have you not heard enough to say?",
+		"entities": [
+			[
+				"Haitians",
+				139,
+				147,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(% Among those who have heard at least a fair amount about the Haiti earthquake)",
+		"entities": [
+			[
+				"Haiti",
+				63,
+				68,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our country Britain France Germany Italy",
+		"entities": []
+	},
+	{
+		"content": "Spain",
+		"entities": []
+	},
+	{
+		"content": "Very good 20 20 20 19 20 Good job 50 66 52 64 54 Good job overall 70 86 72 83 74",
+		"entities": []
+	},
+	{
+		"content": "Poor job 4 2 2 4 11 Very poor job 0 0 0 0 1",
+		"entities": []
+	},
+	{
+		"content": "Poor job overall 4 2 2 4 13 Haven't heard enough to say 19 12 23 9 11 Don't know 6 0 3 4 2 Unsure 25 12 26 13 13 Total 100 100 100 100 100 The United States Britain France Germany Italy",
+		"entities": [
+			[
+				"The United States Britain",
+				139,
+				164,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Spain",
+		"entities": []
+	},
+	{
+		"content": "Very good 23 18 21 19 14 Good job 42 62 42 56 39 Good job overall 64 80 63 75 53 Poor job 5 5 3 4 18 Very poor job 0 1 0 1 4 Poor job overall 6 5 3 5 22 Haven't heard enough to say 23 15 30 14 22 Don't know 6 3 5 3 Unsure 30 15 33 19 25 Total 100 100 100 100 100 France Britain Germany Italy",
+		"entities": [
+			[
+				"France Britain Germany Italy",
+				263,
+				291,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Spain",
+		"entities": []
+	},
+	{
+		"content": "Very good 4 2 2 3 Good job 18 17 25 25 Good job overall 22 19 28 27 Poor job 6 2 4 17 Very poor job 1 0 1 2 Poor job overall 7 2 5 19 Haven't heard enough to say 60 73 51 49 Don't know 11 5 16",
+		"entities": []
+	},
+	{
+		"content": "Unsure 71 78 67 53",
+		"entities": []
+	},
+	{
+		"content": "Total 100 100 100 100 FOR OFFICIAL U.S. GOVERNMENT USE ONLY UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"U.S. GOVERNMENT USE ONLY UNCLASSIFIED",
+				35,
+				72,
+				"ORG"
+			],
+			[
+				"U.S. Department of State Case",
+				73,
+				102,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439",
+		"entities": []
+	},
+	{
+		"content": "Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05769137 Date: 08/31/2015 \\x0cUNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"C05769137 Date",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"U.S. Department of State Case",
+				44,
+				73,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439",
+		"entities": []
+	},
+	{
+		"content": "Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05769137 Date: 08/31/2015 FOR OFFICIAL U.S. GOVERNMENT USE ONLY The Red Cross Britain France Germany Italy",
+		"entities": [
+			[
+				"C05769137 Date",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"U.S. GOVERNMENT USE",
+				40,
+				59,
+				"ORG"
+			],
+			[
+				"The Red Cross Britain France Germany Italy",
+				65,
+				107,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Spain Very good 34 29 25 25 29 Good job 35 50 50 54 53",
+		"entities": []
+	},
+	{
+		"content": "Good Job overall 69 79 74 78 81",
+		"entities": []
+	},
+	{
+		"content": "Poor job 0 1 1 1 2 Very poor job 0 0 0 0 0",
+		"entities": []
+	},
+	{
+		"content": "Poor Job overall 1 1 1 1 3 Haven't heard enough to say 22 21 22 15 14 Don't know 7 0 3 5 3 Unsure 30 21 25 21 16 Total 100 100 100 100 100 The United Nations Britain France Germany Italy",
+		"entities": [
+			[
+				"United Nations Britain",
+				143,
+				165,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Spain",
+		"entities": []
+	},
+	{
+		"content": "Very good 12 11 10 7 6 Good job 39 46 39 50 42",
+		"entities": []
+	},
+	{
+		"content": "Good Job overall 51 57 49 57 48 Poor job 6 3 4 3 16 Very poor job 1 0 1 1 3 Poor Job overall 7 4 5 4 18 Haven't heard enough to say 32 39 41 28 29 Don't know 9 6 11 4 Unsure 42 39 46 39 34 Total 100 100 100 100 100 FOR OFFICIAL U.S. GOVERNMENT USE ONLY UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"U.S. GOVERNMENT USE ONLY UNCLASSIFIED",
+				228,
+				265,
+				"ORG"
+			],
+			[
+				"U.S. Department of State Case",
+				266,
+				295,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439",
+		"entities": []
+	},
+	{
+		"content": "Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05769137 Date: 08/31/2015 \\x0c\"]",
+		"entities": [
+			[
+				"C05769137 Date",
+				0,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"From: H <hrod17@clintonemail.com",
+		"entities": []
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Sent: Saturday, September 25, 2010 2:23 PM",
+		"entities": [
+			[
+				"Saturday",
+				6,
+				14,
+				"DATE"
+			],
+			[
+				"September 25",
+				16,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: jake.sullivan 'sullivanjj@state.gov' Subject: Update",
+		"entities": []
+	},
+	{
+		"content": "I'm not going to the wedding in case I have to meet w Barak and Molho later.",
+		"entities": [
+			[
+				"Barak",
+				54,
+				59,
+				"PERSON"
+			],
+			[
+				"Molho",
+				64,
+				69,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "UNCLASSIFIED U.S. Department of State Case No.",
+		"entities": [
+			[
+				"U.S. Department of State Case",
+				13,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05779693 Date: 12/31/2015 \\x0c\"]",
+		"entities": []
+	},
+	{
+		"content": "['From: Feldman, Daniel F Sent: Sunday, May 01, 2011 05:05 AM",
+		"entities": [
+			[
+				"Feldman",
+				8,
+				15,
+				"PERSON"
+			],
+			[
+				"Daniel F Sent",
+				17,
+				30,
+				"PERSON"
+			],
+			[
+				"Sunday",
+				32,
+				38,
+				"DATE"
+			],
+			[
+				"May 01",
+				40,
+				46,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Mills, Cheryl D; Klevorick, Caitlin B Subject: Fw: NY Times Story: Costly Afghanistan Road Project is Marred by Unsavory Alliances Here's the whole article, sent by Kabul (highlights are theirs).",
+		"entities": [
+			[
+				"Mills",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Cheryl",
+				11,
+				17,
+				"PERSON"
+			],
+			[
+				"Klevorick",
+				21,
+				30,
+				"PERSON"
+			],
+			[
+				"Caitlin",
+				32,
+				39,
+				"PERSON"
+			],
+			[
+				"NY Times Story",
+				55,
+				69,
+				"ORG"
+			],
+			[
+				"Afghanistan Road Project",
+				78,
+				102,
+				"NORP"
+			],
+			[
+				"Unsavory Alliances",
+				116,
+				134,
+				"ORG"
+			],
+			[
+				"Kabul",
+				169,
+				174,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It's now up on the NYT site as well, with a note saying it's running on Al today in print copies.",
+		"entities": [
+			[
+				"NYT",
+				19,
+				22,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It's the whole story we ultimately expected.",
+		"entities": []
+	},
+	{
+		"content": "The macro story is the difficulty of doing development projects like these in war zones, whether they're worthwhile, the problems they encounter, enormous cost overruns for security, contracting and subcontracting issues, etc.",
+		"entities": []
+	},
+	{
+		"content": "But the focus of the story is still on Arafat, whom they also interviewed.",
+		"entities": [
+			[
+				"Arafat",
+				39,
+				45,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They report he was paid over $1M/year, had 200 men working for him, detail his alleged connections to Haqqani, and question how much USG money went to the insurgency.",
+		"entities": [
+			[
+				"Haqqani",
+				102,
+				109,
+				"ORG"
+			],
+			[
+				"USG",
+				133,
+				136,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "USAID is portrayed as fairly ineffective, with a blind quote from DOD saying that it \"cannot conduct serious oversight,\" and \"is a shell of its former self.",
+		"entities": [
+			[
+				"USAID",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"DOD",
+				66,
+				69,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Now, it's just a big contracting mechanism.\"",
+		"entities": []
+	},
+	{
+		"content": "UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"U.S. Department of State Case",
+				13,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05780752 Date: 01/29/2016 \\x0c UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"C05780752 Date",
+				0,
+				14,
+				"LAW"
+			],
+			[
+				"U.S. Department of State Case",
+				45,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05780752",
+		"entities": []
+	},
+	{
+		"content": "Date: 01/29/2016",
+		"entities": []
+	},
+	{
+		"content": "But the military is also portrayed as bearing some blame.",
+		"entities": []
+	},
+	{
+		"content": "In addition to reporting on the AID IG investigation which didn't make any conclusions, the piece reports that \"US military officers in the region declined to take action against Mr. Arafat, even after they were warned about his ties to the Haqqanis,\" and he was on the JPEL.",
+		"entities": [
+			[
+				"US",
+				112,
+				114,
+				"NORP"
+			],
+			[
+				"Arafat",
+				183,
+				189,
+				"PERSON"
+			],
+			[
+				"JPEL",
+				270,
+				274,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "\"Arafat's insurgent connections appear to have been known to virtually everyone, yet there was a conspiracy of silence among both the Americans and the Afghans to keep the project running, contractors and others said.",
+		"entities": [
+			[
+				"Arafat",
+				1,
+				7,
+				"PERSON"
+			],
+			[
+				"Americans",
+				134,
+				143,
+				"GPE"
+			],
+			[
+				"Afghans",
+				152,
+				159,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\" There is no/no suggestion of any IC link in the story.",
+		"entities": [
+			[
+				"IC",
+				35,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Aspects that were new to me included the Indian contractor dimension, with the implications for the Indo-Pak tensions.",
+		"entities": [
+			[
+				"Indian",
+				41,
+				47,
+				"NORP"
+			],
+			[
+				"Indo-Pak",
+				100,
+				108,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "And the ISI references won't be well received by the GOP, especially on top of the Gitmo Wikileaks story this past week.",
+		"entities": [
+			[
+				"ISI",
+				8,
+				11,
+				"ORG"
+			],
+			[
+				"GOP",
+				53,
+				56,
+				"ORG"
+			],
+			[
+				"Gitmo Wikileaks",
+				83,
+				98,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I'm happy to get on a call any time today to discuss, and will reach out to AID and comms about any revisions to the TPs, including coordinating something jointly w DOD.",
+		"entities": [
+			[
+				"DOD",
+				165,
+				168,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "DF ']",
+		"entities": []
+	},
+	{
+		"content": "['From: Klevorick, Caitlin B Sent: Friday, January 22, 2010 7:29 PM",
+		"entities": [
+			[
+				"Klevorick",
+				8,
+				17,
+				"PERSON"
+			],
+			[
+				"Caitlin",
+				19,
+				26,
+				"PERSON"
+			],
+			[
+				"Friday",
+				35,
+				41,
+				"DATE"
+			],
+			[
+				"January 22",
+				43,
+				53,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Mills, Cheryl D Subject: Another Rescue--22 year old man by Israeli SAR From Ha'aretz (NYT also reporting this, but quote about American and French teams failing is of concern):",
+		"entities": [
+			[
+				"Mills",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Cheryl",
+				11,
+				17,
+				"PERSON"
+			],
+			[
+				"Israeli SAR",
+				64,
+				75,
+				"ORG"
+			],
+			[
+				"NYT",
+				91,
+				94,
+				"ORG"
+			],
+			[
+				"American",
+				132,
+				140,
+				"NORP"
+			],
+			[
+				"French",
+				145,
+				151,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An Israel Defense Forces search and rescue team extricated a 22-year-old Haitian man on Friday from the rubble of a three-story building which collapsed as a result of last week's devastating earthquake.",
+		"entities": [
+			[
+				"Israel Defense Forces",
+				3,
+				24,
+				"ORG"
+			],
+			[
+				"Haitian",
+				73,
+				80,
+				"NORP"
+			],
+			[
+				"Friday",
+				88,
+				94,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The man was being treated at an lDF field hospital and is currently in stable condition.",
+		"entities": []
+	},
+	{
+		"content": "Local residents directed the IDF crew to the trapped victim, the lDF said.",
+		"entities": [
+			[
+				"IDF",
+				29,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "\"American and French doctors were unable to rescue the trapped man and called upon the Israeli Advertisement delegation's search and rescue teams who rescued the man within half an hour, from a tunnel, 2.5-3-meters long and were able to release him whole and healthy,\" said Maj. Zohar Moshe, a member of the rescue team.",
+		"entities": [
+			[
+				"American",
+				1,
+				9,
+				"NORP"
+			],
+			[
+				"French",
+				14,
+				20,
+				"GPE"
+			],
+			[
+				"Israeli Advertisement",
+				87,
+				108,
+				"ORG"
+			],
+			[
+				"Maj",
+				274,
+				277,
+				"PERSON"
+			],
+			[
+				"Zohar Moshe",
+				279,
+				290,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Caitlin Klevorick Office of the Counselor Department of State KlevorickCB@state.gov (blackberry) UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"Caitlin Klevorick Office of the",
+				0,
+				31,
+				"PERSON"
+			],
+			[
+				"Department of State KlevorickCB@state.gov",
+				42,
+				83,
+				"ORG"
+			],
+			[
+				"UNCLASSIFIED U.S. Department of State Case",
+				97,
+				139,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05769377 Date: 08/31/2015 \\x0c']",
+		"entities": []
+	},
+	{
+		"content": "['From: Burns, William 3 To: Abedin, Hume Sent: Sun Nov 07 05:10:49 2010",
+		"entities": [
+			[
+				"Burns",
+				8,
+				13,
+				"PERSON"
+			],
+			[
+				"William",
+				15,
+				22,
+				"PERSON"
+			],
+			[
+				"Abedin",
+				29,
+				35,
+				"PERSON"
+			],
+			[
+				"Hume Sent",
+				37,
+				46,
+				"PERSON"
+			],
+			[
+				"Sun Nov 07",
+				48,
+				58,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Fw: UNSC Reform Key Sentence Hope all is well.",
+		"entities": [
+			[
+				"Fw",
+				0,
+				2,
+				"ORG"
+			],
+			[
+				"UNSC Reform Key Sentence",
+				4,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I strongly supported this formulation, and its exactly what HRC recommended B5 Visit here going very well.",
+		"entities": [
+			[
+				"HRC",
+				60,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Will be in touch later with more details.",
+		"entities": []
+	},
+	{
+		"content": "All best, Bill B6 ']",
+		"entities": [
+			[
+				"Bill B6 '",
+				10,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"From: H <HDR22@clintonemail.com>",
+		"entities": []
+	},
+	{
+		"content": "To: 'preines Cc: Sullivan, Jacob J Sent: Fri Aug 13 07:20:21 2010",
+		"entities": [
+			[
+				"Cc",
+				13,
+				15,
+				"ORG"
+			],
+			[
+				"Sullivan",
+				17,
+				25,
+				"PERSON"
+			],
+			[
+				"Jacob J Sent",
+				27,
+				39,
+				"PERSON"
+			],
+			[
+				"Fri Aug 13 07:20:21 2010",
+				41,
+				65,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Subject: Re: Pak Pls talk w S/Rap--and ask them to check w Embassy.",
+		"entities": [
+			[
+				"Pak Pls",
+				13,
+				20,
+				"PERSON"
+			],
+			[
+				"Embassy",
+				59,
+				66,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Raj can also ask his AID Director in the country to check as well.",
+		"entities": [
+			[
+				"Raj",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"AID Director",
+				21,
+				33,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Anne P has been doing a very good job w press",
+		"entities": [
+			[
+				"Anne",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "and there's delicate balance btw looking helpful and taking charge in a way that might backfire.",
+		"entities": []
+	},
+	{
+		"content": "Judith McHale has been monitoring Pak press so she might have an opinion.",
+		"entities": [
+			[
+				"Judith McHale",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Pak",
+				34,
+				37,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Let me know what you learn.",
+		"entities": []
+	},
+	{
+		"content": "Original Message \"]",
+		"entities": []
+	},
+	{
+		"content": "['From: H [mailto:HDR22@clintonemail.com]",
+		"entities": []
+	},
+	{
+		"content": "Sent: Friday, July 08, 2011 05:40 PM",
+		"entities": [
+			[
+				"Friday",
+				6,
+				12,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Mills, Cheryl D; Abedin, Huma; Hyde, Dana Cc: 11acob",
+		"entities": [
+			[
+				"Mills",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Cheryl",
+				11,
+				17,
+				"PERSON"
+			],
+			[
+				"Abedin",
+				21,
+				27,
+				"PERSON"
+			],
+			[
+				"Huma",
+				29,
+				33,
+				"PERSON"
+			],
+			[
+				"Hyde",
+				35,
+				39,
+				"PERSON"
+			],
+			[
+				"Dana Cc",
+				41,
+				48,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Jew <Jacob j._le■.",
+		"entities": [
+			[
+				"Jacob",
+				5,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "■ .; Laszczych, Joanne; Sullivan, Jacob 3 Subject: Re: Original Message ']",
+		"entities": [
+			[
+				"Laszczych",
+				5,
+				14,
+				"PERSON"
+			],
+			[
+				"Joanne",
+				16,
+				22,
+				"PERSON"
+			],
+			[
+				"Sullivan",
+				24,
+				32,
+				"PERSON"
+			],
+			[
+				"Jacob 3 Subject",
+				34,
+				49,
+				"PERSON"
+			],
+			[
+				"Original Message '",
+				55,
+				73,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['From: Mills, Cheryl D Sent: Thursday, June 14, 2012 10:28 AM",
+		"entities": [
+			[
+				"Mills",
+				8,
+				13,
+				"PERSON"
+			],
+			[
+				"Cheryl",
+				15,
+				21,
+				"PERSON"
+			],
+			[
+				"Thursday",
+				30,
+				38,
+				"DATE"
+			],
+			[
+				"June 14",
+				40,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Adams, David S; Nuland, Victoria J; Hammer, Michael A; Kennedy, Patrick F Subject: RE: Aponte thanks ']",
+		"entities": [
+			[
+				"Adams",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"David",
+				11,
+				16,
+				"PERSON"
+			],
+			[
+				"Victoria J",
+				28,
+				38,
+				"PERSON"
+			],
+			[
+				"Hammer",
+				40,
+				46,
+				"PERSON"
+			],
+			[
+				"Michael",
+				48,
+				55,
+				"PERSON"
+			],
+			[
+				"Kennedy",
+				59,
+				66,
+				"PERSON"
+			],
+			[
+				"Patrick F Subject",
+				68,
+				85,
+				"PERSON"
+			],
+			[
+				"Aponte",
+				91,
+				97,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"From: H <hrod17@clintonemail.com",
+		"entities": []
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Sent: Monday, February 14, 2011 7:01 AM",
+		"entities": [
+			[
+				"Monday",
+				6,
+				12,
+				"DATE"
+			],
+			[
+				"February 14",
+				14,
+				25,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: 'millscd@state.gov' Subject Fw:",
+		"entities": []
+	},
+	{
+		"content": "Emerging Democracy Let's discuss.",
+		"entities": []
+	},
+	{
+		"content": "Original Message --- \"]",
+		"entities": []
+	},
+	{
+		"content": "[\"From: Champlin, Meredith L Sent: Thursday, November 10, 2011 2:52 PM",
+		"entities": [
+			[
+				"Champlin",
+				8,
+				16,
+				"PERSON"
+			],
+			[
+				"Meredith L Sent",
+				18,
+				33,
+				"PERSON"
+			],
+			[
+				"Thursday",
+				35,
+				43,
+				"DATE"
+			],
+			[
+				"November 10",
+				45,
+				56,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Clark, Mark D; Herrup, Andrew R; Tesone, Mark Cc: Carouso, James A Subject: Boeing - UPDATE",
+		"entities": [
+			[
+				"Clark",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Mark",
+				11,
+				15,
+				"PERSON"
+			],
+			[
+				"Andrew",
+				27,
+				33,
+				"PERSON"
+			],
+			[
+				"Mark Cc",
+				45,
+				52,
+				"PERSON"
+			],
+			[
+				"Carouso",
+				54,
+				61,
+				"ORG"
+			],
+			[
+				"James",
+				63,
+				68,
+				"PERSON"
+			],
+			[
+				"Boeing - UPDATE",
+				80,
+				95,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I just spoke with from Being who provided the update below on the Lion Air deal.",
+		"entities": [
+			[
+				"Lion Air",
+				66,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "B6 Mark C: asked that we update A/S Campbell and request that he continue to support POTUS involvement in the signing ceremony for Bali.",
+		"entities": [
+			[
+				"Campbell",
+				36,
+				44,
+				"PERSON"
+			],
+			[
+				"POTUS",
+				85,
+				90,
+				"PERSON"
+			],
+			[
+				"Bali",
+				131,
+				135,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Will you pass to PDAS Yun?",
+		"entities": [
+			[
+				"PDAS Yun",
+				17,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Jim: Please let the Ambassador know the latest from Boeing's D.C. representatives.",
+		"entities": [
+			[
+				"Jim",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Boeing",
+				52,
+				58,
+				"PERSON"
+			],
+			[
+				"D.C.",
+				61,
+				65,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "UNCLASSIFIED U.S. Department of State Case No.",
+		"entities": [
+			[
+				"U.S. Department of State Case",
+				13,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05783153 Date: 12/31/2015 \\x0c UNCLASSIFIED U.S. Department of State Case",
+		"entities": [
+			[
+				"UNCLASSIFIED U.S. Department of State Case",
+				32,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05783153 Date: 12/31/2015",
+		"entities": []
+	},
+	{
+		"content": "Boeing is finalizing a Memorandum of Agreement on the terms of the Boeing-Lion Air deal (to include the number of planes, pricing, delivery dates, and deposit) to be signed by Lion Air CEO and Boeing executives at Bali on the sidelines of the EAS.",
+		"entities": [
+			[
+				"Boeing",
+				0,
+				6,
+				"ORG"
+			],
+			[
+				"Boeing-Lion",
+				67,
+				78,
+				"NORP"
+			],
+			[
+				"Lion Air CEO",
+				176,
+				188,
+				"ORG"
+			],
+			[
+				"Boeing",
+				193,
+				199,
+				"ORG"
+			],
+			[
+				"Bali",
+				214,
+				218,
+				"GPE"
+			],
+			[
+				"EAS",
+				243,
+				246,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "While the Memorandum is not the final contract, this will move the negotiations forward and enable the final contract to be completed in early to mid-December.",
+		"entities": []
+	},
+	{
+		"content": "The deal will be for 230 737-max airplanes with an option to purchase an additional 150.",
+		"entities": []
+	},
+	{
+		"content": "is working to get the final B6 numbers for us, but the deal will be valued at roughly $22 billion for the 230, and in the $30s with the options.",
+		"entities": [
+			[
+				"roughly $22",
+				78,
+				89,
+				"CARDINAL"
+			],
+			[
+				"the $30s",
+				118,
+				126,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "B5 SBU",
+		"entities": []
+	},
+	{
+		"content": "This email is UNCLASSIFIED.",
+		"entities": [
+			[
+				"UNCLASSIFIED",
+				14,
+				26,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "UNCLASSIFIED U.S. Department of State Case No.",
+		"entities": [
+			[
+				"U.S. Department of State Case",
+				13,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "F-2014-20439 Doc No.",
+		"entities": []
+	},
+	{
+		"content": "C05783153 Date: 12/31/2015 \\x0c\"]",
+		"entities": []
+	}
+]

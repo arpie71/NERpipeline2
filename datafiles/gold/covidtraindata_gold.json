@@ -1,0 +1,2231 @@
+[
+	{
+		"content": "[\"Please handle.",
+		"entities": []
+	},
+	{
+		"content": "From: Schwetz, Tara (NIH/OD)",
+		"entities": [
+			[
+				"Schwetz, Tara",
+				6,
+				19,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				21,
+				27,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]| Sent: Tuesday, April 14, 2020 8:52 PM",
+		"entities": [
+			[
+				"Tuesday, April 14, 2020",
+				11,
+				34,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: ICDDIR-L@list.nih.gov Cc:",
+		"entities": [
+			[
+				"ICDDIR-L@list.nih.gov",
+				4,
+				25,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "List DEPDIR-L <DEPDIR-L@list.nih.gov>; NIH Director's Executive Committee <OD- SmallStaff@mail.nih.gov>",
+		"entities": [
+			[
+				"DEPDIR-L@list.nih.gov",
+				15,
+				36,
+				"EMAIL"
+			],
+			[
+				"NIH Director's Executive Committee",
+				39,
+				73,
+				"ORG"
+			],
+			[
+				"OD- SmallStaff@mail.nih.gov",
+				75,
+				102,
+				"EMAIL"
+			]		
+		]
+	},
+	{
+		"content": "Subject: Request: Proposal Summaries - POCs Due 4/15; Summaries Due 4/20 Colleagues, As discussed this afternoon, please find attached the POC sign-up sheet (tab 1; tabs 2-3 list the various proposals by category, theme, and IC), the IC-specific proposals, and the economic recovery proposals We ask that you please complete the POC sign-up and send it to Jordan Gladman by 5 pm on Wednesday April 15.",
+		"entities": [
+			[
+				"4/15",
+				48,
+				52,
+				"DATE"
+			],
+			[
+				"4/20",
+				68,
+				72,
+				"DATE"
+			],
+			[
+				"Jordan Gladman",
+				356,
+				370,
+				"PERSON"
+			],
+			[
+				"Wednesday April 15",
+				382,
+				400,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We will then collate and distribute the completed spreadsheet to the Chairs for each of the themes and post it on the ICD SharePoint site.",
+		"entities": [
+			[
+				"Chairs",
+				69,
+				75,
+				"TITLE"
+			],
+			[
+				"ICD",
+				118,
+				121,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The individual proposals are imbedded in the pdf as folders sorted by theme.",
+		"entities": []
+	},
+	{
+		"content": "If you feel your proposal would fit better with a different working group, please feel free to engage with them, We ask that, once the POCs have been have been identified, you quickly assemble to begin refining and synergizing your proposals.",
+		"entities": []
+	},
+	{
+		"content": "Each Chair should coordinate with their group to develop a 2 page max summary of the theme’s research, along with a single combined budget.",
+		"entities": [
+			[
+				"Chair",
+				5,
+				10,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "The summary should integrate the IC proposals as much as possible; however, it is fine (for valid/justifiable reasons) to describe a few unique projects that fall under the theme as well.",
+		"entities": []
+	},
+	{
+		"content": "That is, if they don’t make sense to Integrate, you don’t have to, but please be sure to incdude them in the summary.",
+		"entities": []
+	},
+	{
+		"content": "These summearies should be sent to Larry and me (cc Jordan Gladman) by noon on April 20.",
+		"entities": [
+			[
+				"Larry",
+				35,
+				40,
+				"PERSON"
+			],
+			[
+				"Jordan Gladman",
+				52,
+				66,
+				"PERSON"
+			],
+			[
+				"April 20",
+				79,
+				87,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We will build off these summaries to generate a document for Francis’ review, which we ultimately hope will be informative as we prepare fora potential fourth supplement.",
+		"entities": [
+			[
+				"Francis",
+				61,
+				68,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The ask in short: e April 15 at 5 pm — send your POCs to Jordan, who will then distribute the completed spreadsheet to the chairs e April 20 at 12 pm — chairs to send a 2 page summary of their theme (with combined budget)",
+		"entities": [
+			[
+				"April 15",
+				20,
+				28,
+				"DATE"
+			],
+			[
+				"Jordan",
+				57,
+				63,
+				"PERSON"
+			],
+			[
+				"chairs",
+				123,
+				129,
+				"TITLE"
+			],
+			[
+				"April 20",
+				132,
+				140,
+				"DATE"
+			],
+			[
+				"chairs",
+				152,
+				158,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Best, Tara A. Schwetz, PhD Acting Director, NINR Associate Deputy Director, NIH A: Building 1, Room 138 P IO | v: PO \"]",
+		"entities": [
+			[
+				"Tara A. Schwetz",
+				6,
+				21,
+				"PERSON"
+			],
+			[
+				"Acting Director",
+				27,
+				42,
+				"TITLE"
+			],
+			[
+				"NINR",
+				44,
+				48,
+				"ORG"
+			],
+			[
+				"Associate Deputy Director",
+				49,
+				74,
+				"TITLE"
+			],
+			[
+				"NIH",
+				76,
+				79,
+				"ORG"
+			],
+			[
+				"Building 1, Room 138",
+				83,
+				103,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "[\"Sounds good to me.",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Tony From: Hahn, Stephen [N (6) >",
+		"entities": [
+			[
+				"Tony",
+				8,
+				12,
+				"PERSON"
+			],
+			[
+				"Hahn, Stephen",
+				19,
+				32,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Friday, March 20, 2020 7:36 PM To: Fauci, Anthony (NIH/NIAID) (€] I ®®E Cc: Redfield, Robert R. (CDC/OD)",
+		"entities": [
+			[
+				"Friday, March 20, 2020",
+				6,
+				28,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				41,
+				55,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				57,
+				66,
+				"ORG"
+			],
+			[
+				"Redfield, Robert R.",
+				82,
+				101,
+				"PERSON"
+			],
+			[
+				"CDC/OD",
+				103,
+				109,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I @I Birx, Deborah L. EOP/NSC EEY>; Lane, CIiff (NIH/NIAID) (€] NG I, Rom, Colin (FDA/OC) IINNG© >",
+		"entities": [
+			[
+				"Birx, Deborah L.",
+				5,
+				21,
+				"PERSON"
+			],
+			[
+				"EOP/NSC",
+				22,
+				29,
+				"ORG"
+			],
+			[
+				"Lane, CIiff",
+				36,
+				47,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				49,
+				58,
+				"ORG"
+			],
+			[
+				"Rom, Colin",
+				70,
+				80,
+				"PERSON"
+			],
+			[
+				"FDA/OC",
+				82,
+				88,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Subject: Re: Treatment Document Tony, Looks like I ®6).",
+		"entities": [
+			[
+				"Tony",
+				32,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The group wants to make some more edits and then send out this evening for review.",
+		"entities": []
+	},
+	{
+		"content": "We would like to meetup prior to or after the task force meeting tomorrow.",
+		"entities": []
+	},
+	{
+		"content": "Sound OK?",
+		"entities": []
+	},
+	{
+		"content": "Steve Sent from my iPad On Mar 20, 2020, at 7:06 PM, Hahn, Stephen [ @®I6)",
+		"entities": [
+			[
+				"Steve",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Mar 20, 2020",
+				27,
+				39,
+				"DATE"
+			],
+			[
+				"Hahn, Stephen",
+				53,
+				66,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "> wrote: | have a couple of comments I’ll await for other comments.",
+		"entities": []
+	},
+	{
+		"content": "Thanks Steve Sent from my iPad NIH-000375 On Mar 20, 2020, at 6:45 PM, Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Steve",
+				7,
+				12,
+				"PERSON"
+			],
+			[
+				"Mar 20, 2020",
+				45,
+				57,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				71,
+				85,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				87,
+				96,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] Fe®> wrote: Team: As per my discussion with Steve a few minutes ago, | have made some changes in the document.",
+		"entities": [
+			[
+				"Steve",
+				48,
+				53,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "IO [ S lam attaching a tracked version of the document that was your FINAL as well as a clean copy with all of the changes accepted.",
+		"entities": []
+	},
+	{
+		"content": "Please take a look and Steve said that he would like to set up a quick call to discuss after you have had a look.",
+		"entities": [
+			[
+				"Steve",
+				23,
+				28,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "| am very sorry to come in with these changes at this late point, but | really did not get a chance to have a good look at the document as | was in a car.",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Tony Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda, MD 20892-2520 Phone: FAX: (301) 496-4409 E-mail: The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": [
+			[
+				"Tony",
+				8,
+				12,
+				"PERSON"
+			],
+			[
+				"Anthony S. Fauci",
+				13,
+				29,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				31,
+				42,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				43,
+				96,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03",
+				97,
+				120,
+				"ADDRESS"
+			],
+			[
+				"31 Center Drive, MSC 2520",
+				121,
+				146,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				147,
+				176,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				177,
+				189,
+				"LOC"
+			],
+			[
+				"(301) 496-4409",
+				213,
+				227,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e- mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender’'s own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				184,
+				189,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "<dblnfarmation for Clinicians on COVID-19 Therapies31hcl - with Fauci and Lane tracked changes showing.docx> <dblnformation for Clinicians on COVID-19 Therapies31hcl - with Fauci and Lane tracked Clean copy.docx> NIH-000376 \"]",
+		"entities": [
+			[
+				"COVID-19",
+				33,
+				41,
+				"MED"
+			],
+			[
+				"Fauci",
+				64,
+				69,
+				"PERSON"
+			],
+			[
+				"Lane",
+				74,
+				78,
+				"PERSON"
+			],
+			[
+				"COVID-19",
+				142,
+				150,
+				"MED"
+			],
+			[
+				"Fauci",
+				173,
+				178,
+				"PERSON"
+			],
+			[
+				"Lane",
+				183,
+				187,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"Good morning Dr. Fauci, I hope this email finds you doing well.",
+		"entities": [
+			[
+				"Dr. Fauci",
+				15,
+				24,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I'm reaching out on behalf of Newsroom w/Poppy Harlow & Jim Sciutto hoping you can join for an interview.",
+		"entities": [
+			[
+				"Newsroom",
+				30,
+				38,
+				"EVENT"
+			],
+			[
+				"Poppy Harlow",
+				41,
+				53,
+				"PERSON"
+			],
+			[
+				"Jim Sciutto",
+				56,
+				67,
+				"PERSON"
+			]			
+		]
+	},
+	{
+		"content": "Are you available to join CNN this Monday February 10™ in the 10a et hour?",
+		"entities": [
+			[
+				"CNN",
+				26,
+				29,
+				"ORG"
+			],
+			[
+				"Monday February 10™",
+				35,
+				54,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "This would be live for about 5-7 minutes to discuss developments regarding the coronavirus.",
+		"entities": [
+			[
+				"coronavirus",
+				79,
+				90,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Please feel free to contact me via email or at (404) 452-7769 to let me know.",
+		"entities": [
+			[
+				"(404) 452-7769",
+				47,
+				61,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "Thanks for your time-",
+		"entities": []
+	},
+	{
+		"content": "I look forward to hearing from you soon. ]",
+		"entities": []
+	},
+	{
+		"content": "a_neile Griffin-Butts Editorial Producer, CNN Email: janelle.griffin@turner.com | Twitter: @janellegCNN NIH-002013 \"]",
+		"entities": [
+			[
+				"Griffin-Butts",
+				8,
+				21,
+				"PERSON"
+			],
+			[
+				"Editorial Producer",
+				22,
+				40,
+				"TITLE"
+			],
+			[
+				"CNN",
+				42,
+				45,
+				"ORG"
+			],
+			[
+				"janelle.griffin@turner.com",
+				53,
+				79,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "[\"Begin forwarded message:",
+		"entities": []
+	},
+	{
+		"content": "From: Phyllis Arthur <parthur@bio.org>",
+		"entities": [
+			[
+				"Phyllis Arthur",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"parthur@bio.org",
+				22,
+				37,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Date: March 8, 2020 at 9:51:46 AM EDT",
+		"entities": [
+			[
+				"March 8, 2020",
+				6,
+				19,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Phyllis Arthur <parthur(@bio.org>",
+		"entities": [
+			[
+				"Phyllis Arthur",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"parthur(@bio.org",
+				20,
+				36,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Jennifer Alton <jenn.alton(@pathwaypolicy.com>, Ellen Carlin T ®®>",
+		"entities": [
+			[
+				"Jennifer Alton",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"jenn.alton(@pathwaypolicy.com",
+				20,
+				49,
+				"EMAIL"
+			],
+			[
+				"Ellen Carlin",
+				52,
+				64,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Amy Walker <awalker@bio.org>, Gregory Frank <gfrank@bio.org>, Hannah Dorsey <hdorsey@bio.org>",
+		"entities": [
+			[
+				"Amy Walker",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"awalker@bio.org",
+				12,
+				27,
+				"EMAIL"
+			],
+			[
+				"Gregory Frank",
+				30,
+				43,
+				"PERSON"
+			],
+			[
+				"gfrank@bio.org",
+				45,
+				59,
+				"EMAIL"
+			],
+			[
+				"Hannah Dorsey",
+				62,
+				75,
+				"PERSON"
+			],
+			[
+				"hdorsey@bio.org",
+				77,
+				92,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: BIO Coronavirus Collaboration Initiative March 12th",
+		"entities": [
+			[
+				"BIO Coronavirus Collaboration Initiative",
+				9,
+				49,
+				"EVENT"
+			],
+			[
+				"March 12th",
+				50,
+				60,
+				"DATE"
+			]
+			
+		]
+	},
+	{
+		"content": "Summit - POSTPONED Dear Colleagues, BIO is heartened that so many of you have expressed interest in joining us for the BIO Coronavirus Collaboration Initiative Summit planned for March 12, 2020.",
+		"entities": [
+			[
+				"BIO",
+				36,
+				39,
+				"ORG"
+			],
+			[
+				"BIO Coronavirus Collaboration Initiative Summit",
+				119,
+				166,
+				"EVENT"
+			],
+			[
+				"March 12, 2020",
+				179,
+				193,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Given the evolving circumstances surrounding the COVID-19 outbreak, and after discussions with our Board leadership, we have decided to postpone the BIO Summit so that we can make adequate arrangements to hold the meeting virtually.",
+		"entities": [
+			[
+				"COVID-19",
+				49,
+				57,
+				"MED"
+			],
+			[
+				"Board",
+				109,
+				104,
+				"ORG"
+			],
+			[
+				"BIO Summit",
+				149,
+				159,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "We made this decision out of an abundance of caution, so as to avoid placing anyone at unnecessary risk of exposure while we work together to improve our nation’s ability to respond to this outbreak.",
+		"entities": []
+	},
+	{
+		"content": "We will re-schedule this virtual meeting within the next two weeks using a digital technology that can allow for robust discussion among the participants.",
+		"entities": []
+	},
+	{
+		"content": "In the interim, we plan to send out a short questionnaire on Monday to all company participants requesting information on your product, technology or service, which we plan to compile in a digital “book” and share with all participants in advance of the meeting.",
+		"entities": [
+			[
+				"Monday",
+				61,
+				67,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We believe this approach will help to make the meeting more efficient, allowing us to quickly shift to discussions of the NIH-000820 mast important shared challenges and potential opportunities that exist between industry members, government leaders and non- government partners.",
+		"entities": []
+	},
+	{
+		"content": "Please feel free to reach out to me with any questions.",
+		"entities": []
+	},
+	{
+		"content": "We will move quickly to establish a new date for this meeting and appreciate your flexibility in this regard.",
+		"entities": []
+	},
+	{
+		"content": "We look forward to talking with many of you then.",
+		"entities": []
+	},
+	{
+		"content": "Thanks again for your commitment to enhancing the health and safety of people facing this outbreak around the globe.",
+		"entities": []
+	},
+	{
+		"content": "Sincerely, Phyllis A Arthur Vice President, Infectious Diseases and Diagnostics Policy Biotechnology Innovation Organization (BIO) 1201 Maryland Ave SW, Suite 900 Washington, D.C. 20024 T: 202-962-6664 ch - ®E f parthur@ bio—.olrg ' Join us at the 2020 BIO International Convention June 8-11, 2020 in San Diego, CA www.convention.bio.org Phyllis A Arthur Vice President, Infectious Diseases and Diagnostics Policy Biotechnology Innovation Organization (BIO) 1201 Maryland Ave SW, Suite 900 Washington, D.C. 20024 T: 202-962-6664 c: IneE",
+		"entities": [
+			[
+				"Phyllis A Arthur",
+				11,
+				27,
+				"PERSON"
+			],
+			[
+				"Vice President, Infectious Diseases and Diagnostics Policy",
+				28,
+				86,
+				"TITLE"
+			],
+			[
+				"Biotechnology Innovation Organization",
+				87,
+				124,
+				"ORG"
+			],
+			[
+				"BIO",
+				126,
+				129,
+				"ORG"
+			],
+			[
+				"1201 Maryland Ave SW, Suite 900",
+				131,
+				162,
+				"ADDRESS"
+			],
+			[
+				"Washington, D.C.",
+				163,
+				179,
+				"LOC"
+			],
+			[
+				"2020 2020 BIO International Convention",
+				248,
+				281,
+				"DATE"
+			],
+			[
+				"June 8-11, 2020",
+				282,
+				297,
+				"DATE"
+			],
+			[
+				"San Diego",
+				301,
+				310,
+				"LOC"
+			],
+			[
+				"www.convention.bio.org",
+				315,
+				337,
+				"URL"
+			],
+			[
+				"Phyllis A Arthur",
+				338,
+				354,
+				"PERSON"
+			],
+			[
+				"Vice President, Infectious Diseases and Diagnostics Policy",
+				355,
+				413,
+				"TITLE"
+			],
+			[
+				"Biotechnology Innovation Organization",
+				414,
+				451,
+				"ORG"
+			],
+			[
+				"BIO",
+				453,
+				456,
+				"ORG"
+			],
+			[
+				"1201 Maryland Ave SW, Suite 900",
+				458,
+				489,
+				"ADDRESS"
+			],
+			[
+				"Washington, D.C.",
+				490,
+				506,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "parthur@bio.org",
+		"entities": [
+			[
+				"parthur@bio.org",
+				0,
+				15,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Join us at the 2020 BIO International Convention June 8-11, 2020 in San Diego, CA www.convention.bio.org NIH-000821 \"]",
+		"entities": [
+			[
+				"2020 BIO International Convention",
+				15,
+				48,
+				"EVENT"
+			],
+			[
+				"June 8-11, 2020",
+				49,
+				64,
+				"DATE"
+			],
+			[
+				"San Diego, CA",
+				68,
+				81,
+				"LOC"
+			],
+			[
+				"www.convention.bio.org",
+				82,
+				104,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "['Structure of the coronavirus spike protein and ACE2 interaction is just out...",
+		"entities": [
+			[
+				"coronavirus",
+				19,
+				30,
+				"MED"
+			],
+			[
+				"ACE2",
+				49,
+				53,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "From: Collins, Francis (NIH/OD)",
+		"entities": [
+			[
+				"Collins, Francis",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				24,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] Sent: Saturday, March 7, 2020 10:58 PM",
+		"entities": [
+			[
+				"Saturday, March 7, 2020",
+				10,
+				33,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Austin, Christopher (NIH/NCATS)",
+		"entities": [
+			[
+				"Austin, Christopher",
+				4,
+				23,
+				"PERSON"
+			],
+			[
+				"NIH/NCATS",
+				25,
+				34,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] I 6) (6) Subject:",
+		"entities": []
+	},
+	{
+		"content": "ACE2 Yo Chris, mssS———————_————————yes IS [ Francis NIH-000804 ']",
+		"entities": [
+			[
+				"Chris",
+				8,
+				13,
+				"PERSON"
+			],
+			[
+				"Francis",
+				44,
+				51,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"Donald: You know that | always answer your calls and e-mails, but this one | want to stay away from.",
+		"entities": [
+			[
+				"Donald",
+				2,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sorry.",
+		"entities": []
+	},
+	{
+		"content": "Best, Tony From: McNeil Jr, Donald G <mcneil@nytimes.com>",
+		"entities": [
+			[
+				"Tony",
+				6,
+				10,
+				"PERSON"
+			],
+			[
+				"McNeil Jr, Donald G",
+				17,
+				36,
+				"PERSON"
+			],
+			[
+				"mcneil@nytimes.com",
+				38,
+				56,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, February 20, 2020 4:51 PM",
+		"entities": [
+			[
+				"Thursday, February 20, 2020",
+				6,
+				33,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]| Subject: Re: question re the WashPost story Now that I've had a chance to read the whole story -- after editors finished whirling -- | see it also contains these grafs: Are they accurate?",
+		"entities": [
+			[
+				"WashPost",
+				34,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Thanks During one call, the CDC’s principal deputy director, Anne Schuchat, argued against taking the infected Americans on the plane, according to two participants.",
+		"entities": [
+			[
+				"CDC",
+				28,
+				31,
+				"ORG"
+			],
+			[
+				"principal deputy director",
+				34,
+				59,
+				"TITLE"
+			],
+			[
+				"Anne Schuchat",
+				61,
+				74,
+				"PERSON"
+			],
+			[
+				"Americans",
+				111,
+				120,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "She noted the U.S. government had already told passengers they would not be evacuated with anyone who was infected or showed symptoms.",
+		"entities": [
+			[
+				"U.S. government",
+				14,
+				29,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "She was also concerned about infection control.",
+		"entities": []
+	},
+	{
+		"content": "Anthony Fauci, head of the National Institute of Allergy and Infectious Diseases, who was also on the calls, recalled saying her points were valid and should be considered.",
+		"entities": [
+			[
+				"Anthony Fauci",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				27,
+				80,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "But Robert Kadlec, assistant secretary for preparedness and response for the Department of Health and Human Services and a member of the coronavirus task force, pushed back: Officials had already prepared the plane to handle passengers who might develop symptoms on the long flight, he argued.",
+		"entities": [
+			[
+				"Robert Kadlec",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"assistant secretary for preparedness and response",
+				19,
+				68,
+				"TITLE"
+			],
+			[
+				"Department of Health and Human Services",
+				77,
+				116,
+				"ORG"
+			],
+			[
+				"coronavirus task force",
+				137,
+				159,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The two Boeing 747s had 18 seats cordoned off with 10-foot-high plastic on all four sides.",
+		"entities": [
+			[
+				"Boeing 747s",
+				8,
+				19,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Infectious disease doctors would also be onboard.",
+		"entities": []
+	},
+	{
+		"content": "On Thu, Feb 20, 2020 at 4:24 PM McNeil Jr, Donald G <mcneil@nytimes.com>",
+		"entities": [
+			[
+				"Thu, Feb 20, 2020",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"McNeil Jr, Donald G",
+				32,
+				51,
+				"PERSON"
+			],
+			[
+				"mcneil@nytimes.com",
+				53,
+				71,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "wrote: Hi, Tony: The Washington Post has just put up a story saying that the 14 infected passengers on the buses containing 238 American passengers from the Diamond Princess were flown home AGAINST the CDC's advice.",
+		"entities": [
+			[
+				"Tony",
+				11,
+				15,
+				"PERSON"
+			],
+			[
+				"Washington Post",
+				21,
+				36,
+				"ORG"
+			],
+			[
+				"American",
+				128,
+				136,
+				"NORP"
+			],
+			[
+				"CDC",
+				202,
+				205,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "And that the States Department overruled the CDC on this.",
+		"entities": [
+			[
+				"States Department",
+				13,
+				30,
+				"ORG"
+			],
+			[
+				"CDC",
+				45,
+				48,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Can you confirm whether that's true?",
+		"entities": []
+	},
+	{
+		"content": "NIH-001704",
+		"entities": []
+	},
+	{
+		"content": "Thanks...",
+		"entities": []
+	},
+	{
+		"content": "Donald Story contains these crucial grafs:",
+		"entities": [
+			[
+				"Donald",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "In Washington, where it was still Sunday afternoon, a fierce debate broke out: The State Department and a top Trump administration health official wanted to forge ahead.",
+		"entities": [
+			[
+				"Washington,",
+				3,
+				14,
+				"LOC"
+			],
+			[
+				"Sunday afternoon,",
+				34,
+				51,
+				"DATE"
+			],
+			[
+				"State Department",
+				83,
+				99,
+				"ORG"
+			],
+			[
+				"Trump administration health official",
+				110,
+				146,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The infected passengers_had no symptoms and could be segregated on the plane in a plastic-lined enclosure.",
+		"entities": []
+	},
+	{
+		"content": "But officials at the Centers for Disease Control and Prevention disagreed, contending they could still spread the virus.",
+		"entities": [
+			[
+				"Centers for Disease Control and Prevention",
+				21,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The CDC believed the 14 should not be flown back with uninfected passengers.",
+		"entities": [
+			[
+				"CDC",
+				4,
+				7,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "“It was like the worst nightmare,” said a senior U.S. official involved in the decision, speaking on the condition of anonymity to describe private conversations.",
+		"entities": [
+			[
+				"U.S.",
+				49,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "“Quite frankly, the alternative could have been pulling grandma out in the pouring rain, and that would have been bad, too.”",
+		"entities": []
+	},
+	{
+		"content": "Donald G. McNeil Jr. Science Correspondent",
+		"entities": [
+			[
+				"Donald G. McNeil Jr.",
+				0,
+				20,
+				"PERSON"
+			],
+			[
+				"Science Correspondent",
+				21,
+				42,
+				"TITLE"
+			]
+
+		]
+	},
+	{
+		"content": "Ehe New flork Times Tel: +1 212 556 1142 meneil@nytimes.com",
+		"entities": [
+			[
+				"Ehe New flork Times",
+				0,
+				19,
+				"ORG"
+			],
+			[
+				"+1 212 556 1142",
+				25,
+				40,
+				"PHONE"
+			],
+			[
+				"meneil@nytimes.com",
+				41,
+				59,
+				"EMAIL"
+			]
+
+		]
+	},
+	{
+		"content": "Articles: https://www.nytimes.com/by/donald-g-mcneil-jr NIH-001705 \"]",
+		"entities": [
+			[
+				"https://www.nytimes.com/by/donald-g-mcneil-jr",
+				10,
+				55,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "['We are pursuing this idea.",
+		"entities": []
+	},
+	{
+		"content": "From: Gregory Klomp|",
+		"entities": [
+			[
+				"Gregory Klomp",
+				6,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Saturday, March 7, 2020 8:06 PM",
+		"entities": [
+			[
+				"Saturday, March 7, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]!",
+		"entities": []
+	},
+	{
+		"content": "Subject: COVID-19 treatment It seems COVID-19 causes greater problems for the elderly and those with chronic illnesses, as you have said.",
+		"entities": [
+			[
+				"COVID-19",
+				9,
+				17,
+				"MED"
+			],
+			[
+				"COVID-19",
+				37,
+				45,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Why not try giving those with active disease, or those at risk, gamma-globulin, to ameliorate the effects of the illness?",
+		"entities": [
+			[
+				"gamma-globulin",
+				64,
+				78,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "It would be especially interesting to prepare batches of gamma globulin using the blood (2,000- 3,000 donors) of people who have, or who have recovered from, COVID-19 infection.",
+		"entities": [
+			[
+				"gamma-globulin",
+				57,
+				71,
+				"MED"
+			],
+			[
+				"COVID-19",
+				158,
+				166,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "There is ample precedent for using Gamma-globulin to prevent or treat viral illnesses (Hepatitis A, B) or diseases of unknown etiology (ie Kawasaki’s).",
+		"entities": [
+			[
+				"Gamma-globulin",
+				35,
+				49,
+				"MED"
+			],
+			[
+				"Hepatitis A, B",
+				87,
+				101,
+				"MED"
+			],
+			[
+				"Kawasaki",
+				139,
+				147,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "This could be useful especially while we wait for the development of a vaccine.",
+		"entities": []
+	},
+	{
+		"content": "What do you think?",
+		"entities": []
+	},
+	{
+		"content": "Gregory Klomp, MD (I trained at Columbia-Presbyterian Hospital | see you were at Weil Cornell) NIH-000852 ']",
+		"entities": [
+			[
+				"Gregory Klomp",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"MD",
+				15,
+				17,
+				"TITLE"
+			],
+			[
+				"Columbia-Presbyterian Hospital",
+				32,
+				62,
+				"ORG"
+			],
+			[
+				"Weil Cornell",
+				81,
+				93,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[\"Here it is.",
+		"entities": []
+	},
+	{
+		"content": "Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda, MD 20892-2520 Phone: - ®E FAX: (301) 496-440 E-mail:|",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				18,
+				29,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				30,
+				83,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03",
+				84,
+				107,
+				"ADDRESS"
+			],
+			[
+				"31 Center Drive, MSC 2520",
+				108,
+				133,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				134,
+				163,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				164,
+				176,
+				"LOC"
+			],
+			[
+				"(301) 496-440",
+				205,
+				218,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "b",
+		"entities": []
+	},
+	{
+		"content": "The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": []
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender’'s own and not expressly made on behalf of the NIAID by one of its representatives. \"]",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				184,
+				189,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['We can discuss.",
+		"entities": []
+	},
+	{
+		"content": "From: Conrad, Patricia (NIH/NIAID)",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				24,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] I ®)6)>",
+		"entities": []
+	},
+	{
+		"content": "Sent: Sunday, March 1, 2020 6:58 AM To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Sunday, March 1, 2020",
+				6,
+				27,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				40,
+				54,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				56,
+				65,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] @) 6",
+		"entities": []
+	},
+	{
+		"content": "> Cc: Folkers, Greg (NIH/NIAID)",
+		"entities": [
+			[
+				"Folkers, Greg",
+				6,
+				19,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				21,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] < @6 Subject:",
+		"entities": []
+	},
+	{
+		"content": "Fwd: VIP visit See below.",
+		"entities": []
+	},
+	{
+		"content": "This is just a rough draft.",
+		"entities": []
+	},
+	{
+		"content": "IS e e) e R Sent from my iPhone Begin forwarded message: From: \"Blackburn, Amy (NIH/0D)",
+		"entities": [
+			[
+				"Blackburn, Amy",
+				64,
+				78,
+				"PERSON"
+			],
+			[
+				"NIH/0D",
+				80,
+				86,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" BB @)",
+		"entities": []
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Date: February 29, 2020 at 8:16:21 PM EST To: \"Conrad, Patricia (NIH/NIAID)",
+		"entities": [
+			[
+				"February 29, 2020",
+				6,
+				23,
+				"DATE"
+			],
+			[
+				"Conrad, Patricia",
+				47,
+				63,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				65,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" N ®)®), \"Burklow, John (NIH/OD) (€)' <INEI, \"Folkers, Greg (NIH/NIAID)",
+		"entities": [
+			[
+				"Burklow, John",
+				14,
+				27,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				29,
+				35,
+				"ORG"
+			],
+			[
+				"Folkers, Greg",
+				50,
+				63,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				65,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(E]\" IN®© [ Cc: \"Daucher, Marybeth (NIH/NIAID)",
+		"entities": [
+			[
+				"Daucher, Marybeth",
+				17,
+				34,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				36,
+				45,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" [ @G Subject: RE: VIP visit",
+		"entities": []
+	},
+	{
+		"content": "Hi Patty, This is just my really rough draft of an agenda.",
+		"entities": [
+			[
+				"Patty",
+				3,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[T oG Just let me know the timing of things.",
+		"entities": []
+	},
+	{
+		"content": "From: Conrad, Patricia (NIH/NIAID)",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				24,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] I m)ics) >",
+		"entities": []
+	},
+	{
+		"content": "Sent: Saturday, February 29, 2020 7:53 PM",
+		"entities": [
+			[
+				"Saturday, February 29, 2020",
+				6,
+				33,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Burklow, John (NIH/OD)",
+		"entities": [
+			[
+				"Burklow, John",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				19,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] <@ @)",
+		"entities": []
+	},
+	{
+		"content": ">; Blackburn, Amy (NIH/OD)",
+		"entities": [
+			[
+				"Blackburn, Amy",
+				3,
+				17,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				19,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] SO, Folkers, Greg (NIH/NIAD)",
+		"entities": [
+			[
+				"Folkers, Greg",
+				8,
+				21,
+				"PERSON"
+			],
+			[
+				"NIH/NIAD",
+				23,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Daucher, Marybeth (NIH/NIAID)",
+		"entities": [
+			[
+				"Daucher, Marybeth",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				19,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] G [£] (L B ©> S N OIE Subject: VIP visit Per Dr Fauci- for the round table - IO, NIH-001107 L .",
+		"entities": [
+			[
+				"Dr Fauci",
+				49,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This will get more fleshed out tomorrow.",
+		"entities": []
+	},
+	{
+		"content": "Sent from my iPhone NIH-001108 ']",
+		"entities": []
+	},
+	{
+		"content": "['| do not understand why you are asking me to “review” this.",
+		"entities": []
+	},
+	{
+		"content": "Is this an FYI??",
+		"entities": []
+	},
+	{
+		"content": "From: Haskins, Melinda (NIH/NIAID)",
+		"entities": [
+			[
+				"Haskins, Melinda",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				24,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E| I ®) (6) >",
+		"entities": []
+	},
+	{
+		"content": "Sent: Thursday, March 5, 2020 9:53 AM",
+		"entities": [
+			[
+				"Thursday, March 5, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] S im) (6) >",
+		"entities": []
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Selgrade, Sara (NIH/NIAID)",
+		"entities": [
+			[
+				"Selgrade, Sara",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				16,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]Jf \" ®)®); Crawford, Chase (NIH/NIAID)",
+		"entities": [
+			[
+				"Crawford, Chase",
+				14,
+				29,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				31,
+				40,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] @@ Conrad, Patricia (NIH/NIAID)",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				7,
+				23,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				25,
+				34,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] N ®© Subject: Please review: House Oversight Letter on Coronavirus Diagnostics NIH-000960 ']",
+		"entities": [
+			[
+				"House Oversight Letter on Coronavirus Diagnostics",
+				33,
+				82,
+				"WORK_OF_ART"
+			]
+		]
+	}
+]

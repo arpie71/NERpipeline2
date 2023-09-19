@@ -1,0 +1,2994 @@
+[
+	{
+		"content": "['Transition to the Next Administration We expect that the President-elect will very soon designate one or more persons for liaison with the Department during the period prior to the Inauguration.",
+		"entities": [
+			[
+				"President-elect",
+				59,
+				74,
+				"PERSON"
+			],
+			[
+				"Department",
+				141,
+				151,
+				"ORG"
+			],
+			[
+				"Inauguration",
+				183,
+				195,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "I believe that the transition should be performed under the direct supervision of Larry Eagleburger.",
+		"entities": [
+			[
+				"Larry Eagleburger",
+				82,
+				99,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Recommendations: 1.",
+		"entities": []
+	},
+	{
+		"content": "That you sign the memorandum to all employees of the Department at Tab 1, designating Deputy Under Secretary Eagleburger as the officer responsible for coordinating the transition on behalf of the Department with the representatives of the President-elect, during the period from now until January 20. 2.",
+		"entities": [
+			[
+				"Department",
+				53,
+				63,
+				"ORG"
+			],
+			[
+				"Deputy Under Secretary Eagleburger",
+				86,
+				120,
+				"PERSON"
+			],
+			[
+				"Department",
+				197,
+				207,
+				"ORG"
+			],
+			[
+				"President-elect",
+				240,
+				255,
+				"PERSON"
+			],
+			[
+				"January 20",
+				290,
+				300,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "That you authorize despatch of the memorandum to General Scowcroft at Tab 2 which informs him of this designation and emphasizes the need to coordinate matters with the White House during this period.",
+		"entities": [
+			[
+				"General Scowcroft",
+				49,
+				66,
+				"PERSON"
+			],
+			[
+				"White House",
+				169,
+				180,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "That you authorize despatch of the cable to all posts at Tab 3 which informs them of this designation and provides guidance on public statements by our employees during this period.",
+		"entities": []
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "That you approve the similar memorandum to all employees of the Department at Tab 4. 5.",
+		"entities": [
+			[
+				"Department",
+				64,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "That you authorize the memorandum to Assistant Secretaries at Tab 5 which requests that each of them designate a senior officer to act as Bureau Coordination Officer and ensure that the Bureau meets requirements transmitted to it by S/S during this period.']",
+		"entities": [
+			[
+				"Assistant Secretaries",
+				37,
+				58,
+				"PERSON"
+			],
+			[
+				"Bureau Coordination Officer",
+				138,
+				165,
+				"PERSON"
+			],
+			[
+				"Bureau",
+				186,
+				192,
+				"ORG"
+			],
+			[
+				"S/S",
+				233,
+				236,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['THE WHITE HOUSE WASHINGTON December 26, 1972 National Security Decision Memorandum",
+		"entities": [
+			[
+				"WHITE HOUSE",
+				6,
+				17,
+				"FAC"
+			],
+			[
+				"WASHINGTON",
+				18,
+				28,
+				"LOC"
+			],
+			[
+				"December 26, 1972",
+				29,
+				46,
+				"DATE"
+			],
+			[
+				"National Security Decision Memorandum",
+				47,
+				84,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No. 199 Council on International Economic Policy Decision Memorandum",
+		"entities": [
+			[
+				"Council on International Economic Policy",
+				8,
+				48,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No. 17 TO:",
+		"entities": []
+	},
+	{
+		"content": "The Secretary of State The Secretary of Defense The Secretary of the Treasury The Secretary of Commerce The Director of Central Intelligence SUBJECT:",
+		"entities": [
+			[
+				"Secretary of State",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"Secretary of Defense",
+				27,
+				47,
+				"PERSON"
+			],
+			[
+				"Secretary of the Treasury",
+				52,
+				77,
+				"PERSON"
+			],
+			[
+				"Secretary of Commerce",
+				82,
+				103,
+				"PERSON"
+			],
+			[
+				"Director of Central Intelligence",
+				108,
+				140,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "U.S. Policy Toward Peru The President has reviewed the interagency study on Peru prepared in response to NSSM 158/CIEPSM 23.",
+		"entities": [
+			[
+				"U.S. Policy Toward Peru",
+				0,
+				23,
+				"WORK_OF_ART"
+			],
+			[
+				"President",
+				28,
+				37,
+				"PERSON"
+			],
+			[
+				"Peru",
+				76,
+				80,
+				"GPE"
+			],
+			[
+				"NSSM 158/CIEPSM 23",
+				105,
+				123,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "He has concluded that we should pursue Option 1A, endeavoring to find a new basis for a negotiated settlement of the IPC dispute as well as other investment problems in Peru.",
+		"entities": [
+			[
+				"IPC",
+				117,
+				120,
+				"ORG"
+			],
+			[
+				"Peru",
+				169,
+				173,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Assistant to the President for International Economic Affairs will coordinate this effort with support from the Departments of State and Treasury.",
+		"entities": [
+			[
+				"Assistant to the President for International Economic Affairs",
+				4,
+				65,
+				"PERSON"
+			],
+			[
+				"Departments of State",
+				116,
+				136,
+				"ORG"
+			],
+			[
+				"Treasury",
+				141,
+				149,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If by the end of February 1973, development of an approach for initiating talks with the Peruvians has not proved feasible, the President directs the Senior Review Group to reconsider the Peruvian situation and make further recommendations.",
+		"entities": [
+			[
+				"February 1973",
+				17,
+				30,
+				"DATE"
+			],
+			[
+				"Peruvians",
+				89,
+				98,
+				"GPE"
+			],
+			[
+				"President",
+				128,
+				137,
+				"PERSON"
+			],
+			[
+				"Senior Review Group",
+				150,
+				169,
+				"ORG"
+			],
+			[
+				"Peruvian",
+				188,
+				196,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "During the 90 day exploratory period, the President has decided to reserve judgment on the question of the applicability of the Gonzales amendment to the IPC case.",
+		"entities": [
+			[
+				"President",
+				42,
+				51,
+				"PERSON"
+			],
+			[
+				"Gonzales amendment",
+				128,
+				146,
+				"LAW"
+			],
+			[
+				"IPC",
+				154,
+				157,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He directs that the U.S. continue efforts to maintain the cooperation of international financial institutions in deferring consideration of pending loans to Peru.",
+		"entities": [
+			[
+				"U.S.",
+				20,
+				24,
+				"GPE"
+			],
+			[
+				"Peru",
+				157,
+				161,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In regard to Ex-Im Bank lending to Peru, the President has decided to continue temporarily the present hold on new Ex-Im direct credits in order to preserve the possibility of using these credits to advantage in any new efforts directed towards a solution of the IPC dispute.",
+		"entities": [
+			[
+				"Ex-Im Bank",
+				13,
+				23,
+				"ORG"
+			],
+			[
+				"Peru",
+				35,
+				39,
+				"GPE"
+			],
+			[
+				"President",
+				45,
+				54,
+				"PERSON"
+			],
+			[
+				"Ex-Im",
+				115,
+				120,
+				"ORG"
+			],
+			[
+				"IPC",
+				263,
+				266,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If a solution cannot be developed, the current Ex-Im policy towards Peru should also be reconsidered by the Senior Review Group.",
+		"entities": [
+			[
+				"Ex-Im",
+				47,
+				52,
+				"ORG"
+			],
+			[
+				"Peru",
+				68,
+				72,
+				"GPE"
+			],
+			[
+				"Senior Review Group",
+				108,
+				127,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[signed] Henry A. Kissinger [signed] Peter M. Flanigan cc: Director, United States Information Agency Administrator, Agency for International Development President and Chairman, Export-Import Bank of the United States President, Overseas Private Investment Corporation']",
+		"entities": [
+			[
+				"Henry A. Kissinger",
+				9,
+				27,
+				"PERSON"
+			],
+			[
+				"Peter M. Flanigan",
+				37,
+				54,
+				"PERSON"
+			],
+			[
+				"Director",
+				59,
+				67,
+				"TITLE"
+			],
+			[
+				"United States Information Agency",
+				69,
+				101,
+				"ORG"
+			],
+			[
+				"Administrator",
+				102,
+				115,
+				"TITLE"
+			],
+			[
+				"Agency for International Development",
+				117,
+				153,
+				"ORG"
+			],
+			[
+				"President and Chairman",
+				154,
+				176,
+				"TITLE"
+			],
+			[
+				"Export-Import Bank of the United States",
+				178,
+				217,
+				"ORG"
+			],
+			[
+				"President",
+				218,
+				227,
+				"TITLE"
+			],
+			[
+				"Overseas Private Investment Corporation",
+				229,
+				268,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['The RAR analyst most knowledgeable about Jamaica is Liz McKune.",
+		"entities": [
+			[
+				"RAR",
+				6,
+				9,
+				"ORG"
+			],
+			[
+				"Jamaica",
+				43,
+				50,
+				"GPE"
+			],
+			[
+				"Liz McKune",
+				54,
+				64,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Hunter thinks she would be useful in your meeting.",
+		"entities": [
+			[
+				"Hunter",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I judge from the Embassy's recent reporting and the CIA proposal that they have given up on working with Manley and want to concentrate on replacing him with Seaga.",
+		"entities": [
+			[
+				"Embassy",
+				17,
+				24,
+				"ORG"
+			],
+			[
+				"CIA",
+				52,
+				55,
+				"ORG"
+			],
+			[
+				"Manley",
+				105,
+				111,
+				"PERSON"
+			],
+			[
+				"Seaga",
+				158,
+				163,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The latest interagency study, contained in the attached Exdis, says Manley is not a lost cause, but parts of the cable seem to support the opposite view.",
+		"entities": [
+			[
+				"Manley",
+				68,
+				74,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "My personal intuition is that Seaga will not win the next election, with or without CIA's intervention.",
+		"entities": [
+			[
+				"Seaga",
+				30,
+				35,
+				"PERSON"
+			],
+			[
+				"CIA",
+				84,
+				87,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Furthermore, I am not at all sure we would find him any easier to live with than Manley, even though he almost certainly would not play the Cuban game.",
+		"entities": [
+			[
+				"Manley",
+				81,
+				87,
+				"PERSON"
+			],
+			[
+				"Cuban",
+				140,
+				145,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I conclude that we should, once again, try to work with Manley--which really translates into continued efforts to help him fend off economic disaster.",
+		"entities": [
+			[
+				"Manley",
+				56,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "When I told Ambassador Vaky why you wanted to meet with him, he said he is opposed to any covert action in Jamaica.",
+		"entities": [
+			[
+				"Ambassador Vaky",
+				12,
+				27,
+				"PERSON"
+			],
+			[
+				"Jamaica",
+				107,
+				114,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He favors the strategy outlined in the attached Exdis, to be implemented by overt means.",
+		"entities": []
+	},
+	{
+		"content": "You may want to discuss with Ambassador Vaky some of the following: --Importance of coming to a decision about Manley: have we written him off, or do we still want to try to work with him?",
+		"entities": [
+			[
+				"Ambassador Vaky",
+				29,
+				44,
+				"PERSON"
+			],
+			[
+				"Manley",
+				111,
+				117,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Is a double track feasible, i.e. can we support Manley and try to influence him while encouraging opponents and potential opponents in both the JLP and the PNP?",
+		"entities": [
+			[
+				"Manley",
+				48,
+				54,
+				"PERSON"
+			],
+			[
+				"JLP",
+				144,
+				147,
+				"ORG"
+			],
+			[
+				"PNP",
+				156,
+				159,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "--Usefulness of a joint State/CIA instruction asking for a survey of the PNP, with emphasis on identifying moderates whom we can work with and perhaps assist, either overtly or covertly.",
+		"entities": [
+			[
+				"State/CIA",
+				24,
+				33,
+				"ORG"
+			],
+			[
+				"PNP",
+				73,
+				76,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "--Should we again stroke Manley with a high level visit?",
+		"entities": [
+			[
+				"Manley",
+				25,
+				31,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Could we somehow acknowledge his aspirations to spearhead the \"new international economic order\"?",
+		"entities": []
+	},
+	{
+		"content": "--What opportunities, overt and covert, are there in the labor field, in the Gleaner, in the private sector?",
+		"entities": [
+			[
+				"Gleaner",
+				77,
+				84,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "--How can we present a positive and active program to the SCC without endorsing some covert action?']",
+		"entities": [
+			[
+				"SCC",
+				58,
+				61,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['The Secretary of State has given the most studious attention to the respective attitudes of the Governments of Costa Rica and of Panama as revealed by a long correspondence and as finally crystallized in the specific proposals, received respectively on February 2 and February 25, supplemented by the very important statements made orally at the conferences of the 25th and 26th ultimo.",
+		"entities": [
+			[
+				"Secretary of State",
+				6,
+				24,
+				"PERSON"
+			],
+			[
+				"Governments of Costa Rica",
+				98,
+				123,
+				"GPE"
+			],
+			[
+				"Panama",
+				131,
+				137,
+				"GPE"
+			],
+			[
+				"February 2",
+				255,
+				265,
+				"DATE"
+			],
+			[
+				"February 25",
+				270,
+				281,
+				"DATE"
+			],
+			[
+				"25th",
+				367,
+				371,
+				"DATE"
+			],
+			[
+				"26th",
+				376,
+				380,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary of State is well aware of the desires of Costa Rica that the proposed arbitration shall be as broad as possible.",
+		"entities": [
+			[
+				"Secretary of State",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"Costa Rica",
+				55,
+				65,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He is equally sensible of the considerations which impel the Government of Panama to insist upon the Loubet Award as a basis for the definitive determination of the boundary.",
+		"entities": [
+			[
+				"Government of Panama",
+				61,
+				81,
+				"GPE"
+			],
+			[
+				"Loubet Award",
+				101,
+				113,
+				"LAW"
+			]
+
+		]
+	},
+	{
+		"content": "It was a source of great satisfaction to take note of the fact that both parties are in practical agreement as to the boundary line from the Pacific Ocean to a point beyond Cerro Pando on the Central Cordillera.",
+		"entities": [
+			[
+				"Pacific Ocean",
+				141,
+				154,
+				"LOC"
+			],
+			[
+				"Cerro Pando",
+				173,
+				184,
+				"LOC"
+			],
+			[
+				"Central Cordillera",
+				192,
+				210,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The fact that the difficulties to overcome are thus confined to the determination of the line thence to the Atlantic, caused the Secretary of State to entertain the gratifying hope that, in view of the conciliatory and candid spirit animating the two Governments, it would surely be a matter of no great difficulty to reach a satisfactory solution.",
+		"entities": [
+			[
+				"Atlantic",
+				108,
+				116,
+				"LOC"
+			],
+			[
+				"Secretary of State",
+				129,
+				147,
+				"PERSON"
+			],
+			[
+				"Governments",
+				251,
+				262,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Animated by this hope and in response to the desire of both Govments that the United States should lend its good offices in connection with the proposed arbitration, the Secretary of State has arrived at a theory which, in his judgment, should form a basis substantially satisfactory and entirely considerate of the respective contentions.",
+		"entities": [
+			[
+				"United States",
+				78,
+				91,
+				"GPE"
+			],
+			[
+				"Secretary of State",
+				170,
+				188,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Secretary of State, therefore, suggests that the compromis stipulate the acceptance of the line to the extent above mentioned as free from doubt and, continuing, state the question to be arbitrated as the following: What is the boundary between the Republics of Costa Rica and Panama under and most in accordance with the true interpretation and correct intention of the Loubet award in the light of all the historical, geographical, topographical, and other facts and circumstances surrounding it as well as under the established principles of international law?",
+		"entities": [
+			[
+				"Secretary of State",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"Republics of Costa Rica",
+				253,
+				276,
+				"GPE"
+			],
+			[
+				"Panama",
+				281,
+				287,
+				"GPE"
+			],
+			[
+				"Loubet award",
+				375,
+				387,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The Secretary of State also deems it important, in the interest of justice and for the avoidance of future disputes, that the arbitration convention contain some such stipulation as the following: All valid titles to land or other valid rights of property in the disputed territory granted or created by either Republic, or by the Republic of Colombia, either before or after the rendition of the Loubet award, shall be recognized and protected in case the result of this arbitration shall be to transfer the locus of such titles and rights and the sovereignty over the same from the Republic granting or creating the same to the other Republic.",
+		"entities": [
+			[
+				"Secretary of State",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"Republic",
+				311,
+				319,
+				"GPE"
+			],
+			[
+				"Republic of Colombia",
+				331,
+				351,
+				"GPE"
+			],
+			[
+				"Loubet award",
+				397,
+				409,
+				"LAW"
+			],
+			[
+				"Republic",
+				584,
+				592,
+				"GPE"
+			],
+			[
+				"Republic",
+				636,
+				644,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As to the very interesting and able suggestion of the Panaman Government that the question should be solved by a joint surveying and arbitrating commission, which should refer to the actual arbitrator all questions of difference between them or between their respective Governments, the Secretary of State has given to this proposal the sympathetic analysis which its importance made appropriate, bearing in mind, however, the fact that the arbitrator would naturally call for a survey in all eases when he found a necessity for more precise topographical information, the Secretary of State has deemed more practical that the arbitrator should proceed and himself call for all data which he might find relevant to the question before him, and that, anticipating this possibility, the protocol should instead contain a provision whereby the two Governments would agree to share the expense of a surveying commission appointed by the arbitrator, if the latter should require such survey at any stage of his consideration of the question.']",
+		"entities": [
+			[
+				"Panaman Government",
+				54,
+				72,
+				"GPE"
+			],
+			[
+				"Secretary of State",
+				287,
+				305,
+				"PERSON"
+			],
+			[
+				"Secretary of State",
+				573,
+				591,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"JCSM-779-66 (TS)",
+		"entities": [
+			[
+				"JCSM-779-66",
+				2,
+				13,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "Reference is made to JCSM-812-65, dated 12 November 1965, in which the Joint Chiefs of Staff informed you of their views and recommendations concerning Cambodian support of the Viet Cong (VC).",
+		"entities": [
+			[
+				"JCSM-812-65",
+				21,
+				32,
+				"WORK_OF_ART"
+			],
+			[
+				"12 November 1965",
+				40,
+				56,
+				"DATE"
+			],
+			[
+				"Joint Chiefs of Staff",
+				71,
+				92,
+				"ORG"
+			],
+			[
+				"Cambodian",
+				152,
+				161,
+				"GPE"
+			],
+			[
+				"Viet Cong",
+				177,
+				186,
+				"GPE"
+			],
+			[
+				"VC",
+				188,
+				190,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Joint Chiefs of Staff recommended that forceful action be taken to stop the use of Cambodian territory by enemy forces as a logistics base and sanctuary.",
+		"entities": [
+			[
+				"Joint Chiefs of Staff",
+				4,
+				25,
+				"ORG"
+			],
+			[
+				"Cambodian",
+				87,
+				96,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "(TS)",
+		"entities": []
+	},
+	{
+		"content": "You concurred in actions to expand and intensify the over-all intelligence collection program in Cambodia, increased surveillance of the sea lines of communication (LOCs) between the Republic of Vietnam (RVN) and Cambodia, increased controls on the Mekong and Bassac waterways, and planning for the conduct of covert paramilitary operations and low-altitude aerial reconnaissance.",
+		"entities": [
+			[
+				"Cambodia",
+				97,
+				105,
+				"GPE"
+			],
+			[
+				"Republic of Vietnam",
+				183,
+				202,
+				"GPE"
+			],
+			[
+				"RVN",
+				204,
+				207,
+				"GPE"
+			],
+			[
+				"Cambodia",
+				213,
+				221,
+				"GPE"
+			],
+			[
+				"Mekong",
+				249,
+				255,
+				"LOC"
+			],
+			[
+				"Bassac",
+				260,
+				266,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "You further stated that should these measures prove ineffective other recommendations would be considered on a case-by-case basis.",
+		"entities": []
+	},
+	{
+		"content": "The immediate pursuit of VC/North Vietnamese Army (NVA) forces withdrawing into Cambodian territory was authorized only in emergency self defense/preservation situations.",
+		"entities": [
+			[
+				"VC/North Vietnamese Army",
+				25,
+				49,
+				"ORG"
+			],
+			[
+				"NVA",
+				51,
+				54,
+				"ORG"
+			],
+			[
+				"Cambodian",
+				80,
+				89,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "(TS)",
+		"entities": []
+	},
+	{
+		"content": "Measures recommended for the conduct of an aggressive political/psychological campaign to persuade the Cambodian Government to stop support of the VC/NVA were referred to the Secretary of State.",
+		"entities": [
+			[
+				"Cambodian Government",
+				103,
+				123,
+				"GPE"
+			],
+			[
+				"VC/NVA",
+				147,
+				153,
+				"ORG"
+			],
+			[
+				"Secretary of State",
+				175,
+				193,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Secretary of State advised a gradual and cautious approach and, with respect to covert cross-border operations, full consideration of the political problems involved.",
+		"entities": [
+			[
+				"Secretary of State",
+				4,
+				22,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He further stated that there was a lack of convincing evidence of the significant use of Cambodian territory by the VC/NVA.",
+		"entities": [
+			[
+				"Cambodian",
+				89,
+				98,
+				"NORP"
+			],
+			[
+				"VC/NVA",
+				116,
+				122,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(TS)",
+		"entities": []
+	},
+	{
+		"content": "The VC/NVA exploitation of the pseudo-neutrality of Cambodia has increased to serious proportions.",
+		"entities": [
+			[
+				"VC/NVA",
+				4,
+				10,
+				"ORG"
+			],
+			[
+				"Cambodia",
+				52,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This is amply substantiated by a recent DIA assessment (Appendix A) and attested to by the conclusions reached at a Southeast Asia Coordination (SEACOORD) meeting of 10 November 1966.",
+		"entities": [
+			[
+				"DIA",
+				40,
+				43,
+				"ORG"
+			],
+			[
+				"Southeast Asia Coordination",
+				116,
+				143,
+				"ORG"
+			],
+			[
+				"SEACOORD",
+				145,
+				153,
+				"ORG"
+			],
+			[
+				"10 November 1966",
+				166,
+				182,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "VC/NVA use of the Cambodian sanctuary constitutes a clear and present danger and thereby requires a continuous commitment of sizable friendly forces to the border area, impedes progress of the land campaign, and results in unnecessary US and friendly casualties.",
+		"entities": [
+			[
+				"VC/NVA",
+				0,
+				6,
+				"ORG"
+			],
+			[
+				"Cambodian",
+				18,
+				27,
+				"NORP"
+			],
+			[
+				"US",
+				235,
+				237,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Major US operations conducted adjacent to the Cambodian border during 1966, including the largest ground operation to date, Attelboro, have provided continuing indications that the VC/NVA are using Cambodia as a base of operations, a safe haven, and a source of logistical support.",
+		"entities": [
+			[
+				"US",
+				6,
+				8,
+				"GPE"
+			],
+			[
+				"Cambodian",
+				46,
+				55,
+				"GPE"
+			],
+			[
+				"1966",
+				70,
+				74,
+				"DATE"
+			],
+			[
+				"Attelboro",
+				124,
+				133,
+				"EVENT"
+			],
+			[
+				"VC/NVA",
+				181,
+				187,
+				"ORG"
+			],
+			[
+				"Cambodia",
+				198,
+				206,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "(TS) Actions authorized under current policy have proven inadequate to counter the growing threat imposed by VC/NVA use of Cambodia.",
+		"entities": [
+			[
+				"VC/NVA",
+				109,
+				115,
+				"ORG"
+			],
+			[
+				"Cambodia",
+				123,
+				131,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "An impasse exists wherein the collection of convincing intelligence is prerequisite to changes in policy, while adequate intelligence cannot be obtained until this policy is changed.",
+		"entities": []
+	},
+	{
+		"content": "COMUSMACV, CINCPAC, and Embassy Saigon recommend and the Joint Chiefs of Staff concur that additional measures must be taken to obtain adequate and convincing intelligence suitable for use in diplomatic efforts aimed at reversing Cambodia's countenance of the present situation.",
+		"entities": [
+			[
+				"COMUSMACV",
+				0,
+				9,
+				"ORG"
+			],
+			[
+				"CINCPAC",
+				11,
+				18,
+				"ORG"
+			],
+			[
+				"Embassy Saigon",
+				24,
+				38,
+				"ORG"
+			],
+			[
+				"Joint Chiefs of Staff",
+				57,
+				78,
+				"ORG"
+			],
+			[
+				"Cambodia",
+				230,
+				238,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(TS)",
+		"entities": []
+	},
+	{
+		"content": "The Joint Chiefs of Staff consider that current national policy with respect to Cambodia must again by reviewed in light of over-all US objectives in Southeast Asia and the continued use of the Cambodian sanctuary by the VC/NVA.",
+		"entities": [
+			[
+				"Joint Chiefs of Staff",
+				4,
+				25,
+				"ORG"
+			],
+			[
+				"Cambodia",
+				80,
+				88,
+				"GPE"
+			],
+			[
+				"US",
+				133,
+				135,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				150,
+				164,
+				"LOC"
+			],
+			[
+				"Cambodian",
+				194,
+				203,
+				"NORP"
+			],
+			[
+				"VC/NVA",
+				221,
+				227,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It is noted that Secretary Vance has requested the Under Secretary of State to establish a joint State-Defense-CIA study group to explore problems associated with Cambodia.",
+		"entities": [
+			[
+				"Secretary Vance",
+				17,
+				32,
+				"PERSON"
+			],
+			[
+				"Under Secretary of State",
+				51,
+				75,
+				"PERSON"
+			],
+			[
+				"State-Defense-CIA",
+				97,
+				114,
+				"ORG"
+			],
+			[
+				"Cambodia",
+				163,
+				171,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This will take time.",
+		"entities": []
+	},
+	{
+		"content": "In the meantime, certain minimum actions should be taken now.",
+		"entities": []
+	},
+	{
+		"content": "Therefore, the Joint Chiefs of Staff recommend that: a.",
+		"entities": [
+			[
+				"Joint Chiefs of Staff",
+				15,
+				36,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The over-all intelligence collection program against Cambodia be expanded and intensified immediately to include: (1) Authorization for ground reconnaissance operations such as Daniel Boone into Cambodia.",
+		"entities": [
+			[
+				"Cambodia",
+				53,
+				61,
+				"GPE"
+			],
+			[
+				"Daniel Boone",
+				177,
+				189,
+				"EVENT"
+			],
+			[
+				"Cambodia",
+				195,
+				203,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Authorization to conduct high altitude U-2 photography over Cambodia on a continuing basis.",
+		"entities": [
+			[
+				"U-2",
+				39,
+				42,
+				"PRODUCT"
+			],
+			[
+				"Cambodia",
+				60,
+				68,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Authorization to conduct medium and low altitude day/night photography, ARDF, IR, and SLAR on a continuing basis into Cambodia to a depth of 75 nautical miles from the border with Laos and South Vietnam (SVN).",
+		"entities": [
+			[
+				"Cambodia",
+				118,
+				126,
+				"GPE"
+			],
+			[
+				"Laos",
+				180,
+				184,
+				"GPE"
+			],
+			[
+				"South Vietnam",
+				189,
+				202,
+				"GPE"
+			],
+			[
+				"SVN",
+				204,
+				207,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Excluded from reconnaissance coverage is an area 25 nautical miles around Phnom Penh.",
+		"entities": [
+			[
+				"Phnom Penh",
+				74,
+				84,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Immediate pursuit of actively engaged VC/NVA forces which are withdrawing into Cambodian territory be authorized, thereby enhancing our capability to destroy the enemy, gaining hard intelligence, and increasing the security of the border area.",
+		"entities": [
+			[
+				"VC/NVA",
+				38,
+				44,
+				"ORG"
+			],
+			[
+				"Cambodian",
+				79,
+				88,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "A more extensive coordinated public affairs and information program and supporting psychological operations be instituted to illuminate Cambodian support to the VC/NVA, to dissuade Cambodia from continuing such support, and to lay the foundation for possible future courses of action.",
+		"entities": [
+			[
+				"Cambodian",
+				136,
+				145,
+				"GPE"
+			],
+			[
+				"VC/NVA",
+				161,
+				167,
+				"ORG"
+			],
+			[
+				"Cambodia",
+				181,
+				189,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "A memorandum, substantially as contained in Appendix B, together with a copy of Appendix A, be forwarded to the Secretary of State.",
+		"entities": [
+			[
+				"Secretary of State",
+				112,
+				130,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "For the Joint Chiefs of Staff: Earle G. Wheeler ChairmanJoint Chiefs of Staff\"]",
+		"entities": [
+			[
+				"Joint Chiefs of Staff",
+				8,
+				29,
+				"ORG"
+			],
+			[
+				"Earle G. Wheeler",
+				31,
+				47,
+				"PERSON"
+			],
+			[
+				"ChairmanJoint Chiefs of Staff",
+				48,
+				77,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "['735.",
+		"entities": []
+	},
+	{
+		"content": "Red Cross Society of China invited a number of foreign residents to a meeting on 18th September for announced purpose of establishing at Shanghai a regional committee on Chinese and foreigners.",
+		"entities": [
+			[
+				"Red Cross Society of China",
+				0,
+				26,
+				"ORG"
+			],
+			[
+				"18th September",
+				81,
+				95,
+				"DATE"
+			],
+			[
+				"Shanghai",
+				137,
+				145,
+				"LOC"
+			],
+			[
+				"Chinese",
+				170,
+				177,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I am informed that the proposals discussed would have left the foreign participation without any substantial influence or supervision over the funds from foreign sources.",
+		"entities": []
+	},
+	{
+		"content": "It was therefore pointed out that a representative of the International Red Cross Committee was represented to be en route to Shanghai and that the matter should be studied here by a small group before action is taken.",
+		"entities": [
+			[
+				"International Red Cross Committee",
+				58,
+				91,
+				"ORG"
+			],
+			[
+				"Shanghai",
+				126,
+				134,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "While I am unable on account of pressure of official business to take any active part foreign [in this?] matter, I am in close touch with responsible interested Americans who have consulted me.",
+		"entities": [
+			[
+				"Americans",
+				161,
+				170,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I hold the view which they share that in preference to direct foreign association with the Chinese Red Cross it would be desirable to establish either an international or an American advisory committee or auxiliary which might be entrusted with the allocation of funds under suitable guarantees and which might also give assistance to the Chinese Red Cross in those activities which are considered worthy of support.",
+		"entities": [
+			[
+				"Chinese Red Cross",
+				91,
+				108,
+				"ORG"
+			],
+			[
+				"American",
+				174,
+				182,
+				"NORP"
+			],
+			[
+				"Chinese Red Cross",
+				339,
+				356,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I would be glad if the foregoing might be put before Admiral Grayson and his views obtained as to the desirability of directing American support to some form of advisory committee or auxiliary, either American or international.",
+		"entities": [
+			[
+				"Admiral Grayson",
+				53,
+				68,
+				"PERSON"
+			],
+			[
+				"American",
+				128,
+				136,
+				"NORP"
+			],
+			[
+				"American",
+				201,
+				209,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It would also be helpful to know the name of the International Red Cross Committee representative en route to Shanghai, when he will arrive, and for my confidential information whether we should be guided by him in determining the form of foreign participation or assistance in the Red Cross organization for this area.",
+		"entities": [
+			[
+				"International Red Cross Committee",
+				49,
+				82,
+				"ORG"
+			],
+			[
+				"Shanghai",
+				110,
+				118,
+				"LOC"
+			],
+			[
+				"Red Cross",
+				282,
+				291,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Gauss']",
+		"entities": [
+			[
+				"Gauss",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['[Telegram] 3408.",
+		"entities": []
+	},
+	{
+		"content": "Why not close the submarine incidents as follows: Give out a statement stating that Germany in the settlement of the Arabic case and in the Frye note had stated (quote from these notes); and that now, following this, and with reference to the Lusitania case the German Government had stated that it had commenced its submarine warfare in retaliation for the illegal acts of England; that the sinking of the Lusitania, in the carrying out of this retaliation, had affected neutral American rights which was contrary to the intention of the German Government; that the German Government has expressed profound regret that citizens of the United States suffered by the sinking of the Lusitania and has offered to make reparation by the payment of a suitable indemnity and has given the instructions referred to in the above notes with reference to the placing of the passengers and crews in safety before the sinking of any ship.",
+		"entities": [
+			[
+				"Germany",
+				84,
+				91,
+				"GPE"
+			],
+			[
+				"Arabic",
+				117,
+				123,
+				"NORP"
+			],
+			[
+				"Frye",
+				140,
+				144,
+				"PERSON"
+			],
+			[
+				"Lusitania",
+				243,
+				252,
+				"FAC"
+			],
+			[
+				"German Government",
+				262,
+				279,
+				"GPE"
+			],
+			[
+				"England",
+				374,
+				381,
+				"GPE"
+			],
+			[
+				"Lusitania",
+				407,
+				416,
+				"FAC"
+			],
+			[
+				"American",
+				480,
+				488,
+				"NORP"
+			],
+			[
+				"German Government",
+				539,
+				556,
+				"GPE"
+			],
+			[
+				"German Government",
+				567,
+				584,
+				"GPE"
+			],
+			[
+				"United States",
+				636,
+				649,
+				"GPE"
+			],
+			[
+				"Lusitania",
+				681,
+				690,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "The above embodies the form of note which I understand (from Zimmermann letter to Colonel House) the German Government is willing to send.",
+		"entities": [
+			[
+				"Zimmermann",
+				61,
+				71,
+				"PERSON"
+			],
+			[
+				"Colonel House",
+				82,
+				95,
+				"PERSON"
+			],
+			[
+				"German Government",
+				101,
+				118,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Please inform the President that Colonel House hopes that some such arrangement may be arrived at.",
+		"entities": [
+			[
+				"President",
+				18,
+				27,
+				"PERSON"
+			],
+			[
+				"Colonel House",
+				33,
+				46,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gerard']",
+		"entities": [
+			[
+				"Gerard",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1262.",
+		"entities": []
+	},
+	{
+		"content": "Legation's 1253, November 16, 5 p.m.",
+		"entities": [
+			[
+				"Legation",
+				0,
+				8,
+				"ORG"
+			],
+			[
+				"November 16",
+				17,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Following from American Consul General at Harbin: \"November 17, 11 a.m.",
+		"entities": [
+			[
+				"American Consul General",
+				15,
+				38,
+				"PERSON"
+			],
+			[
+				"Harbin",
+				42,
+				48,
+				"LOC"
+			],
+			[
+				"November 17",
+				51,
+				62,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Soviet sources are responsible for report which I believe correct that General Su refuses to negotiate with Japanese-Manchukuo delegation now at Matsievskaya.",
+		"entities": [
+			[
+				"Soviet",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"General Su",
+				71,
+				81,
+				"PERSON"
+			],
+			[
+				"Japanese-Manchukuo",
+				108,
+				126,
+				"NORP"
+			],
+			[
+				"Matsievskaya",
+				145,
+				157,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Japanese military will no doubt take action against him when sufficient troops arrive at Nonni River.",
+		"entities": [
+			[
+				"Japanese",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"Nonni River",
+				89,
+				100,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Press reports that General Su's anti-Manchukuo troops are falling back to the Hingan mountain range where there is Chinese Eastern Railway tunnel but this is not confirmed by local Japanese military.",
+		"entities": [
+			[
+				"General Su",
+				19,
+				29,
+				"PERSON"
+			],
+			[
+				"anti-Manchukuo",
+				32,
+				46,
+				"NORP"
+			],
+			[
+				"Hingan",
+				78,
+				84,
+				"LOC"
+			],
+			[
+				"Chinese Eastern Railway",
+				115,
+				138,
+				"ORG"
+			],
+			[
+				"Japanese",
+				181,
+				189,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Soviet officials claim their role simply one of offering facilities to negotiate to Japanese-Manchukuo and anti-Manchukuo sides and that they are otherwise not interested in negotiations except they desire not to have fighting near the Siberian border.",
+		"entities": [
+			[
+				"Soviet",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Japanese-Manchukuo",
+				84,
+				102,
+				"NORP"
+			],
+			[
+				"anti-Manchukuo",
+				107,
+				121,
+				"NORP"
+			],
+			[
+				"Siberian",
+				236,
+				244,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Japan-Manchukuo forces repulse attacks [by?] insurgents near Fuchin 13th and at Sansing 15th.",
+		"entities": [
+			[
+				"Japan-Manchukuo",
+				0,
+				15,
+				"NORP"
+			],
+			[
+				"Fuchin",
+				61,
+				67,
+				"LOC"
+			],
+			[
+				"13th",
+				68,
+				72,
+				"DATE"
+			],
+			[
+				"Sansing",
+				80,
+				87,
+				"LOC"
+			],
+			[
+				"15th",
+				88,
+				92,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Losses small.\"",
+		"entities": []
+	},
+	{
+		"content": "Johnson']",
+		"entities": [
+			[
+				"Johnson",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"No. 867",
+		"entities": []
+	},
+	{
+		"content": "Sir: I have the honor to report the unusual circumstances of the departure of certain American citizens from the Soviet Union as an example of the treatment accorded foreign residents of this country who have not acquired Soviet citizenship.",
+		"entities": [
+			[
+				"American",
+				86,
+				94,
+				"NORP"
+			],
+			[
+				"Soviet Union",
+				113,
+				125,
+				"LOC"
+			],
+			[
+				"Soviet",
+				222,
+				228,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Alexander Bogrow, a naturalized citizen of Polish origin, the bearer of Departmental passport No. 160486 issued January 4, 1935, was issued an exit visa valid until December 8, 1937, when he recently applied for an extension of his vid na zhitelstvo (Soviet residence permit as issued to foreigners).",
+		"entities": [
+			[
+				"Alexander Bogrow",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"Polish",
+				47,
+				53,
+				"NORP"
+			],
+			[
+				"January 4, 1935",
+				116,
+				131,
+				"DATE"
+			],
+			[
+				"December 8, 1937",
+				169,
+				185,
+				"DATE"
+			],
+			[
+				"Soviet",
+				255,
+				261,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bogrow stated that he immediately protested to the appropriate authorities against his forced departure from the Soviet Union but was unable to obtain any information regarding the reason for the issuance of the exit visa in his case.",
+		"entities": [
+			[
+				"Bogrow",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"Soviet Union",
+				117,
+				129,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It appears that Mr. Alexander Bogrow came to the Soviet Union on July 27, 1936, and soon found employment as a chemical engineer in the Central Scientific Research Institute of Aviation Fuels and Lubricants at Moscow.",
+		"entities": [
+			[
+				"Alexander Bogrow",
+				20,
+				36,
+				"PERSON"
+			],
+			[
+				"Soviet Union",
+				49,
+				61,
+				"LOC"
+			],
+			[
+				"July 27, 1936",
+				65,
+				78,
+				"DATE"
+			],
+			[
+				"Central Scientific Research Institute of Aviation Fuels and Lubricants",
+				136,
+				206,
+				"ORG"
+			],
+			[
+				"Moscow",
+				210,
+				216,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He later married a Soviet girl who is a physician in the reserve list of the Red Army.",
+		"entities": [
+			[
+				"Soviet",
+				19,
+				25,
+				"NORP"
+			],
+			[
+				"Red Army",
+				77,
+				85,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bogrow did not apply for Soviet citizenship, but he planned to continue his residence in this country.",
+		"entities": [
+			[
+				"Bogrow",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"Soviet",
+				29,
+				35,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "His employers advised him that they knew of no reason why he should have been given an exit visa.",
+		"entities": []
+	},
+	{
+		"content": "He wrote to Mikhail I. Kalinin, President of the All-Union Central Executive Committee, requesting to be permitted to remain in the Soviet Union until preparations might be made to take his wife to the United States, but his petition was denied.",
+		"entities": [
+			[
+				"Mikhail I. Kalinin",
+				12,
+				30,
+				"PERSON"
+			],
+			[
+				"Central Executive Committee",
+				59,
+				86,
+				"ORG"
+			],
+			[
+				"Soviet Union",
+				132,
+				144,
+				"GPE"
+			],
+			[
+				"United States",
+				202,
+				215,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mrs. Martha Louise Schwartz, nee Heintz, was also issued an exit visa, on November 24, 1937, by the militsiya at Gorki, Union of Soviet Socialist Republics, when she applied for an extension of her vid na zhitelstvo.",
+		"entities": [
+			[
+				"Mrs. Martha Louise Schwartz",
+				0,
+				27,
+				"PERSON"
+			],
+			[
+				"Heintz",
+				33,
+				39,
+				"PERSON"
+			],
+			[
+				"November 24, 1937",
+				74,
+				91,
+				"DATE"
+			],
+			[
+				"Gorki",
+				113,
+				118,
+				"LOC"
+			],
+			[
+				"Union of Soviet Socialist Republics",
+				120,
+				155,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mrs. Schwartz was born at Buffalo, New York, June 14, 1908, and came to the Soviet Union in May 1932 as a commercial artist.",
+		"entities": [
+			[
+				"Mrs. Schwartz",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Buffalo, New York",
+				26,
+				43,
+				"LOC"
+			],
+			[
+				"June 14, 1908",
+				45,
+				58,
+				"DATE"
+			],
+			[
+				"Soviet Union",
+				76,
+				88,
+				"GPE"
+			],
+			[
+				"May 1932",
+				92,
+				100,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "On April 4, 1933, she married Boris E. Schwartz, a Soviet citizen employed as engineer at the automobile plant at Gorki, Union of Soviet Socialist Republics, but she retained her American nationality and was currently in possession of a valid American passport.",
+		"entities": [
+			[
+				"April 4, 1933",
+				3,
+				16,
+				"DATE"
+			],
+			[
+				"Boris E. Schwartz",
+				30,
+				47,
+				"PERSON"
+			],
+			[
+				"Soviet",
+				51,
+				57,
+				"GPE"
+			],
+			[
+				"Gorki",
+				114,
+				119,
+				"LOC"
+			],
+			[
+				"Union of Soviet Socialist Republics",
+				121,
+				156,
+				"GPE"
+			],
+			[
+				"American",
+				179,
+				187,
+				"NORP"
+			],
+			[
+				"American",
+				243,
+				251,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Her husband, who had been trained in the United States under the auspices of the Soviet Government, was arrested by the Soviet authorities on October 15, 1937, during a purge of the Gorki automobile plant.",
+		"entities": [
+			[
+				"United States",
+				41,
+				54,
+				"LOC"
+			],
+			[
+				"Soviet Government",
+				81,
+				98,
+				"GPE"
+			],
+			[
+				"Soviet",
+				120,
+				126,
+				"GPE"
+			],
+			[
+				"October 15, 1937",
+				142,
+				158,
+				"DATE"
+			],
+			[
+				"Gorki",
+				182,
+				187,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Soviet authorities searched her apartment on November 16, 1937, at 4:30 a.m., and confiscated several American magazines and some American phonograph records, without stating the object of the search.",
+		"entities": [
+			[
+				"Soviet",
+				4,
+				10,
+				"GPE"
+			],
+			[
+				"November 16, 1937",
+				49,
+				66,
+				"DATE"
+			],
+			[
+				"American",
+				106,
+				114,
+				"NORP"
+			],
+			[
+				"American",
+				134,
+				142,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "She was transferred to a smaller apartment in the outskirts of the city, and given to understand that her husband would not return soon.",
+		"entities": []
+	},
+	{
+		"content": "Mrs. Schwartz desired to remain in the Soviet Union in order to determine the welfare of her husband who, she believed was possibly accused of some of the usual offenses, such as sabotage, espionage, et cetera, but she was forced to leave the country without any definite information concerning the outcome of his detention.",
+		"entities": [
+			[
+				"Mrs. Schwartz",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Soviet Union",
+				39,
+				51,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "These cases are only examples of the treatment manifested toward many similar American citizens who have entered into the life of this country but who have at the same time preserved their American citizenship, and are indicative of the policy being adopted by the Soviet Government to eliminate foreign residents who have not proved to be useful in the economic or social structure of this country.",
+		"entities": [
+			[
+				"American",
+				78,
+				86,
+				"NORP"
+			],
+			[
+				"American",
+				189,
+				197,
+				"NORP"
+			],
+			[
+				"Soviet Government",
+				265,
+				282,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "There has been a marked tendency on the part of the Soviet officials during the past few months to cause foreign residents in the Soviet Union who are not needed by the Soviet Government as technical experts to depart from the Soviet Union.",
+		"entities": [
+			[
+				"Soviet",
+				52,
+				58,
+				"GPE"
+			],
+			[
+				"Soviet Union",
+				130,
+				142,
+				"GPE"
+			],
+			[
+				"Soviet Government",
+				169,
+				186,
+				"GPE"
+			],
+			[
+				"Soviet Union",
+				227,
+				239,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Many American citizens and other nationals whose contracts have expired during recent months have found that they are unable to obtain a new contract or an extension of their vid na zhitelstvo.",
+		"entities": [
+			[
+				"American",
+				5,
+				13,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Residence permits are now being renewed by the Soviet authorities for from one to three months instead of for periods of six months to one year as was the custom previously.",
+		"entities": [
+			[
+				"Soviet",
+				47,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Respectfully yours, For the Charge d'Affaires ad interim: A. I. Ward\"]",
+		"entities": [
+			[
+				"Charge d'Affaires",
+				28,
+				45,
+				"PERSON"
+			],
+			[
+				"A. I. Ward",
+				58,
+				68,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"confidential urgent 1074.",
+		"entities": []
+	},
+	{
+		"content": "Delsec 1363.",
+		"entities": []
+	},
+	{
+		"content": "For the President, Vandenberg, Connally and Acheson from Marshall.",
+		"entities": [
+			[
+				"President",
+				8,
+				17,
+				"PERSON"
+			],
+			[
+				"Vandenberg",
+				19,
+				29,
+				"PERSON"
+			],
+			[
+				"Connally",
+				31,
+				39,
+				"PERSON"
+			],
+			[
+				"Acheson",
+				44,
+				51,
+				"PERSON"
+			],
+			[
+				"Marshall",
+				57,
+				65,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sixteenth CFM, 28 March, Bevin presiding, resumed discussion of German assets in Austria, with Marshall indicating his points of agreement to Bidault's proposals (see 15th CFM).",
+		"entities": [
+			[
+				"Sixteenth CFM",
+				0,
+				13,
+				"EVENT"
+			],
+			[
+				"28 March",
+				15,
+				23,
+				"DATE"
+			],
+			[
+				"Bevin",
+				25,
+				30,
+				"PERSON"
+			],
+			[
+				"German",
+				64,
+				70,
+				"GPE"
+			],
+			[
+				"Austria",
+				81,
+				88,
+				"LOC"
+			],
+			[
+				"Marshall",
+				95,
+				103,
+				"PERSON"
+			],
+			[
+				"Bidault",
+				142,
+				149,
+				"PERSON"
+			],
+			[
+				"15th CFM",
+				167,
+				175,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Marshall agreed with proposal one and two.",
+		"entities": [
+			[
+				"Marshall",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "As regards Bidault's third proposal, Marshall was willing to omit further discussion of this problem by the deputies if CFM would agree that article 57 provided a means of arbitration for settlement of disputes.",
+		"entities": [
+			[
+				"Bidault",
+				11,
+				18,
+				"PERSON"
+			],
+			[
+				"Marshall",
+				37,
+				45,
+				"PERSON"
+			],
+			[
+				"CFM",
+				120,
+				123,
+				"ORG"
+			],
+			[
+				"article 57",
+				141,
+				151,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "He then proposed that CFM reach agreement in principle on this subject and direct the deputies to incorporate the various views into suitable proposal.",
+		"entities": [
+			[
+				"CFM",
+				22,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Molotov rejected Bidault's second proposal because its limited application would deprive Austria of so little in the way of transfers.",
+		"entities": [
+			[
+				"Molotov",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Bidault",
+				17,
+				24,
+				"PERSON"
+			],
+			[
+				"Austria",
+				89,
+				96,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He also objected to Austria's having a voice in the determination of German assets.",
+		"entities": [
+			[
+				"Austria",
+				20,
+				27,
+				"GPE"
+			],
+			[
+				"German",
+				69,
+				75,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He pressed for substitution of a proposal which would define German assets in Austria as excluding those taken by direct, forcible action without compensation.",
+		"entities": [
+			[
+				"German",
+				61,
+				67,
+				"GPE"
+			],
+			[
+				"Austria",
+				78,
+				85,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Bevin stated that he was working on the basis that everyone wanted to be fair and to avoid allied support to the fraudulent methods Hitler employed in acquisition of property in Austria.",
+		"entities": [
+			[
+				"Bevin",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Hitler",
+				132,
+				138,
+				"PERSON"
+			],
+			[
+				"Austria",
+				178,
+				185,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He, as well as Marshall, rejected Molotov's proposal.",
+		"entities": [
+			[
+				"Marshall",
+				15,
+				23,
+				"PERSON"
+			],
+			[
+				"Molotov",
+				34,
+				41,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There followed considerable discussion as to the next move with Molotov attempting to stop further consideration of the problem until the Austrian treaty was considered as a whole.",
+		"entities": [
+			[
+				"Molotov",
+				64,
+				71,
+				"PERSON"
+			],
+			[
+				"Austrian",
+				138,
+				146,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It was finally agreed that the matter would be referred back to the deputies for their further consideration.",
+		"entities": []
+	},
+	{
+		"content": "The Coordinating Committee (see fourteenth meeting) then submitted its report.",
+		"entities": [
+			[
+				"Coordinating Committee",
+				4,
+				26,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Marshall said there were too many points of disagreement to resolve in the Council and suggested that the Council limit its immediate discussion to the following three items: (A) treatment of Germany as an economic unit; (B) review of levels of industry and resumption of reparations; (C) form and scope of provisional government.",
+		"entities": [
+			[
+				"Marshall",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"Council",
+				75,
+				82,
+				"ORG"
+			],
+			[
+				"Council",
+				106,
+				113,
+				"ORG"
+			],
+			[
+				"Germany",
+				192,
+				199,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The other matters relating to the report would be referred at once to a special committee to make recommendations to the Council for the adoption of such directives as the Committee members, acting under instructions from their respective ministers, can agree upon.",
+		"entities": [
+			[
+				"Council",
+				121,
+				128,
+				"ORG"
+			],
+			[
+				"Committee",
+				172,
+				181,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "After a discussion, in which Bevin and Bidault declined to commit themselves and Molotov suggested adding demilitarization, it was agreed that the Marshall proposal would be considered tomorrow.",
+		"entities": [
+			[
+				"Bevin",
+				29,
+				34,
+				"PERSON"
+			],
+			[
+				"Bidault",
+				39,
+				46,
+				"PERSON"
+			],
+			[
+				"Molotov",
+				81,
+				88,
+				"PERSON"
+			],
+			[
+				"Marshall",
+				147,
+				155,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Molotov then resumed discussion of participation of allied nations in the preparation German peace treaty and the peace conference.",
+		"entities": [
+			[
+				"Molotov",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"German",
+				86,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He held out strongly for limiting the participation to the 18 nations already listed plus, of course, Albania.",
+		"entities": [
+			[
+				"Albania",
+				102,
+				109,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Marshall rejected this position and reiterated the previous United States position.",
+		"entities": [
+			[
+				"Marshall",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"United States",
+				60,
+				73,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Molotov went through the second chorus of his act and it was finally unanimously decided to refer the problem back to the deputies.",
+		"entities": [
+			[
+				"Molotov",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Department please pass to Vienna as 18, to Rome as 16, and to Paris as 90.",
+		"entities": [
+			[
+				"Department",
+				0,
+				10,
+				"ORG"
+			],
+			[
+				"Vienna",
+				26,
+				32,
+				"LOC"
+			],
+			[
+				"Rome",
+				43,
+				47,
+				"LOC"
+			],
+			[
+				"Paris",
+				62,
+				67,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Repeated London 111, Berlin 183.",
+		"entities": [
+			[
+				"London",
+				9,
+				15,
+				"LOC"
+			],
+			[
+				"Berlin",
+				21,
+				27,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "[ Marshall ]\"]",
+		"entities": [
+			[
+				"Marshall",
+				2,
+				10,
+				"PERSON"
+			]
+		]
+	}
+]

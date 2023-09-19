@@ -1,0 +1,4781 @@
+[
+	{
+		"content": "['D) GENEVA 20102, E) GENEVA 20119, F) GENEVA 00022 (1979) 1.",
+		"entities": [
+			[
+				"GENEVA 20102",
+				5,
+				17,
+				"WORK_OF_ART"
+			],
+			[
+				"GENEVA 20119",
+				22,
+				34,
+				"WORK_OF_ART"
+			],
+			[
+				"GENEVA 00022",
+				39,
+				51,
+				"WORK_OF_ART"
+			],
+			[
+				"1979",
+				53,
+				57,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THIS CABLE RECORDS CERTAIN MTN DELS",
+		"entities": []
+	},
+	{
+		"content": "FORMAL TARIFF IMPROVEMENTS, COMMITMENTS, AND WITHDRAWALS MADE IN THE COURSE OF BILATERAL NEGOTIATIONS.",
+		"entities": []
+	},
+	{
+		"content": "REFTELS RECORD PREVIOUS UPDATES.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "KOREA (BILATERALS OF NOV. 30 AND DEC 4, 1978).",
+		"entities": [
+			[
+				"KOREA",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"NOV. 30",
+				21,
+				28,
+				"DATE"
+			],
+			[
+				"DEC 4, 1978",
+				33,
+				44,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "OFFERS MADE TO KOREA CONSIST OF REPEATS OF OFFERS MADE IN OTHER BILATERALS, PARTICULARLY THOSE WITH JAPAN.",
+		"entities": [
+			[
+				"KOREA",
+				15,
+				20,
+				"GPE"
+			],
+			[
+				"JAPAN",
+				100,
+				105,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "- - - OFFER COMMITTED TSUS SHORT DESC.",
+		"entities": []
+	},
+	{
+		"content": "AVE AVE 114.05A BOILED CLAMS, ETC.",
+		"entities": []
+	},
+	{
+		"content": "(ASP) 14 14 534.84 EARTHENWARE SMOKERS - ARTICLES NOV.$3 PER DOZ.",
+		"entities": []
+	},
+	{
+		"content": "7.0 7.0 735.09 INFLATABLE BALLS, NSPF 6.0 6.0 403.60BB OTHER AMINES, DERIVATIVES 5.8 5.8 403.60BD AMINES HAVING ONE OR MORE 5.8 5.8 - OXYGEN 403.60BH P-ACETANISIDIDE AND OTHER - ANIDES 5.8 5.8 403.60CC 4-AMINOANTIPYRIDE, ETC. 5.8 5.8 - - - OFFER COMMITTED TSUS SHORT DESC.",
+		"entities": []
+	},
+	{
+		"content": "AVE AVE 650.17 OTHER KNIVES, NSPF, WITH - RUBBER OR PLASTIC HANDLES 5.5 5.5 650.21 KNIVES, NSPF, WITH HANDLES - OF OTHER MATERIALS 7.0 7.0 650.56 CERTAIN SPOONS AND LADLES 7.5 7.5 650.91 CERTAIN SCISSORS AND SHEARS 20.0 20.0 3.",
+		"entities": []
+	},
+	{
+		"content": "SWEDEN (DECEMBER BILATERALS).",
+		"entities": [
+			[
+				"SWEDEN",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"DECEMBER",
+				8,
+				16,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THESE ITEMS OMITTED IN GENEVA 20119.",
+		"entities": [
+			[
+				"GENEVA 20119",
+				23,
+				35,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "455.32 VEGETABLE GLUE, OV 40 CENTS NO - PER LB.",
+		"entities": []
+	},
+	{
+		"content": "OFFER 5.0 678.50 EX \"BIOLOGICAL TOILETS\" 3.5 FREE 4.",
+		"entities": []
+	},
+	{
+		"content": "FINLAND (DECEMBER BILATERALS).",
+		"entities": [
+			[
+				"FINLAND",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"DECEMBER",
+				9,
+				17,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THOSE ITEMS OMITTED IN GENEVA 20119 113.05 FISH BALLS IN OILS NO 6.6 - - - - OFFER 113.40 OTHER FISH ROE 1.4 FREE 5.",
+		"entities": [
+			[
+				"GENEVA 20119",
+				23,
+				35,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "NEW ZEALAND (DECEMBER BILATERALS)",
+		"entities": [
+			[
+				"NEW ZEALAND",
+				0,
+				11,
+				"GPE"
+			],
+			[
+				"DECEMBER",
+				13,
+				21,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "PREVIOUS NEW - - - OFFER OFFER 106.30 LAMB, FRESH, CHILLED OR 1 CENT 0.5 CENTS - FROZEN PER LB.",
+		"entities": []
+	},
+	{
+		"content": "LB.",
+		"entities": []
+	},
+	{
+		"content": "306.10 WOOL, ALEPPO, ETC.",
+		"entities": []
+	},
+	{
+		"content": "NOT - FINER THAN 40S, ON THE SKIN 3 CENTS/ 2.2 CENTS/ - - - CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "306.11 WOOL, ALEPPO, ETC.",
+		"entities": []
+	},
+	{
+		"content": "NOT 4 CENTS/ 2.5 CENTS/ - FINER THAN 40S IN THE CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "- GREASE OR WASHED 306.13 WOOL, ALEPPO, ETC NOT FINER 5 CENTS/ 3 CENTS/ - THAN 40S SCOURED CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "306.21 WOOL, OTHER, FINER THAN 40S 5 CENTS/ 3 CENTS/ - BUT NOT FINER THAN 44S, ETC.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "306.22 WOOL, OTHER, FINER THAN 40S 5 CENTS/ 3 CENTS/ - BUT NOT FINER THAN 44S, ETC.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "306.23 WOOL, OTHER, FINER THAN 40S 6 CENTS/ 4 CENTS/ - BUT NOT FINER THAN 44S CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "CLEAN LB.",
+		"entities": []
+	},
+	{
+		"content": "- - - OFFER COMMITTED TSUS SHORT DESC.",
+		"entities": []
+	},
+	{
+		"content": "- AVE AVE 6.",
+		"entities": []
+	},
+	{
+		"content": "PERU (AD REF PACKAGE OF DECEMBER 17, 1978) 104.25 COWPEAS, BLACKEYE, DRIED, FREE FREE - ETC.",
+		"entities": [
+			[
+				"PERU",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"DECEMBER 17, 1978",
+				24,
+				41,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "300.20 RAW COTTON, STAPLE 1-11/16IN.",
+		"entities": []
+	},
+	{
+		"content": "1 CENT/ 0.7CENTS - OR MORE - - PER LB.",
+		"entities": []
+	},
+	{
+		"content": "PER LB.",
+		"entities": []
+	},
+	{
+		"content": "301.50 YARN, WHITE COTTON NOT ------------------028203 221429Z /41 FM USMISSION GENEVA TO SECSTATE WASHDC PRIORITY 8574 USMTN STR ACTION PASS ELECTRONICALLY STR PASS USITC FOR HART BLEACHED MERCERIZED COLOR 8.7 8.7 306.52 ALPACA, LLAMA, AND VICUNA - HAIR, GREASY - 1.2 AVE 1.2 AVE 367.10 OTHER WOOL FURNISHING, KNIT, - VALUED OVER $5 PER LB. - (NOTE:",
+		"entities": [
+			[
+				"USMISSION GENEVA",
+				70,
+				86,
+				"ORG"
+			],
+			[
+				"SECSTATE WASHDC",
+				91,
+				105,
+				"PERSON"
+			],
+			[
+				"USITC",
+				166,
+				171,
+				"ORG"
+			],
+			[
+				"HART",
+				176,
+				180,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "THIS ITEM A POSSIBLE - ADJUSTMENT, I.E., A WITH- - DRAWAL.)",
+		"entities": []
+	},
+	{
+		"content": "6.4 9.0 602.30 ALL COPPER-BEARING ORES, NES FREE FREE 624.04 LEAD WASTE AND SCRAP 2.3 2.3 628.45 INDIUM, UNWROUGHT, WASTE - AND SCRAP - FREE FREE 367.30 OTHER WOOL FURNISHINGS 7.5 7.5 300.15 LONG STAPLE COTTON 2 CENTS 2 CENTS - - - - PER LB.",
+		"entities": []
+	},
+	{
+		"content": "PER LB.",
+		"entities": []
+	},
+	{
+		"content": "601.54 TUNGSTEN ORE - - 3.3 3.3 7.",
+		"entities": []
+	},
+	{
+		"content": "DOMINICAN REPUBLIC (CLOSE-OUT NEGOTIATIONS THROUGH DECEMBER 14, 1978).",
+		"entities": [
+			[
+				"DOMINICAN REPUBLIC",
+				0,
+				18,
+				"GPE"
+			],
+			[
+				"DECEMBER 14, 1978",
+				51,
+				68,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "136.00 DASHEENS - - 5.0 5.0 136.98 EX PIGEON PEAS, FRESH, CHILLED - OR FROZEN, ENTERING JULY",
+		"entities": [
+			[
+				"JULY",
+				88,
+				92,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "1- NO OFFER FREE - SEPT 30 INCL. - 136.99 EX PIGEON PEAS, FROZEN, ENTER- - ING JULY 1-SEPT 30 INC.",
+		"entities": [
+			[
+				"SEPT 30",
+				19,
+				26,
+				"DATE"
+			],
+			[
+				"JULY 1-SEPT 30",
+				79,
+				93,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "NO OFFER FREE 137.01 EX PIGEON PEAS, FRESH, CHILLED - OR FROZEN ENTERING OCT 1- 0.8 CENTS - TO JUNE 30 INC. - NO OFFER PER LB.",
+		"entities": [
+			[
+				"OCT",
+				73,
+				76,
+				"DATE"
+			],
+			[
+				"JUNE 30",
+				95,
+				102,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "137.86 EX YUCA, FRESH, CHILLED OR - FROZEN - - NO OFFER 10.0 137.86 EX YAMS, FRESH, CHILLED OR - FROZEN - - NO OFFER 10.0 137.86 EX SWEET POTATOES, FRESH, - CHILLED OR FROZEN NO OFFER 10.0 - - - OFFER COMMITTED TSUS SHORT DESC.",
+		"entities": []
+	},
+	{
+		"content": "- AVE AVE 141.55 PEAS PACKED IN SALT OR BRINE, - PREPARED OR PRESERVED FREE FREE 145.09 COCONUT MEAT, EXCEPT COPRA, - NSPF, OTHERWISE PREPARED OR - PRESERVED - 4.0 4.0 146.30 AVOCADOS, ALLIGATOR PEARS, - FRESH, PREPARED OR PRESERVED 6 CENTS/",
+		"entities": []
+	},
+	{
+		"content": "5 CENTS/ - - - - LB. LB.",
+		"entities": []
+	},
+	{
+		"content": "146.80 CASHEW APPLES, SAPODILLAS, - ETC. - - 2.8 2.8 148.65 PAPAYAS, PREPARED OR PRE- - SERVED - NO OFFER 5.0 149.15 PLANTAINS, PREPARED OR - PRESERVED -",
+		"entities": []
+	},
+	{
+		"content": "NO OFFER 3.0 152.30 ORANGE PEEL,",
+		"entities": []
+	},
+	{
+		"content": "OTHERWISE - PREPARED OR PRESERVED NO OFFER 3.9 152.43 CASHEW APPLE, MAMEY - COLORADO, SAP - 7.0 7.0 153.02 CASHEW APPLE, MANGO, ETC. - JELLIES, ETC.",
+		"entities": []
+	},
+	{
+		"content": "NO OFFER FREE 153.08 GUAVA JELLIES, ETC.",
+		"entities": []
+	},
+	{
+		"content": "NO OFFER FREE 156.45 COCOA, SWEETENED FREE FREE 170.45 TOBACCO FILLER LEAF 13.4 13.4 407.08 2-NAPHTHOL OR BETA-NAPHTHOL 7.0 7.0 514.11 LIMESTONE, CRUDE FREE FREE 730.17 PISTOLS & REVOLVERS - $4 TO $8 EACH 11.0 11.0 137.10 EX PEPPERS, ENTERED JULY",
+		"entities": [
+			[
+				"JULY",
+				242,
+				246,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "1- - OCT 31 INCLUSIVE 10.2 10.2 138.50 EX RUTEBAGAS 7.0 7.0 147.92 MANGOES, PREPARED OR PRE- - SERVED (SHOULD BE TSUS - 147.96) 3.4 3.4 152.54 GUAVA PASTE AND PULP 2.8 2.8 152.58 MANGO PAST AND PULP 2.8 2.8 152.65 PAPAYA FRUIT PASTES AND PULPS 8.0 8.0 155.40 SUGAR, SIRUP, ETC.",
+		"entities": [
+			[
+				"OCT 31",
+				5,
+				11,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "INEDIBLE FREE FREE 161.37 GINGER ROOT, GROUND FREE FREE 170.40 FILLER TOBACCO 16.1 16.1 170.66 CIGARS AND CHEROTTS 11.3 11.3 188.30 AMBER, ETC.",
+		"entities": []
+	},
+	{
+		"content": "FREE FREE 380.8430 MENS AND BOYS PAJAMAS - (NOTE: WITHDRAWAL ITEM) 13.8 17.0 - - - OFFER COMMITTED TSUS SHORT DESC.",
+		"entities": []
+	},
+	{
+		"content": "- AVE AVE 382.0018 WOMENS, GIRLS AND INFANTS - PAJAMAS OR NIGHTWEAR 14 14 382.0417 WOMENS,ETC.",
+		"entities": []
+	},
+	{
+		"content": "DRESSING GOWNS 17 17 382.0423 WOMENS, ETC.",
+		"entities": []
+	},
+	{
+		"content": "KNIT PAJAMAS 17 17 382.0472 WOMENS, ETC.",
+		"entities": []
+	},
+	{
+		"content": "ORN.",
+		"entities": []
+	},
+	{
+		"content": "PAJAMAS 17 17 382.0685 OTHER WOMENS COTTON KNIT ------------------028216 221428Z /41",
+		"entities": []
+	},
+	{
+		"content": "FM USMISSION GENEVA TO SECSTATE WASHDC PRIORITY 8575",
+		"entities": [
+			[
+				"USMISSION GENEVA",
+				3,
+				19,
+				"ORG"
+			],
+			[
+				"SECSTATE WASHDC",
+				23,
+				38,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "USMTN STR ACTION PASS ELECTRONICALLY STR PASS USITC FOR HART - TROUSERS, ETC.",
+		"entities": [
+			[
+				"USITC",
+				46,
+				51,
+				"ORG"
+			],
+			[
+				"HART",
+				56,
+				60,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "(NOTE: - WITHDRAWAL ITEM) - 8.4 16.5 382.3380 WOMENS, ETC. COTTON SHOE - UPPERS (NOTE: WITHDRAWAL - ITEM) - - 7.6 8.0 386.50 OTHER COTTON ARTICLES, NSPF 7.0 7.0 512.24 PLASTER ROCK - 2.2 2.2 532.31 CERTAIN CERAMIC TILES 6.9 6.9 640.10 METAL PRESSURE CONTAINERS FREE FREE 750.50 ARTISTS BRUSHES AND HAIR - PENCILS NOV $.05 EACH 5.1 5.1 750.55 ARTISTS BRUSHES AND HAIR - PENCILS, $.05 TO $.10 EACH 3.8 3.8 750.60 ARTIST BRUSHES AND HAIR - PENCILS OVER $.10 EACH 3.1 3.1 791.25 LEATHER, NSPF - 3.7 3.7 791.50 SHOE LACES, LEATHER FREE FREE 792.40 ARTICLES OF BONE, ETC.",
+		"entities": []
+	},
+	{
+		"content": "FREE FREE 8.",
+		"entities": []
+	},
+	{
+		"content": "VENEZUELA FOLLOWING ITEMS WITHDRAWN DECEMBER 14, 1978 131.20 MILLED CORN 20 CENTS/ 2.0 - - - 100 LBS 193.10",
+		"entities": [
+			[
+				"VENEZUELA",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"DECEMBER 14, 1978",
+				36,
+				53,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "TONKA BEANS - NO",
+		"entities": []
+	},
+	{
+		"content": "OFFER",
+		"entities": []
+	},
+	{
+		"content": "NO OFFER 253.20 CREPE PAPER - FREE NO OFFER 403.08 PHTHALIC ACID (402.12 IN - LEGAL OFFER) - 10 NO OFFER 9.",
+		"entities": []
+	},
+	{
+		"content": "DRAFTED BY MALISH.",
+		"entities": [
+			[
+				"MALISH",
+				11,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "CULBERT ']",
+		"entities": [
+			[
+				"CULBERT",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "SANTIAGO DECLARED IN STATE OF EMERGENCY",
+		"entities": [
+			[
+				"SANTIAGO",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE CHILEAN GOVERNMENT HAS DECLARED A STATE OF EMERGENCY IN SANTIAGO PROVINCE FOLLOWING A CONFUSED INCIDENT INVOLVING ARMY COMMANDER- IN- CHIEF PRATS.",
+		"entities": [
+			[
+				"CHILEAN GOVERNMENT",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"SANTIAGO PROVINCE",
+				60,
+				77,
+				"LOC"
+			],
+			[
+				"ARMY COMMANDER- IN- CHIEF PRATS",
+				118,
+				149,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "AFTER WHAT WAS EITHER AN ATTEMPT AGAINST PRATS' LIFE OR AN ASSAULT ON A LADY DRIVER BY PRATS, THE GENERAL TENDERED HIS RESIGNATION, WHICH ALLENDE REFUSED.",
+		"entities": [
+			[
+				"PRATS",
+				41,
+				46,
+				"PERSON"
+			],
+			[
+				"PRATS",
+				87,
+				92,
+				"PERSON"
+			],
+			[
+				"GENERAL",
+				98,
+				105,
+				"PERSON"
+			],
+			[
+				"ALLENDE",
+				138,
+				145,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "IT WAS ALSO REPORTED THAT A COUP ATTEMPT HAD BEEN FRUSTRATED WITH THE ARREST OF AN UNDISCLOSED NUMBER OF MILITARY AND CIVILIAN PLOTTERS.",
+		"entities": []
+	},
+	{
+		"content": "( CONFIDENTIAL) SANTIAGO 2813 AND 2829, USDAO/ SANTIAGO 281605 Z JUN, 6/28. 2.",
+		"entities": [
+			[
+				"SANTIAGO",
+				16,
+				29,
+				"LOC"
+			],
+			[
+				"USDAO/ SANTIAGO",
+				40,
+				55,
+				"LOC"
+			],
+			[
+				"6/28",
+				70,
+				74,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "FEDAYEEN OPPOSE PALESTINIAN STATE PROPOSAL EMBASSY BEIRUT REPORTS THAT THE IDEA OF A PALESTINIAN STATE ADVANCED BY EGYPT AND TUNISIA IS DRAWING IN- CREASING OPPOSITION FROM ALL FEDAYEEN ORGANIZATIONS.",
+		"entities": [
+			[
+				"FEDAYEEN",
+				0,
+				8,
+				"ORG"
+			],
+			[
+				"PALESTINIAN STATE",
+				16,
+				33,
+				"GPE"
+			],
+			[
+				"EMBASSY BEIRUT",
+				43,
+				57,
+				"ORG"
+			],
+			[
+				"PALESTINIAN STATE",
+				85,
+				102,
+				"GPE"
+			],
+			[
+				"EGYPT",
+				115,
+				120,
+				"GPE"
+			],
+			[
+				"TUNISIA",
+				125,
+				132,
+				"GPE"
+			],
+			[
+				"FEDAYEEN",
+				177,
+				185,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "OUR EMBASSY COMMENTS THAT MORE REASONABLE AND MODERATE FEDAYEEN LEADERS WERE APPARENTLY IN TACIT AGREEMENT WITH THE IDEA, BUT EXTREMISTS HAVE FORCED THEM TO COME OUT AGAINST IT.",
+		"entities": [
+			[
+				"EMBASSY",
+				4,
+				11,
+				"ORG"
+			],
+			[
+				"FEDAYEEN",
+				55,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "( LIMITED OFFICIAL USE)",
+		"entities": []
+	},
+	{
+		"content": "BEIRUT 7667, 6/28. 3.",
+		"entities": [
+			[
+				"BEIRUT 7667",
+				0,
+				11,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "JAPANESE WORRIED ABOUT SOYBEANS",
+		"entities": [
+			[
+				"JAPANESE",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE JAPANESE FOREIGN OFFICE HAS EXPRESSED TO EMBASSY TOKYO ITS CONCERN OVER THE IMPLICATIONS OF THE US AGRICULTURAL EXPORT EMBARGO.",
+		"entities": [
+			[
+				"JAPANESE FOREIGN OFFICE",
+				4,
+				27,
+				"ORG"
+			],
+			[
+				"EMBASSY TOKYO",
+				45,
+				58,
+				"ORG"
+			],
+			[
+				"US",
+				100,
+				102,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE JAPANESE INTEND TO RAISE THE QUESTION OF US RELIABILITY AS AN AGRICULTURAL SUPPLIER AT THE JULY 16-17 MINISTERIAL MEETING, AND OUR EMBASSY RECORDS INCREASING TALK IN JAPAN OF THE NEED TO DIVERSIFY AGRICULTURAL SUPPLY SOURCES AS WELL AS INCREASE SELF- SUFFICIENCY.",
+		"entities": [
+			[
+				"JAPANESE",
+				4,
+				12,
+				"GPE"
+			],
+			[
+				"US",
+				45,
+				47,
+				"GPE"
+			],
+			[
+				"JULY 16-17",
+				95,
+				105,
+				"DATE"
+			],
+			[
+				"EMBASSY",
+				135,
+				142,
+				"ORG"
+			],
+			[
+				"JAPAN",
+				170,
+				175,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "( CONFIDENTIAL) TOKYO 8165, 6/28. 4.",
+		"entities": [
+			[
+				"TOKYO 8165",
+				16,
+				26,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "INDOCHINA ACTIVITY CAMBODIA--",
+		"entities": [
+			[
+				"INDOCHINA",
+				0,
+				9,
+				"LOC"
+			],
+			[
+				"CAMBODIA",
+				19,
+				27,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE MILITARY SITUATION ON ROUTE 6, APPROXI- MATELY 25 MILES NORTH OF PHNOM PENH, HAS DETERIORATED SHARPLY.",
+		"entities": [
+			[
+				"PHNOM PENH",
+				69,
+				79,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "REINFORCEMENTS ARE BEING SENT TO THE AREA.",
+		"entities": []
+	},
+	{
+		"content": "THE SITUATION IS COMPLICATED BY LOW QUALITY FANK TROOPS AND LEADERSHIP IN THIS AREA.",
+		"entities": []
+	},
+	{
+		"content": "LITTLE CHANGE HAS BEEN REPORTED FROM OTHER AREAS.",
+		"entities": []
+	},
+	{
+		"content": "( SECRET) CAMBODIAN DAMSREP, 6/29.",
+		"entities": [
+			[
+				"CAMBODIAN DAMSREP",
+				10,
+				27,
+				"PERSON"
+			],
+			[
+				"6/29",
+				29,
+				33,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "REPUBLIC OF VIETNAM-- CEASE- FIRE VIOLATIONS DECREASED FOR THE SECOND CONSECUTIVE DAY WITH THREE MAJOR AND 56 MINOR VIOLATIONS REPORTED DURING THE PERIOD ENDING 2000 EDT JUNE 28.",
+		"entities": [
+			[
+				"REPUBLIC OF VIETNAM",
+				0,
+				19,
+				"GPE"
+			],
+			[
+				"JUNE 28",
+				170,
+				177,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "( CONFIDENTIAL)",
+		"entities": []
+	},
+	{
+		"content": "NMCC OPSUM, 6/29.",
+		"entities": [
+			[
+				"NMCC OPSUM",
+				0,
+				10,
+				"ORG"
+			],
+			[
+				"6/29",
+				12,
+				16,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "NORTH VIETNAM-- AIRBORNE MINE COUNTERMEASURE UNITS HAVE COMMENCED CHECK SWEEP OPERATIONS IN THE COASTAL AREAS OF VINH, HON LA AND QUANG KHE.",
+		"entities": [
+			[
+				"NORTH VIETNAM",
+				0,
+				13,
+				"GPE"
+			],
+			[
+				"VINH",
+				113,
+				117,
+				"LOC"
+			],
+			[
+				"HON LA",
+				119,
+				125,
+				"LOC"
+			],
+			[
+				"QUANG KHE",
+				130,
+				139,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "IT IS ESTIMATED THAT QUANG KHE WILL BE COMPLETED ON JULY 1; VINH AND HON LA ON JULY 4.",
+		"entities": [
+			[
+				"QUANG KHE",
+				21,
+				30,
+				"LOC"
+			],
+			[
+				"JULY 1",
+				52,
+				58,
+				"DATE"
+			],
+			[
+				"VINH",
+				60,
+				64,
+				"LOC"
+			],
+			[
+				"HON LA",
+				69,
+				75,
+				"LOC"
+			],
+			[
+				"JULY 4",
+				79,
+				85,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "( CONFIDENTIAL)",
+		"entities": []
+	},
+	{
+		"content": "NMCC OPSUM, 6/29.",
+		"entities": [
+			[
+				"NMCC OPSUM",
+				0,
+				10,
+				"ORG"
+			],
+			[
+				"6/29",
+				12,
+				16,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "ROGERS ***",
+		"entities": [
+			[
+				"ROGERS *",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Current Handling Restrictions *** n/a",
+		"entities": []
+	},
+	{
+		"content": "*** Current Classification *** SECRET \"]",
+		"entities": []
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['MISSION CONFIRMS RESERVATION FOR MR. CUTTS AT RESIDENCE CHATEAUBRIAND, 10, RUE DU PRIEURE, TEL:31.83.22 APARTMENT COMPLETELY FURNISHED: KITCHEN UTENSILS, DISHES, LINENS, ETC.",
+		"entities": [
+			[
+				"CUTTS",
+				39,
+				44,
+				"PERSON"
+			],
+			[
+				"RESIDENCE CHATEAUBRIAND",
+				48,
+				71,
+				"FAC"
+			],
+			[
+				"10, RUE DU PRIEURE",
+				73,
+				91,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "SORENSON ']",
+		"entities": [
+			[
+				"SORENSON",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"POST CONFIRMS RABOANARIJAONA'S ITINERARY AS FOLLOWS:",
+		"entities": [
+			[
+				"RABOANARIJAONA",
+				17,
+				31,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "DEPART TANANARIVE AUGUST 1 VIA MD-50, ARRIVING PARIS 0855 AUGUST 2.",
+		"entities": [
+			[
+				"TANANARIVE",
+				7,
+				17,
+				"LOC"
+			],
+			[
+				"AUGUST 1",
+				18,
+				26,
+				"DATE"
+			],
+			[
+				"PARIS",
+				47,
+				52,
+				"LOC"
+			],
+			[
+				"AUGUST 2",
+				58,
+				66,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "DEPART PARIS AUGUST 4 VIA TW-803, ARRIVING DULLES 1758 SAME DAY.",
+		"entities": [
+			[
+				"PARIS",
+				7,
+				12,
+				"LOC"
+			],
+			[
+				"AUGUST 4",
+				13,
+				21,
+				"DATE"
+			],
+			[
+				"DULLES",
+				43,
+				49,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "MENDENHALL \"]",
+		"entities": [
+			[
+				"MENDENHALL",
+				0,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['ALIENS SELECTED ATTEND IAEA TRAINING COURSE ON USE OF RADIOSOTOPES AND RADIATION IN ENTOMOLOGY AT UNIVERSITY OF FLORIDA, JULY 2-- AUGUST 24, 1973, OR IAEA TRAINING COURSE ON USE OF TRACER TECHNIQUES IN INDUSTRY AND ENVIRONMENTAL POLLUTION STUDIES AT NORTH CAROLINA STATE UNIVERSITY, JULY 9-- AUGUST 3, 1973 SHOULD BE DOCUMENTED WITH B-1 VISAS.",
+		"entities": [
+			[
+				"IAEA",
+				25,
+				29,
+				"ORG"
+			],
+			[
+				"UNIVERSITY OF FLORIDA",
+				100,
+				121,
+				"ORG"
+			],
+			[
+				"JULY 2-- AUGUST 24, 1973",
+				123,
+				147,
+				"DATE"
+			],
+			[
+				"IAEA",
+				152,
+				156,
+				"ORG"
+			],
+			[
+				"NORTH CAROLINA STATE UNIVERSITY",
+				252,
+				283,
+				"LOC"
+			],
+			[
+				"JULY 9-- AUGUST 3, 1973",
+				285,
+				308,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THESE TRAINING COURSES NOT AN EXCHANGE PROGRAM AND J VISAS NOT REQUIRED.",
+		"entities": []
+	},
+	{
+		"content": "ROGERS ***",
+		"entities": [
+			[
+				"ROGERS *",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Current Handling Restrictions *** n/a",
+		"entities": []
+	},
+	{
+		"content": "*** Current Classification *** UNCLASSIFIED ']",
+		"entities": []
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "WITH REGARD TO PARA 2 OF REFTEL, SERIOUSLY DOUBT ROKG WILL PROVIDE 50-60 MILLION DOLLARS FROM KFX FUNDS TO CLEAR UP ANNEX A. RECENT VISIT OF ONE AMERICAN BANKER REVEALED HIS DEEP CONCERN WITH ALREADY SIGNIFICANT COTTON CREDIT EXPOSURE AND EXPRESSED VIEW FURTHER PRIVATE COTTON CREDIT EXPOSURE WAS BEING FRUSTRATED BY CONCERN WITH POLITICAL AND WAR RISKS.",
+		"entities": [
+			[
+				"ROKG",
+				49,
+				53,
+				"GPE"
+			],
+			[
+				"AMERICAN",
+				145,
+				153,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "NONETHELESS, IT IS EVIDENT ROKG INTENDS EXERT SIGNIFICANT PRESSURE ON KOREAN MILLS TO HONOR ANNEX A OUTSTANDING CONTRACTS AT EARLIEST FEASIBLE TIME.",
+		"entities": [
+			[
+				"ROKG",
+				27,
+				31,
+				"GPE"
+			],
+			[
+				"KOREAN",
+				70,
+				76,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "BELIEVE ANSWER TO COTTON CREDIT PROBLEM LIES IN AVAILABILITY OF EITHER 180 DAY OR 12 MONTHS PRIVATE USANCE LINES WHICH MAY BE FORTHCOMING FROM THE U.S. EMBASSY HAS REPEATEDLY PRESSURED ROKG TO CONSIDER EASING CURRENT 2 PERCENT CEILING ABOVE LIBOR RATE RATE HOWEVER MINISTRY OF FINANCE CONSIDERS THIS UNWORKABLE AT THIS TIME.",
+		"entities": [
+			[
+				"U.S.",
+				147,
+				151,
+				"GPE"
+			],
+			[
+				"EMBASSY",
+				152,
+				159,
+				"ORG"
+			],
+			[
+				"MINISTRY OF FINANCE",
+				265,
+				284,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "STATUS OF OUTSTANDING L/C'S ON ANNEX A PERIOD II AFTER DEPLETION OF CCC FUNDS (EXCEPT 10 MILLION EARMARKED FOR ANNEX B) IS 138,085 BALES WORTH $35.8 MILLION.",
+		"entities": [
+			[
+				"CCC",
+				68,
+				71,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "SNEIDER \"]",
+		"entities": [
+			[
+				"SNEIDER",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['MRN: 1976STATE 033033 SEGMENT NUMBER: 000001 ERROR READING TEXT INDEX FILE; TELEGRAM TEXT FOR THIS MRN IS UNAVAILABLE ']",
+		"entities": [
+			[
+				"1976STATE 033033",
+				7,
+				23,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "REF A. ESTABLISHED",
+		"entities": []
+	},
+	{
+		"content": "THE REQUIREMENT FOR MONTHLY ECONOMIC TRENDS REPORTING, INCLUDING EXTENSIVE STATISTICAL DATA, FROM THE SMALLER OECD COUNTRIES.",
+		"entities": [
+			[
+				"OECD",
+				110,
+				114,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE EMBASSY BELIEVES A REPORT OF THIS TYPE WILL SERVE A USEFUL PURPOSE, BUT WOULD LIKE SOME CLARIFICATION CONCERNING THE STATISTICAL INPUT.",
+		"entities": [
+			[
+				"EMBASSY",
+				4,
+				11,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(A) ARE THE EXTENSIVE STATISTICS OUTLINED IN MR.",
+		"entities": []
+	},
+	{
+		"content": "GOODMAN'S MEMORANDUM TO POSTS IN NORTHERN EUROPE NEEDED FOR NEW ZEALAND AS WELL?",
+		"entities": [
+			[
+				"GOODMAN",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"NORTHERN EUROPE",
+				33,
+				48,
+				"LOC"
+			],
+			[
+				"NEW ZEALAND",
+				60,
+				71,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WE NOTE IN THIS REGARD THAT REF.",
+		"entities": []
+	},
+	{
+		"content": "A WAS NOT CLEARED IN EITHER EUR/RPE OR IN THE EA BUREAU (EA/ANZ OR EA/EP), AND ASSUME THAT THE M/MO/R APPROVAL OBVIATES REGIONAL NEED FOR REGIONAL CLEARANCE.",
+		"entities": [
+			[
+				"EUR/RPE",
+				28,
+				35,
+				"ORG"
+			],
+			[
+				"EA BUREAU",
+				46,
+				55,
+				"ORG"
+			],
+			[
+				"EA/ANZ",
+				57,
+				63,
+				"ORG"
+			],
+			[
+				"EA/EP",
+				67,
+				72,
+				"ORG"
+			],
+			[
+				"M/MO/R",
+				95,
+				101,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(B)",
+		"entities": []
+	},
+	{
+		"content": "THE EMBASSY IS ALREADY REPORTING NEARLY ALL THE REQUESTED DATA SEMI-ANNUALLY IN THE ECONOMIC TRENDS REPORT,AND SUBMITTING AS WELL ALL OF THE STATISTICAL DATA REQUESTED IN REF",
+		"entities": [
+			[
+				"EMBASSY",
+				4,
+				11,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "A AS IT BECOMES AVAILABLE AS PART OF THE CERP PUBLICATIONS PROGRAM (WHETHER WEEKLY, MONTHLY OR QUARTERLY).",
+		"entities": [
+			[
+				"CERP",
+				41,
+				45,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "IS THE NEW REQUIREMENT OF SUCH HIGH PRIORITY THAT DUPLICATION BECOMES ESSENTIAL?",
+		"entities": []
+	},
+	{
+		"content": "(C) WOULD INTERESTED END USERS FIND IT SATISFACTORY FOR THE POST TO SUBMIT A BRIEF SUMMARY OF ECONOMIC DEVELOPMENTS FOR THE MONTH, CITING ONLY THOSE STATISTICS RELEVANT TO SPECIFIC MONTHLY KEY ISSUES?",
+		"entities": [
+			[
+				"POST",
+				60,
+				64,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "SUCH, WE BELIEVE,COULD BE USEFUL AND STILL AVOID THE DUPLICATIVE REPORTING THAT THE ORIGINAL FORMAT WOULD REQUIRE.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "ANSWERS TO THE POINTS RAISED WILL BE HELPFUL TO THE EMBASSY IN ADJUSTING ITS VOLUNTARY REPORTING PLANS IN ORDER TO ALLOW FOR THIS NEW REQUIREMENT.",
+		"entities": [
+			[
+				"EMBASSY",
+				52,
+				59,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "SELDEN \"]",
+		"entities": [
+			[
+				"SELDEN",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "THE SWEDISH DELEGATION TO THE INTER-AMERICAN DEVELOPMENT BANK ANNUAL MEETING IN VANCOUVER, APRIL 17-19, WILL BE LED BY JOHAN NORDENFALK, UNDER SECRETARY OF THE MINISTRY OF COMMERCE, AND WILL INCLUDE, FROM STOCKHOLM, CAROLINE FLEETWOOD OF THE MINISTRY OF FOREIGN AFFAIRS AND BJORN SKALA OF THE MINISTRY FOR INTERNATIONAL DEVELOPMENT COOPERATION, AND, FROM WASH- INGTON, ULF DINKELSPIEL OF THE SWEDISH EMBASSY.",
+		"entities": [
+			[
+				"SWEDISH",
+				4,
+				11,
+				"GPE"
+			],
+			[
+				"INTER-AMERICAN DEVELOPMENT BANK",
+				30,
+				61,
+				"ORG"
+			],
+			[
+				"VANCOUVER",
+				80,
+				89,
+				"LOC"
+			],
+			[
+				"APRIL 17-19",
+				91,
+				102,
+				"DATE"
+			],
+			[
+				"JOHAN NORDENFALK",
+				119,
+				135,
+				"PERSON"
+			],
+			[
+				"MINISTRY OF COMMERCE",
+				160,
+				180,
+				"ORG"
+			],
+			[
+				"STOCKHOLM",
+				205,
+				214,
+				"LOC"
+			],
+			[
+				"CAROLINE FLEETWOOD",
+				216,
+				234,
+				"PERSON"
+			],
+			[
+				"MINISTRY OF FOREIGN AFFAIRS",
+				242,
+				269,
+				"ORG"
+			],
+			[
+				"BJORN SKALA",
+				274,
+				285,
+				"PERSON"
+			],
+			[
+				"MINISTRY FOR INTERNATIONAL DEVELOPMENT COOPERATION",
+				293,
+				343,
+				"ORG"
+			],
+			[
+				"WASH- INGTON",
+				355,
+				367,
+				"LOC"
+			],
+			[
+				"ULF DINKELSPIEL",
+				369,
+				384,
+				"PERSON"
+			],
+			[
+				"SWEDISH EMBASSY",
+				392,
+				407,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "ALSO, THE SWEDISH DELEGATION WILL INCLUDE KARL WARNBERG, HEAD OF THE SWEDISH EXPORT COUNCIL, AMBASSADOR GORAN ENGBLOM, SWEDISH AMBASSADOR TO PERU, AND REPRESENTATIVES OF THE SWEDISH INDUS- TRIAL FEDERATION, THE SWEDISH BUILDING CONTRACTORS, SWEDISH BANKERS ASSOCIATION, AND PROBABLY OTHERS.",
+		"entities": [
+			[
+				"SWEDISH",
+				10,
+				17,
+				"GPE"
+			],
+			[
+				"KARL WARNBERG",
+				42,
+				55,
+				"PERSON"
+			],
+			[
+				"SWEDISH EXPORT COUNCIL",
+				69,
+				91,
+				"ORG"
+			],
+			[
+				"AMBASSADOR GORAN ENGBLOM",
+				93,
+				117,
+				"PERSON"
+			],
+			[
+				"SWEDISH AMBASSADOR TO PERU",
+				119,
+				145,
+				"NORP"
+			],
+			[
+				"SWEDISH",
+				174,
+				181,
+				"NOTP"
+			],
+			[
+				"SWEDISH",
+				211,
+				218,
+				"NORP"
+			],
+			[
+				"SWEDISH",
+				241,
+				248,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "(SOME OF THESE PERSONAGES WILL BE IN SAN FRANCISCO BEFORE THE VANCOUVER MEETING, FOR A \"SEMINAR ON ALASKA\", ORGANIZED BY THE SWEDISH CONSULATE GENERAL.",
+		"entities": [
+			[
+				"SAN FRANCISCO",
+				37,
+				50,
+				"LOC"
+			],
+			[
+				"VANCOUVER",
+				62,
+				71,
+				"LOC"
+			],
+			[
+				"ALASKA",
+				99,
+				105,
+				"LOC"
+			],
+			[
+				"SWEDISH CONSULATE GENERAL",
+				125,
+				150,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THEY PROCEED TO VANCOUVER ON SATURDAY, APRIL 15.) 2.",
+		"entities": [
+			[
+				"VANCOUVER",
+				16,
+				25,
+				"LOC"
+			],
+			[
+				"APRIL 15",
+				39,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "NORDENFALK WOULD LIKE TO MEET WITH ASSISTANT SECRETARY BERGSTEN TO DISCUSS (1) HUMAN RIGHTS CONSIDERATIONS IN THE IDB; (2) PROTECTIONISM; (3) TRANSFER OF TECHNOLOGY.",
+		"entities": [
+			[
+				"NORDENFALK",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"ASSISTANT SECRETARY BERGSTEN",
+				35,
+				63,
+				"PERSON"
+			],
+			[
+				"IDB",
+				114,
+				117,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "COMMENT: THE PARTICIPATION OF REPRESENTATIVES FROM INDUS- TRY, BANKING, ETC., ILLUSTRATES SWEDEN'S INTEREST IN DEVELOP- ING TRADE AND INVESTMENT THROUGH ITS NEW MEMBERSHIP IN THE IDB.",
+		"entities": [
+			[
+				"SWEDEN",
+				90,
+				96,
+				"GPE"
+			],
+			[
+				"IDB",
+				179,
+				182,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE FACT THAT THE MINISTRY OF COMMERCE FUNDED SWEDEN'S IDB MEMBERSHIP, RATHER THAN THE DEVELOPMENT COOPERATION MINISTRY, HAS PERMITTED THE GOS TO ACCENTUATE TRADE--AND EMPLOYMENT IN SWEDEN--THROUGH THE IDB, I.E., THROUGH CONTRACTS WHICH THE IDB MIGHT FUND.",
+		"entities": [
+			[
+				"MINISTRY OF COMMERCE",
+				18,
+				38,
+				"ORG"
+			],
+			[
+				"SWEDEN",
+				46,
+				52,
+				"GPE"
+			],
+			[
+				"IDB",
+				55,
+				58,
+				"ORG"
+			],
+			[
+				"DEVELOPMENT COOPERATION MINISTRY",
+				87,
+				119,
+				"ORG"
+			],
+			[
+				"GOS",
+				139,
+				142,
+				"GPE"
+			],
+			[
+				"SWEDEN",
+				182,
+				188,
+				"GPE"
+			],
+			[
+				"IDB",
+				202,
+				205,
+				"ORG"
+			],
+			[
+				"IDB",
+				241,
+				244,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "AMBASSADOR ENGBLOM PREPARED A SPECIAL SUTDY IN 1977 ON INTEGRATING SWEDISH INDUSTRIES MORE CLOSELY WITH SWEDISH FOREIGN AID AND HE CAN BE EXPECTED TO BE AN ACTIVE MEMBER OF THE SWEDISH TEAM.",
+		"entities": [
+			[
+				"AMBASSADOR ENGBLOM",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"1977",
+				47,
+				51,
+				"DATE"
+			],
+			[
+				"SWEDISH",
+				67,
+				74,
+				"NORP"
+			],
+			[
+				"SWEDISH",
+				104,
+				111,
+				"GPE"
+			],
+			[
+				"SWEDISH",
+				177,
+				184,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "KENNEDY-MINOTT ']",
+		"entities": [
+			[
+				"KENNEDY-MINOTT",
+				0,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "MACEACHEN'S OFFICE JUST ADVISED THAT HE REGRETFULLY HAS TO POSTPONE MARCH BQ MEETING WITH AMBASSADOR SILBERMAN DUE TO URGENT OUT OF TOWN ENGAGEMENT.",
+		"entities": [
+			[
+				"MACEACHEN",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"BQ",
+				74,
+				76,
+				"GPE"
+			],
+			[
+				"AMBASSADOR SILBERMAN",
+				90,
+				110,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MINISTER HAS CONFIRMED APPOINTMENT FOR WEDNESDAY MARCH 3 AT 3:15 P.M. WE SUBSEQUENTLY CONFIRMED MEETING WITH LABOR MINISTER FOR 1 P.M. SAME DAY.",
+		"entities": [
+			[
+				"MINISTER",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"MARCH 3",
+				49,
+				56,
+				"DATE"
+			],
+			[
+				"LABOR MINISTER",
+				109,
+				123,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "IF AMBASSADOR SILBERMAN PLANS TO REMAIN IN OTTAWA OVERNIGHT, I VERY MUCH HOPE HE WILL STAY AT THE RESIDENCE ON MARCH 2 OR 3 EVEN THOUGH I SHALL BE OUT OF TOWN NIGHT OF MARCH 3.",
+		"entities": [
+			[
+				"AMBASSADOR SILBERMAN",
+				3,
+				23,
+				"PERSON"
+			],
+			[
+				"OTTAWA",
+				43,
+				49,
+				"LOC"
+			],
+			[
+				"MARCH 2 OR 3",
+				111,
+				123,
+				"DATE"
+			],
+			[
+				"MARCH 3",
+				168,
+				175,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "LABATT WOULD LIKE TO HAVE PFEIFFER STAY WITH HIM IF HE COMES.",
+		"entities": [
+			[
+				"LABATT",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"PFEIFFER",
+				26,
+				34,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "ENDERS UNQTE INGERSOLL \"]",
+		"entities": [
+			[
+				"ENDERS",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"INGERSOLL",
+				13,
+				22,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['FOLLOWING IS TEXT OF SATURDAY'S EVENING READING: 1.",
+		"entities": []
+	},
+	{
+		"content": "KOREAN PRISONER RELEASE.",
+		"entities": [
+			[
+				"KOREAN",
+				0,
+				6,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "THE KOREAN GOVERNMENT HAS ANNOUNCED THE RELEASE TODAY OF ALL BUT ONE OF THE \"MYONGDONG PRISONERS,\" THE OPPOSITION POLITICAL AND RELIGIOUS FIGURES ARRESTED IN CONNECTION WITH THE ISSUANCE OF ANTI-GOVERNMENT MANIFESTO AT MYONGDONG CATHEDRAL IN SEOUL IN 1976.",
+		"entities": [
+			[
+				"KOREAN GOVERNMENT",
+				4,
+				21,
+				"GPE"
+			],
+			[
+				"MYONGDONG",
+				77,
+				86,
+				"LOC"
+			],
+			[
+				"MYONGDONG CATHEDRAL",
+				219,
+				238,
+				"FAC"
+			],
+			[
+				"SEOUL",
+				242,
+				247,
+				"LOC"
+			],
+			[
+				"1976",
+				251,
+				255,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "FORMER PRESIDENTIAL CANDIDATE KIM DAE-JUNG, THE MOST PROMINENT OF THE PRISONERS, WAS NOT RELEASED, BUT HAS BEEN MOVED TO SEOUL UNIVERSITY HOSPITAL FOR MEDICAL TREATMENT.",
+		"entities": [
+			[
+				"KIM DAE-JUNG",
+				30,
+				42,
+				"PERSON"
+			],
+			[
+				"SEOUL UNIVERSITY HOSPITAL",
+				121,
+				146,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "WE HAVE ISSUED A STATEMENT TO THE PRESS WELCOMING RECENT RELEASES OF POLITICAL PRISONERS BY INDONESIA, PAKISTAN, AND BANGLADESH.",
+		"entities": [
+			[
+				"INDONESIA",
+				92,
+				101,
+				"GPE"
+			],
+			[
+				"PAKISTAN",
+				103,
+				111,
+				"GPE"
+			],
+			[
+				"BANGLADESH",
+				117,
+				127,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "RIBICOFF ANTI-TERRORISM BILL.",
+		"entities": [
+			[
+				"RIBICOFF",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "FOLLOWING THE SCC MEETING LAST TUESDAY, THE HEAD OF OUR ANTI-TERRORISM WORKING GROUP MET WITH STAFFERS FOR RIBICOFF AND JAVITS TO DISCUSS INFORMALLY OUR COMMENTS ON THE RIBICOFF BILL.",
+		"entities": [
+			[
+				"SCC",
+				14,
+				17,
+				"ORG"
+			],
+			[
+				"RIBICOFF",
+				107,
+				115,
+				"PERSON"
+			],
+			[
+				"JAVITS",
+				120,
+				126,
+				"PERSON"
+			],
+			[
+				"RIBICOFF",
+				169,
+				177,
+				"PERSON"
+			]
+			
+		]
+	},
+	{
+		"content": "THE STAFFERS INDICATED AN ENCOURAGING WILLINGNESS TO AMEND TROUBLESOME AREAS OF THE BILL; FOR EXAMPLE: (A) THEY WOULD CONSIDER GIVING STATUTORY EFFECT TO THE PRESENT ORGANIZATIONAL ARRANGEMENTS UNDER THE SCC; (B) THEY ARE INCLINED TO DROP THE ONE-HOUSE VETO FEATURE; (C) AND THEY DO NOT INSIST ON AUTOMATIC SANCTIONS, BUT WILL PRESS FOR AN INDICATION OF ADMINISTRATION RESOLVE TO ACT AGAINST COUNTRIES WHICH SUPPORT INTERNATIONAL TERRORISM OR HAVE INADEQUATE AIRPORT SECURITY (THE FAILURE TO INVOKE THE AUTHORITY UNDER THE 1974 ANTI-HIJACKING ACT WAS A FREQUENT THEME).",
+		"entities": [
+			[
+				"SCC",
+				204,
+				207,
+				"ORG"
+			],
+			[
+				"1974 ANTI-HIJACKING ACT",
+				523,
+				546,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "THE STAFFERS INDICATED THAT IT WOULD NOT BE POSSIBLE TO REDRAFT THE BILL BEFORE THE HEARINGS START JANUARY 23 BECAUSE OF THE HEAVY TRAVEL SCHEDULES OF SENATORS RIBICOFF AND JAVITS IN JANUARY, CONCURRENT STAFF TRAVEL RELATED TO THE BILL, AND THE DESIRE TO HEAR ALL SCHEDULED WITNESSES BEFORE BEGINNING THE MARK-UP.",
+		"entities": [
+			[
+				"JANUARY 23",
+				99,
+				109,
+				"DATE"
+			],
+			[
+				"SENATORS RIBICOFF",
+				151,
+				168,
+				"PERSON"
+			],
+			[
+				"JAVITS",
+				173,
+				179,
+				"PERSON"
+			],
+			[
+				"JANUARY",
+				183,
+				190,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "UNDER THE CIRCUMSTANCES, RIBICOFF HAS SUGGESTED THE SECRETARY ENDORSE THE THRUST OF THE BILL, STRESS THE IMPORTANCE OF IMPROVING OUR METHODS FOR DEALING WITH TERRORISM, AND NOTE THAT THE BILL NEEDS SOME ADJUSTMENTS.",
+		"entities": [
+			[
+				"RIBICOFF",
+				25,
+				33,
+				"PERSON"
+			],
+			[
+				"SECRETARY",
+				52,
+				61,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I HAVE ASKED THAT CY'S TESTIMONY BE DRAFTED ON A POSITIVE AND AFFIRMATIVE BASIS, WITHOUT ANY LONG RECITAL OF OUR RESERVATIONS BUT WITH AN INDICATION THAT OUR STAFFS ARE WORKING HARMONIOUSLY ON SPECIFIC ADJUSTMENTS. 3.",
+		"entities": [
+			[
+				"CY",
+				18,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "CAMBODIA-VIETNAM BREAK.",
+		"entities": [
+			[
+				"CAMBODIA-VIETNAM",
+				0,
+				16,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "CAMBODIA HAS \"TEMPORARILY\" BROKEN RELATIONS WITH VIETNAM AND ACCUSED VIETNAM OF AGGRESSION IN AN INTEMPERATE COMMUNIQUE COMPARING VIETNAMESE ATTACKS INTO EASTERN CAMBODIA WITH HITLER'S THRUST INTO CZECHOSLOVAKIA.",
+		"entities": [
+			[
+				"CAMBODIA",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"VIETNAM",
+				49,
+				56,
+				"GPE"
+			],
+			[
+				"VIETNAM",
+				69,
+				76,
+				"GPE"
+			],
+			[
+				"VIETNAMESE",
+				130,
+				140,
+				"GPE"
+			],
+			[
+				"EASTERN CAMBODIA",
+				154,
+				170,
+				"LOC"
+			],
+			[
+				"HITLER",
+				176,
+				182,
+				"PERSON"
+			],
+			[
+				"CZECHOSLOVAKIA",
+				197,
+				211,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THIS IS THE FIRST SIGNIFICANT PUBLIC REACTION TO INTENSIFIED THOUGH INTERMITTENT FIGHTING WHICH BEGAN LAST SPRING.",
+		"entities": []
+	},
+	{
+		"content": "THE FIGHTING HAS BEEN HEAVY IN RECENT WEEKS AS VIETNAM TROOPS IN DIVISION STRENGTH MOVED 10-15 KM. INTO CAMBODIA.",
+		"entities": [
+			[
+				"VIETNAM",
+				47,
+				54,
+				"NORP"
+			],
+			[
+				"CAMBODIA",
+				104,
+				112,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE CAUSES FOR THE FIGHTING INCLUDE CAMBODIA'S VIEW THAT THE VIETNAMESE (AND SOVIETS) ARE TRYING TO PRESSURE THEM INTO AN INDOCHINA FEDERATION UNDER VIETNAMESE DOMINATION, AND VIETNAM'S VIEW THAT CAMBODIA, WITH CHINESE SUPPORT, HAS MADE UNREASONABLE TERRITORIAL CLAIMS.",
+		"entities": [
+			[
+				"CAMBODIA",
+				36,
+				44,
+				"GPE"
+			],
+			[
+				"VIETNAMESE",
+				61,
+				71,
+				"GPE"
+			],
+			[
+				"SOVIETS",
+				77,
+				84,
+				"GPE"
+			],
+			[
+				"INDOCHINA FEDERATION",
+				122,
+				142,
+				"ORG"
+			],
+			[
+				"VIETNAMESE",
+				149,
+				159,
+				"GPE"
+			],
+			[
+				"VIETNAM",
+				176,
+				183,
+				"GPE"
+			],
+			[
+				"CAMBODIA",
+				196,
+				204,
+				"GPE"
+			],
+			[
+				"CHINESE",
+				211,
+				218,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "CENTURIES OF ANIMOSITY FUEL THIS DISPUTE.",
+		"entities": []
+	},
+	{
+		"content": "PUBLIC DISCLOSURE OF THE CAMBODIA/VIETNAM FIGHTING MAY HAVE SIGNIFICANT EFFECTS",
+		"entities": [
+			[
+				"CAMBODIA/VIETNAM",
+				25,
+				41,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WELL BEYOND INDOCHINA.",
+		"entities": [
+			[
+				"INDOCHINA",
+				12,
+				21,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "CHINA, WHICH HAD EARLIER IMPLIED PUBLIC SUPPORT FOR CAMBODIA'S DEFENSIVE EFFORTS, HAS REPORTEDLY DEPLORED THE BORDER CLASHES AND SUGGESTED RESOLUTION BY PEACEFUL NEGOTIATIONS.",
+		"entities": [
+			[
+				"CHINA",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"CAMBODIA",
+				52,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "CHINA'S GREATER INTEREST IS IN REGIONAL STABILITY.",
+		"entities": [
+			[
+				"CHINA",
+				0,
+				5,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE CAMBODIANS HAVE CHARGED THAT SOME \"FOREIGNERS\" COMMAND VIETNAMESE UNITS IN THE ATTACKING FORCES, A PROBABLE REFERENCE TO SOVIETS, BUT WE HAVE NO EVIDENCE OF SUCH THIRD-COUNTRY INVOLVEMENT.",
+		"entities": [
+			[
+				"CAMBODIANS",
+				4,
+				14,
+				"GPE"
+			],
+			[
+				"VIETNAMESE UNITS",
+				59,
+				75,
+				"ORG"
+			],
+			[
+				"SOVIETS",
+				125,
+				132,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MEANWHILE, REPORTS OF THE GRUESOME SLAUGHTER OF THE MIDDLE AND UPPER CLASSES IN CAMBODIA MOUNT.",
+		"entities": [
+			[
+				"CAMBODIA",
+				80,
+				88,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "CHRISTOPHER ']",
+		"entities": [
+			[
+				"CHRISTOPHER",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "DEPARTMENT CONTACTED BY MR.",
+		"entities": [
+			[
+				"DEPARTMENT",
+				0,
+				10,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "KEVIN GILLESPIE OF NATIONAL CAPITAL TRAVEL CENTER CONCERNING WELFARE/WHEREABOUTS OF WILLIAM AND GRADY MOSS (FATHER AND SON).",
+		"entities": [
+			[
+				"KEVIN GILLESPIE",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"NATIONAL CAPITAL TRAVEL CENTER",
+				19,
+				49,
+				"ORG"
+			],
+			[
+				"WILLIAM AND GRADY MOSS",
+				84,
+				106,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MOSS' ARRIVED JUBBA APPROXIMATELY FEB.",
+		"entities": [
+			[
+				"MOSS",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"JUBBA",
+				14,
+				19,
+				"LOC"
+			],
+			[
+				"FEB",
+				34,
+				37,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "6 FOR HUNTING TRIP TO SOUTHERN SUDAN WITH NIMERICO SAFARIAND TOURIST CO., LTD., TELEPHONE: 2348 IN JUBBA AND 79070 OR 74794 IN KHARTOUM.",
+		"entities": [
+			[
+				"SOUTHERN SUDAN",
+				22,
+				36,
+				"LOC"
+			],
+			[
+				"NIMERICO SAFARIAND TOURIST CO., LTD",
+				42,
+				77,
+				"ORG"
+			],
+			[
+				"JUBBA",
+				99,
+				104,
+				"LOC"
+			],
+			[
+				"KHARTOUM",
+				127,
+				135,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE TRIP WAS SPONSORED BY SILLHOUTTE SAFARI INTERNATIONAL.",
+		"entities": [
+			[
+				"SILLHOUTTE SAFARI INTERNATIONAL",
+				26,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "CONTACT THERE IS MR.",
+		"entities": []
+	},
+	{
+		"content": "JOSE SIMOES.",
+		"entities": [
+			[
+				"JOSE SIMOES",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MOSS AND SON WERE SCHEDULED TO RETURN WASHINGTON, D.C. MARCH 12 .",
+		"entities": [
+			[
+				"MOSS",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"WASHINGTON, D.C.",
+				38,
+				54,
+				"LOC"
+			],
+			[
+				"MARCH 12",
+				55,
+				63,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THEY WERE TO DEPART JUBBA MARCH 10 VIA SUDAN AIR FLIGHT 321 TO KHARTOUM.",
+		"entities": [
+			[
+				"JUBBA",
+				20,
+				25,
+				"LOC"
+			],
+			[
+				"MARCH 10",
+				26,
+				34,
+				"DATE"
+			],
+			[
+				"SUDAN AIR",
+				39,
+				48,
+				"ORG"
+			],
+			[
+				"KHARTOUM",
+				63,
+				71,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THEY WERE SCHEDULED TO MAKE SIDE TRIPS TO CAIRO AND ARRIVED SUDAN AIR FLIGHT 100 MARCH 7.",
+		"entities": [
+			[
+				"CAIRO",
+				42,
+				47,
+				"LOC"
+			],
+			[
+				"SUDAN AIR",
+				60,
+				69,
+				"ORG"
+			],
+			[
+				"MARCH 7",
+				81,
+				88,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THEY WERE TO DEPART VIA ALITALIA FLIGHT 895 MARCH 10 TO ROMA AND DEPART ROME VIA TWA FLIGHT 811 MARCH 11 TO PARIS.",
+		"entities": [
+			[
+				"ALITALIA",
+				24,
+				32,
+				"ORG"
+			],
+			[
+				"MARCH 10",
+				44,
+				52,
+				"DATE"
+			],
+			[
+				"ROMA",
+				56,
+				60,
+				"LOC"
+			],
+			[
+				"ROME",
+				72,
+				76,
+				"LOC"
+			],
+			[
+				"TWA",
+				81,
+				84,
+				"ORG"
+			],
+			[
+				"MARCH 11",
+				96,
+				104,
+				"DATE"
+			],
+			[
+				"PARIS",
+				108,
+				113,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MR. GILLESPIE IS ESPECIALLY CONCERNED SINCE MOSS' WERE CARRYING HUNTING WEAPONS AND FEELS THEY HAVE ENCOUNTERED DIFFICULTY IN ATTEMPTING TO LEAVE SUDAN WITH GUNS.",
+		"entities": [
+			[
+				"GILLESPIE",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"MOSS",
+				44,
+				48,
+				"PERSON"
+			],
+			[
+				"SUDAN",
+				146,
+				151,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "DEPARTMENT WOULD APPRECIATE POST'S ASSISTANCE IN ATTEMPTING TO CONTACT MOSS'.",
+		"entities": [
+			[
+				"DEPARTMENT",
+				0,
+				10,
+				"ORG"
+			],
+			[
+				"POST",
+				28,
+				32,
+				"PERSON"
+			],
+			[
+				"MOSS",
+				71,
+				75,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "IF LOCATED",
+		"entities": []
+	},
+	{
+		"content": "PLS REQUEST THAT THEY CONTACT EITHER",
+		"entities": []
+	},
+	{
+		"content": "MR. GILLESPIE AT AREA CODE 202-466- EFFORTS TO CA/OCS/EMR.",
+		"entities": [
+			[
+				"GILLESPIE",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"CA/OCS/EMR",
+				47,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "VANCE \"]",
+		"entities": [
+			[
+				"VANCE",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['USEC/J APPROVES EXTENSION FOR ITAYA AND MINEGISHI IF BFS HAS NO OBJECTION FOR THIRD YEAR EXTENSION FOR TEACHERS.",
+		"entities": [
+			[
+				"USEC/J",
+				2,
+				8,
+				"ORG"
+			],
+			[
+				"ITAYA",
+				32,
+				37,
+				"PERSON"
+			],
+			[
+				"MINEGISHI",
+				42,
+				51,
+				"PERSON"
+			],
+			[
+				"BFS",
+				55,
+				58,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "HODGSON ']",
+		"entities": [
+			[
+				"HODGSON",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['APPRECIATE FOR VOA USE USINFO COVERAGE MOSCOW FILM FESTIVAL INCLUDING REACTION TO AMERICAN FILMS AND ACTIVITIES U.S. DELEGATION.",
+		"entities": [
+			[
+				"VOA",
+				17,
+				20,
+				"ORG"
+			],
+			[
+				"USINFO",
+				25,
+				31,
+				"ORG"
+			],
+			[
+				"MOSCOW FILM FESTIVAL",
+				41,
+				61,
+				"EVENT"
+			],
+			[
+				"AMERICAN",
+				84,
+				92,
+				"NORP"
+			],
+			[
+				"U.S.",
+				114,
+				118,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "ROGERS ']",
+		"entities": [
+			[
+				"ROGERS",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "MFA HAS CALLED TO OUR ATTENTION AN AIR BROADCAST OF MAY 30 WHICH REPORTED THAT FORMER AZAD KASHMIR PRESIDENT ABDUL QAYYUM KHAN HAS SAID IN A LETTER TO SHEIKH ABDULLAH THAT THE PEOPLE OF AK ARE LIVING IN PERPETUAL TERROR AND DO NOT WANT TO REMAIN WITHIN PAKISTAN.",
+		"entities": [
+			[
+				"MFA",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"MAY 30",
+				52,
+				58,
+				"DATE"
+			],
+			[
+				"AZAD KASHMIR",
+				86,
+				98,
+				"GPE"
+			],
+			[
+				"PRESIDENT ABDUL QAYYUM KHAN",
+				99,
+				126,
+				"PERSON"
+			],
+			[
+				"SHEIKH ABDULLAH",
+				151,
+				166,
+				"PERSON"
+			],
+			[
+				"AK",
+				186,
+				188,
+				"GPE"
+			],
+			[
+				"PAKISTAN",
+				253,
+				261,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE AIR ACCOUNT IS SAID TO HAVE REPORTED THAT THE LETTER WAS PUBLISHED IN THE SRINIGAR WEEKLY AAINA.",
+		"entities": [
+			[
+				"SRINIGAR",
+				78,
+				86,
+				"LOC"
+			],
+			[
+				"AAINA",
+				94,
+				99,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "AS YOU WILL RECALL, GOP STACKED CARDS AGAINST QAYYUM IN LAST MONTH'S AK RACE AND HE FINALLY BOYCOTTED ELECTION (ISLAMABAD 4617).",
+		"entities": [
+			[
+				"GOP",
+				20,
+				23,
+				"GPE"
+			],
+			[
+				"QAYYUM",
+				46,
+				52,
+				"PERSON"
+			],
+			[
+				"AK",
+				69,
+				71,
+				"GPE"
+			],
+			[
+				"ISLAMABAD",
+				112,
+				121,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "HE REPORTEDLY CHARGED DURING COURSE OF CAMPAIGN THAT IF GOP PERSISTED IN GROSS INTERFERENCE IN ELECTION AZAD KASHMIRIS WOULD FLEE ACROSS BORDER TO INDIAN KASHMIR.",
+		"entities": [
+			[
+				"GOP",
+				56,
+				59,
+				"GPE"
+			],
+			[
+				"AZAD KASHMIRIS",
+				104,
+				118,
+				"NORP"
+			],
+			[
+				"INDIAN KASHMIR",
+				147,
+				161,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "WE WOULD APPRECIATE ANYTHING YOU CAN SEND US ON THIS STORY, INCLUDING IF AT ALL POSSIBLE TEXT OF ALLEGED QAYYUM-ABDULLAH LETTER AS REPORTEDLY PUBLISHED IN AAINA.",
+		"entities": [
+			[
+				"QAYYUM-ABDULLAH",
+				105,
+				120,
+				"PERSON"
+			],
+			[
+				"AAINA",
+				155,
+				160,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "BYROADE \"]",
+		"entities": [
+			[
+				"BYROADE",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['HOWARD SAMUEL 1.",
+		"entities": [
+			[
+				"HOWARD SAMUEL",
+				2,
+				15,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "AFRICAN AMERICAN LABOR CENTER WILL MAKE ARRANGEMENTS TO TRANSPORT DEPUTY UNDER SECRETARY AND MRS. SAMUEL FROM NAIROBI AIRPORT TO CONFERENCE LOCATION (MT. KENYA SAFARI CLUB, TWO AND A HALF HOUR DRIVE FROM NAIROBI)",
+		"entities": [
+			[
+				"AFRICAN AMERICAN LABOR CENTER",
+				0,
+				29,
+				"ORG"
+			],
+			[
+				"DEPUTY UNDER SECRETARY",
+				66,
+				88,
+				"PERSON"
+			],
+			[
+				"MRS. SAMUEL",
+				93,
+				104,
+				"PERSON"
+			],
+			[
+				"NAIROBI AIRPORT",
+				110,
+				125,
+				"FAC"
+			],
+			[
+				"MT. KENYA SAFARI CLUB",
+				150,
+				171,
+				"ORG"
+			],
+			[
+				"NAIROBI",
+				50,
+				57,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "ON SUNDAY, APRIL 3.",
+		"entities": [
+			[
+				"APRIL 3",
+				11,
+				18,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "SUGGEST SECRETARY AND MRS. SAMUEL STAY AT MT. KENYA SAFARI CLUB FOR 3 NIGHTS.",
+		"entities": [
+			[
+				"SECRETARY",
+				8,
+				17,
+				"PERSON"
+			],
+			[
+				"MRS. SAMUEL",
+				22,
+				33,
+				"PERSON"
+			],
+			[
+				"MT. KENYA SAFARI CLUB",
+				42,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "IN VIEW EARLY DEPARTURE FROM NAIROBI APRIL 7, SUGGEST SECRETARY AND MRS. SAMUEL SPEND NIGHT OF APRIL 6 IN NAIROBI.",
+		"entities": [
+			[
+				"NAIROBI",
+				29,
+				36,
+				"LOC"
+			],
+			[
+				"APRIL 7",
+				37,
+				44,
+				"DATE"
+			],
+			[
+				"SECRETARY",
+				54,
+				63,
+				"PERSON"
+			],
+			[
+				"MRS. SAMUEL",
+				68,
+				79,
+				"PERSON"
+			],
+			[
+				"APRIL 6",
+				95,
+				102,
+				"DATE"
+			],
+			[
+				"NAIROBI",
+				106,
+				113,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "WE HAVE RESERVED DOUBLE FOR THEM AT NAIROBI HILTON FOR THAT NIGHT.",
+		"entities": [
+			[
+				"NAIROBI HILTON",
+				36,
+				50,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "AMBASSADOR MARSHALL WILL BE VISITING AALC CONFERENCE MORNING AND LUNCH.",
+		"entities": [
+			[
+				"AMBASSADOR MARSHALL",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"AALC",
+				37,
+				41,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "OF APRIL 6.",
+		"entities": [
+			[
+				"APRIL 6",
+				3,
+				10,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "MARSHALL ']",
+		"entities": [
+			[
+				"MARSHALL",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['TEXT OF SUBJECT HAS BEEN POUCHED TO YOU.",
+		"entities": []
+	},
+	{
+		"content": "YOU SHOULD RECEIVE IT SHORTLY.",
+		"entities": []
+	},
+	{
+		"content": "KISSINGER ']",
+		"entities": [
+			[
+				"KISSINGER",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "JAPANESE COLOR TV MAKERS REACTED WITH EMOTIONALISM TO ITC RECOMMENDATIONS, ALL CLAIMING THAT ITC DECISION FOR TARIFF HIKE IS MORE SEVERE THAN NUMERICAL QUOTA RESTRICTIONS.",
+		"entities": [
+			[
+				"JAPANESE",
+				0,
+				8,
+				"NORP"
+			],
+			[
+				"ITC",
+				54,
+				57,
+				"ORG"
+			],
+			[
+				"ITC",
+				93,
+				96,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "ALL KINDS OF FIGURES ARE FLYING ABOUT, WITH SOME COMPANIES CLAIMING JAPANESE COLOR TV EXPORTS TO U.S. WILL DROP TO LESS THAN ONE MILLION SETS PER YEAR IF ITC RECOMMENDATIONS ARE IMPLEMENTED, AND PRICES OF SETS IN U.S. WILL INCREASE AS MUCH AS 40 PERCENT.",
+		"entities": [
+			[
+				"JAPANESE",
+				68,
+				76,
+				"NORP"
+			],
+			[
+				"U.S.",
+				97,
+				101,
+				"LOC"
+			],
+			[
+				"ITC",
+				154,
+				157,
+				"ORG"
+			],
+			[
+				"U.S.",
+				213,
+				217,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FOLOWING INITIAL EXPRESSIONS OF OUTRAGE, JAPANESE BUSINESSMEN HAVE RETIRED TO THEIR CALCULATORS TO DETEMINE ACTUAL IMPACT ON THEIR OWN COMPANIES.",
+		"entities": [
+			[
+				"JAPANESE",
+				41,
+				49,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "BIGGEST OUTBURSTS,AS EXPECTED, CAME FROM MAJOR EXPORTERS -- SANYO, SHARP, AND TOSHIBA -- WHO REPORTEDLY ACCOUNT",
+		"entities": [
+			[
+				"SANYO",
+				60,
+				65,
+				"ORG"
+			],
+			[
+				"SHARP",
+				67,
+				72,
+				"ORG"
+			],
+			[
+				"TOSHIBA",
+				78,
+				85,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FOOR",
+		"entities": []
+	},
+	{
+		"content": "60PERCENT OF EXPORTS TO U.S. OTHER MANUFACTURERS SUCH AS SONY,VICTOR,AND MITSUBISHI ELECTRIC, WERE DISTURBED BY ITC'S OPTING FOR TARIFF HIKE.",
+		"entities": [
+			[
+				"U.S.",
+				24,
+				28,
+				"LOC"
+			],
+			[
+				"SONY",
+				57,
+				61,
+				"ORG"
+			],
+			[
+				"VICTOR",
+				62,
+				68,
+				"ORG"
+			],
+			[
+				"MITSUBISHI ELECTRIC",
+				73,
+				92,
+				"ORG"
+			],
+			[
+				"ITC",
+				112,
+				115,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THESE COMPANIES STATE THEY ARE ALREADY SELLING IN U.S. AT PRICES EQUAL TO OR HIGHER THAN U.S. SETS, AND TARIFF HIKE WOULD PENALIZE THEM MORE THAN THE LOWER-PRICED \"OFFENDERS\" SUCH AS SANYO AND TOSHIBA. 3.",
+		"entities": [
+			[
+				"U.S.",
+				50,
+				54,
+				"LOC"
+			],
+			[
+				"U.S.",
+				89,
+				93,
+				"NORP"
+			],
+			[
+				"SANYO",
+				183,
+				188,
+				"ORG"
+			],
+			[
+				"TOSHIBA",
+				193,
+				200,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "JAPANESE MAKERS ALL CLAIM THEY WILL LOSE PRICE COMPETITIVENESS IN U.S. MARKET AND THAT CONSUMERS AND MASS RETAILERS WILL SWITCH TO U.S.-MADE SETS.",
+		"entities": [
+			[
+				"JAPANESE",
+				0,
+				8,
+				"NORP"
+			],
+			[
+				"U.S.",
+				66,
+				70,
+				"NORP"
+			],
+			[
+				"U.S.",
+				131,
+				135,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "JAPAN PURCHASING MANAGER FOR MAJOR U.S. MASS RETAILER WAS NOT THIS PESSIMISTIC, HOWEVER, HE TOLD EMBOFF THAT ACTUAL IMPACT OF ITC TARRIF HIKE WILL DEPEND UPON U.S. DEMAND FOR COLOR TV'S AND CONSUMER PREFERENCES.",
+		"entities": [
+			[
+				"JAPAN",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"U.S.",
+				35,
+				39,
+				"NORP"
+			],
+			[
+				"EMBOFF",
+				97,
+				103,
+				"PERSON"
+			],
+			[
+				"ITC",
+				126,
+				129,
+				"ORG"
+			],
+			[
+				"U.S.",
+				159,
+				163,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "HE ADDED, \"IF JAPANESE MANUFACTURERS' ARGUMENTS ABOUT THEIR QUALITY, COMPETENCE IN SMALL SCREEN SETS, AND PRODUCTION EFFICIENCY ARE REALLY TRUE, THEN THEY SHOULDN'T HAVE TO WORRY TOO MUCH.\" 4.",
+		"entities": [
+			[
+				"JAPANESE",
+				14,
+				22,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "TOKYO STOCK MARKET TOOK ITC DECISION IN STRIDE, WITH ONLY SONY CLOSING LOWER.",
+		"entities": [
+			[
+				"TOKYO STOCK MARKET",
+				0,
+				18,
+				"ORG"
+			],
+			[
+				"ITC",
+				24,
+				27,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "BUTTON ']",
+		"entities": [
+			[
+				"BUTTON",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "FOLLOWING IS TEXT OF PRESS COVERAGE",
+		"entities": []
+	},
+	{
+		"content": "IN MAY 6 EDITION OF NEW YORK TIMES.",
+		"entities": [
+			[
+				"NEW YORK TIMES",
+				20,
+				34,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "PAGE 24 ARTICLE BY DAVID BURNHAM, FRIDAY MAY 5: BEGIN QUOTE:",
+		"entities": [
+			[
+				"DAVID BURNHAM",
+				19,
+				32,
+				"PERSON"
+			],
+			[
+				"MAY 5",
+				41,
+				46,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A STATE DEPARTMENT OFFICIAL TESTIFIED IN AN ESPIONAGE TRIAL TODAY THAT A SERIES OF GOVERNMENT MESSAGES ALLEGEDLY TRANSMITTED TO VIETNAM COULD AFFECT FOREIGN RELATIONS AND THE NATIONAL DEFENSE OF THE UNITED STATES.",
+		"entities": [
+			[
+				"STATE DEPARTMENT OFFICIAL",
+				2,
+				27,
+				"PERSON"
+			],
+			[
+				"VIETNAM",
+				128,
+				135,
+				"GPE"
+			],
+			[
+				"UNITED STATES",
+				199,
+				212,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "UNDER CROSS-EXAMINATION, HOWEVER, THE OFFICIAL ACKNOWLEDGED THAT A YEAR AGO HE TOLD A STATE DEPARTMENT SECURITY EXPERT THAT THE COMPROMISING OF THE DOCUMENTS WOULD RESULT IN \"MINOR OR NO DAMAGE.\"",
+		"entities": [
+			[
+				"OFFICIAL",
+				38,
+				46,
+				"PERSON"
+			],
+			[
+				"STATE DEPARTMENT SECURITY EXPERT",
+				86,
+				118,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "THE OFFICIAL WHO APPEARED TO HAVE CHANGED HIS OPINION WAS KENNETH M. QUINN, NOW A SPECIAL ASSISTANT TO RICHARD HOLBROOKE, THE ASSISTANT SECRETARY OF STATE FOR EAST ASIAN AND PACIFIC AFFIARS.",
+		"entities": [
+			[
+				"KENNETH M. QUINN",
+				58,
+				74,
+				"PERSON"
+			],
+			[
+				"SPECIAL ASSISTANT",
+				82,
+				99,
+				"TITLE"
+			],
+			[
+				"RICHARD HOLBROOKE",
+				103,
+				120,
+				"PERSON"
+			],
+			[
+				"ASSISTANT SECRETARY OF STATE FOR EAST ASIAN AND PACIFIC AFFIARS",
+				126,
+				189,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "MR. QUINN HAD BEEN CALLED BY FEDERAL PROSECUTORS TO TELL THE JURY IN FEDERAL COURT HERE OF THE IMPORTANCE OF THE DOCUMENTS THAT DAVID TRUONG, A 32-YEAR-OLD VIETNAMESE GRADUATE STUDENT, AND RONALD L. HUMPHREY, 42, AN OFFICIAL IN THE UNITED STATES INFORMATION AGENCY, HAVE BEEN ACCUSED OF STEALING AND TRANSMITTING TO MEMBERS OF THE COMMUNIST GOVERNMENT OF VIETNAM.",
+		"entities": [
+			[
+				"QUINN",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"DAVID TRUONG",
+				128,
+				140,
+				"PERSON"
+			],
+			[
+				"VIETNAMESE",
+				156,
+				166,
+				"NORP"
+			],
+			[
+				"RONALD L. HUMPHREY",
+				189,
+				207,
+				"PERSON"
+			],
+			[
+				"UNITED STATES INFORMATION AGENCY",
+				232,
+				264,
+				"ORG"
+			],
+			[
+				"COMMUNIST GOVERNMENT OF VIETNAM",
+				331,
+				362,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "BOTH HAVE DENIED THE ESPIONAGE AND OTHER CHARGES BROUGHT AGAINST THEM.",
+		"entities": []
+	},
+	{
+		"content": "NEW MOTION TO DISMISS.",
+		"entities": []
+	},
+	{
+		"content": "IN A SECOND DEVELOPMENT TODAY, LAWYERS FOR MR. TRUONG MADE A SUPPLEMENTAL MOTION TO DISMISS THE INDICTMENTS AGAINST HIM BECAUSE OF THE DIS- COVERY LAST NIGHT OF AN ANALYSIS BY THE CENTRAL INTELLIGENCE AGENCY SAYING THAT THE DECISION TO PROSECUTE THE TWO MEN \"COULD BE A VERY CLOSE CALL.\"",
+		"entities": [
+			[
+				"TRUONG",
+				47,
+				53,
+				"PERSON"
+			],
+			[
+				"CENTRAL INTELLIGENCE AGENCY",
+				180,
+				207,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE PREVIOUSLY CLASSIFIED STUDY, DATED MARCH 13, SAID THAT THE CASE WOULD BE DIFFICULT TO PRESENT TO A JURY BUT THAT \"A NUMBER OF INDIVIDUAL CABLES COULD BE SAID AT LEAST TANGENTIALLY TO 'RELATE TO THE NATIONAL DEFENSE' BY A JESUIT.\"",
+		"entities": [
+			[
+				"MARCH 13",
+				39,
+				47,
+				"DATE"
+			],
+			[
+				"JESUIT",
+				225,
+				231,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "THE JESUITS, OR MEMBERS OF THE SOCIETY OF JESUS, A CATHOLIC RELIGIOUS ORDER, ARE WIDELY KNOWN FOR THE METICULOUS AND DETERMINED ARGUMENTS THEY MAKE IN DEFENSE OF THEIR BELIEFS.",
+		"entities": [
+			[
+				"JESUITS",
+				4,
+				11,
+				"NORP"
+			],
+			[
+				"SOCIETY OF JESUS",
+				31,
+				47,
+				"ORG"
+			],
+			[
+				"CATHOLIC",
+				51,
+				59,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "THE C.I.A. STUDY WAS WRITTEN BY RICHARD LEHMAN, AN OFFICIAL IN THE NATIONAL FOREIGN ASSESSMENT CENTER.",
+		"entities": [
+			[
+				"C.I.A.",
+				4,
+				10,
+				"ORG"
+			],
+			[
+				"RICHARD LEHMAN",
+				32,
+				46,
+				"PERSON"
+			],
+			[
+				"NATIONAL FOREIGN ASSESSMENT CENTER",
+				67,
+				101,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "HE SAID THAT PERHAPS \"THE MOST RESPECTABLE ARGUMENT\" FOR WHY THE DOCU- MENTS COULD BE SAID TO AFFECT NATIONAL DEFENSE IS THAT THEY DEALT WITH VIETNAM, STILL CONSIDERED AN ENEMY STATE, AND \"IN THEIR TOTALITY WOULD INDEED GIVE THE VIETNAMESE GOVERNMENT INSIGHTS\"",
+		"entities": [
+			[
+				"VIETNAM",
+				142,
+				149,
+				"GPE"
+			],
+			[
+				"VIETNAMESE GOVERNMENT",
+				229,
+				250,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "INTO EFFORTS BY THE UNITED STATES TO NEGOTIATE A SETTLEMENT.",
+		"entities": [
+			[
+				"UNITED STATES",
+				20,
+				33,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "JUDGE DID NOT RULE.",
+		"entities": []
+	},
+	{
+		"content": "FEDERAL DISTRICT JUDGE ALBERT V. BRYAN, JR.",
+		"entities": [
+			[
+				"FEDERAL DISTRICT JUDGE ALBERT V. BRYAN, JR.",
+				0,
+				43,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "DID NOT RULE ON THE MOTION TO DISMISS THE INDICTMENT AGAINST MR. TRUONG.",
+		"entities": [
+			[
+				"TRUONG",
+				65,
+				71,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "THE QUESTION OF WHETHER THE DOCUMENTS THAT THE GOVERNMENT HAS CHARGED WERE TRANSMITTED TO VIETNAM ARE RELATED TO THE NATIONAL DEFENSE IS CRITICAL TO BOTH SIDES.",
+		"entities": [
+			[
+				"VIETNAM",
+				90,
+				97,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IF THE JURY DECIDES THAT THEY ARE OF LESSER IMPORTANCE, THIS WOULD MEAN THE TWO DEFENDANTS COULD NOT BE CONVICTED OF ESPIONAGE, THE MOST SERIOUS CHARGE BROUGHT AGAINST THEM.",
+		"entities": []
+	},
+	{
+		"content": "THEY ALSO HAVE BEEN CHARGED WITH CONSPIRACY AND FAILURE TO REGISTER AS FOREIGN AGENTS.",
+		"entities": []
+	},
+	{
+		"content": "IN TODAY'S SESSION, MR. QUINN PROVIDED A DETAILED ANALYSIS TO THE JURY OF HOW THE DOCUMENTS, IN HIS OPINION, WOULD AFFECT THE FOREIGN POLICY OF THE UNITED STATES AND THUS ITS NATIONAL DEFENSE.",
+		"entities": [
+			[
+				"QUINN",
+				24,
+				29,
+				"PERSON"
+			],
+			[
+				"UNITED STATES",
+				148,
+				161,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "BUT IN CROSS-EXAMINATION, HE ACKNOWLEDGED THAT ON MAY 11, 1977, HE SAID \"SOMETHING TO THE EFFECT\" THAT THE CABLES WOULD RESULT IN \"MINOR OR NO DAMAGE.\"",
+		"entities": [
+			[
+				"MAY 11, 1977",
+				50,
+				62,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "HE DID NOT EXPLAIN THE REASONS FOR THE CHANGE IN HIS POSITION.",
+		"entities": []
+	},
+	{
+		"content": "A REPORT BY ANOTHER OFFICIAL IN THE STATE DEPARTMENT OFFICE OF EAST ASIAN AFFAIRS ALSO WAS QUOTED YESTERDAY.",
+		"entities": [
+			[
+				"STATE DEPARTMENT OFFICE OF EAST ASIAN AFFAIRS",
+				36,
+				81,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "IT CONCLUDED THAT THERE WAS \"LITTLE OF SENSITIVE NATURE IN THE DOCUMENTS\" AND THE DAMAGE OF THEIR FALLING INTO VIETNAM'S HANDS HAD BEEN LIGHT.\"",
+		"entities": [
+			[
+				"VIETNAM",
+				111,
+				118,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "END TEXT.",
+		"entities": []
+	},
+	{
+		"content": "CHRISTOPHER ***",
+		"entities": [
+			[
+				"CHRISTOPHER **",
+				0,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Current Handling Restrictions *** n/a",
+		"entities": []
+	},
+	{
+		"content": "*** Current Classification *** UNCLASSIFIED ']",
+		"entities": []
+	},
+	{
+		"content": "[\"REGARDING PARA 2 REFTEL ON MRS. MONDALE'S PROGRAM, CHIEF OF PROTOCOL HAS JUST INFORMED US THAT A VISIT TO MINI INDONESIA WILL BE A MUST AFTER ALL.",
+		"entities": [
+			[
+				"MRS. MONDALE",
+				29,
+				41,
+				"PERSON"
+			],
+			[
+				"CHIEF OF PROTOCOL",
+				53,
+				70,
+				"PERSON"
+			],
+			[
+				"INDONESIA",
+				79,
+				88,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WORD HAS BEEN RECEIVED FROM PALACE THAT MRS. SUHARTO WOULD BE DEEPLY DISAPPOINTED IF MRS. MONDALE DID NOT VISIT IT.",
+		"entities": [
+			[
+				"PALACE",
+				28,
+				34,
+				"LOC"
+			],
+			[
+				"MRS. SUHARTO",
+				40,
+				52,
+				"PERSON"
+			],
+			[
+				"MRS. MONDALE",
+				85,
+				97,
+				"PERSON"
+			]			
+		]
+	},
+	{
+		"content": "MASTERS \"]",
+		"entities": [
+			[
+				"MASTERS",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "(S - ENTIRE TEXT.)",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "SETTING:",
+		"entities": []
+	},
+	{
+		"content": "THE KING WILL BE RELAXED, CANDID AND ANXIOUS TO TALK.",
+		"entities": [
+			[
+				"KING",
+				4,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "UPPERMOST",
+		"entities": []
+	},
+	{
+		"content": "IN HIS MIND WILL BE THE SPANISH INTERNAL SITUATION, IN WHICH CONTEXT HE WILL URGE A PRESIDENTIAL VISIT AS TANGIBLE EVIDENCE OF AMERICAN SUPPORT.",
+		"entities": [
+			[
+				"SPANISH",
+				24,
+				31,
+				"GPE"
+			],
+			[
+				"AMERICAN",
+				127,
+				135,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "HE WILL UNDOUBTEDLY ALSO ASK FOR ASSISTANCE AGAINST TERROR- ISM (SEPTEL).",
+		"entities": []
+	},
+	{
+		"content": "HE WILL ALSO BE WORRIED ABOUT NORTH AFRICA, ESPECIALLY HASSAN'S MOROCCO WHERE HE IS SUP- POSED TO GO ON A REPEATEDLY-POSTPONED VISIT JUNE 14.",
+		"entities": [
+			[
+				"NORTH AFRICA",
+				30,
+				42,
+				"LOC"
+			],
+			[
+				"HASSAN",
+				55,
+				61,
+				"PERSON"
+			],
+			[
+				"MOROCCO",
+				64,
+				71,
+				"GPE"
+			],
+			[
+				"JUNE 14",
+				133,
+				140,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THE KING WILL WANT REASSURING AND SUPPORTIVE RESPONSES, AND THIS IS A GOOD OCCASION TO PROVIDE THEM.",
+		"entities": [
+			[
+				"KING",
+				4,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "COURTESY POINTS:",
+		"entities": []
+	},
+	{
+		"content": "GREETINGS FROM THE PRESIDENT.",
+		"entities": [
+			[
+				"PRESIDENT",
+				19,
+				28,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "POINTS TO RAISE: A. OUR SYMPATHIES AND SUPPORT FOR SPAIN AND ITS GOV- ERNMENT IN THESE DIFFICULT MOMENTS.",
+		"entities": [
+			[
+				"SPAIN",
+				51,
+				56,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(SEE SEPTELS ON MEETING WITH PRIME MINISTER AND FONMIN.) 5.",
+		"entities": [
+			[
+				"PRIME MINISTER",
+				29,
+				43,
+				"PERSON"
+			],
+			[
+				"FONMIN",
+				48,
+				54,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "POINTS TO AVOID RAISING: A. BILATERAL MILITARY SUPPLY PROBLEMS.",
+		"entities": []
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "POINTS KING WILL RAISE: A. EARLY VISIT BY THE PRESIDENT.",
+		"entities": [
+			[
+				"KING",
+				7,
+				11,
+				"PERSON"
+			],
+			[
+				"PRESIDENT",
+				46,
+				55,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "B. NEED FOR U.S. ASSISTANCE TO MILITARY AND AGAINST TERRORISM.",
+		"entities": [
+			[
+				"U.S.",
+				12,
+				16,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(SEE OREJA AND SUAREZ TELS.)",
+		"entities": [
+			[
+				"OREJA",
+				5,
+				10,
+				"PERSON"
+			],
+			[
+				"SUAREZ",
+				15,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "C. NORTH AFRICA: -- ESSENTIAL ELEMENTS: (SPAIN'S RELATIONS WITH MOROCCO ARE FAIR.",
+		"entities": [
+			[
+				"NORTH AFRICA",
+				3,
+				15,
+				"LOC"
+			],
+			[
+				"SPAIN",
+				41,
+				46,
+				"GPE"
+			],
+			[
+				"MOROCCO",
+				64,
+				71,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THERE ARE FISHING PROBLEMS, SUSPI- CIONS ABOUT MOROCCAN INTENTIONS TOWARDS CEUTA AND MELILLA, FEAR THAT MOROCCO IS GETTING BOGGED DOWN IN FIGHTING THE POLISARIO, UNEASINESS ABOUT HASSAN'S POLITICAL POSITION AND EVEN HIS STATE OF MIND.",
+		"entities": [
+			[
+				"MOROCCAN",
+				47,
+				55,
+				"GPE"
+			],
+			[
+				"CEUTA",
+				75,
+				80,
+				"LOC"
+			],
+			[
+				"MELILLA",
+				85,
+				92,
+				"LOC"
+			],
+			[
+				"MOROCCO",
+				104,
+				111,
+				"GPE"
+			],
+			[
+				"POLISARIO",
+				151,
+				160,
+				"ORG"
+			],
+			[
+				"HASSAN",
+				179,
+				185,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "DESPITE THESE WORRIES AND PROBLEMS, MADRID RECOGNIZES THE IMPORTANCE OF MOROCCAN STABILITY TO ITS OWN SECURITY AND WOULD LIKE BETTER RELATIONS.)",
+		"entities": [
+			[
+				"MADRID",
+				36,
+				42,
+				"GPE"
+			],
+			[
+				"MOROCCAN",
+				72,
+				80,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "-- (I) SUGGESTED RESPONSE BY THE SECRETARY:",
+		"entities": [
+			[
+				"SECRETARY",
+				33,
+				42,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "OUR PERSPECTIVE ON NORTH AFRICA, THE SAHARA AND MOROCCO.",
+		"entities": [
+			[
+				"NORTH AFRICA",
+				19,
+				31,
+				"LOC"
+			],
+			[
+				"SAHARA",
+				37,
+				43,
+				"LOC"
+			],
+			[
+				"MOROCCO",
+				48,
+				55,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "TODMAN \"]",
+		"entities": [
+			[
+				"TODMAN",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "CONFIDENTIAL ENTIRE TEXT.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "DEPARTMENT WOULD APPRECIATE TIMELY AND FULLEST POSSIBLE REPORTING OF TITO/CASTRO MEETINGS PRIOR TO THE SUMMIT, AS THESE ARE PIVOTAL TO THE CONTEST BETWEEN CUBA AND NON-ALIGNED MODERATES.",
+		"entities": [
+			[
+				"DEPARTMENT",
+				0,
+				10,
+				"ORG"
+			],
+			[
+				"TITO/CASTRO",
+				69,
+				80,
+				"PERSON"
+			],
+			[
+				"CUBA",
+				155,
+				159,
+				"GPE"
+			],
+			[
+				"NON-ALIGNED",
+				164,
+				175,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "YUGOSLAV OFFICIALS IN WASHINGTON AND BELGRADE HAVE BEEN FORTH- COMING IN SHARING INFORMATION ABOUT THE SUMMIT.",
+		"entities": [
+			[
+				"YUGOSLAV",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"WASHINGTON",
+				22,
+				32,
+				"LOC"
+			],
+			[
+				"BELGRADE",
+				37,
+				45,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "WE WOULD HOPE YOUR YUGOSLAV CONTACTS IN HAVANA WOULD BE SIMILARLY FORTHCOMING.",
+		"entities": [
+			[
+				"YUGOSLAV",
+				19,
+				27,
+				"GPE"
+			],
+			[
+				"HAVANA",
+				40,
+				46,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "VANCE ']",
+		"entities": [
+			[
+				"VANCE",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "TWO FURTHER CONTRASTING NOTES ON SYG WALDHEIM'S PROSPECTS FOR REAPPOINTMENT REFLECT ACTIVITY IN RUMOR MILL",
+		"entities": [
+			[
+				"SYG WALDHEIM",
+				33,
+				45,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "WITHIN LAST FEW DAYS.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARIAT SOURCES REPORT THAT PRC PERM REP HUANG HUA HAS INFORMED UNGA PRESIDENT AMER- ASINGHE",
+		"entities": [
+			[
+				"PRC",
+				32,
+				35,
+				"GPE"
+			],
+			[
+				"PERM REP HUANG HUA",
+				36,
+				54,
+				"PERSON"
+			],
+			[
+				"UNGA",
+				68,
+				72,
+				"ORG"
+			],
+			[
+				"PRESIDENT AMER- ASINGHE",
+				73,
+				96,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "THAT IN CHINESE VIEW HOLDING ELECTION FOR SYG BEFORE DECEMBER WOULD BE QUOTE UNDIGNIFIED HASTE UNQUOTE.",
+		"entities": [
+			[
+				"CHINESE",
+				8,
+				15,
+				"GPE"
+			],
+			[
+				"SYG",
+				42,
+				45,
+				"PERSON"
+			],
+			[
+				"DECEMBER",
+				53,
+				61,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "ON A DIFFERENT LINE, HOWEVER, DURING EC-9 LUNCHEON FOR GOVERNOR SCRANTON OCTOBER 14, FRG PERM REP VON WECHMAR TOLD POLCOUNS THAT LATE OCTOBER 13 WALDHEIM HAD APPROACHED HIM PRIVATELY DURING A SOCIAL FUNCTION AND EXPRESSED A DESIRE TO MOVE SOON TOWARD FORMAL ACTION IN SECURITY COUNCIL -- IN LIGHT OF OVERWHELMING SUPPORT SYG HAD RECEIVED FROM MANY QUARTERS.",
+		"entities": [
+			[
+				"EC-9",
+				37,
+				41,
+				"ORG"
+			],
+			[
+				"GOVERNOR SCRANTON",
+				55,
+				72,
+				"PERSON"
+			],
+			[
+				"OCTOBER 14",
+				73,
+				83,
+				"DATE"
+			],
+			[
+				"FRG",
+				85,
+				88,
+				"GPE"
+			],
+			[
+				"PERM REP VON WECHMAR",
+				89,
+				109,
+				"PERSON"
+			],
+			[
+				"POLCOUNS",
+				115,
+				123,
+				"PERSON"
+			],
+			[
+				"OCTOBER 13",
+				134,
+				144,
+				"DATE"
+			],
+			[
+				"WALDHEIM",
+				145,
+				153,
+				"PERSON"
+			],
+			[
+				"SECURITY COUNCIL",
+				268,
+				284,
+				"ORG"
+			],
+			[
+				"SYG",
+				321,
+				324,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "HE SUGGESTED TO VON WECHMAR THAT, IF AGREEABLE, HE MIGHT APPROACH UNSC PRESIDENT AKHUND ON HIS OWN ACCOUNT -- WITHOUT REFERENCE TO ANY CONVERSATION WITH WALDHEIM -- TO URGE EARLY ACTION IN SC.",
+		"entities": [
+			[
+				"VON WECHMAR",
+				16,
+				27,
+				"PERSON"
+			],
+			[
+				"UNSC PRESIDENT AKHUND",
+				66,
+				87,
+				"PERSON"
+			],
+			[
+				"WALDHEIM",
+				153,
+				161,
+				"PERSON"
+			],
+			[
+				"SC",
+				189,
+				191,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "VON WECHMAR SAID HE PROBABLY WOULD CHECK WITH AKHUND, BUT HE HAD NO CONFIDENCE THAT THIS KIND OF ACTION WOULD INFLUENCE TIMING OF SC DEBATE.",
+		"entities": [
+			[
+				"VON WECHMAR",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"AKHUND",
+				46,
+				52,
+				"PERSON"
+			],
+			[
+				"SC",
+				130,
+				132,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "HE REFERRED TO RUMORS OF A DELAY IN PROCESS, WHICH HE ALSO HAD PICKED UP FROM SEVERAL SOURCES.",
+		"entities": []
+	},
+	{
+		"content": "SCRANTON \"]",
+		"entities": [
+			[
+				"SCRANTON",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['MRN: 1973ALGIER001631 SEGMENT NUMBER: 000001 ERROR READING TEXT INDEX FILE; TELEGRAM TEXT FOR THIS MRN IS UNAVAILABLE ']",
+		"entities": [
+			[
+				"1973ALGIER001631",
+				7,
+				23,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "SENATOR PERCY SPENT AFTERNOON",
+		"entities": [
+			[
+				"SENATOR PERCY",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "AND",
+		"entities": []
+	},
+	{
+		"content": "EVENING JANUARY 11 IN BAHRAIN.",
+		"entities": [
+			[
+				"JANUARY 11",
+				8,
+				18,
+				"DATE"
+			],
+			[
+				"BAHRAIN",
+				22,
+				29,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "IT WAS HIGHEST-",
+		"entities": []
+	},
+	{
+		"content": "POWERED VISIT WE HAVE HAD SINCE I ARRIVED IN JUNE.",
+		"entities": [
+			[
+				"JUNE",
+				45,
+				49,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "IT GAVE EVERY INDICATION OF HAVING A NEARLY PERFECT IMPACT.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "SENATOR HAD ONE HOUR MEETING WITH AMIR, WITH PRIME MINISTER ATTENDING LATTER HALF.",
+		"entities": [
+			[
+				"SENATOR",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"AMIR",
+				34,
+				38,
+				"PERSON"
+			],
+			[
+				"PRIME MINISTER",
+				45,
+				59,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "(AT SENATOR'S REQUEST SEPTEL WILL SUMMARIZE DISCUSSION)",
+		"entities": [
+			[
+				"SENATOR",
+				4,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "HE TALKED UP, NOT DOWN, TO THEM, MADE SOME EXCELLENT POINTS AND DREW THEM OUT IMPRESSIVELY.",
+		"entities": []
+	},
+	{
+		"content": "(AMIR AT ONE POINT WHISPERED TO ME NERVOUSLY",
+		"entities": [
+			[
+				"AMIR",
+				1,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\"I HOPE I AM SAYING THE RIGHT THINGS.\").",
+		"entities": []
+	},
+	{
+		"content": "THEY WERE OBVIOUSLY AWARE THEY WERE DEALING WITH A POWERFUL AND IMPRESSIVE AMERICAN POLITICAL FIGURE AND WERE CLEARLY DELIGHTED WITH HIS RECEPTIVENESS TO THEIR CONCERNS AND HIS OWN CONCERN FOR PEACE AND INTERNATIONAL COOPERATION.",
+		"entities": [
+			[
+				"AMERICAN",
+				75,
+				83,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "LATER AT RESIDENCE DINNER FOREIGN MINISTER GOT IN GOOD HOUR OF WIDE-RANGING EXCHANGE WITH SENATOR AND CAME AWAY EFFUSIVELY IMPRESSED.",
+		"entities": [
+			[
+				"FOREIGN MINISTER",
+				26,
+				42,
+				"PERSON"
+			],
+			[
+				"SENATOR",
+				90,
+				97,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "SENATOR HELD ONE HOUR DISCUSSION WITH REPRESENTATIVES AMERICAN BUSINESS COMMUNITY.",
+		"entities": [
+			[
+				"SENATOR",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"AMERICAN",
+				54,
+				62,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "THEY WERE GRATEFUL FOR CHANCE TO AIR THEIR VIEWS ON HOW U.S. MIDDLE EAST POLICY AFFECTS THEIR INTERESTS.",
+		"entities": [
+			[
+				"U.S.",
+				56,
+				60,
+				"GPE"
+			],
+			[
+				"MIDDLE EAST",
+				61,
+				72,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SENATOR SEEMED IMPRESSED BY THEIR UNANIMITY OF ENTHUSIASM FOR BAHRAIN AS HOSPITABLE NATURAL SITE FOR CON- DUCTING REGIONAL SERVICE OPERATIONS.",
+		"entities": [
+			[
+				"SENATOR",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"BAHRAIN",
+				62,
+				69,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "COMMENT: SHORTLY AFTER I ARRIVED, AMIR URGED ME TO PRODUCE SOME VISITORS \"FROM U.S. SENATE, ESPECIALLY FOREIGN RELATIONS COMMITTEE.\"",
+		"entities": [
+			[
+				"AMIR",
+				34,
+				38,
+				"PERSON"
+			],
+			[
+				"U.S. SENATE",
+				79,
+				90,
+				"ORG"
+			],
+			[
+				"FOREIGN RELATIONS COMMITTEE",
+				103,
+				130,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "PERCY VISIT WAS IDEAL RESPONSE, PARTICULARLY WELCOME AT",
+		"entities": [
+			[
+				"PERCY",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "A RELATIVELY CRITICAL TIME IN OUR RELATIONS.",
+		"entities": []
+	},
+	{
+		"content": "FROM PERSPECTIVE WASHINGTON OR LARGER CAPITALS IT IS DIFFICULT TO VIZUALIZE HOW MUCH IMPACT A VISIT OF THIS TYPE",
+		"entities": [
+			[
+				"WASHINGTON",
+				17,
+				27,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "HAS IN NOT JUST SYMBOLIZING BUT ACTUALLY ADDING SUBSTANCE TO EXPANSION US/BAHRAIN RELATIONS.",
+		"entities": [
+			[
+				"US/BAHRAIN",
+				71,
+				81,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(FOR FUTURE REFERENCE GOB WOULD HAVE PREFERRED A SOMEWHAT LONGER STOP, AND WE MUST BE CAREFUL NOT TO OVER BURDEN BAHRAINIS WITH SUCH VISITS) FROM THE PERSPECTIVE OF THIS LITTLE SPOT SENATOR PERCY'S CALL HERE WAS A SMASHING SUCCESS, FOR WHICH GOB (AND I) MOST GRATEFUL.",
+		"entities": [
+			[
+				"GOB",
+				22,
+				25,
+				"GPE"
+			],
+			[
+				"BAHRAINIS",
+				113,
+				122,
+				"GPE"
+			],
+			[
+				"SENATOR PERCY",
+				182,
+				195,
+				"PERSON"
+			],
+			[
+				"GOB",
+				242,
+				245,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "TWINAM ']",
+		"entities": [
+			[
+				"TWINAM",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	}
+]

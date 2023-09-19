@@ -1,0 +1,8871 @@
+[
+	{
+		"content": "['secretpriority 97.",
+		"entities": []
+	},
+	{
+		"content": "From Jones.",
+		"entities": [
+			[
+				"Jones",
+				5,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Department's 98, December 18.",
+		"entities": [
+			[
+				"December 18",
+				17,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "King informed me at Riyadh yesterday he had received Crown Prince Feisal's message transmitting Embassy's request all mail and imports now impounded be released pending arrival Ambassador Wadsworth (Embassy telegram 275, December 16).",
+		"entities": [
+			[
+				"King",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Riyadh",
+				20,
+				26,
+				"LOC"
+			],
+			[
+				"Crown Prince Feisal",
+				53,
+				72,
+				"PERSON"
+			],
+			[
+				"Embassy",
+				96,
+				103,
+				"ORG"
+			],
+			[
+				"Ambassador Wadsworth",
+				177,
+				197,
+				"PERSON"
+			],
+			[
+				"Embassy",
+				199,
+				206,
+				"ORG"
+			],
+			[
+				"December 16",
+				221,
+				232,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "King wished tell me he had given personal attention to Embassy's request and had decided grant it.",
+		"entities": [
+			[
+				"King",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Embassy",
+				55,
+				62,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He had sent intructions Feisal mail should be released and handled \"in same way as before\".",
+		"entities": [
+			[
+				"Feisal",
+				24,
+				30,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "While formal notification his decision would be transmitted US by Foreign Office, he wished inform me personally at this time.",
+		"entities": [
+			[
+				"US",
+				60,
+				62,
+				"GPE"
+			],
+			[
+				"Foreign Office",
+				66,
+				80,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I expressed appreciation his action and said felt certain he and Ambassador Wadsworth would be able reach mutually satisfactory solution this problem.",
+		"entities": [
+			[
+				"Ambassador Wadsworth",
+				65,
+				85,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "King then said he wished cooperate fully US and not place any hindrances in its way.",
+		"entities": [
+			[
+				"King",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"US",
+				41,
+				43,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "At same time he was determined maintain Saudi sovereignty and while he fully realized US not imperialistic state, hoped US would always keep this attitude in mind its dealings SAG officials.",
+		"entities": [
+			[
+				"Saudi",
+				40,
+				45,
+				"GPE"
+			],
+			[
+				"US",
+				86,
+				88,
+				"GPE"
+			],
+			[
+				"US",
+				120,
+				122,
+				"GPE"
+			],
+			[
+				"SAG",
+				176,
+				179,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I commented was certain US wished take no action which would infringe upon Saudi sovereignty.",
+		"entities": [
+			[
+				"US",
+				24,
+				26,
+				"GPE"
+			],
+			[
+				"Saudi",
+				75,
+				80,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "King closed conversation with statement that if Embassy encountered difficulties in its negotiations various questions with Saudi officials it should not hesitate come to him direct.",
+		"entities": [
+			[
+				"King",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Embassy",
+				48,
+				55,
+				"ORG"
+			],
+			[
+				"Saudi",
+				124,
+				129,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Hackler']",
+		"entities": [
+			[
+				"Hackler",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['secret 1493.",
+		"entities": []
+	},
+	{
+		"content": "Excon.",
+		"entities": []
+	},
+	{
+		"content": "Embtel 1478, Sept 20.",
+		"entities": [
+			[
+				"Sept 20",
+				13,
+				20,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Emb will understand that Wherry amendment in original form merited utmost efforts of admin to obtain its defeat.",
+		"entities": [
+			[
+				"Emb",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"Wherry amendment",
+				25,
+				41,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Communications to Congressional leaders from the President, Mr. Hoffman, General Bradley and from Dept laid greatest emphasis on (a) fact that policy of coercion toward our allies is wrong way to achieve our security objectives and (b) that rigid unworkable measure such as this might lead to stoppage all East-West trade (or cessation US aid to Eur and also non-Eur countries) and defeat our objective of maintaining econ strength of free nations to whom trade with EE is important.",
+		"entities": [
+			[
+				"Congressional",
+				18,
+				31,
+				"ORG"
+			],
+			[
+				"President",
+				49,
+				58,
+				"PERSON"
+			],
+			[
+				"Hoffman",
+				64,
+				71,
+				"PERSON"
+			],
+			[
+				"General Bradley",
+				73,
+				88,
+				"PERSON"
+			],
+			[
+				"Dept",
+				98,
+				102,
+				"PERSON"
+			],
+			[
+				"East-West",
+				306,
+				315,
+				"NORP"
+			],
+			[
+				"US",
+				336,
+				338,
+				"GPE"
+			],
+			[
+				"Eur",
+				346,
+				349,
+				"LOC"
+			],
+			[
+				"EE",
+				467,
+				469,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Radio Bulletin gave main emphasis to (b) because refs to (a) wld be harmful if Wherry amendment later approved.",
+		"entities": [
+			[
+				"Radio Bulletin",
+				0,
+				14,
+				"WORK_OF_ART"
+			],
+			[
+				"Wherry amendment",
+				79,
+				95,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Some ECA statistics on E-W trade include Fin and Yugo in EE and this may account for refs to Western imports from EE of strategic non-ferrous metals.",
+		"entities": [
+			[
+				"ECA",
+				5,
+				8,
+				"ORG"
+			],
+			[
+				"E-W",
+				23,
+				26,
+				"NORP"
+			],
+			[
+				"Fin",
+				41,
+				44,
+				"LOC"
+			],
+			[
+				"Yugo",
+				49,
+				53,
+				"LOC"
+			],
+			[
+				"EE",
+				57,
+				59,
+				"LOC"
+			],
+			[
+				"Western",
+				93,
+				100,
+				"NORP"
+			],
+			[
+				"EE",
+				114,
+				116,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Detailed statistics shld be available in OSR.",
+		"entities": [
+			[
+				"OSR",
+				41,
+				44,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Quick check shows most statements attributed Hoffman and cited in reftel were misquoted, some accurate in proper context.",
+		"entities": [
+			[
+				"Hoffman",
+				45,
+				52,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Some apparent contradictory reports in press and elsewhere, stating one time that WE controls over strategic items are effective and another time that banning strategic shipments wld wreck foreign aid programs, can be explained by replacing statements in proper context to clarify whether items referred to are of higher or lower strategic rating.",
+		"entities": [
+			[
+				"WE",
+				82,
+				84,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Widespread sentiment in favor of embargo of everything \"strategic\" has led Dept to make direct effort clarify that there are degrees of strategic importance, sometimes related to quantities shipped, and that what we want from E-W trade is not blockade but net advantage in our favor.",
+		"entities": [
+			[
+				"Dept",
+				75,
+				79,
+				"ORG"
+			],
+			[
+				"E-W",
+				226,
+				229,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Foregoing does not attempt to reconcile all inconsistencies cited in reftel but may be useful to Emb in correcting any false impressions among other PCs.",
+		"entities": [
+			[
+				"Emb",
+				97,
+				100,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Dept does not share Emb opinion that officials fongovts may misconstrue recent statements here as indicating changes in US position or US satisfaction with existing Excon policies in WE.",
+		"entities": [
+			[
+				"Dept",
+				0,
+				4,
+				"ORG"
+			],
+			[
+				"Emb",
+				20,
+				23,
+				"ORG"
+			],
+			[
+				"US",
+				120,
+				122,
+				"GPE"
+			],
+			[
+				"US",
+				135,
+				137,
+				"GPE"
+			],
+			[
+				"Excon",
+				165,
+				170,
+				"ORG"
+			],
+			[
+				"WE",
+				183,
+				185,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "On contrary, seems probable that they recognize what Wherry amendment wld have meant and may well be impressed with strong Congressional support (and official opposition) it recd here.",
+		"entities": [
+			[
+				"Wherry amendment",
+				53,
+				69,
+				"LAW"
+			],
+			[
+				"Congressional",
+				123,
+				136,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Dept wld welcome info on reaction other delegs in CoCom to Wherry amendment controversy and to substantially modified Cannon amendment finally approved.",
+		"entities": [
+			[
+				"Dept",
+				0,
+				4,
+				"ORG"
+			],
+			[
+				"CoCom",
+				50,
+				55,
+				"ORG"
+			],
+			[
+				"Wherry amendment",
+				59,
+				75,
+				"LAW"
+			],
+			[
+				"Cannon amendment",
+				118,
+				134,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Fol is text of amendment finally approved by Senate Sept 22: \"During any period in which the Armed Forces of the United States are actively engaged in hostilities while carrying out any decision of the Security Council of the UN, no econ or financial assistance shall be provided, out of any funds appropriated to carry out the purposes of the Economic Cooperation Act of 1948, as amended, or any other act to provide econ or financial assistance (other than mili assistance) to foreign countries, to any country whose trade with the USSR or any of its satellites countries (including Commie China and Commie North Korea) is found by the National Security Council to be contrary to the security interests of the United States.",
+		"entities": [
+			[
+				"Senate",
+				45,
+				51,
+				"ORG"
+			],
+			[
+				"Sept 22",
+				52,
+				59,
+				"DATE"
+			],
+			[
+				"Armed Forces of the United States",
+				93,
+				126,
+				"ORG"
+			],
+			[
+				"Security Council of the UN",
+				202,
+				228,
+				"ORG"
+			],
+			[
+				"Economic Cooperation Act of 1948",
+				344,
+				376,
+				"LAW"
+			],
+			[
+				"USSR",
+				534,
+				538,
+				"GPE"
+			],
+			[
+				"Commie China",
+				585,
+				597,
+				"GPE"
+			],
+			[
+				"Commie North Korea",
+				602,
+				620,
+				"GPE"
+			],
+			[
+				"National Security Council",
+				638,
+				663,
+				"ORG"
+			],
+			[
+				"United States",
+				712,
+				725,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\" Webb']",
+		"entities": [
+			[
+				"Webb",
+				2,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['secret Bulgaria a. objectives The long range objectives of the US toward Bulgaria are a segment of our broad policy goals with respect to the USSR.",
+		"entities": [
+			[
+				"Bulgaria",
+				9,
+				17,
+				"GPE"
+			],
+			[
+				"US",
+				65,
+				67,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				75,
+				83,
+				"GPE"
+			],
+			[
+				"USSR",
+				144,
+				148,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Their realization is thus dependent upon the success of our general strategy in dealing with the Soviet Union; conversely, progress toward our Bulgarian aims will contribute to this larger purpose.",
+		"entities": [
+			[
+				"Soviet Union",
+				97,
+				109,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				143,
+				152,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Within this concept our fundamental objective toward Bulgaria is to encourage the eventual replacement of its present USSR-controlled regime by an independent, popularly based state which the US could welcome into the United Nations and which in its external relations would play a constructive role in the Balkans, conduct free foreign commercial relations, and accord to US interests equality of treatment with those of all other states.",
+		"entities": [
+			[
+				"Bulgaria",
+				53,
+				61,
+				"GPE"
+			],
+			[
+				"USSR",
+				118,
+				122,
+				"NORP"
+			],
+			[
+				"US",
+				192,
+				194,
+				"GPE"
+			],
+			[
+				"United Nations",
+				218,
+				232,
+				"ORG"
+			],
+			[
+				"Balkans",
+				307,
+				314,
+				"LOC"
+			],
+			[
+				"US",
+				373,
+				375,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "b. policies 1.",
+		"entities": []
+	},
+	{
+		"content": "Political The great obstacle to the realization of US policies toward Bulgaria lies in the absolute control of this satellite of the USSR by a picked group of Communist agents.",
+		"entities": [
+			[
+				"US",
+				51,
+				53,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				70,
+				78,
+				"GPE"
+			],
+			[
+				"USSR",
+				133,
+				137,
+				"GPE"
+			],
+			[
+				"Communist",
+				159,
+				168,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Bulgaria is being molded as rapidly as domestic conditions permit into a replica of the USSR.",
+		"entities": [
+			[
+				"Bulgaria",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"USSR",
+				88,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This has entailed the systematic destruction of free and democratic institutions, complete mastery over the national economy, suppression of basic human freedoms, and a rigid control of the individual right to work.",
+		"entities": []
+	},
+	{
+		"content": "Bulgaria is a police state.",
+		"entities": [
+			[
+				"Bulgaria",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "No open deviation is allowed contrary to the dictates of the Communist Party, which operates politically through the facade of the Fatherland Front, and in the economic and social fields through state and Party agencies.",
+		"entities": [
+			[
+				"Communist Party",
+				61,
+				76,
+				"ORG"
+			],
+			[
+				"Fatherland Front",
+				131,
+				147,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "To intimidate and coerce the people, who are overwhelmingly opposed to the regime, repressive measures of the widest scope, are employed; these include deportation of urban dwellers to rural areas, denial of employment, and prison or concentration camp.",
+		"entities": []
+	},
+	{
+		"content": "Responsibility for these activities rests with the some 30,000 \"hard core\" Bulgarian Communists, while checking on their operations is an assigned contingent of Soviet personnel believed to number at least 3,000.",
+		"entities": [
+			[
+				"Bulgarian Communists",
+				75,
+				95,
+				"NORP"
+			],
+			[
+				"Soviet",
+				161,
+				167,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "There was a change in the Communist Party leadership in April 1949 with the removal of Traicho Kostov, who was not of the Moscow clique, from his second highest positions in the Party and Government.",
+		"entities": [
+			[
+				"Communist Party",
+				26,
+				41,
+				"ORG"
+			],
+			[
+				"April 1949",
+				56,
+				66,
+				"DATE"
+			],
+			[
+				"Traicho Kostov",
+				87,
+				101,
+				"PERSON"
+			],
+			[
+				"Moscow",
+				122,
+				128,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Subsequently Premier Dimitrov departed because of mortal illness for an indefinite home leave in the USSR.",
+		"entities": [
+			[
+				"Premier Dimitrov",
+				13,
+				29,
+				"PERSON"
+			],
+			[
+				"USSR",
+				101,
+				105,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Despite the naming of Foreign Minister Kolarov as acting premier, his role is that of a figurehead, with real power centered in a small Moscow-trained group of the Politburo in which Dimitrov's brother-in-law, Vulko Chervenkov, assumes increased importance.",
+		"entities": [
+			[
+				"Foreign Minister Kolarov",
+				22,
+				46,
+				"PERSON"
+			],
+			[
+				"Moscow-trained",
+				136,
+				150,
+				"NORP"
+			],
+			[
+				"Politburo",
+				164,
+				173,
+				"ORG"
+			],
+			[
+				"Dimitrov",
+				183,
+				191,
+				"PERSON"
+			],
+			[
+				"Vulko Chervenkov",
+				210,
+				226,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "While the Kostov affair indicates the existence of some opposition among Bulgarian Communists, there is no evidence at this stage that \"Titoism\" is a significant political force in Bulgaria.",
+		"entities": [
+			[
+				"Kostov",
+				10,
+				16,
+				"PERSON"
+			],
+			[
+				"Bulgarian Communists",
+				73,
+				93,
+				"NORP"
+			],
+			[
+				"Bulgaria",
+				181,
+				189,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The demonstration of the undisputed authority of Moscow over the local regime has strengthened the popular Bulgarian conviction that the people alone cannot cope with the present dictatorship, that the latter would have the unhesitating support of the Red Army if its supremacy were challenged from any source, and that a future war between forces grouped around the US and the Soviet Union offers the only prospect of deliverance from the present tyranny.",
+		"entities": [
+			[
+				"Moscow",
+				49,
+				55,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				107,
+				116,
+				"NORP"
+			],
+			[
+				"Red Army",
+				252,
+				260,
+				"ORG"
+			],
+			[
+				"US",
+				367,
+				369,
+				"GPE"
+			],
+			[
+				"Soviet Union",
+				378,
+				390,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Within Bulgaria a formal, organized opposition does not exist.",
+		"entities": [
+			[
+				"Bulgaria",
+				7,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The sole remaining deterrent to the Bulgarian Government's goal of complete communism is the peasants.",
+		"entities": [
+			[
+				"Bulgarian Government",
+				36,
+				56,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "While the regime is pressing to collectivize the majority of land holdings within the term of the recently instituted economic Five Year Plan, passive resistance as well as technical difficulties are impeding progress toward this goal.",
+		"entities": []
+	},
+	{
+		"content": "The latent hatred of the regime has as yet been ineffective, largely because of the vigilance of state security organs.",
+		"entities": []
+	},
+	{
+		"content": "So hard is the daily struggle for existence that some observers sense a spreading public apathy.",
+		"entities": []
+	},
+	{
+		"content": "Although there are small clandestine opposition groupings in Bulgaria, the main effort toward organization is being made abroad, through the Bulgarian National Committee headed by Dr. George M. Dimitcrov.",
+		"entities": [
+			[
+				"Bulgaria",
+				61,
+				69,
+				"LOC"
+			],
+			[
+				"Bulgarian National Committee",
+				141,
+				169,
+				"ORG"
+			],
+			[
+				"George M. Dimitcrov",
+				184,
+				203,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Committee includes representatives of all democratic elements in exile, of which the strongest is Dr. Dimitrov's National Agrarian Union, and maintains contacts within the country.",
+		"entities": [
+			[
+				"Committee",
+				4,
+				13,
+				"ORG"
+			],
+			[
+				"Dimitrov",
+				106,
+				114,
+				"PERSON"
+			],
+			[
+				"National Agrarian Union",
+				117,
+				140,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Its purpose is the eventual liberation of Bulgaria from the Communists and the installation of a democratic regime.",
+		"entities": [
+			[
+				"Bulgaria",
+				42,
+				50,
+				"GPE"
+			],
+			[
+				"Communists",
+				60,
+				70,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The National Agrarian Union also is a component of the International Peasant Union, which includes agrarian party leaders and their followers in exile from eastern Europe.",
+		"entities": [
+			[
+				"National Agrarian Union",
+				4,
+				27,
+				"ORG"
+			],
+			[
+				"International Peasant Union",
+				55,
+				82,
+				"ORG"
+			],
+			[
+				"eastern Europe",
+				156,
+				170,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "US policies and US interests within the country have been subject to unrelenting attack.",
+		"entities": [
+			[
+				"US",
+				0,
+				2,
+				"GPE"
+			],
+			[
+				"US",
+				16,
+				18,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Official Bulgarian propaganda denounces our institutions and our policies.",
+		"entities": [
+			[
+				"Bulgarian",
+				9,
+				18,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Our economic interests have suffered from discrimination and from measures of nationalization without effective compensation.",
+		"entities": []
+	},
+	{
+		"content": "American cultural and educational influence has been attacked in various ways, including prohibition of the opening of the American college at Sofia after the war and the closing of the Girls' School at Lovetch.",
+		"entities": [
+			[
+				"American",
+				0,
+				8,
+				"NORP"
+			],
+			[
+				"American",
+				123,
+				131,
+				"NORP"
+			],
+			[
+				"Sofia",
+				143,
+				148,
+				"LOC"
+			],
+			[
+				"Girls' School",
+				186,
+				199,
+				"ORG"
+			],
+			[
+				"Lovetch",
+				203,
+				210,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "So many impediments were put in the way of American social welfare operations, such as CARE, that these were obliged to cease.",
+		"entities": [
+			[
+				"American",
+				43,
+				51,
+				"NORP"
+			],
+			[
+				"CARE",
+				87,
+				91,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The recent arrests and fraudulent trials of Protestant ministers were obviously undertaken in order to disrupt the ties of these sects with the west, including the US, and to cast discredit on them and the US.",
+		"entities": [
+			[
+				"Protestant",
+				44,
+				54,
+				"NORP"
+			],
+			[
+				"US",
+				164,
+				166,
+				"GPE"
+			],
+			[
+				"US",
+				206,
+				208,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our Legation at Sofia also has been the target of a series of administrative restrictions and open provocations systematically designed to hamper its operations and to seal it from contact with the public.",
+		"entities": [
+			[
+				"Legation",
+				4,
+				12,
+				"ORG"
+			],
+			[
+				"Sofia",
+				16,
+				21,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In the face of a continuous campaign of vilification of the US by Bulgarian officials, press, and radio, the only rebuttals to reach the Bulgarian people are the short, daily Voice of America broadcasts.",
+		"entities": [
+			[
+				"US",
+				60,
+				62,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				66,
+				75,
+				"NORP"
+			],
+			[
+				"Bulgarian",
+				137,
+				146,
+				"NORP"
+			],
+			[
+				"Voice of America",
+				175,
+				191,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "These have been a mainstay for Bulgarian public morale by offering the observations of the free world upon Soviet and Bulgarian Communist activities.",
+		"entities": [
+			[
+				"Bulgarian",
+				31,
+				40,
+				"NORP"
+			],
+			[
+				"Soviet",
+				107,
+				113,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				118,
+				127,
+				"GPE"
+			],
+			[
+				"Communist",
+				128,
+				137,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "US and UK efforts to induce the USSR to honor its international commitments with respect to Bulgaria have proved fruitless and, in the absence of machinery for effective implementation of the Bulgarian Peace Treaty, similar efforts to induce Bulgaria to honor its treaty obligations are making little progress.",
+		"entities": [
+			[
+				"US",
+				0,
+				2,
+				"GPE"
+			],
+			[
+				"UK",
+				7,
+				9,
+				"GPE"
+			],
+			[
+				"USSR",
+				32,
+				36,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				92,
+				100,
+				"GPE"
+			],
+			[
+				"Bulgarian Peace Treaty",
+				192,
+				214,
+				"LAW"
+			],
+			[
+				"Bulgaria",
+				242,
+				250,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "While Bulgaria has disregarded its Treaty obligations in the economic and military fields, the most flagrant violations have been the systematic denial of human rights and fundamental freedoms to the Bulgarian people.",
+		"entities": [
+			[
+				"Bulgaria",
+				6,
+				14,
+				"GPE"
+			],
+			[
+				"Treaty",
+				35,
+				41,
+				"LAW"
+			],
+			[
+				"Bulgarian",
+				200,
+				209,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The US and the UK, as signatories to the Yalta Agreement, the Armistice Convention, and the Peace Treaty, have constantly asserted the right of the people freely to decide their destiny.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"UK",
+				15,
+				17,
+				"GPE"
+			],
+			[
+				"Yalta Agreement",
+				41,
+				56,
+				"LAW"
+			],
+			[
+				"Armistice Convention",
+				62,
+				82,
+				"LAW"
+			],
+			[
+				"Peace Treaty",
+				92,
+				104,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "In the face of Communist acts, the US and the UK have sought to exert a restraining influence and to make their position clear by official protests, public statements, and, finally, by formal charges of violations of Article 2 of the Peace Treaty, which guarantees the enjoyment of human rights and of fundamental freedoms.",
+		"entities": [
+			[
+				"Communist",
+				15,
+				24,
+				"NORP"
+			],
+			[
+				"US",
+				35,
+				37,
+				"GPE"
+			],
+			[
+				"UK",
+				46,
+				48,
+				"GPE"
+			],
+			[
+				"Peace Treaty",
+				234,
+				246,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "These charges are being pressed by invocation of the Treaty procedures for the settlement of disputes.",
+		"entities": [
+			[
+				"Treaty",
+				53,
+				59,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Whenever Bulgaria's application for membership has been discussed in the United Nations the US, as well as the UK, has presented the record and successfully argued that the Bulgarian Government has shown it is unwilling, despite promises, to observe the obligations expected of members of the UN.",
+		"entities": [
+			[
+				"Bulgaria",
+				9,
+				17,
+				"GPE"
+			],
+			[
+				"United Nations",
+				73,
+				87,
+				"ORG"
+			],
+			[
+				"US",
+				92,
+				94,
+				"GPE"
+			],
+			[
+				"UK",
+				111,
+				113,
+				"GPE"
+			],
+			[
+				"Bulgarian Government",
+				173,
+				193,
+				"GPE"
+			],
+			[
+				"UN",
+				293,
+				295,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In the spring of 1949, on the initiative of Bolivia and Australia, a debate was held in the General Assembly of the UN upon the repression of civil liberties, particularly religious freedom, in Bulgaria and Hungary.",
+		"entities": [
+			[
+				"1949",
+				17,
+				21,
+				"DATE"
+			],
+			[
+				"Bolivia",
+				44,
+				51,
+				"GPE"
+			],
+			[
+				"Australia",
+				56,
+				65,
+				"GPE"
+			],
+			[
+				"General Assembly",
+				92,
+				108,
+				"ORG"
+			],
+			[
+				"UN",
+				116,
+				118,
+				"ORG"
+			],
+			[
+				"Bulgaria",
+				194,
+				202,
+				"GPE"
+			],
+			[
+				"Hungary",
+				207,
+				214,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The GA approved a Resolution expressing serious concern over the charges made against the two countries and concluding with the hope that measures taken under the Peace Treaties would be diligently prosecuted in order to ensure respect for human rights and fundamental freedoms.",
+		"entities": [
+			[
+				"GA",
+				4,
+				6,
+				"ORG"
+			],
+			[
+				"Resolution",
+				18,
+				28,
+				"LAW"
+			],
+			[
+				"Peace Treaties",
+				163,
+				177,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The Resolution also reserved this item for consideration at the next session of the GA.",
+		"entities": [
+			[
+				"Resolution",
+				4,
+				14,
+				"LAW"
+			],
+			[
+				"GA",
+				84,
+				86,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Economic US-Bulgarian trade has never been important from the American viewpoint, and it is recognized that Bulgarian exports to the US are of little significance.",
+		"entities": [
+			[
+				"US-Bulgarian",
+				9,
+				21,
+				"GPE"
+			],
+			[
+				"American",
+				62,
+				70,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				108,
+				117,
+				"NORP"
+			],
+			[
+				"US",
+				133,
+				135,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "While Bulgaria's Communist regime has consistently opposed US economic objectives, the US, on its part, continues to support the principle of east-west trade as contributing to the greatest possible expansion of peaceful trade throughout the world.",
+		"entities": [
+			[
+				"Bulgaria",
+				6,
+				14,
+				"GPE"
+			],
+			[
+				"Communist",
+				17,
+				26,
+				"NORP"
+			],
+			[
+				"US",
+				59,
+				61,
+				"GPE"
+			],
+			[
+				"US",
+				87,
+				89,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "However, in applying the US export licensing program to Bulgaria, licenses have been denied for articles which might aid its war potential and that of the USSR.",
+		"entities": [
+			[
+				"US",
+				25,
+				27,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				56,
+				64,
+				"GPE"
+			],
+			[
+				"USSR",
+				155,
+				159,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Present practice is to consult our Legation at Sofia on specific commodities, and action is generally taken in accordance with the Legation's recommendations.",
+		"entities": [
+			[
+				"Legation",
+				35,
+				43,
+				"ORG"
+			],
+			[
+				"Sofia",
+				47,
+				52,
+				"LOC"
+			],
+			[
+				"Legation",
+				131,
+				139,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The US retains nearly $3,500,000 of blocked or vested Bulgarian Government and private assets, which is greater than the amount of US claims against Bulgaria.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"Bulgarian Government",
+				54,
+				74,
+				"GPE"
+			],
+			[
+				"US",
+				131,
+				133,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				149,
+				157,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We intend to continue to maintain controls over these funds until war claims are satisfactorily met and adequate and effective compensation is assured for the expropriation or other taking of other American property.",
+		"entities": [
+			[
+				"American",
+				198,
+				206,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Such measures are deemed necessary to ensure that the liquidation of the small US investment in Bulgaria, which has been decided on by the Bulgarian Government, will be carried out equitably with due regard for the interests of the American owners.",
+		"entities": [
+			[
+				"US",
+				79,
+				81,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				96,
+				104,
+				"LOC"
+			],
+			[
+				"Bulgarian Government",
+				139,
+				159,
+				"GPE"
+			],
+			[
+				"American",
+				232,
+				240,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Despite certain difficulties, efforts are being made to seek a solution of this problem through a formal US-Bulgarian general claims settlement.",
+		"entities": [
+			[
+				"US-Bulgarian",
+				105,
+				117,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our policy on financial assistance to Bulgaria is to refuse any government loans under present conditions and to discourage but not to oppose private loans.",
+		"entities": [
+			[
+				"Bulgaria",
+				38,
+				46,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "So far as is known, no private loans have been made.",
+		"entities": []
+	},
+	{
+		"content": "Negotiations are in progress looking toward a satisfactory arrangement to cover the operating expenses of our Legation at Sofia.",
+		"entities": [
+			[
+				"Legation",
+				110,
+				118,
+				"ORG"
+			],
+			[
+				"Sofia",
+				122,
+				127,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Leva accounts in the name of US and possibly other foreign nationals would be bought by the US at a mutually agreed figure.",
+		"entities": [
+			[
+				"US",
+				29,
+				31,
+				"GPE"
+			],
+			[
+				"US",
+				92,
+				94,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If Bulgaria agrees to this arrangement, a license would be granted releasing blocked Bulgarian Government funds here to an agreed monthly amount needed by the Bulgarian Legation.",
+		"entities": [
+			[
+				"Bulgaria",
+				3,
+				11,
+				"GPE"
+			],
+			[
+				"Bulgarian Government",
+				85,
+				105,
+				"GPE"
+			],
+			[
+				"Bulgarian Legation",
+				159,
+				177,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The USSR has aimed at excluding US aircraft from eastern Europe while simultaneously seeking rights for Soviet orbit carriers to operate in the air space of other countries.",
+		"entities": [
+			[
+				"USSR",
+				4,
+				8,
+				"GPE"
+			],
+			[
+				"US",
+				32,
+				34,
+				"NORP"
+			],
+			[
+				"eastern Europe",
+				49,
+				63,
+				"LOC"
+			],
+			[
+				"Soviet",
+				104,
+				110,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Our policy has been to restrict the civil air operations of the USSR and its satellites, including Bulgaria, to their territory until the USSR grants air rights in USSR territory on a reciprocal basis to air carriers of the US and other states desiring such rights.",
+		"entities": [
+			[
+				"USSR",
+				64,
+				68,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				99,
+				107,
+				"GPE"
+			],
+			[
+				"USSR",
+				138,
+				142,
+				"GPE"
+			],
+			[
+				"USSR",
+				164,
+				168,
+				"GPE"
+			],
+			[
+				"US",
+				224,
+				226,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our policy also calls for the denial of aviation equipment and aircraft maintenance facilities to the USSR and its satellites.",
+		"entities": [
+			[
+				"USSR",
+				102,
+				106,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This Government is seeking the cooperation of other non-curtain states in implementing this policy on a common front basis.",
+		"entities": []
+	},
+	{
+		"content": "This whole policy is now being subjected to review.",
+		"entities": []
+	},
+	{
+		"content": "As provided for by a decision of the Council of Foreign Ministers in 1946, an international conference was held at Belgrade in August 1948 to draft a new Convention governing navigation upon the Danube.",
+		"entities": [
+			[
+				"Council of Foreign Ministers",
+				37,
+				65,
+				"ORG"
+			],
+			[
+				"1946",
+				69,
+				73,
+				"DATE"
+			],
+			[
+				"Belgrade",
+				115,
+				123,
+				"LOC"
+			],
+			[
+				"August 1948",
+				127,
+				138,
+				"DATE"
+			],
+			[
+				"Convention",
+				154,
+				164,
+				"LAW"
+			],
+			[
+				"Danube",
+				195,
+				201,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Soviet bloc, including Bulgaria, outvoted the US and other western participants in approving a Convention which left the USSR in effective control of the river.",
+		"entities": [
+			[
+				"Soviet bloc",
+				4,
+				15,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				27,
+				35,
+				"GPE"
+			],
+			[
+				"US",
+				50,
+				52,
+				"GPE"
+			],
+			[
+				"Convention",
+				99,
+				109,
+				"LAW"
+			],
+			[
+				"USSR",
+				125,
+				129,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The necessary instruments of ratification have been deposited and the Convention has been declared in force by the Soviet bloc.",
+		"entities": [
+			[
+				"Convention",
+				70,
+				80,
+				"LAW"
+			],
+			[
+				"Soviet bloc",
+				115,
+				126,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The organization of the Danube Commission within the terms of the Convention, however, has not yet been announced.",
+		"entities": [
+			[
+				"Danube Commission",
+				24,
+				41,
+				"ORG"
+			],
+			[
+				"Convention",
+				66,
+				76,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The US does not recognize the validity of this Convention and has charged the USSR and its satellites with responsibility for the absence of freedom of navigation on the Danube. c. relations with other countries Bulgaria has a foreign policy identical with that of the USSR.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"Convention",
+				47,
+				57,
+				"LAW"
+			],
+			[
+				"USSR",
+				78,
+				82,
+				"GPE"
+			],
+			[
+				"Danube",
+				170,
+				176,
+				"LOC"
+			],
+			[
+				"Bulgaria",
+				212,
+				220,
+				"GPE"
+			],
+			[
+				"USSR",
+				269,
+				273,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In this pattern all eastern European countries subservient to Moscow are bound together by treaties of alliance and commerce, they work together in the Russian sponsored Council for Mutual Economic Aid, and they are members of the Cominform.",
+		"entities": [
+			[
+				"eastern European countries",
+				20,
+				46,
+				"GPE"
+			],
+			[
+				"Moscow",
+				62,
+				68,
+				"GPE"
+			],
+			[
+				"Russian",
+				152,
+				159,
+				"NORP"
+			],
+			[
+				"Council for Mutual Economic Aid",
+				170,
+				201,
+				"ORG"
+			],
+			[
+				"Cominform",
+				231,
+				240,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Toward \"capitalist\" governments the Bulgarian regime assumes an attitude of hostility the intensity of which is dictated by Soviet instructions.",
+		"entities": [
+			[
+				"Bulgarian regime",
+				36,
+				52,
+				"GPE"
+			],
+			[
+				"Soviet",
+				124,
+				130,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The leading countries of the free world, such as the US, are the objects of virulent propaganda attack.",
+		"entities": [
+			[
+				"US",
+				53,
+				55,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Yugoslavia is a special object of the Bulgarian regime's attacks, since, although a Communist country, it has been able to defy Moscow.",
+		"entities": [
+			[
+				"Yugoslavia",
+				0,
+				10,
+				"GPE"
+			],
+			[
+				"Bulgarian regime",
+				38,
+				54,
+				"GPE"
+			],
+			[
+				"Communist",
+				84,
+				93,
+				"NORP"
+			],
+			[
+				"Moscow",
+				128,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Relations between Bulgaria and Yugoslovia have deteriorated steadily since the Tito-Cominform rift was announced in June 1948, and have recently become more grave with the resurrection of the old Macedonian issue.",
+		"entities": [
+			[
+				"Bulgaria",
+				18,
+				26,
+				"GPE"
+			],
+			[
+				"Yugoslovia",
+				31,
+				41,
+				"GPE"
+			],
+			[
+				"Tito-Cominform",
+				79,
+				93,
+				"NORP"
+			],
+			[
+				"June 1948",
+				116,
+				125,
+				"DATE"
+			],
+			[
+				"Macedonian",
+				196,
+				206,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "This involves, at present, an apparent effort by the Soviets and their Cominform allies to utilize Macedonian nationalism and deep-seated Balkan rivalry over Macedonia as means to weaken the Tito regime.",
+		"entities": [
+			[
+				"Soviets",
+				53,
+				60,
+				"GPE"
+			],
+			[
+				"Cominform",
+				71,
+				80,
+				"ORG"
+			],
+			[
+				"Macedonian",
+				99,
+				109,
+				"NORP"
+			],
+			[
+				"Balkan",
+				138,
+				144,
+				"NORP"
+			],
+			[
+				"Macedonia",
+				158,
+				167,
+				"LOC"
+			],
+			[
+				"Tito",
+				191,
+				195,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Although not clearly stated by the Communists the apparent objective is to create a union of Macedonian territories now within the confines of Yugoslavia, Bulgaria, and Greece.",
+		"entities": [
+			[
+				"Communists",
+				35,
+				45,
+				"ORG"
+			],
+			[
+				"Macedonian",
+				93,
+				103,
+				"NORP"
+			],
+			[
+				"Yugoslavia",
+				143,
+				153,
+				"LOC"
+			],
+			[
+				"Bulgaria",
+				155,
+				163,
+				"LOC"
+			],
+			[
+				"Greece",
+				169,
+				175,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Persistent reports have accompanied these developments in Yugoslav-Bulgarian relations to the effect that Bulgaria would be an eventual springboard for an attack upon the Tito regime in the guise of an organized \"Free Macedonia\" guerrilla movement.",
+		"entities": [
+			[
+				"Yugoslav-Bulgarian",
+				58,
+				76,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				106,
+				114,
+				"GPE"
+			],
+			[
+				"Tito",
+				171,
+				175,
+				"PERSON"
+			],
+			[
+				"Free Macedonia",
+				213,
+				227,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Undiminished aid by Bulgaria to the Greek guerrillas and its unrelenting propaganda against the Greek Government show that the greatly strained relations between the two countries, never marked by cordiality, remain unchanged.",
+		"entities": [
+			[
+				"Bulgaria",
+				20,
+				28,
+				"GPE"
+			],
+			[
+				"Greek",
+				36,
+				41,
+				"NORP"
+			],
+			[
+				"Greek Government",
+				96,
+				112,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "A fresh element to exacerbate these relations has been the Communist-sponsored Free Macedonia movement, since its realization would mean an outright cession of present Greek territory.",
+		"entities": [
+			[
+				"Communist",
+				59,
+				68,
+				"NORP"
+			],
+			[
+				"Free Macedonia",
+				79,
+				93,
+				"ORG"
+			],
+			[
+				"Greek",
+				168,
+				173,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Bulgarian refugees continue to dribble across the frontier and are maintained in camps by the Greek authorities.",
+		"entities": [
+			[
+				"Bulgarian",
+				0,
+				9,
+				"NORP"
+			],
+			[
+				"Greek",
+				94,
+				99,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As for Bulgaria's obligation under the Peace Treaty to arrive at an equitable settlement with Greece for the restitution of Greek property and to pay fixed reparations, the Bulgarian Government has maintained an intransigent silence.",
+		"entities": [
+			[
+				"Bulgaria",
+				7,
+				15,
+				"GPE"
+			],
+			[
+				"Peace Treaty",
+				39,
+				51,
+				"LAW"
+			],
+			[
+				"Greece",
+				94,
+				100,
+				"GPE"
+			],
+			[
+				"Greek",
+				124,
+				129,
+				"NORP"
+			],
+			[
+				"Bulgarian Government",
+				173,
+				193,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Unsuccessful attempts have been made hitherto through various channels, particularly the UN, to restore normal diplomatic relations and to conclude frontier and minority conventions between Bulgaria and Greece.",
+		"entities": [
+			[
+				"UN",
+				89,
+				91,
+				"ORG"
+			],
+			[
+				"Bulgaria",
+				190,
+				198,
+				"GPE"
+			],
+			[
+				"Greece",
+				203,
+				209,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "While also antagonistic to Turkey, the Bulgarian regime has shown a certain restraint in its dealings with that country.",
+		"entities": [
+			[
+				"Turkey",
+				27,
+				33,
+				"GPE"
+			],
+			[
+				"Bulgarian regime",
+				39,
+				55,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Nevertheless, sporadic incidents occur.",
+		"entities": []
+	},
+	{
+		"content": "Turkish Legation officials have been expelled from Bulgaria, and frontier guards are taken prisoner if they inadvertently stray over the border.",
+		"entities": [
+			[
+				"Turkish Legation",
+				0,
+				16,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				51,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Turkey has a policy of asylum for Bulgarian political refugees which, coupled with the derogatory comments of the Turkish press and radio upon Communism, rankles with Sofia.",
+		"entities": [
+			[
+				"Turkey",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				34,
+				43,
+				"NORP"
+			],
+			[
+				"Turkish",
+				114,
+				121,
+				"NORP"
+			],
+			[
+				"Sofia",
+				167,
+				172,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On its side Turkey views Bulgaria as an obvious Soviet base threatening the Straits.",
+		"entities": [
+			[
+				"Turkey",
+				12,
+				18,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				25,
+				33,
+				"GPE"
+			],
+			[
+				"Soviet",
+				48,
+				54,
+				"GPE"
+			],
+			[
+				"Straits",
+				76,
+				83,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "d. policy evaluation The actions hitherto taken by the US have not impeded the consolidation of the Bulgarian Communist regime.",
+		"entities": [
+			[
+				"US",
+				55,
+				57,
+				"GPE"
+			],
+			[
+				"Bulgarian Communist regime",
+				100,
+				126,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "However, the US has helped maintain Bulgarian public morale through the Voice of America broadcasts and by a forceful and dignified condemnation of those Communist acts which stifle public liberties and which are hostile to the US and its principles.",
+		"entities": [
+			[
+				"US",
+				13,
+				15,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				36,
+				45,
+				"NORP"
+			],
+			[
+				"Voice of America",
+				72,
+				88,
+				"ORG"
+			],
+			[
+				"Communist",
+				154,
+				163,
+				"NORP"
+			],
+			[
+				"US",
+				228,
+				230,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As a result, aside from its effect in Bulgaria, our policy has played its part in alerting the American people and the western world to the true intentions of Soviet directed communism.",
+		"entities": [
+			[
+				"Bulgaria",
+				38,
+				46,
+				"GPE"
+			],
+			[
+				"American",
+				95,
+				103,
+				"NORP"
+			],
+			[
+				"Soviet",
+				159,
+				165,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Certain present US activities, pursued and intensified, could have effects beneficial to our aims both internationally and within Bulgaria: Consideration should be given to an expansion of Voice of America broadcasts as the most effective counter to the flood of communist propaganda deluging the Bulgarian people and as our most suitable medium to support their morale.",
+		"entities": [
+			[
+				"US",
+				16,
+				18,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				130,
+				138,
+				"GPE"
+			],
+			[
+				"Voice of America",
+				189,
+				205,
+				"ORG"
+			],
+			[
+				"communist",
+				263,
+				272,
+				"NORP"
+			],
+			[
+				"Bulgarian",
+				297,
+				306,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The US should continue to employ all means available under the Peace Treaty and the UN Charter to publicize and if possible to secure redress for the Bulgarian regime's violations of human rights and fundamental freedoms.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"Peace Treaty",
+				63,
+				75,
+				"LAW"
+			],
+			[
+				"UN Charter",
+				84,
+				94,
+				"LAW"
+			],
+			[
+				"Bulgarian regime",
+				150,
+				166,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Steady public reference to violations of other important provisions of the Peace Treaty by the Bulgarian Government with the connivance of the USSR, of which the Danube Convention is illustrative, would aid in keeping the Communist regime on the defensive.",
+		"entities": [
+			[
+				"Peace Treaty",
+				75,
+				87,
+				"LAW"
+			],
+			[
+				"Bulgarian Government",
+				95,
+				115,
+				"GPE"
+			],
+			[
+				"USSR",
+				143,
+				147,
+				"GPE"
+			],
+			[
+				"Danube Convention",
+				162,
+				179,
+				"LAW"
+			],
+			[
+				"Communist regime",
+				222,
+				238,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The licensing program for US exports to Bulgaria should be used as a flexible instrument of policy, as our strategic and political interests require; it can be made even more effective by close liaison with those countries operating under ECA.",
+		"entities": [
+			[
+				"US",
+				26,
+				28,
+				"NORP"
+			],
+			[
+				"Bulgaria",
+				40,
+				48,
+				"GPE"
+			],
+			[
+				"ECA",
+				239,
+				242,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Pressure should be maintained to satisfy claims by US nationals arising under the Peace Treaty and through the nationalization program of the Bulgarian Government.",
+		"entities": [
+			[
+				"US",
+				51,
+				53,
+				"NORP"
+			],
+			[
+				"Peace Treaty",
+				82,
+				94,
+				"LAW"
+			],
+			[
+				"Bulgarian Government",
+				142,
+				162,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For this solution our control over assets of the Bulgarian regime in this country gives us an unquestioned advantage.",
+		"entities": [
+			[
+				"Bulgarian regime",
+				49,
+				65,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We should maintain the fullest support for the UN Special Committee on the Balkans and all efforts to oblige Bulgaria to desist from supporting the Greek guerrillas.",
+		"entities": [
+			[
+				"UN Special Committee on the Balkans",
+				47,
+				82,
+				"ORG"
+			],
+			[
+				"Bulgaria",
+				109,
+				117,
+				"GPE"
+			],
+			[
+				"Greek",
+				148,
+				153,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Despite provocations, it is currently in our general interest and that of the Bulgarian people to maintain our Legation in Sofia.",
+		"entities": [
+			[
+				"Bulgarian",
+				78,
+				87,
+				"NORP"
+			],
+			[
+				"Legation",
+				111,
+				119,
+				"ORG"
+			],
+			[
+				"Sofia",
+				123,
+				128,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It thus can report upon weaknesses in the Communist administration of Bulgaria which may be exploited for our objectives.",
+		"entities": [
+			[
+				"Communist",
+				42,
+				51,
+				"NORP"
+			],
+			[
+				"Bulgaria",
+				70,
+				78,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The US should continue to oppose, in the present circumstances, Bulgaria's application for membership in the UN.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"Bulgaria",
+				64,
+				72,
+				"GPE"
+			],
+			[
+				"UN",
+				109,
+				111,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Two other problems may require US policy decisions in the near future: The Macedonian question, which has now emerged through Kremlin instigation as a trouble spot of importance involving Bulgaria, Greece and Yugoslavia, should be carefully watched.",
+		"entities": [
+			[
+				"US",
+				31,
+				33,
+				"GPE"
+			],
+			[
+				"Macedonian",
+				75,
+				85,
+				"NORP"
+			],
+			[
+				"Kremlin",
+				126,
+				133,
+				"ORG"
+			],
+			[
+				"Bulgaria",
+				188,
+				196,
+				"GPE"
+			],
+			[
+				"Greece",
+				198,
+				204,
+				"GPE"
+			],
+			[
+				"Yugoslavia",
+				209,
+				219,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The US position toward any Soviet efforts to create an \"independent\" Macedonia or a South Slav Federation will necessarily depend upon the circumstances and scope of such endeavors, and should take account of our interest in the integrity of Greece and in widening the breach between Yugoslavia and the USSR.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"Soviet",
+				27,
+				33,
+				"GPE"
+			],
+			[
+				"Macedonia",
+				69,
+				78,
+				"GPE"
+			],
+			[
+				"South Slav Federation",
+				84,
+				105,
+				"GPE"
+			],
+			[
+				"Greece",
+				242,
+				248,
+				"GPE"
+			],
+			[
+				"Yugoslavia",
+				284,
+				294,
+				"GPE"
+			],
+			[
+				"USSR",
+				303,
+				307,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The US maintains friendly contact, on an unofficial basis, with the Bulgarian National Committee and the International Peasant Union.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"Bulgarian National Committee",
+				68,
+				96,
+				"ORG"
+			],
+			[
+				"International Peasant Union",
+				105,
+				132,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In pursuance of its political objectives, the US may have occasion to reconsider its attitude toward these organizations if our relations with the Bulgarian Government further deteriorate or if the exile agencies succeed in organizing an effective opposition among the Bulgarian people.']",
+		"entities": [
+			[
+				"US",
+				46,
+				48,
+				"GPE"
+			],
+			[
+				"Bulgarian Government",
+				147,
+				167,
+				"GPE"
+			],
+			[
+				"Bulgarian",
+				269,
+				278,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "['On September 25, I wrote you on the above subject just prior to your talks with Khrushchev at Camp David, advising against raising the subject with him at that time unless the talks appeared to take an especially favorable turn.",
+		"entities": [
+			[
+				"September 25",
+				5,
+				17,
+				"DATE"
+			],
+			[
+				"Khrushchev",
+				82,
+				92,
+				"PERSON"
+			],
+			[
+				"Camp David",
+				96,
+				106,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In the interim, a number of developments have occurred which have persuaded me to give my support to the resumption of high altitude flights at the earliest practicable date.",
+		"entities": []
+	},
+	{
+		"content": "The British now favor an approach to the Soviets on high flights in the belief that the latter might be more reasonable on the subject.",
+		"entities": [
+			[
+				"British",
+				4,
+				11,
+				"GPE"
+			],
+			[
+				"Soviets",
+				41,
+				48,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "British European Airways would like to operate its Viscounts at higher altitudes for reasons of safety.",
+		"entities": [
+			[
+				"British European Airways",
+				0,
+				24,
+				"ORG"
+			],
+			[
+				"Viscounts",
+				51,
+				60,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "The French intend to introduce Caravelle jet service to Berlin soon.",
+		"entities": [
+			[
+				"French",
+				4,
+				10,
+				"GPE"
+			],
+			[
+				"Caravelle",
+				31,
+				40,
+				"PRODUCT"
+			],
+			[
+				"Berlin",
+				56,
+				62,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Successful conduct of high flights by US military C-130s might persuade the French to operate Caravelles at appropriate altitudes above 10, 000 feet, strengthening our claims that such flights are necessary from the standpoint of economy and operational characteristics of modern aircraft.",
+		"entities": [
+			[
+				"US military",
+				38,
+				40,
+				"ORG"
+			],
+			[
+				"C-130s",
+				50,
+				56,
+				"PRODUCT"
+			],
+			[
+				"French",
+				76,
+				82,
+				"GPE"
+			],
+			[
+				"Caravelles",
+				94,
+				104,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "The Soviet desire to divert public attention from Berlin as evidenced in their instructions to the East Germans to remove their separatist flags from West Berlin October 8 and to refrain from displaying them November 7 materially reduces the likelihood that they would resort to harassment of our C-130s should we resume and maintain regularly scheduled high altitude flights.",
+		"entities": [
+			[
+				"Soviet",
+				4,
+				10,
+				"GPE"
+			],
+			[
+				"Berlin",
+				50,
+				56,
+				"GPE"
+			],
+			[
+				"East Germans",
+				99,
+				111,
+				"GPE"
+			],
+			[
+				"West Berlin",
+				150,
+				161,
+				"GPE"
+			],
+			[
+				"October 8",
+				162,
+				171,
+				"DATE"
+			],
+			[
+				"November 7",
+				208,
+				218,
+				"DATE"
+			],
+			[
+				"C-130s",
+				297,
+				303,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Since 1956, although we have frequently proclaimed our right to unrestricted use of the Berlin air corridors, we have in fact been unable or unwilling to exercise that right in the face of Soviet protests and harassment and of British objections.",
+		"entities": [
+			[
+				"1956",
+				6,
+				10,
+				"DATE"
+			],
+			[
+				"Berlin",
+				88,
+				94,
+				"GPE"
+			],
+			[
+				"Soviet",
+				189,
+				195,
+				"GPE"
+			],
+			[
+				"British",
+				227,
+				234,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To continue to insist upon our right but to refrain entirely from exercising it places unacceptable limitations upon us and amounts to tacit acceptance of a unilaterally imposed Soviet ceiling on the corridors.",
+		"entities": [
+			[
+				"Soviet",
+				178,
+				184,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Acceptance of one such restriction might encourage the Soviets to attempt to impose others until an intolerable and dangerous situation could result.",
+		"entities": [
+			[
+				"Soviets",
+				55,
+				62,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Voluntary Western establishment of minimum limitations on our own use of the corridors would be another matter, however.",
+		"entities": [
+			[
+				"Western",
+				10,
+				17,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Western controllers in the Berlin Air Safety Center (BASC) have acknowledged that unrestricted Allied use of the corridors would present the Soviet Zone with certain difficult air traffic control problems and effectively lock non-Allied air traffic over much of East Germany.",
+		"entities": [
+			[
+				"Western",
+				0,
+				7,
+				"NORP"
+			],
+			[
+				"Berlin Air Safety Center",
+				27,
+				51,
+				"ORG"
+			],
+			[
+				"BASC",
+				53,
+				57,
+				"ORG"
+			],
+			[
+				"Allied",
+				95,
+				101,
+				"NORP"
+			],
+			[
+				"Soviet Zone",
+				141,
+				152,
+				"GPE"
+			],
+			[
+				"non-Allied",
+				226,
+				236,
+				"NORP"
+			],
+			[
+				"East Germany",
+				262,
+				274,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Clear provision for non-Allied cross corridor traffic should go far to meet possible legitimate Soviet concern for air safety and to justify the operation before Allied public opinion.",
+		"entities": [
+			[
+				"non-Allied",
+				20,
+				30,
+				"NORP"
+			],
+			[
+				"Soviet",
+				96,
+				102,
+				"GPE"
+			],
+			[
+				"Allied",
+				162,
+				168,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "For the foreseeable future and with the type of aircraft envisaged (the turbo-prop C-130 and Viscount and the pure jet Caravelle)",
+		"entities": [
+			[
+				"C-130",
+				83,
+				88,
+				"PRODUCT"
+			],
+			[
+				"Viscount",
+				93,
+				101,
+				"PRODUCT"
+			],
+			[
+				"Caravelle",
+				119,
+				128,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "the plan outlined in the enclosed memorandum appears feasible.",
+		"entities": []
+	},
+	{
+		"content": "We are asking Embassy Bonn, the U.S. Mission Berlin and USCINCEUR for their comments on an urgent basis.",
+		"entities": [
+			[
+				"Embassy Bonn",
+				14,
+				26,
+				"ORG"
+			],
+			[
+				"U.S. Mission Berlin",
+				32,
+				51,
+				"ORG"
+			],
+			[
+				"USCINCEUR",
+				56,
+				65,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If they indicate that the technical problems are insurmountable, we will, of course, have to re-examine the whole concept.",
+		"entities": []
+	},
+	{
+		"content": "However, since the basic idea was first suggested by USBER and has been studied and approved in principle by Defense/JCS and FAA, it is believed that technical details can be worked out in Germany without great difficulty.",
+		"entities": [
+			[
+				"USBER",
+				53,
+				58,
+				"ORG"
+			],
+			[
+				"Defense/JCS",
+				109,
+				120,
+				"ORG"
+			],
+			[
+				"FAA",
+				125,
+				128,
+				"ORG"
+			],
+			[
+				"Germany",
+				189,
+				196,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Recommendation That you approve the proposed formula for resumption of high altitude flights in the Berlin corridors (described in the enclosed memorandum and illustrated on the map which is also enclosed), and authorize discussion of the proposal with the British and French provided we obtain the expected endorsement from the various consultations listed above.",
+		"entities": [
+			[
+				"Berlin",
+				100,
+				106,
+				"GPE"
+			],
+			[
+				"British",
+				257,
+				264,
+				"GPE"
+			],
+			[
+				"French",
+				269,
+				275,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As soon as we have tripartite agreement, I will seek your approval to inform the Soviet authorities through appropriate channels of our intention to resume and maintain high altitude flights in the Berlin corridors.",
+		"entities": [
+			[
+				"Soviet",
+				81,
+				87,
+				"GPE"
+			],
+			[
+				"Berlin",
+				198,
+				204,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Christian A. Herter']",
+		"entities": [
+			[
+				"Christian A. Herter'",
+				0,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"[Telegram] 4097.",
+		"entities": []
+	},
+	{
+		"content": "Department's 4044 and your 5128 [5218].",
+		"entities": []
+	},
+	{
+		"content": "Inform Lord Grey that this Government is greatly surprised to learn of the refusal of the British Government to grant safe-conduct to the Austro-Hungarian Ambassador accredited to the United States; that the United States has an undisputed right to maintain diplomatic relations through accredited representatives with any nation which it desires, and that it can not believe that it is the purpose of His Majesty's Government to interfere with the exercise of this sovereign right.",
+		"entities": [
+			[
+				"Lord Grey",
+				7,
+				16,
+				"PERSON"
+			],
+			[
+				"British Government",
+				90,
+				108,
+				"GPE"
+			],
+			[
+				"Austro-Hungarian Ambassador",
+				138,
+				165,
+				"PERSON"
+			],
+			[
+				"United States",
+				184,
+				197,
+				"GPE"
+			],
+			[
+				"United States",
+				208,
+				221,
+				"GPE"
+			],
+			[
+				"His Majesty's Government",
+				402,
+				426,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As the Government of the United States is therefore desirous to have Count Tarnowski reach the United States as soon as possible, it expects the Government of His Majesty to reconsider their action and to assure Count Tarnowski and suite that they will be unmolested in their passage to this country.",
+		"entities": [
+			[
+				"Government of the United States",
+				7,
+				38,
+				"GPE"
+			],
+			[
+				"Count Tarnowski",
+				69,
+				84,
+				"PERSON"
+			],
+			[
+				"United States",
+				95,
+				108,
+				"GPE"
+			],
+			[
+				"Government of His Majesty",
+				145,
+				170,
+				"ORG"
+			],
+			[
+				"Count Tarnowski",
+				212,
+				227,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Lansing\"]",
+		"entities": [
+			[
+				"Lansing",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['The Foreign Ministers did not meet on Sunday, July 19.']",
+		"entities": [
+			[
+				"Foreign Ministers",
+				6,
+				23,
+				"PERSON"
+			],
+			[
+				"Sunday, July 19",
+				40,
+				55,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "['118.",
+		"entities": []
+	},
+	{
+		"content": "Department's circular December 5, 4 p.m. Federal Council at recent meeting decided that in view of Switzerland's lack of relations with Russia and in view of its traditional policy of neutrality and nonintervention it could not make official representations to the Government[s] of Russia and China even though it fully concurred in the aims of the American Government in calling attention to the obligation assumed under the Pact of Paris.",
+		"entities": [
+			[
+				"Department",
+				0,
+				10,
+				"ORG"
+			],
+			[
+				"December 5",
+				22,
+				32,
+				"DATE"
+			],
+			[
+				"Federal Council",
+				41,
+				56,
+				"GPE"
+			],
+			[
+				"Switzerland",
+				99,
+				110,
+				"GPE"
+			],
+			[
+				"Russia",
+				136,
+				142,
+				"GPE"
+			],
+			[
+				"Russia",
+				282,
+				288,
+				"GPE"
+			],
+			[
+				"China",
+				293,
+				298,
+				"GPE"
+			],
+			[
+				"American Government",
+				349,
+				368,
+				"GPE"
+			],
+			[
+				"Pact of Paris",
+				426,
+				439,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Mr. Motta drafted a communique based on the discussion without [with?]",
+		"entities": [
+			[
+				"Motta",
+				4,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "the Federal Council reading as follows: \"The American Charge d'Affaires has officially informed the Federal Council of the contents of the note which the American Government addressed to the Chinese Government and delivered to the Government of Soviet Russia as a result of recent events in Manchuria and inquired whether the Federal Government might find it possible to participate in some manner in this action which the American Government was taking by virtue of the Pact for the Renunciation of War.",
+		"entities": [
+			[
+				"Federal Council",
+				4,
+				19,
+				"GPE"
+			],
+			[
+				"American Charge d'Affaires",
+				45,
+				71,
+				"PERSON"
+			],
+			[
+				"Federal Council",
+				100,
+				115,
+				"GPE"
+			],
+			[
+				"American Government",
+				154,
+				173,
+				"GPE"
+			],
+			[
+				"Chinese Government",
+				191,
+				209,
+				"GPE"
+			],
+			[
+				"Government of Soviet Russia",
+				231,
+				251,
+				"GPE"
+			],
+			[
+				"Manchuria",
+				291,
+				300,
+				"LOC"
+			],
+			[
+				"Federal Government",
+				326,
+				344,
+				"GPE"
+			],
+			[
+				"American Government",
+				423,
+				442,
+				"GPE"
+			],
+			[
+				"Pact for the Renunciation of War",
+				471,
+				503,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Inasmuch as it has no diplomatic relations with Russia and in view of Switzerland's special position, the Federal Council has not judged it possible to make diplomatic representations in the strict sense of the word to the Governments of China and Soviet Russia.",
+		"entities": [
+			[
+				"Russia",
+				48,
+				54,
+				"GPE"
+			],
+			[
+				"Switzerland",
+				70,
+				81,
+				"GPE"
+			],
+			[
+				"Federal Council",
+				106,
+				121,
+				"GPE"
+			],
+			[
+				"Governments of China",
+				223,
+				243,
+				"GPE"
+			],
+			[
+				"Soviet Russia",
+				248,
+				261,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "None the less in the conviction that it is voicing public opinion throughout Switzerland, the Federal Council joins in the hope that these two Governments which signed a treaty which solemnly proscribes recourse to war for the settlement of international conflicts will strive for a pacific solution of the dispute which has arisen between them.\"",
+		"entities": [
+			[
+				"Switzerland",
+				77,
+				88,
+				"LOC"
+			],
+			[
+				"Federal Council",
+				94,
+				109,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[Paraphrase.",
+		"entities": []
+	},
+	{
+		"content": "] Desiring to be helpful, Mr. Motta has indicated his willingness to be guided by your preference in regard to whether this communique be issued or be regarded as an oral response to my oral representations last week.",
+		"entities": [
+			[
+				"Motta",
+				30,
+				35,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I request urgently your instructions.",
+		"entities": []
+	},
+	{
+		"content": "[End paraphrase.",
+		"entities": []
+	},
+	{
+		"content": "] Moffat']",
+		"entities": [
+			[
+				"Moffat",
+				2,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['PARTICIPANTS Dr. Henry A. Kissinger Soviet Charge Yuly Vorontsov I met with Vorontsov at my request to hand him a draft letter to Kosygin (attached) on the need to put an end to hostilities.",
+		"entities": [
+			[
+				"Henry A. Kissinger",
+				19,
+				37,
+				"PERSON"
+			],
+			[
+				"Soviet",
+				38,
+				44,
+				"GPE"
+			],
+			[
+				"Charge Yuly Vorontsov",
+				45,
+				66,
+				"PERSON"
+			],
+			[
+				"Vorontsov",
+				78,
+				87,
+				"PERSON"
+			],
+			[
+				"Kosygin",
+				132,
+				139,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Vorontsov said that I had to believe him that a major effort was being made to induce the Indians; however, they were not being very reasonable.",
+		"entities": [
+			[
+				"Vorontsov",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Indians",
+				90,
+				97,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I said that there was no longer any excuse; the President had made any number of personal appeals, all of which had been rejected, and it was time to move.",
+		"entities": [
+			[
+				"President",
+				48,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Vorontsov asked me whether it could be dealt with in the United Nations.",
+		"entities": [
+			[
+				"Vorontsov",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"United Nations",
+				57,
+				71,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I told him yes, we were prepared to support the British Resolution if the Soviet Union would.",
+		"entities": [
+			[
+				"British Resolution",
+				48,
+				66,
+				"LAW"
+			],
+			[
+				"Soviet Union",
+				74,
+				86,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Vorontsov said that the British Resolution was not very agreeable; the Soviets were trying to promote the Polish Resolution.",
+		"entities": [
+			[
+				"Vorontsov",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"British Resolution",
+				24,
+				42,
+				"LAW"
+			],
+			[
+				"Soviets",
+				71,
+				78,
+				"GPE"
+			],
+			[
+				"Polish Resolution",
+				106,
+				123,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "I said I wanted him to know that we would not agree to any resolution that recognized a turnover of authority.",
+		"entities": []
+	},
+	{
+		"content": "There was a question of principle involved.",
+		"entities": []
+	},
+	{
+		"content": "It was bad enough that the United Nations was impotent in the case of military attack; it could not be asked to legitimize it.",
+		"entities": [
+			[
+				"United Nations",
+				27,
+				41,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "However, as I pointed out, we were prepared to work in a parallel direction.",
+		"entities": []
+	},
+	{
+		"content": "Vorontsov said that the letter presented some difficulties.",
+		"entities": [
+			[
+				"Vorontsov",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Soviet Union was prepared unconditionally to guarantee the United States that there would be no Indian attack on the Western front or on Kashmir, and that when they referred to West Pakistan they meant the existing dividing line.",
+		"entities": [
+			[
+				"Soviet Union",
+				4,
+				16,
+				"GPE"
+			],
+			[
+				"United States",
+				63,
+				76,
+				"GPE"
+			],
+			[
+				"Indian",
+				100,
+				106,
+				"NORP"
+			],
+			[
+				"Western",
+				121,
+				128,
+				"LOC"
+			],
+			[
+				"Kashmir",
+				141,
+				148,
+				"LOC"
+			],
+			[
+				"West Pakistan",
+				181,
+				194,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "However, to do this publicly would mean that they were in effect speaking for a friendly country.",
+		"entities": []
+	},
+	{
+		"content": "After all, India was not a client state.",
+		"entities": [
+			[
+				"India",
+				11,
+				16,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I said that the course of events was obvious: Either there would be a ceasefire soon in the West anyway through the UN or through direct dealings with us, or else we would have to draw appropriate conclusions.",
+		"entities": [
+			[
+				"West",
+				92,
+				96,
+				"LOC"
+			],
+			[
+				"UN",
+				116,
+				118,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Vorontsov said, \"In a little while we will go back to where we were.\"",
+		"entities": [
+			[
+				"Vorontsov",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I said, \"I have told you for two weeks now that this is not the case.",
+		"entities": []
+	},
+	{
+		"content": "\" On this note, we left.",
+		"entities": []
+	},
+	{
+		"content": "Attachment Draft Letter From President Nixon to",
+		"entities": [
+			[
+				"President Nixon",
+				29,
+				44,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Soviet Chairman Kosygin Dear Mr. Chairman: Now that the military conflict in East Pakistan appears to be moving to a conclusion, the most challenging task to both our countries, as great and responsible powers, is to see to it that the bloodshed should promptly end and that fighting does not continue in the West.",
+		"entities": [
+			[
+				"Soviet",
+				0,
+				6,
+				"NORP"
+			],
+			[
+				"Chairman Kosygin",
+				7,
+				23,
+				"PERSON"
+			],
+			[
+				"Chairman",
+				33,
+				41,
+				"PERSON"
+			],
+			[
+				"East Pakistan",
+				77,
+				90,
+				"LOC"
+			],
+			[
+				"West",
+				309,
+				313,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Although the United Nations has been seized with this difficult problem, efforts in that body have so far not resulted in progress, partly because of the difficulties of resolving political issues.",
+		"entities": [
+			[
+				"United Nations",
+				13,
+				27,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It is not therefore urgently desirable that our two countries should take prompt and responsible steps to ensure that the military conflict does not spread and that assurances be given against territorial acquisition by either side?",
+		"entities": []
+	},
+	{
+		"content": "I know that you will agree with me that when this has been successfully accomplished the dark cloud that now hangs over the international situation as a whole will have been substantially lightened.",
+		"entities": []
+	},
+	{
+		"content": "I hope therefore that we can cooperate to achieve an end to all the fighting, to remove the concern that the war will become one of conquest, and to eliminate the threat to peace that has arisen.",
+		"entities": []
+	},
+	{
+		"content": "This would, of course, not prejudice anybody's position with respect to an ultimate political solution.",
+		"entities": []
+	},
+	{
+		"content": "I believe that efforts in the above direction must continue to be vigorously pursued.",
+		"entities": []
+	},
+	{
+		"content": "Sincerely,']",
+		"entities": []
+	},
+	{
+		"content": "['PARTICIPANTS Soviets: H.E. Andrey Gromyko, Soviet Minister of Foreign Affairs H.E. Anatoliy Dobrynin, Soviet Ambassador The Honorable Georgiy Markovich Korniyenko, Chief, USA Division, Soviet Ministry of Foreign Affairs Mr. Viktor Mikhaylovich Sukhodrev, Counselor and Interpreter, Soviet Ministry of Foreign Affairs U.S.:",
+		"entities": [
+			[
+				"Soviets",
+				15,
+				22,
+				"GPE"
+			],
+			[
+				"H.E. Andrey Gromyko",
+				24,
+				43,
+				"PERSON"
+			],
+			[
+				"Soviet Minister of Foreign Affairs",
+				45,
+				79,
+				"TITLE"
+			],
+			[
+				"H.E. Anatoliy Dobrynin",
+				80,
+				102,
+				"PERSON"
+			],
+			[
+				"Soviet Ambassador",
+				104,
+				121,
+				"TITLE"
+			],
+			[
+				"Georgiy Markovich Korniyenko",
+				136,
+				164,
+				"PERSON"
+			],
+			[
+				"USA Division",
+				173,
+				185,
+				"ORG"
+			],
+			[
+				"Soviet Ministry of Foreign Affairs",
+				187,
+				221,
+				"ORG"
+			],
+			[
+				"Viktor Mikhaylovich Sukhodrev",
+				226,
+				255,
+				"PERSON"
+			],
+			[
+				"Soviet Ministry of Foreign Affairs",
+				284,
+				318,
+				"ORG"
+			],
+			[
+				"U.S.",
+				319,
+				323,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary Kenneth Rush, Deputy Secretary of State Helmut Sonnenfeldt, Counselor Arthur A. Hartman, Assistant Secretary of State for European Affairs Gromyko: I see in this room as well as in the other room that Americans like concealed lighting.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Kenneth Rush",
+				14,
+				26,
+				"PERSON"
+			],
+			[
+				"Deputy Secretary of State",
+				28,
+				53,
+				"TITLE"
+			],
+			[
+				"Helmut Sonnenfeldt",
+				54,
+				72,
+				"PERSON"
+			],
+			[
+				"Counselor",
+				74,
+				83,
+				"TITLE"
+			],
+			[
+				"Arthur A. Hartman",
+				84,
+				101,
+				"PERSON"
+			],
+			[
+				"Assistant Secretary of State for European Affairs",
+				123,
+				152,
+				"TITLE"
+			],
+			[
+				"Gromyko",
+				153,
+				160,
+				"PERSON"
+			],
+			[
+				"Americans",
+				215,
+				224,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "We don't make a big secret of our lighting.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There are a lot of changes around here.",
+		"entities": []
+	},
+	{
+		"content": "Since I went away, Secretary Rush has introduced a whole new cuisine.",
+		"entities": [
+			[
+				"Secretary Rush",
+				19,
+				33,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Our press is going crazy over the question of whether or not we are making progress.",
+		"entities": []
+	},
+	{
+		"content": "Sonnenfeldt:",
+		"entities": [
+			[
+				"Sonnenfeldt",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The ticker stories this afternoon are all based on your comments in the elevator.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: They are saying that we are not going to achieve a permanent SALT agreement but if we had told them we had no intention of doing that, they would then call that a failure.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"SALT agreement",
+				72,
+				86,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I suppose you are having many visitors this week.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Yes, I have seen the Algerian and today I saw the Egyptian and tomorrow I have breakfast with the Dutchman van der Stoel.",
+		"entities": [
+			[
+				"Algerian",
+				21,
+				29,
+				"NORP"
+			],
+			[
+				"Egyptian",
+				50,
+				58,
+				"NORP"
+			],
+			[
+				"Dutchman",
+				98,
+				106,
+				"NORP"
+			],
+			[
+				"van der Stoel",
+				107,
+				120,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Do you plan to see Fahmy again?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Fahmy",
+				28,
+				33,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary: I have no plan to.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He told me he would see you on Sunday.",
+		"entities": []
+	},
+	{
+		"content": "I gather you are leaving on Monday.",
+		"entities": []
+	},
+	{
+		"content": "Why don't you get up and leave after I begin my speech and then the press can make a big story out of that--GROMYKO WALKS OUT.",
+		"entities": [
+			[
+				"GROMYKO",
+				108,
+				115,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Seriously, I plan to add several paragraphs to my speech about how detente contributes to our ability to cooperate with all countries.",
+		"entities": []
+	},
+	{
+		"content": "I am told that your speech was very moderate.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Yes, perhaps it was too moderate.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It stressed the basis for cooperative efforts.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "That is not inconsistent with what I will say.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "You see, Henry, you are beginning to use double negatives too.",
+		"entities": [
+			[
+				"Henry",
+				9,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I know how to use triple negatives, Anatoliy.",
+		"entities": [
+			[
+				"Anatoliy",
+				36,
+				44,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Rush:",
+		"entities": [
+			[
+				"Rush",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "You know that a double negative equals an affirmative.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: We are talking to the greatest double negative expert of them all.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "(At this point the Secretary toasted the Foreign Minister.)",
+		"entities": [
+			[
+				"Secretary",
+				19,
+				28,
+				"PERSON"
+			],
+			[
+				"Foreign Minister",
+				41,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: With respect to the UN General Assembly, we set forth our viewpoints.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"UN General Assembly",
+				29,
+				48,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We think that this session can give a general direction for work that should proceed but that there can be no document adopted before the next session of the General Assembly.",
+		"entities": [
+			[
+				"General Assembly",
+				158,
+				174,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We think that the Economic and Social Council of the UN should be told to draft recommendations for the next session.",
+		"entities": [
+			[
+				"the Economic and Social Council of the UN",
+				14,
+				55,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This session we cannot get into specifics or details.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We aren't prepared either to get into specifics at this time.",
+		"entities": []
+	},
+	{
+		"content": "We should stick to general objectives and not talk about specifics at this session.",
+		"entities": []
+	},
+	{
+		"content": "Maybe I will be able to let you see my draft speech in case you wish to comment on it.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: And your Allies, what position will they take?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We haven't coordinated very well for this meeting.",
+		"entities": []
+	},
+	{
+		"content": "I don't have any knowledge about specific proposals.",
+		"entities": []
+	},
+	{
+		"content": "Sonnenfeldt:",
+		"entities": [
+			[
+				"Sonnenfeldt",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The only thing I can remember is that the French have proposed a UN monitoring system.",
+		"entities": [
+			[
+				"French",
+				42,
+				48,
+				"GPE"
+			],
+			[
+				"UN",
+				65,
+				67,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Hartman: There are several proposals for commissions and groups to study specific proposals such as commodity arrangements.",
+		"entities": [
+			[
+				"Hartman",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary: I think that we were both attacked by the Chinese.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				53,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Your Chinese friend accused us both of super-powerism.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				14,
+				21,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Are you going to reply?",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No, I don't intend to reply.",
+		"entities": []
+	},
+	{
+		"content": "If I comment at all it will be very general, saying something critical about people using slogans.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: I didn't directly reply either.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary: I am having dinner Sunday night with the Chinese.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				52,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I don't know how to interpret what is going on in China.",
+		"entities": [
+			[
+				"China",
+				50,
+				55,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "By the way, they took the initiative for my meeting.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: Do you know Teng Hsiao-ping?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Teng Hsiao-ping",
+				21,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I met him a long time ago",
+		"entities": []
+	},
+	{
+		"content": "but I don't know him very well.",
+		"entities": []
+	},
+	{
+		"content": "We met in Moscow and Bucharest.",
+		"entities": [
+			[
+				"Moscow",
+				10,
+				16,
+				"LOC"
+			],
+			[
+				"Bucharest",
+				21,
+				30,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I know Chiao Kwan-hua well.",
+		"entities": [
+			[
+				"Chiao Kwan-hua",
+				7,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He has been at every meeting except the first.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He is an older man.",
+		"entities": []
+	},
+	{
+		"content": "He must be over seventy.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Yes.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I think so but by Chinese standards that is young.",
+		"entities": [
+			[
+				"Chinese",
+				18,
+				25,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Secretary: Do you know Wang Hung-wen?",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Wang Hung-wen",
+				23,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: I have never met him.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary: I have never met him either.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dobrynin: Didn't you meet him in Shanghai?",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"Shanghai",
+				33,
+				41,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: You visited Shanghai, didn't you?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Shanghai",
+				21,
+				29,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Yes, but I don't recollect meeting Wang.",
+		"entities": [
+			[
+				"Wang",
+				35,
+				39,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "May I raise the question of Berlin if it won't spoil your appetite?",
+		"entities": [
+			[
+				"Berlin",
+				28,
+				34,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "You will recall that we discussed this question in Washington and also when you were in Moscow.",
+		"entities": [
+			[
+				"Washington",
+				51,
+				61,
+				"LOC"
+			],
+			[
+				"Moscow",
+				88,
+				94,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We said that the best solution to this problem is to suspend de facto the establishment of the Federal Environmental Office--only Allah knows why they took the decision to establish it in the first place.",
+		"entities": [
+			[
+				"Federal Environmental Office",
+				95,
+				123,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We have information that if the United States agreed the Federal Government is prepared to go along with suspending the establishment of this office.",
+		"entities": [
+			[
+				"United States",
+				32,
+				45,
+				"GPE"
+			],
+			[
+				"Federal Government",
+				57,
+				75,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Thus the problem depends on you.",
+		"entities": []
+	},
+	{
+		"content": "You can dispose of this matter.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: That can't be the right information but let me say that if the Federal Government asks our approval for their not proceeding, we will not stand in the way.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Federal Government",
+				74,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If you are saying that we should order them not to proceed that is a different matter.",
+		"entities": []
+	},
+	{
+		"content": "If the German Government considers that they do not wish to go ahead, we will not stand in the way.",
+		"entities": [
+			[
+				"German Government",
+				7,
+				24,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If we have to take the initiative, however, that is a different matter.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: Let us say that there could be an understanding without any political/legal steps on your part and that you register this understanding to their agreement not to proceed.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Your attitude could be made known to them.",
+		"entities": []
+	},
+	{
+		"content": "That would be the way out.",
+		"entities": []
+	},
+	{
+		"content": "If you are concerned about the Berlin situation that could solve the problem.",
+		"entities": [
+			[
+				"Berlin",
+				31,
+				37,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "You register your understanding on the basis of facts.",
+		"entities": []
+	},
+	{
+		"content": "Thus you would be making a gesture in favor of the Quadripartite Agreement.",
+		"entities": [
+			[
+				"Quadripartite Agreement",
+				51,
+				74,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This reminds me of messages I receive from our Ambassador in New Delhi, who says that he has received \"idiotic instructions.",
+		"entities": [
+			[
+				"Ambassador",
+				47,
+				57,
+				"TITLE"
+			],
+			[
+				"New Delhi",
+				61,
+				70,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "\" That leaves me with the choice of either saying that I didn't know about the instruction or that I am stupid.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: Mr. Rush who has great responsibility for the Quadripartite Agreement should \"jump for joy\" if we can solve this matter.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Rush",
+				13,
+				17,
+				"PERSON"
+			],
+			[
+				"Quadripartite Agreement",
+				55,
+				78,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Of course, this would not absolutely satisfy us even then because the Federal Government has still taken a decision in principle to establish the office but at least the factual situation would be frozen.",
+		"entities": [
+			[
+				"Federal Government",
+				70,
+				88,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary: I am not absolutely sure I understand.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If there was a German decision not to establish the office on its own, we would not object.",
+		"entities": [
+			[
+				"German",
+				15,
+				21,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: I have the information that this is the German view.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"German",
+				49,
+				55,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "That is news to us.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: I may say I have more than an impression that this is the German position.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"German",
+				67,
+				73,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary: They have not conveyed this to us.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Let me do the following: I will ask the Germans what their intentions are.",
+		"entities": [
+			[
+				"Germans",
+				40,
+				47,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If they have no intention of implementing their decision, then we have a new situation.",
+		"entities": []
+	},
+	{
+		"content": "If your information is incorrect, I will inform you.",
+		"entities": []
+	},
+	{
+		"content": "Art, will you see that a message is sent off immediately?",
+		"entities": [
+			[
+				"Art",
+				0,
+				3,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Rush: I very much doubt that this is the German position.",
+		"entities": [
+			[
+				"Rush",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"German",
+				41,
+				47,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I just had a conversation yesterday with Scheel and he said nothing about this.",
+		"entities": [
+			[
+				"Scheel",
+				41,
+				47,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Did you discuss this question?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Yes, we reviewed our conversation in Moscow and agreed that this was now a common Allied position.",
+		"entities": [
+			[
+				"Moscow",
+				37,
+				43,
+				"LOC"
+			],
+			[
+				"Allied",
+				82,
+				88,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "No new institution would be created in Berlin without full consultation and approval of the three Western Allies.",
+		"entities": [
+			[
+				"Berlin",
+				39,
+				45,
+				"LOC"
+			],
+			[
+				"Western Allies",
+				98,
+				112,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The Germans accept that they will recognize our decisions when we refuse approval.",
+		"entities": [
+			[
+				"Germans",
+				4,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The British and French also agree.",
+		"entities": [
+			[
+				"British",
+				4,
+				11,
+				"GPE"
+			],
+			[
+				"French",
+				16,
+				22,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They know then?",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Yes, but that does not include the Federal Environmental Office.",
+		"entities": [
+			[
+				"Federal Environmental Office",
+				35,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Perhaps you have confused the idea of no new institutions without our approval but the new institutions does not cover the Federal Environmental Office.",
+		"entities": [
+			[
+				"Federal Environmental Office",
+				123,
+				151,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In any case, I will ask the Germans if anything is new.",
+		"entities": [
+			[
+				"Germans",
+				28,
+				35,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "So the Federal Environmental Office you think is still going to be established?",
+		"entities": [
+			[
+				"Federal Environmental Office",
+				7,
+				35,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "You should check that with the Germans.",
+		"entities": [
+			[
+				"Germans",
+				31,
+				38,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Rush:",
+		"entities": [
+			[
+				"Rush",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They have never indicated that to us.",
+		"entities": []
+	},
+	{
+		"content": "In fact, politically this would be very difficult for Brandt to do.",
+		"entities": [
+			[
+				"Brandt",
+				54,
+				60,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He has lost several recent elections.",
+		"entities": []
+	},
+	{
+		"content": "The CDU is now showing more than 50 percent in the polls for the first time.",
+		"entities": [
+			[
+				"CDU",
+				4,
+				7,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The SPD is in a very weak posture.",
+		"entities": [
+			[
+				"SPD",
+				4,
+				7,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: What province is this in?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Rush:",
+		"entities": [
+			[
+				"Rush",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This is an overall percentage for the whole country.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It is hard to understand the decline of Brandt.",
+		"entities": [
+			[
+				"Brandt",
+				40,
+				46,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Rush:",
+		"entities": [
+			[
+				"Rush",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I think it is due in large part to the inflation.",
+		"entities": []
+	},
+	{
+		"content": "When I first went to Bonn, Schiller told me that the SPD would stay in power as long as the inflation was kept below 3 percent.",
+		"entities": [
+			[
+				"Bonn",
+				21,
+				25,
+				"LOC"
+			],
+			[
+				"Schiller",
+				27,
+				35,
+				"PERSON"
+			],
+			[
+				"SPD",
+				53,
+				56,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Secretary: They have three years to go before elections.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sonnenfeldt:",
+		"entities": [
+			[
+				"Sonnenfeldt",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The law on the Federal Environmental Office is in the Bundestag now.",
+		"entities": [
+			[
+				"Federal Environmental Office",
+				15,
+				43,
+				"ORG"
+			],
+			[
+				"Bundestag",
+				54,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Rush:",
+		"entities": [
+			[
+				"Rush",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It would be too late for them to withdraw.",
+		"entities": []
+	},
+	{
+		"content": "Politically Brandt could not do it.",
+		"entities": [
+			[
+				"Brandt",
+				12,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: I will verify my information.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary: Do you want me to proceed with the Germans?",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Germans",
+				46,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No, you wait until my Ambassador communicates with you.",
+		"entities": []
+	},
+	{
+		"content": "I will verify the information.",
+		"entities": []
+	},
+	{
+		"content": "I am sure that it is from a reliable source.",
+		"entities": []
+	},
+	{
+		"content": "I received it while I was in New York.",
+		"entities": [
+			[
+				"New York",
+				29,
+				37,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Our Ambassador will phone when he has the information or whether my information is correct.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I do not believe it is correct.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I don't want your hands tied.",
+		"entities": []
+	},
+	{
+		"content": "Therefore, I will verify the information.",
+		"entities": []
+	},
+	{
+		"content": "Now I would like to turn to another kind of environment and I hope that you can be more forthcoming.",
+		"entities": []
+	},
+	{
+		"content": "What do you think of our proposal on making an agreement with respect to changes in the environment?",
+		"entities": []
+	},
+	{
+		"content": "Secretary: We are going to have a meeting on it soon.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sonnenfeldt:",
+		"entities": [
+			[
+				"Sonnenfeldt",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "A report is overdue but we should have it in a few days.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: I am not optimistic about the results.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Why?",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Our people say that there is no way to verify what others will do with respect to weather modification.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: I would like very much to pretend that I did not hear your reply that you were not optimistic.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "So let us both do what the fishermen in the story did.",
+		"entities": []
+	},
+	{
+		"content": "There were two fishermen who met on the road and they were both hard of hearing.",
+		"entities": []
+	},
+	{
+		"content": "The first said \"Are you going fishing?\"",
+		"entities": []
+	},
+	{
+		"content": "And the second replied \"No, I am going fishing.\"",
+		"entities": []
+	},
+	{
+		"content": "And the first answered again, \"No, I am going fishing.",
+		"entities": []
+	},
+	{
+		"content": "\" So you can see, I did not wish to hear you.",
+		"entities": []
+	},
+	{
+		"content": "Really, I am not at all encouraged.",
+		"entities": []
+	},
+	{
+		"content": "This is another area where we can get into competition and the consequences will follow.",
+		"entities": []
+	},
+	{
+		"content": "Years from now our successors will say \"Why didn't we take this matter up before?\"",
+		"entities": []
+	},
+	{
+		"content": "Secretary: Can we get a report and answer by the end of the month?",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I will have to have a meeting to hear what my genuises have to say.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This problem could consume billions of dollars with only doubtful results if we get into competition.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: What you want is a declaration not to use it?",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I don't care about the form.",
+		"entities": []
+	},
+	{
+		"content": "I have a completely open mind.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Then Jobert and the Chinese can make speeches that we have agreed not to use it against each other but we are free to use it against others.",
+		"entities": [
+			[
+				"Jobert",
+				5,
+				11,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				20,
+				27,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Am I right that you want to renounce the use?",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We will consider any effective form.",
+		"entities": []
+	},
+	{
+		"content": "A declaration might be a good way to proceed and contain the substantive matters.",
+		"entities": []
+	},
+	{
+		"content": "You should not underestimate the effects.",
+		"entities": []
+	},
+	{
+		"content": "This could be like the ABM but it could consume several times more money.",
+		"entities": [
+			[
+				"ABM",
+				23,
+				26,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "We will look back and say why didn't we stop this.",
+		"entities": []
+	},
+	{
+		"content": "This is the joint opinion of our political, scientific and military advisors, especially our political and scientific people.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It might be possible to agree to prohibit the use or the first use or the production of agents or the belligerent use.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We want to be specific and concrete.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Can't we agree to enter into negotiations at the Summit?",
+		"entities": [
+			[
+				"Summit",
+				49,
+				55,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: We could agree in principle that this is the general direction we wish to move in.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Rush: What about peacetime peaceful uses?",
+		"entities": [
+			[
+				"Rush",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Those are all right.",
+		"entities": []
+	},
+	{
+		"content": "If it is to save a great harvest, that is permissible.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: Let me look at this again.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Perhaps we could announce at the Summit that we intend to enter into negotiations or to study this problem.",
+		"entities": [
+			[
+				"Summit",
+				33,
+				39,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: I hope that you can stretch your position and see that this is in our mutual interest.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Your suggestions have been helpful.",
+		"entities": []
+	},
+	{
+		"content": "I think we might look into the question of whether we can agree to a joint examination of how to avoid the use of the environment for belligerent purposes.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: With our geography we have a lot of room for experimentation.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "You also have a lot of bad weather to export.",
+		"entities": []
+	},
+	{
+		"content": "I understand what you are saying.",
+		"entities": []
+	},
+	{
+		"content": "I will think seriously about whether we can have a joint examination.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If we can move in this direction it would be useful.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There might be some symbolic value in this agreement.",
+		"entities": []
+	},
+	{
+		"content": "I will look to our study and see what the problems are.",
+		"entities": []
+	},
+	{
+		"content": "Ever since Mr. Rush left the Pentagon they have been more bellicose but you have given me an idea.",
+		"entities": [
+			[
+				"Rush",
+				15,
+				19,
+				"PERSON"
+			],
+			[
+				"Pentagon",
+				29,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Maybe we can have more sunny days.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: I will study and see what can be considered.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I am sympathetic.",
+		"entities": []
+	},
+	{
+		"content": "I will let you know by May 1.",
+		"entities": [
+			[
+				"May 1",
+				23,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Can you turn to the Middle East?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Middle East",
+				29,
+				40,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Secretary: Let us talk about SALT and then have a preliminary discussion of the Middle East so that we can consider it further tomorrow.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"SALT",
+				29,
+				33,
+				"LAW"
+			],
+			[
+				"Middle East",
+				80,
+				91,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "On SALT we are getting trapped in a public debate which is dangerous and absurd.",
+		"entities": [
+			[
+				"SALT",
+				3,
+				7,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "On the one hand people are accusing us of total failure.",
+		"entities": []
+	},
+	{
+		"content": "If we say we made some progress then they say we have given something away.",
+		"entities": []
+	},
+	{
+		"content": "Seriously, I think we have to set some time limit about what could come out of the Summit and how realistic the possibilities are.",
+		"entities": [
+			[
+				"Summit",
+				83,
+				89,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "There are several possibilities: 1)",
+		"entities": []
+	},
+	{
+		"content": "We could make an agreement along the lines of our discussion in Moscow as we discussed with the President today.",
+		"entities": [
+			[
+				"Moscow",
+				64,
+				70,
+				"LOC"
+			],
+			[
+				"President",
+				96,
+				105,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "2)",
+		"entities": []
+	},
+	{
+		"content": "Without an agreement we could make a statement like we did in May of 1971 that we will work toward an agreement on a numerical ratio but have not worked out all the details. 3)",
+		"entities": [
+			[
+				"May of 1971",
+				62,
+				73,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Or we could have a combination of the two.",
+		"entities": []
+	},
+	{
+		"content": "We should decide in the next three weeks what we have in mind.",
+		"entities": []
+	},
+	{
+		"content": "Let me say what our difficulty is.",
+		"entities": []
+	},
+	{
+		"content": "You have three kinds of land-based missiles which you can MIRV plus the submarine problem.",
+		"entities": []
+	},
+	{
+		"content": "We have only one land-based missile type.",
+		"entities": []
+	},
+	{
+		"content": "Our problem is simpler and, of course, through no fault of yours, we have decided to go for a smaller land-based missile design.",
+		"entities": []
+	},
+	{
+		"content": "Now people are saying that you have a big missile and we are at a disadvantage.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: How many times the Hiroshima-type bomb do you have in one part of your MIRV--that is, one-tenth?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Hiroshima",
+				28,
+				37,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Secretary: Several times Hiroshima in one-tenth.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Hiroshima",
+				25,
+				34,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "The problem is the distribution of each other's land-based missiles.",
+		"entities": []
+	},
+	{
+		"content": "I came back from Moscow determined to take another look.",
+		"entities": [
+			[
+				"Moscow",
+				17,
+				23,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We had always focused on the number of missiles not on the number of warheads.",
+		"entities": []
+	},
+	{
+		"content": "You can see here I carry around a piece of paper with all the numbers on it because I want to learn them.",
+		"entities": []
+	},
+	{
+		"content": "The problem is you say you want one thousand and how that number is composed is meaningless.",
+		"entities": []
+	},
+	{
+		"content": "You could have all your land-based missiles MIRV'd in the first four years and then shift to submarines in the fifth year.",
+		"entities": []
+	},
+	{
+		"content": "This would be no technical violation but it would affect the rate at which MIRV's are installed.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: General Secretary Brezhnev told you that this was a practical impossibility for us.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"General Secretary Brezhnev",
+				9,
+				35,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "You have talked about exchanging information and I think that this is a constructive idea.",
+		"entities": []
+	},
+	{
+		"content": "Would you do this at the beginning of the process?",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This should be specified in the negotiations.",
+		"entities": []
+	},
+	{
+		"content": "Information could be exchanged several times, not just once.",
+		"entities": []
+	},
+	{
+		"content": "It could be exchanged initially, in an advanced stage and in the middle.",
+		"entities": []
+	},
+	{
+		"content": "What you want to know can be obtained through this process of exchanging information.",
+		"entities": []
+	},
+	{
+		"content": "This is the way you can find out about intentions.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The problem is that if you say, for example, at the beginning that you are going to have 700 land-based missiles and 300 sea-based missiles, then we can compare this with the actual deployment.",
+		"entities": []
+	},
+	{
+		"content": "If you give us information at the beginning and it only covers the first year we cannot plan our reaction.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: We can exchange information at the beginning and tell you what our intention is for the next year and when that time expires each side will say what it intends to do in the second year and so forth each year for the duration of the agreement.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We could exchange this information simultaneously.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But you will know our intentions because they are public.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: How will we know?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary: Your Ambassador meets with more Senators than I do.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sonnenfeldt:",
+		"entities": [
+			[
+				"Sonnenfeldt",
+				0,
+				11,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It is all in our budget.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This would not be equal.",
+		"entities": []
+	},
+	{
+		"content": "Our deployment is ahead of yours.",
+		"entities": []
+	},
+	{
+		"content": "We may be finished in 1976.",
+		"entities": [
+			[
+				"1976",
+				22,
+				26,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: What do you prefer?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Our preference would be for you to tell us that there will be X number of land-based missiles and X number of sea-based missiles.",
+		"entities": []
+	},
+	{
+		"content": "We would accept that.",
+		"entities": []
+	},
+	{
+		"content": "We would have so many land and so many sea-based missiles.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: We cannot accept a condition to the exchange of information.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But you would be free to change your mind.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We would be free to give any information.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: What we are talking about is an exchange of information not an agreement on figures.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It would be an understanding by each side on a mutual basis.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: I could conceive--leaving aside the assumption of an understanding--that you tell us you plan so many land and so many sea-based missiles.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We tell you the same thing and we tell each year what we plan to do each year.",
+		"entities": []
+	},
+	{
+		"content": "But doing this year by year is useless.",
+		"entities": []
+	},
+	{
+		"content": "Sonnenfeldt:",
+		"entities": [
+			[
+				"Sonnenfeldt",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If we have an agreement for five years year by year doesn't really help very much.",
+		"entities": []
+	},
+	{
+		"content": "Our main problem is that you have told us your silos can take MIRV's without any change.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: We are talking about launchers and counting silos.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There is a problem in exchanging information and I hope that the General Secretary did not misunderstand.",
+		"entities": [
+			[
+				"General Secretary",
+				65,
+				82,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I said that to MIRV a missile without modifying a silo was not a violation of the agreement.",
+		"entities": []
+	},
+	{
+		"content": "We think it is possible to install a different missile by digging the hole deeper and that is not a violation.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The General Secretary understood the point you made.",
+		"entities": [
+			[
+				"General Secretary",
+				4,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The problem is that if you MIRV without modifying the silo we have an almost insoluble problem.",
+		"entities": []
+	},
+	{
+		"content": "We don't know if the missile has been MIRV'd and, therefore, we must count it as MIRV'd if you tell us that the silo requires no modification.",
+		"entities": []
+	},
+	{
+		"content": "That is a factual problem.",
+		"entities": []
+	},
+	{
+		"content": "Do you intend to modify your silos to install MIRV's?",
+		"entities": []
+	},
+	{
+		"content": "If so, then your proposal for exchanging information has merit because we can then tell him you have modified a silo to install a MIRV.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: Is that a concrete question?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Doesn't exchanging information solve the problem in principle?",
+		"entities": []
+	},
+	{
+		"content": "Secretary: We can examine if there are other criteria on modifications or the question of whether they can be put in submarines.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Is this a pre-condition of the understanding or in the beginning should we only consider an algebraic formula and the exchange of information?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary: For us this is a tough intellectual problem.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There is enormous difficulty which is fed by the opponents of an agreement.",
+		"entities": []
+	},
+	{
+		"content": "It is conceivable that we could accept an algebraic formula and have an understanding about exchanging information but to be convincing it depends on what we can say about our ability to tell when missiles are MIRV'd.",
+		"entities": []
+	},
+	{
+		"content": "If we can say they have been MIRV'd when a silo cover is removed for a period of months, then we can say that we have counted the number of MIRV'd missiles.",
+		"entities": []
+	},
+	{
+		"content": "If we say that we have no way to judge and you can just pop a missile into the old hole, then we have to count the full number allowed under the agreement.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "How can we convince you?",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There is no violation unless the holes are made wider.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: Strangely enough, if there is suspicious activity it is better and easier to reach an agreement.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The problem is that you have very large missiles and if there are no MIRV's on the largest missiles or if you accept a ceiling, then your figures become more manageable.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We cannot accept any division within the ceiling.",
+		"entities": []
+	},
+	{
+		"content": "There can be no exchange of information if that is the case.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We are not ahead on numbers of launchers.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin:",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No, you are ahead on warheads.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But your missiles are heavier.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Count how many warheads you can have on your thousand missiles.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It is not excluded that we could accept a thousand missiles of which the largest or 50 or so could be MIRV'd.",
+		"entities": []
+	},
+	{
+		"content": "Then we could exchange information each year.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This makes exchange of information useless.",
+		"entities": []
+	},
+	{
+		"content": "It is a condition to the agreement.",
+		"entities": []
+	},
+	{
+		"content": "What we should do is to facilitate understanding.",
+		"entities": []
+	},
+	{
+		"content": "What you are suggesting just means one more condition and you would have the advantage and I am not speaking yet of FBS.",
+		"entities": []
+	},
+	{
+		"content": "Gradually you are washing out the idea.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: I think you have made some constructive suggestions but your idea needs greater precision.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We could have an exchange of information each year or twice a year if you want.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No, we have more interest in long-term developments.",
+		"entities": []
+	},
+	{
+		"content": "Sonnenfeldt:",
+		"entities": [
+			[
+				"Sonnenfeldt",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If we can assume that silos must be modified, then we have some means to verify other than watching the testing program.",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The problem is how to reassure each other.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We believe that national means should be used.",
+		"entities": []
+	},
+	{
+		"content": "What other alternative is there?",
+		"entities": []
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The present agreement is easy to deal with by national means because it talks only about numbers.",
+		"entities": []
+	},
+	{
+		"content": "The choice before us is that you can modify your missiles with no external change, then we have serious difficulties.",
+		"entities": []
+	},
+	{
+		"content": "If it requires external change our problems are easier to deal with.",
+		"entities": []
+	},
+	{
+		"content": "We will have to respond to your suggestions.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If you set an inner limit, then the agreement to exchange information falls and there can be no progress in the negotiations.",
+		"entities": []
+	},
+	{
+		"content": "Frankly, the agreement on exchanging information was not simple for us.",
+		"entities": []
+	},
+	{
+		"content": "I would say that this is not a usual step for the Soviet Union to take.",
+		"entities": [
+			[
+				"Soviet Union",
+				50,
+				62,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary: I agree with that",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "but, as you know, we publish everything.",
+		"entities": []
+	},
+	{
+		"content": "I can still remember Smirnoff's face when I described the characteristics to him of your SS/9.",
+		"entities": [
+			[
+				"Smirnoff",
+				21,
+				29,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But you managed to calm him down.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Then we will wait for your reply.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: Now let us turn to the Middle East.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Middle East",
+				34,
+				45,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I don't want to try to find a solution now",
+		"entities": []
+	},
+	{
+		"content": "but I would like you to sum up once again what it is you want.",
+		"entities": []
+	},
+	{
+		"content": "(Before we have the translation I must say that you are hard to please.",
+		"entities": []
+	},
+	{
+		"content": "At first you accused us of not doing enough over the last six years and now you tell us we are doing too much.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: Not quite.)",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Let us proceed from the following basic understanding: 1.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "In all questions pertaining to the Middle East, the Soviet Union and the United States will act in a coordinated way.",
+		"entities": [
+			[
+				"Middle East",
+				35,
+				46,
+				"LOC"
+			],
+			[
+				"Soviet Union",
+				52,
+				64,
+				"GPE"
+			],
+			[
+				"United States",
+				73,
+				86,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Both Powers will take part in the consideration and solution of these problems.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: I can imagine the rest.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: 2.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Syrian disengagement.",
+		"entities": [
+			[
+				"Syrian",
+				0,
+				6,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "By those problems do you mean the overall peace settlement?",
+		"entities": []
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Yes in the broadest sense to include all matters.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Disengagement.",
+		"entities": []
+	},
+	{
+		"content": "With respect to the disengagement between Syria and Israel, the Soviet Union and the United States and, of course, Syria and Israel and Egypt, if it wishes to participate, should take part in the consideration of this question.",
+		"entities": [
+			[
+				"Syria",
+				42,
+				47,
+				"GPE"
+			],
+			[
+				"Israel",
+				52,
+				58,
+				"GPE"
+			],
+			[
+				"Soviet Union",
+				64,
+				76,
+				"GPE"
+			],
+			[
+				"United States",
+				85,
+				98,
+				"GPE"
+			],
+			[
+				"Syria",
+				115,
+				120,
+				"GPE"
+			],
+			[
+				"Israel",
+				125,
+				131,
+				"GPE"
+			],
+			[
+				"Egypt",
+				136,
+				141,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "But in practice this is only possible after the Syrians say that what the Israelis have proposed can serve as a basis for further discussion.",
+		"entities": [
+			[
+				"Syrians",
+				48,
+				55,
+				"GPE"
+			],
+			[
+				"Israelis",
+				74,
+				82,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If the Syrians say that there is no basis to proceed, then it is pointless to have a meeting.",
+		"entities": [
+			[
+				"Syrians",
+				7,
+				14,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "If it is seen by the Syrians that there is a basis--cause for the group to meet, then such a meeting should take place within the framework of the Geneva forum.",
+		"entities": [
+			[
+				"Syrians",
+				21,
+				28,
+				"GPE"
+			],
+			[
+				"Geneva forum",
+				147,
+				159,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We have discussed this with the Syrians and they are prepared to do this and I can assure you that it was no simple matter to get them to agree.",
+		"entities": [
+			[
+				"Syrians",
+				32,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "It is important to secure a positive outcome to the disengagement process.",
+		"entities": []
+	},
+	{
+		"content": "The United States is in a position to influence Israel--I am convinced of that and your President intimated as much.",
+		"entities": [
+			[
+				"United States",
+				4,
+				17,
+				"GPE"
+			],
+			[
+				"Israel",
+				48,
+				54,
+				"GPE"
+			],
+			[
+				"President",
+				88,
+				97,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Therefore, you should bring your influence to bear on Israel to get it to take a reasonable attitude (a) to secure a withdrawal which is not just symbolic but involves a substantial part of Syrian territory and (b) that that withdrawal should be an integral part of the total withdrawal and general settlement.",
+		"entities": [
+			[
+				"Israel",
+				54,
+				60,
+				"GPE"
+			],
+			[
+				"Syrian",
+				190,
+				196,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I trust that this presents no difficulty.",
+		"entities": []
+	},
+	{
+		"content": "Disengagement must be part of a general settlement.",
+		"entities": []
+	},
+	{
+		"content": "5.",
+		"entities": []
+	},
+	{
+		"content": "Withdrawal is withdrawal.",
+		"entities": []
+	},
+	{
+		"content": "The overall settlement still lies ahead.",
+		"entities": []
+	},
+	{
+		"content": "We can continue our consultations every day.",
+		"entities": []
+	},
+	{
+		"content": "You and I can meet.",
+		"entities": []
+	},
+	{
+		"content": "Dobrynin can meet with you.",
+		"entities": [
+			[
+				"Dobrynin",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But the Geneva Conference is the appropriate forum for the overall settlement and it has been paralyzed.",
+		"entities": [
+			[
+				"Geneva Conference",
+				8,
+				25,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Therefore, we should move in parallel with our bilateral conversations to reactivate the Geneva Conference.",
+		"entities": [
+			[
+				"Geneva Conference",
+				89,
+				106,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "I emphasize that this should not impede our talks.",
+		"entities": []
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "We could specifically reach understandings with regard to the way we should move ahead.",
+		"entities": []
+	},
+	{
+		"content": "We can meet together in Geneva--so that neither of us has to travel too long a distance.",
+		"entities": [
+			[
+				"Geneva",
+				24,
+				30,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We could meet there bilaterally to exchange information and see where things stand.",
+		"entities": []
+	},
+	{
+		"content": "We could agree on how things could be moved forward or chart future steps.",
+		"entities": []
+	},
+	{
+		"content": "There would be no secret about these discussions.",
+		"entities": []
+	},
+	{
+		"content": "We could announce them.",
+		"entities": []
+	},
+	{
+		"content": "Perhaps we could meet in two or three weeks or a month from now.",
+		"entities": []
+	},
+	{
+		"content": "7.",
+		"entities": []
+	},
+	{
+		"content": "(And like Beatrice in Dante, this may represent the Seventh Heaven), We--the United States and the Soviet Union--should agree to reaffirm our decision to act in agreed, concerted, coordinated, joint way or whatever word you wish to use.",
+		"entities": [
+			[
+				"Beatrice",
+				10,
+				18,
+				"PERSON"
+			],
+			[
+				"Dante",
+				22,
+				27,
+				"PERSON"
+			],
+			[
+				"Seventh Heaven",
+				52,
+				59,
+				"LOC"
+			],
+			[
+				"United States",
+				77,
+				90,
+				"GPE"
+			],
+			[
+				"Soviet Union",
+				99,
+				111,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "What better way to keep in touch and consult with all the appropriate relevant countries in the interests of world detente and peace in the Middle East.",
+		"entities": [
+			[
+				"Middle East",
+				140,
+				151,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This procedure would assure the independence and sovereignty of all.",
+		"entities": []
+	},
+	{
+		"content": "And I would be willing to mention Israel too.",
+		"entities": [
+			[
+				"Israel",
+				34,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I would say this out loud.",
+		"entities": []
+	},
+	{
+		"content": "I would not be shy about it.",
+		"entities": []
+	},
+	{
+		"content": "Perhaps our present meeting could put out a statement to this effect.",
+		"entities": []
+	},
+	{
+		"content": "Israel should not shrink or shudder about this very idea.",
+		"entities": [
+			[
+				"Israel",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They should have no cause to do so.",
+		"entities": []
+	},
+	{
+		"content": "We have no intention of pulling the rug out from under the existence of Israel.",
+		"entities": [
+			[
+				"Israel",
+				72,
+				78,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "At the table there will be no name calling.",
+		"entities": []
+	},
+	{
+		"content": "You should convince them that this is so.",
+		"entities": []
+	},
+	{
+		"content": "What matters is that we begin the process.",
+		"entities": []
+	},
+	{
+		"content": "There are other matters, of course, beside complete withdrawal such as Jerusalem, Gaza and the Palestinian question.",
+		"entities": [
+			[
+				"Jerusalem",
+				71,
+				80,
+				"LOC"
+			],
+			[
+				"Gaza",
+				82,
+				86,
+				"LOC"
+			],
+			[
+				"Palestinian",
+				95,
+				106,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "But if we have a framework it will be easier to deal with these problems later.",
+		"entities": []
+	},
+	{
+		"content": "It is easier to influence the parties at the same table.",
+		"entities": []
+	},
+	{
+		"content": "By the way, we favor having the Palestinians in Geneva but we do not wish to make that decision now.",
+		"entities": [
+			[
+				"Palestinians",
+				32,
+				44,
+				"GPE"
+			],
+			[
+				"Geneva",
+				48,
+				54,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We can discuss it later in our consultations.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: Tomorrow we can talk more about this.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "In the meantime I will study the seven points you have raised.",
+		"entities": []
+	},
+	{
+		"content": "You object to the United States acting separately but most of your concern is about form.",
+		"entities": [
+			[
+				"United States",
+				18,
+				31,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Nothing has happened to embarrass the Soviet Union.",
+		"entities": [
+			[
+				"Soviet Union",
+				38,
+				50,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We don't want to enter a process where one side makes itself the lawyer for one or more of the parties and we don't want a process which enables either side to achieve unilateral advantage.",
+		"entities": []
+	},
+	{
+		"content": "We have been greatly concerned about the Syrian disengagement.",
+		"entities": [
+			[
+				"Syrian",
+				41,
+				47,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "We are attempting to get some withdrawal behind the October 6 line.",
+		"entities": [
+			[
+				"October 6 line",
+				52,
+				66,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We have not been successful yet.",
+		"entities": []
+	},
+	{
+		"content": "If that is what you call symbolic, and you think more can be done I want to tell you that that is the maximum we think is possible.",
+		"entities": []
+	},
+	{
+		"content": "We are afraid that meetings will lend themselves to great agitation.",
+		"entities": []
+	},
+	{
+		"content": "We know what can be achieved.",
+		"entities": []
+	},
+	{
+		"content": "We are not looking for symbolic moves.",
+		"entities": []
+	},
+	{
+		"content": "What we will do is try to get the maximum obtainable.",
+		"entities": []
+	},
+	{
+		"content": "Both of us want to have a constructive attitude of cooperation and neither of us wishes to take unilateral advantage.",
+		"entities": []
+	},
+	{
+		"content": "But we must have a separation in form as well as in substance.",
+		"entities": []
+	},
+	{
+		"content": "Your idea of a meeting in Geneva strikes me as a good one.",
+		"entities": [
+			[
+				"Geneva",
+				26,
+				32,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We can set the time in the next few days.",
+		"entities": []
+	},
+	{
+		"content": "On your other points I will study them.",
+		"entities": []
+	},
+	{
+		"content": "I am not sure I can remember them all.",
+		"entities": []
+	},
+	{
+		"content": "I am not opposed to convening the Geneva Conference after the Syrian disengagement.",
+		"entities": [
+			[
+				"Geneva Conference",
+				34,
+				51,
+				"EVENT"
+			],
+			[
+				"Syrian",
+				62,
+				68,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "To clarify the problem you said on the one hand there should be joint negotiations on disengagement but the peace settlement should take place under the framework of the Geneva Agreement.",
+		"entities": [
+			[
+				"Geneva Agreement",
+				170,
+				186,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The only issue is the Syrian disengagement.",
+		"entities": [
+			[
+				"Syrian",
+				22,
+				28,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "We agree to re-open the Geneva Conference after that.",
+		"entities": [
+			[
+				"Geneva Conference",
+				24,
+				41,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "With respect to the disengagement we can't move until Syria has an indication of an acceptable Israeli proposal.",
+		"entities": [
+			[
+				"Syria",
+				54,
+				59,
+				"GPE"
+			],
+			[
+				"Israeli",
+				95,
+				102,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I can visualize a continuing process in which we try to elicit an Israeli proposal and then we agree to work out the modalities of disengagement in some military commission in Geneva.",
+		"entities": [
+			[
+				"Israeli",
+				66,
+				73,
+				"GPE"
+			],
+			[
+				"Geneva",
+				176,
+				182,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Gromyko:",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "That is correct.",
+		"entities": []
+	},
+	{
+		"content": "Secretary: I would like to explore this more thoroughly.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This is actually close to what I had thought of suggesting to you.",
+		"entities": []
+	},
+	{
+		"content": "Let me sum up.",
+		"entities": []
+	},
+	{
+		"content": "1)",
+		"entities": []
+	},
+	{
+		"content": "We should meet in Geneva in two or three weeks. 2)",
+		"entities": [
+			[
+				"Geneva",
+				18,
+				24,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "After the Syrian disengagement we will re-open the Geneva Conference. 3)",
+		"entities": [
+			[
+				"Syrian",
+				10,
+				16,
+				"NORP"
+			],
+			[
+				"Geneva Conference",
+				517,
+				68,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "To proceed with Syrian disengagement we will seek a line from Israel that is acceptable to Syria in principle.",
+		"entities": [
+			[
+				"Syrian",
+				16,
+				22,
+				"NORP"
+			],
+			[
+				"Israel",
+				62,
+				68,
+				"GPE"
+			],
+			[
+				"Syria",
+				91,
+				96,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The modalities will be worked out in a larger framework.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: We can discuss it.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If the Syrians accept the basis they don't necessarily have to sit at the table.",
+		"entities": [
+			[
+				"Syrians",
+				7,
+				14,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "What we are looking for are practical arrangements for Syria and Israel to meet with both of us being fully informed.",
+		"entities": [
+			[
+				"Syria",
+				55,
+				60,
+				"GPE"
+			],
+			[
+				"Israel",
+				65,
+				71,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We do not wish to cause trouble by our presence.",
+		"entities": []
+	},
+	{
+		"content": "Israel is just making up this story.",
+		"entities": [
+			[
+				"Israel",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "That is a primitive idea of the Israelis.",
+		"entities": [
+			[
+				"Israelis",
+				32,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary: 1) As I told you we are realistic on this matter.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Neither of us should seek unilateral advantage over the other. 2)",
+		"entities": []
+	},
+	{
+		"content": "As realists we also know that all the parties in the area will try to take advantage by creating rivalry between us.",
+		"entities": []
+	},
+	{
+		"content": "It is a mistake for us to fall for this.",
+		"entities": []
+	},
+	{
+		"content": "People will change but our policy should not be to take unilateral advantage. 3) (Gromyko interrupts)",
+		"entities": [
+			[
+				"Gromyko",
+				82,
+				89,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Not words but deeds.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary:",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "On both sides.",
+		"entities": []
+	},
+	{
+		"content": "We know that our diplomatic activity and coordination must be genuine. 3)",
+		"entities": []
+	},
+	{
+		"content": "On the Syrian problem we have a concern that Israel not produce an uproar and, therefore, that we do not introduce extraneous issues.",
+		"entities": [
+			[
+				"Syrian",
+				7,
+				13,
+				"NORP"
+			],
+			[
+				"Israel",
+				45,
+				51,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our biggest concern is to get a line that Syria can accept.",
+		"entities": [
+			[
+				"Syria",
+				42,
+				47,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Other details are not fundamental.",
+		"entities": []
+	},
+	{
+		"content": "Therefore, it is not a question of closing our eyes to the Soviet Union.",
+		"entities": [
+			[
+				"Soviet Union",
+				59,
+				71,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In the back of the Israeli minds I am sure they think they can benefit by our rivalry.",
+		"entities": [
+			[
+				"Israeli",
+				19,
+				26,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I don't exclude that.",
+		"entities": []
+	},
+	{
+		"content": "To sum up: 1) We should agree to act in a coordinated manner.",
+		"entities": []
+	},
+	{
+		"content": "2)",
+		"entities": []
+	},
+	{
+		"content": "We should agree to meet in several weeks in Geneva.",
+		"entities": [
+			[
+				"Geneva",
+				44,
+				50,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "3)",
+		"entities": []
+	},
+	{
+		"content": "We agree that the overall peace talks should take place in the Geneva framework.",
+		"entities": [
+			[
+				"Geneva",
+				63,
+				69,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "4)",
+		"entities": []
+	},
+	{
+		"content": "On Syrian disengagement you have opened up the perspective of reaching agreement on a line and then working out the modalities.",
+		"entities": [
+			[
+				"Syrian",
+				3,
+				9,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Gromyko: Does Israel agree?",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Israel",
+				14,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary: We are using the same process with Israel as we did with Egypt, moving them along in a way that prevents a domestic explosion here.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Israel",
+				46,
+				52,
+				"GPE"
+			],
+			[
+				"Egypt",
+				68,
+				73,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "When we started out in Egypt and we were talking about Resolution 339 which talked about the October 22nd line, Mrs. Meir was so angry with me that she refused to talk to me all during dinner at the Israeli Embassy.",
+		"entities": [
+			[
+				"Egypt",
+				23,
+				28,
+				"GPE"
+			],
+			[
+				"Resolution 339",
+				55,
+				69,
+				"LAW"
+			],
+			[
+				"October 22nd line",
+				93,
+				110,
+				"LOC"
+			],
+			[
+				"Mrs. Meir",
+				112,
+				121,
+				"PERSON"
+			],
+			[
+				"Israeli Embassy",
+				199,
+				214,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "You remember, Ken, you were there.",
+		"entities": [
+			[
+				"Ken",
+				14,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Even though I was the guest of honor she conspicuously thanked all the Democrats present for their help.",
+		"entities": [
+			[
+				"Democrats",
+				71,
+				80,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "That was October 30.",
+		"entities": [
+			[
+				"October 30",
+				9,
+				19,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "If we had talked on November first, I would have said that I had gotten nothing but, as you can see, we finally got them there.",
+		"entities": [
+			[
+				"November first",
+				20,
+				34,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I think I can work this my way.",
+		"entities": []
+	},
+	{
+		"content": "No confrontation.",
+		"entities": []
+	},
+	{
+		"content": "No big plan.",
+		"entities": []
+	},
+	{
+		"content": "I hope I will succeed.",
+		"entities": []
+	},
+	{
+		"content": "If I fail, there will be some merry old times and an explosion.",
+		"entities": []
+	},
+	{
+		"content": "This is my view.",
+		"entities": []
+	},
+	{
+		"content": "I think if we can get a line and get the process moving that is what we need.",
+		"entities": []
+	},
+	{
+		"content": "Gromyko: I will study what you have said.",
+		"entities": [
+			[
+				"Gromyko",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I have outlined our position in the clearest possible way.']",
+		"entities": []
+	},
+	{
+		"content": "[\"762.",
+		"entities": []
+	},
+	{
+		"content": "Reference paragraph 1 of the Department's 321, September 3, concerning the use of the International Settlement by the Japanese as a military base.",
+		"entities": [
+			[
+				"Department",
+				29,
+				39,
+				"ORG"
+			],
+			[
+				"September 3",
+				47,
+				58,
+				"DATE"
+			],
+			[
+				"International Settlement",
+				86,
+				110,
+				"LOC"
+			],
+			[
+				"Japanese",
+				118,
+				126,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In a letter to me dated yesterday the Commander in Chief suggests that the time has arrived for definite representations either by the Ambassadors or their Governments concerning this matter.",
+		"entities": [
+			[
+				"Commander in Chief",
+				38,
+				56,
+				"PERSON"
+			],
+			[
+				"Ambassadors",
+				135,
+				146,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "He points out that since the arrival of the Japanese Army on August 23 the wharves of the Hongkew section have been the main base for unloading supplies and troops and evacuating wounded, that on September 23 5 transports landed 4,000 troops and that it is understood 15 transports have used the docks in the past 3 days.",
+		"entities": [
+			[
+				"Japanese Army",
+				44,
+				57,
+				"ORG"
+			],
+			[
+				"August 23",
+				61,
+				70,
+				"DATE"
+			],
+			[
+				"Hongkew",
+				90,
+				97,
+				"LOC"
+			],
+			[
+				"September 23",
+				196,
+				208,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "He points to the fact that the Chinese authorities in replying to protests concerning danger to neutrals and their ships in the river stress the point that the Settlement is being used as a Japanese base.",
+		"entities": [
+			[
+				"Chinese",
+				31,
+				38,
+				"GPE"
+			],
+			[
+				"Settlement",
+				160,
+				170,
+				"LOC"
+			],
+			[
+				"Japanese",
+				190,
+				198,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The record shows that on the 15th the consular body caused oral representations to be made on the subject to the Japanese Consul General who replied that the Japanese naval landing party, being stationed here for the protection of Japanese interests, had the right to use portions of the Settlement for the landing of supplies and reenforcements the same as other foreign military units and that the landing party or any other Japanese armed force was or would be acting only in self-defense.",
+		"entities": [
+			[
+				"15th",
+				29,
+				33,
+				"DATE"
+			],
+			[
+				"Japanese Consul General",
+				113,
+				136,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				158,
+				166,
+				"NORP"
+			],
+			[
+				"Japanese",
+				231,
+				239,
+				"GPE"
+			],
+			[
+				"Settlement",
+				288,
+				298,
+				"LOC"
+			],
+			[
+				"Japanese",
+				427,
+				435,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Neither the Council nor other authorities have requested or suggested further protests and I do not think that the Department would wish me to initiate them.",
+		"entities": [
+			[
+				"Council",
+				12,
+				19,
+				"ORG"
+			],
+			[
+				"Department",
+				115,
+				125,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "All protests will be futile, of course, but the Department may wish to consider a protest at Tokyo.",
+		"entities": [
+			[
+				"Department",
+				48,
+				58,
+				"ORG"
+			],
+			[
+				"Tokyo",
+				93,
+				98,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I understand from the Commander in Chief that he has brought the matter to the attention of the British Commander in Chief who has referred it to London.",
+		"entities": [
+			[
+				"Commander in Chief",
+				22,
+				40,
+				"PERSON"
+			],
+			[
+				"British Commander in Chief",
+				96,
+				122,
+				"PERSON"
+			],
+			[
+				"London",
+				146,
+				152,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "While it is, of course, important that the principle be maintained that no armed forces should use the Settlement as a base for hostile military operations, as a practical matter I consider it more important that we should insist that the foreign areas south of Soochow Creek now protected by the neutral foreign forces shall be respected and that neither Chinese nor Japanese troops shall enter such enclosed areas.",
+		"entities": [
+			[
+				"Settlement",
+				103,
+				113,
+				"LOC"
+			],
+			[
+				"Soochow Creek",
+				262,
+				275,
+				"LOC"
+			],
+			[
+				"Chinese",
+				356,
+				363,
+				"NORP"
+			],
+			[
+				"Japanese",
+				368,
+				376,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It is pertinent to record in this connection that while Chinese and Japanese troops are not permitted to enter these areas a constant [stream?] of 5,000 wounded Chinese soldiers is being hospitalized here and when discharged they are passed out to the Chinese lines.",
+		"entities": [
+			[
+				"Chinese",
+				56,
+				63,
+				"NORP"
+			],
+			[
+				"Japanese",
+				68,
+				76,
+				"NORP"
+			],
+			[
+				"Chinese",
+				161,
+				168,
+				"NORP"
+			],
+			[
+				"Chinese",
+				252,
+				259,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "National Government administrative offices and purchasing agencies may possibly continue to function in these areas.",
+		"entities": [
+			[
+				"National Government",
+				0,
+				19,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Sent to the Department.",
+		"entities": [
+			[
+				"Department",
+				12,
+				22,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Repeated to Nanking.",
+		"entities": [
+			[
+				"Nanking",
+				12,
+				19,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Gauss\"]",
+		"entities": [
+			[
+				"Gauss",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	}
+]

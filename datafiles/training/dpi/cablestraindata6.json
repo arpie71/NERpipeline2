@@ -1,0 +1,2535 @@
+[
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "AS THE SCHEDDULE FOR THE ARRIVAL OF THE NEW PRONCIPLE OFFICER HAS DEVELOPED, WE NOW EECT HIM TO SPEND THE WEEK PRIOR TO THE CAT TEAM VISIT ON CONSULTATIONS IN WARSAW.",
+		"entities": [
+			[
+				"WARSAW",
+				159,
+				165,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THIS MEANS HE WOULD ARRIVE IN KRAKOW ONLY ONE OR TWO WORK DAYS PRIOR TO THE CAT TEAMS ARRIVAL AND WOULD HAVE ALMOST NO CHANCE TO OBSERVE THE POSTS OPERATIONS AND MAKE HIS OWN JUDGEMENTS CONCERNING APPROPRIATE CHANGES.",
+		"entities": [
+			[
+				"KRAKOW",
+				30,
+				36,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "ALSO, THE SENIOR FSNE IN THE VISA SECTION WILL BE ON A PREVIOUS LY SCHEDULED VACATION UNTIL SEPTEMBER 3.",
+		"entities": [
+			[
+				"SEPTEMBER 3",
+				92,
+				103,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "WE BELIEVE IT WOULD NOT BE POSSIBLE TO OBTAIN AN ACCURATE IMPRESSION OF POST OPERATIONS WHI LE THIS PERSON IN ABSENT.",
+		"entities": []
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "FOR THESE REASONS WE WOULD LIKE TO SUGGEST THAT THE CAT SCHEDULE BE CHANGED SO THAT KRAKOW WOULD BE THE THIRD POST VISITED RATHER THAN THE SECOND.",
+		"entities": [
+			[
+				"KRAKOW",
+				84,
+				90,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THIS WOULD PRESUMABLY PUT THE TEAM IN KRAKOW SEPTEM BER 4,5, AND 6.THE TIME FRAME IN WHICH THE TEAM WOULD BE IN POLAND WOULD REMAIN UNCHANGED.",
+		"entities": [
+			[
+				"KRAKOW",
+				38,
+				44,
+				"LOC"
+			],
+			[
+				"SEPTEM BER 4,5, AND 6",
+				45,
+				66,
+				"DATE"
+			],
+			[
+				"POLAND",
+				112,
+				118,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "PLEASE ADVISE.",
+		"entities": []
+	},
+	{
+		"content": "PAZDRAL ']",
+		"entities": [
+			[
+				"PAZDRAL",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "SUMMARY:",
+		"entities": []
+	},
+	{
+		"content": "CRIS IS RECEIVING DOLLARS 595,260 FROM AID GRANT, AND REQUESTS ADDITIONAL DOLLARS 1,814,332 TO PROVIDE ADDITIONAL RELIEF AND REHABILITATION THROUGH FEBRUARY 28.",
+		"entities": [
+			[
+				"CRIS",
+				0,
+				4,
+				"ORG"
+			],
+			[
+				"FEBRUARY 28",
+				148,
+				159,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "PROGRAM CONSISTS OF FOOD, EMERGENCY SHELTERS, CLOTHING, BLANKETS AND UTENSILS TO BE FUNDED FROM USG GRANT, WITH HEALTH CARE, ADMINISTRATIVE COSTS, AND PERMANENT RECONSTRUCTION MEASURES COVERED BY RESOURCES DONATED BY OTHERS IN A LONGER TIME FRAME.",
+		"entities": [
+			[
+				"USG",
+				96,
+				99,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MISSION SUPPORTS THIS REQUEST.",
+		"entities": [
+			[
+				"MISSION",
+				0,
+				7,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "END SUMMARY.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "AFTER A SERIES OF MEETINGS CRS STAFF DONALD CROSSON AND FATHER MCVEIGH OF CRS/NEW YORK PRESENTED DECEMBER 16 FORMAL REQUEST FOR ADDITIONAL OFDA FUNDING OF DOLLARS 1,814,332.",
+		"entities": [
+			[
+				"CRS",
+				27,
+				30,
+				"ORG"
+			],
+			[
+				"DONALD CROSSON",
+				37,
+				51,
+				"PERSON"
+			],
+			[
+				"FATHER MCVEIGH",
+				56,
+				70,
+				"PERSON"
+			],
+			[
+				"CRS/NEW YORK",
+				74,
+				86,
+				"ORG"
+			],
+			[
+				"DECEMBER 16",
+				97,
+				108,
+				"DATE"
+			],
+			[
+				"OFDA",
+				139,
+				143,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "ADDED TO ORIGINAL GRANT OF DOLLARS 595,260 FOR THIS DISASTER, THE TOTAL REQUIRED BY CRS WOULD BE DOLLARS 2,409,592. 3.",
+		"entities": [
+			[
+				"CRS",
+				84,
+				87,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "AS YOU KNOW EACH VOLAG OPERATES DIFFERENTLY.",
+		"entities": []
+	},
+	{
+		"content": "CRS WORKS (IN THIS DISASTER) THROUGH 14 PARISHES OR DIOCESES, NINE IN TAMIL NADU AND 5 IN ANDHRA PRADESH.",
+		"entities": [
+			[
+				"CRS",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"TAMIL NADU",
+				70,
+				80,
+				"LOC"
+			],
+			[
+				"ANDHRA PRADESH",
+				90,
+				104,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "EACH DIOCESE DEVELOPS ITS OWN RELIEF PROGRAM AND FUNDS ARE MADE AVAILABLE FROM MULTIPLE SOURCES TO CARRY THE PROGRAMS OUT INCLUDING FUNDS FROM AID/OFDA THROUGH CRS/INDIA.",
+		"entities": [
+			[
+				"AID/OFDA",
+				143,
+				151,
+				"ORG"
+			],
+			[
+				"CRS/INDIA",
+				160,
+				169,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THUS CRS DOES NOT DIRECTLY CONTROL RELIEF ACTIVITIES AND DOES NOT HAVE A CENTRALLY CONTROLLED UNIFORM PLAN OF RELIEF. 4.",
+		"entities": [
+			[
+				"CRS",
+				5,
+				8,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "AFTER CAREFUL EVALUATION OF THE VARYING STRENGTHS AND WEAKNESSES OF THE DIFFERENT DIOCESES, CRS HAS DEVELOPED A PROPOSAL DIOCESE BY BIOCESE FOR ACTIVITIES THROUGH FEBRUARY 28, 1978.",
+		"entities": [
+			[
+				"CRS",
+				92,
+				95,
+				"ORG"
+			],
+			[
+				"FEBRUARY 28, 1978",
+				163,
+				180,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THE AMOUNT REQUESTED WILL FUND A PROGRAM WHICH",
+		"entities": []
+	},
+	{
+		"content": "CRS, LIKE OTHER US VOLAGS HERE BELIEVES FALLS SHORT OF TOTAL NEEDS BUT REPRESENTS THE MOST THEY BELIEVE THEIR ORGANIZATIONS CAN DO IN A WELL RUN,CAREFULLY MANAGED PROGRAM.",
+		"entities": [
+			[
+				"CRS",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"US",
+				16,
+				18,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "TO INSURE THAT OBJECTIVES ARE BEING MET AND FUNDS PROPERLY SPENT CRS WILL FREQUENTLY REVIEW THE ORGANIZATIONS BOOKS AND RELEASE FUNDS TO EACH AS REQUIRED AND JUSTIFIED BY PROGRESS ACHIEVED. 5.",
+		"entities": [
+			[
+				"CRS",
+				65,
+				68,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FOLLOWING RUPEE AMOUNTS REQUESTED ARE AT A RATE OF RUPEES 8.50 EQUALS ONE US DOLLAR: (A) TAMIL NADU: FOOD 177,640; CLOTHING/BLANKETS, 1,026,250; UTENSILS, 674,000; SHELTER, 6,022,110 (AT AVERAGE OF RUPEES 850 PER UNIT).",
+		"entities": [
+			[
+				"US",
+				74,
+				76,
+				"NORP"
+			],
+			[
+				"TAMIL NADU",
+				89,
+				99,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "(B) ANDHRA PRADESH: FOOD 4,539,600; CLOTHING/BLANKETS, 1,294,316; UTENSILS NONE; SHELTER, 6,747,622.",
+		"entities": [
+			[
+				"ANDHRA PRADESH",
+				4,
+				18,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "TOTAL IS RUPEES 20,481,538 OR DOLLARS 2,409,592.",
+		"entities": []
+	},
+	{
+		"content": "OF WHICH DOLLARS 595,260 IS ALREADY GRANTED.",
+		"entities": []
+	},
+	{
+		"content": "TO OBTAIN QUANTITIES OF VICTIMS ASSISTED, CALCULATE RUPEES 25 PER FAMILY FOR UTENSILS (CONSISTING OF COOK POT, LARGE COOK POT, LADLES, FOOD STORAGE TINS, PLATES AND MUGS)",
+		"entities": []
+	},
+	{
+		"content": "CLOTTING OR BLANKETS AT RUPEES 20 PER BENEFICIARY, FOOD CONSISTS MOSTLY OF RICE, WITH SOME CHILIES, PULSES, AND CONDIMENTS.",
+		"entities": []
+	},
+	{
+		"content": "OIL IF NEEDED, WILL BE OBTAINED FROM CRS STOCKS.",
+		"entities": [
+			[
+				"CRS",
+				37,
+				40,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "CRS AUTHORIZES RUPEES 1.50 PER DAY FOR ADULTS AND RUPEES .85 DAILY FOR A CHILD FOR FOOD.",
+		"entities": [
+			[
+				"CRS",
+				0,
+				3,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "WE QUESTIONED CRS CLOSELY ON NEED TO USE OFDA FUNDS TO BUY RICE.",
+		"entities": [
+			[
+				"CRS",
+				14,
+				17,
+				"ORG"
+			],
+			[
+				"OFDA",
+				41,
+				45,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "AFTER EXPLORING OPTIONS OF BORROWING PL 480 RICE FROM REGULAR PROGRAMS (SHORT SUPPLY AND FAR AWAY), DIVERSION OF SHIP WITH PL 480 RICE (NO TIME) AND BORROWING FROM GOVERNMENT ON REPLACEMENT OR NON REPLACEMENT BASIS (THIS WOULD TAKE A LONG TIME), WE RELUCTANTLY CONCLUDED THAT TO MAINTAIN THE RELIEF EFFORT IT IS INDEED NECESSARY TO LOCALLY PURCHASE THE RICE.",
+		"entities": []
+	},
+	{
+		"content": "7.",
+		"entities": []
+	},
+	{
+		"content": "CRS LIKE CARE AND CWS BELIEVES THAT 90 DAY LIMIT IS UNREALISTIC AND THAT MORE IS NEEDED AND COULD BE DONE IF LONGER PERIOD WERE PERMITTED.",
+		"entities": [
+			[
+				"CRS",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"CARE",
+				9,
+				13,
+				"ORG"
+			],
+			[
+				"CWS",
+				18,
+				21,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "BUT WE BELIEVE THAT ALTHOUGH THIS MAY BE TRUE OF SHELTER AND VOCATIONAL REHABILITATION, OTHER ELEMENTS OF RELIEF ON A MASS SCALE SHOULD BE COMPLETED BY FEBRUARY 28. 8.",
+		"entities": [
+			[
+				"FEBRUARY 28",
+				152,
+				163,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "CRS HAS EXPENDED FOLLOWING AMOUNTS (IN DOLLARS)CHARGEABLE TO AID/OFDA GRANT MONEY: FOOD 54,164; CLOTHING 156,428; UTENSILS, 46,773; SHELTER 48,541; AND BLANKETS, 2,117; A TOTAL OF DOLLARS 308,023 SPENT BY SIX CENTERS REPORTING.",
+		"entities": [
+			[
+				"CRS",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"AID/OFDA",
+				61,
+				69,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "AS OTHER CENTERS REPORT IN ACCORDANCE WITH REQUEST BY OFDA REP FOR EXPENDITURE DATA, THIS TOTAL WILL OBVIOUSLY RISE.",
+		"entities": [
+			[
+				"OFDA",
+				54,
+				58,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "9.",
+		"entities": []
+	},
+	{
+		"content": "IN ADDITION TO CRS FUNDS THE FOLLOWING ORGANIZATIONS HAVE CONTRIBUTED TOWARDS CYCLONE RELIEF (THROUGH THE DIOCESES)",
+		"entities": [
+			[
+				"CRS",
+				15,
+				18,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE FOLLOWING AMOUNTS (IN DOLLARS): ANDHRA PRADESH TAMILNADU CARITAS INDIA 156,470 71,294 PAPAL FUNDS 57,647 42,353 MISEREOR/IGSSS 84,000 28,823 THESE FUNDS WILL BE USED FOR NEEDS NOT MET BY OFDA GRANT FUNDS SUCH AS HEALTH CARE, ADMINISTRATIVE COSTS, RECONSTRUCTION OF HOUSES, AGRICULTURAL INPUTS, ETC. 9.",
+		"entities": [
+			[
+				"ANDHRA PRADESH",
+				36,
+				50,
+				"LOC"
+			],
+			[
+				"TAMILNADU",
+				51,
+				60,
+				"LOC"
+			],
+			[
+				"CARITAS INDIA",
+				61,
+				74,
+				"ORG"
+			],
+			[
+				"PAPAL FUNDS",
+				90,
+				101,
+				"ORG"
+			],
+			[
+				"MISEREOR/IGSSS",
+				116,
+				130,
+				"ORG"
+			],
+			[
+				"OFDA",
+				191,
+				195,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "CRS IS PREPARING DATA ON REQUIREMENTS FOR RECONSTRUCTION AND WILL SUBMIT PROPOSALS TO THEIR HEADQUARTERS FOR OBTAINING FUNDS.",
+		"entities": [
+			[
+				"CRS",
+				0,
+				3,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "10.",
+		"entities": []
+	},
+	{
+		"content": "WE HAVE REVIEWED THE CRS PROPOSAL CAREFULLY AND ASKED THEM, IF THE FUNDS REQUESTED OF OFDA CANNOT BE FULLY MET, WHAT AREA HAS LOWEST PRIORITY.",
+		"entities": [
+			[
+				"CRS",
+				21,
+				24,
+				"ORG"
+			],
+			[
+				"OFDA",
+				86,
+				90,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "ALTHOUGH THEY FIRMLY WANT THE FULL AMOUNT REQUESTED, WHEN PUSHED THEY IDENTIFIED FOOD AS THE LOWEST PRIORITY AMONG HIGH PRIORITY REQUIREMENTS.",
+		"entities": []
+	},
+	{
+		"content": "11.",
+		"entities": []
+	},
+	{
+		"content": "WE SUPPORT THIS CRS REQUEST FOR AN ADDITIONAL GRANT OF DOLLARS 1,814,332 TO CARRY OUT CYCLONE RELIEF. 12.",
+		"entities": [
+			[
+				"CRS",
+				16,
+				19,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "PLEASE ADVISE.",
+		"entities": []
+	},
+	{
+		"content": "BLOOD ']",
+		"entities": [
+			[
+				"BLOOD",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "AS OF LATE OCT. 25, ONLY CYPRUS AND DAHOMEY WERE INSCRIBED TO SPEAK WHEN DEBATE BEGINS IN PLENARY OCT. 28.",
+		"entities": [
+			[
+				"OCT. 25",
+				11,
+				18,
+				"DATE"
+			],
+			[
+				"CYPRUS",
+				25,
+				31,
+				"GPE"
+			],
+			[
+				"DAHOMEY",
+				36,
+				43,
+				"GPE"
+			],
+			[
+				"OCT. 28",
+				98,
+				105,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "(WITH BOUTEFLIKA IN RABAT, SECRETARIAT IS STILL UNCLEAR AS TO PRECISE ROLES OF PLENARY AND SPC.)",
+		"entities": [
+			[
+				"BOUTEFLIKA",
+				6,
+				16,
+				"PERSON"
+			],
+			[
+				"RABAT",
+				20,
+				25,
+				"LOC"
+			],
+			[
+				"SECRETARIAT",
+				27,
+				38,
+				"ORG"
+			],
+			[
+				"SPC",
+				91,
+				94,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "EC NINE ARE THINKING OF HAVING FRANCE SPEAK FOR THEM, THOUGH UK WILL MAKE SEPARATE STATEMENT AS GUARANTOR POWER.",
+		"entities": [
+			[
+				"EC NINE",
+				0,
+				7,
+				"ORG"
+			],
+			[
+				"FRANCE",
+				31,
+				37,
+				"GPE"
+			],
+			[
+				"UK",
+				61,
+				63,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WE RECOMMEND US SPEAK FAIRLY EARLY IN DEBATE, AND THAT STATEMENT BE GENERAL, LOW KEY RESTATEMENT OF PRINCIPLES ON CYPRUS SETTLEMENT SET FORTH BY SECRETARY IN GENERAL DEBATE AND OTHER OCCASIONS.",
+		"entities": [
+			[
+				"US",
+				13,
+				15,
+				"GPE"
+			],
+			[
+				"CYPRUS",
+				114,
+				120,
+				"LOC"
+			],
+			[
+				"SECRETARY",
+				145,
+				154,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "THERE FOLLOWS TEXT OF PAPER PREPARED BY CYPRUS MISSION AND WIDELY DISTRIBUTED TO UN DELEGATIONS, OUTLINING CYPRUS GOVERNMENT'S OBJECTIONS TO NON-ALIGNED DRAFT RES.",
+		"entities": [
+			[
+				"CYPRUS MISSION",
+				40,
+				54,
+				"ORG"
+			],
+			[
+				"UN",
+				81,
+				83,
+				"ORG"
+			],
+			[
+				"CYPRUS GOVERNMENT",
+				107,
+				124,
+				"GPE"
+			],
+			[
+				"NON-ALIGNED",
+				141,
+				152,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "NON-ALIGNED WORKING GROUP IS MEETING AFTERNOON OCT. 25 TO CONSIDER GREEK AND TURK CYPRIOT PROPOSED CHNGES.",
+		"entities": [
+			[
+				"NON-ALIGNED WORKING GROUP",
+				0,
+				25,
+				"ORG"
+			],
+			[
+				"OCT. 25",
+				47,
+				54,
+				"DATE"
+			],
+			[
+				"GREEK",
+				67,
+				72,
+				"GPE"
+			],
+			[
+				"TURK CYPRIOT",
+				77,
+				89,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "COMMENTS ON DRAFT RES 1.",
+		"entities": []
+	},
+	{
+		"content": "INSERT AS PARA 1 OF OPERATIVE PART FOLLOWING: \"DEPLORES ALL ACTS OF AGGRESSION AND INTERVENTION AGAINST REPUBLIC OF CYPRUS\".",
+		"entities": [
+			[
+				"REPUBLIC OF CYPRUS",
+				104,
+				122,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "INSERTION OF THIS PARA IS NECESSARY BECAUSE IT WOULD BE CONSIDERED ODD IN SUCH RES TO IGNORE REALITY WHICH MADE RECOURSE TO GA NECESSARY.",
+		"entities": [
+			[
+				"GA",
+				124,
+				126,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "IN 2ND OPERATIVE PARA THE WORDS \"IMMEDIATE WITHDRAWAL\" TO SUBSTITUTE FOR \"SPEEDY WITHDRAWAL\" AND WORDS \"REPUBLIC OF CYPRUS\" TO REPLACE WORD \"CYPRUS\".",
+		"entities": [
+			[
+				"REPUBLIC OF CYPRUS",
+				104,
+				122,
+				"GPE"
+			],
+			[
+				"CYPRUS",
+				141,
+				147,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "ALS WORDS \"CALLS FOR\" TO REPLACE WORD \"URGES.\"",
+		"entities": []
+	},
+	{
+		"content": "AS DRAFT NOW STANDS",
+		"entities": []
+	},
+	{
+		"content": "IT MAY BE INTERPRETED AS MEANING THAT \"WITHDRAWAL\" OF TURKISH MILITARY FORCES OF AGGRESSION IS PLACED IN SAME POSITION AS WITHDRAWAL OF FORCES IN BRITISH BASES.",
+		"entities": [
+			[
+				"TURKISH",
+				54,
+				61,
+				"NORP"
+			],
+			[
+				"BRITISH",
+				146,
+				153,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "RESULTING CONNECTION BETWEEN TWO WOULD FURNISH TO TURKEY EXCUSE TO CONTINUE ITS OCCUPATION OF PART OF CYPRUS SO LONG AS PRESENCE OF BRITISH BASES IN CYPRUS CONTINUES.",
+		"entities": [
+			[
+				"TURKEY",
+				50,
+				56,
+				"GPE"
+			],
+			[
+				"CYPRUS",
+				102,
+				108,
+				"LOC"
+			],
+			[
+				"BRITISH",
+				132,
+				139,
+				"NORP"
+			],
+			[
+				"CYPRUS",
+				149,
+				155,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "IN 3RD OPERATIVE PARA",
+		"entities": []
+	},
+	{
+		"content": "THE WORD \"UNCONDITIONAL\" TO BE INSERTED BEFORE WORD \"RETURN\" IN SECOND LINE. 4.",
+		"entities": []
+	},
+	{
+		"content": "IN 6TH OPERATIVE PARA DELETE WORD \"THE\" BEFORE WORD \"NEGOTIATIONS\". 5.",
+		"entities": []
+	},
+	{
+		"content": "IN OPERATIVE PART INSERT AS PARA 9 THE FOLLOWING: \"RECOMMENDS TO SC TO TAKE ALL NECESSARY STEPS FOR IMPLEMENTATION OF THIS RES\" RENUMBER PARAS OF THE OPERATIVE PART ACCORDINGLY.",
+		"entities": [
+			[
+				"SC",
+				65,
+				67,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "PENULTIMATE PREAMBULAR PARA WHICH REFERS TO POSITION OF GOVT OF CYPRUS TO READ AS FOLLOWS:",
+		"entities": [
+			[
+				"GOVT OF CYPRUS",
+				56,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"NOTING ALSO THE POSITION OF THE GOVT OF THE REPUBLIC OF CYPRUS TO THE SAME EFFECT\" OR ALTERNATIVELY: \"NOTING ALSO THE POSITION OF THE GOVT OF THE REPUBLIC OF CYPRUS THAT IT IS OPPOSED TO ANNEXATION OR MERGER OF CYPRUS OR ANY OF ITS PARTS BY ANY COUNTRY AND TO ANY FORM OF GEOGRAPHIC DIVISION\".",
+		"entities": [
+			[
+				"GOVT OF THE REPUBLIC OF CYPRUS",
+				33,
+				63,
+				"GPE"
+			],
+			[
+				"GOVT OF THE REPUBLIC OF CYPRUS",
+				135,
+				165,
+				"GPE"
+			],
+			[
+				"CYPRUS",
+				212,
+				218,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE REASON FOR THIS POINT IS THAT ANNEXATION BY GREECE, WHICH IS WHAT THE WORD \"ENOSIS\" MEANS, IS TOTALLY THEORETICAL",
+		"entities": [
+			[
+				"GREECE",
+				48,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WHEREAS ANNEXATION OF CYPRUS OR PART OF IT BY TURKEY IS A REAL DANGER AND SO IS GEOGRAPHIC DIVISION.",
+		"entities": [
+			[
+				"CYPRUS",
+				22,
+				28,
+				"GPE"
+			],
+			[
+				"TURKEY",
+				46,
+				52,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE SUGGESTED AMENDMENT EXCLUDES ALL THESE INCLUDING UNION WITH GREECE.",
+		"entities": [
+			[
+				"GREECE",
+				64,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "SCALI ']",
+		"entities": [
+			[
+				"SCALI",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "(S-ENTIRE TEXT) 2.",
+		"entities": []
+	},
+	{
+		"content": "WHEN I MET WITH KREISKY JULY 5 HE INFORMED ME THAT HE AND WILLY BRANDT WILL MEET WITH PLO LEADER ARAFAT IN VIENNA ON JULY 7 AND 8.",
+		"entities": [
+			[
+				"KREISKY",
+				16,
+				23,
+				"PERSON"
+			],
+			[
+				"JULY 5",
+				24,
+				30,
+				"DATE"
+			],
+			[
+				"WILLY BRANDT",
+				58,
+				70,
+				"PERSON"
+			],
+			[
+				"PLO",
+				86,
+				89,
+				"ORG"
+			],
+			[
+				"ARAFAT",
+				97,
+				103,
+				"PERSON"
+			],
+			[
+				"VIENNA",
+				107,
+				113,
+				"LOC"
+			],
+			[
+				"JULY 7 AND 8",
+				117,
+				129,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "KREISKY SAID THAT THEY WILL ASK ARAFAT PLAINLY TO DEFINE THE ATTITUDE OF THE PLO TOWARD ISRAEL: IN OTHER WORDS, DOES THE PLO STILL INSIST THAT ISRAEL MUST BE DESTROYED OR IS IT NOW READY TO RECOGNIZE THE EXISTENCE OF THIS NATION?",
+		"entities": [
+			[
+				"KREISKY",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"ARAFAT",
+				32,
+				38,
+				"PERSON"
+			],
+			[
+				"PLO",
+				77,
+				80,
+				"ORG"
+			],
+			[
+				"ISRAEL",
+				88,
+				94,
+				"GPE"
+			],
+			[
+				"PLO",
+				121,
+				124,
+				"ORG"
+			],
+			[
+				"ISRAEL",
+				143,
+				149,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "KREISKY SAID THEY WILL URGE ARAFAT PUBLICLY TO ENTER INTO CONTACT AND NEGOTIATIONS WITH ISRAEL, THEREBY RECOGNIZING THE EXISTENCE OF THIS STATE. 3.",
+		"entities": [
+			[
+				"KREISKY",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"ARAFAT",
+				28,
+				34,
+				"PERSON"
+			],
+			[
+				"ISRAEL",
+				88,
+				94,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "KREISKY WENT ON TO SAY THAT \"WE SOCIALISTS (THE SOCIALIST INTERNATIONAL) CAN NO LONGER ALLOW THE COMMUNISTS TO HAVE A MONOPOLY ON RELATIONS WITH THE PLO\" AND THEREFORE THIS MOVE IS BEING MADE.",
+		"entities": [
+			[
+				"KREISKY",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"SOCIALISTS",
+				32,
+				42,
+				"ORG"
+			],
+			[
+				"SOCIALIST INTERNATIONAL",
+				48,
+				71,
+				"ORG"
+			],
+			[
+				"COMMUNISTS",
+				97,
+				107,
+				"ORG"
+			],
+			[
+				"PLO",
+				149,
+				152,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "HE SAID THAT THERE WILL BE GREAT TROUBLE WITH THE OPPOSITION PRESS IN AUSTRIA AND THAT ISRAEL WILL OF COURSE BE UPSET BY THIS NEW MOVE AS WAS THE CASE WHEN HE FIRST MET WITH SADAT.",
+		"entities": [
+			[
+				"AUSTRIA",
+				70,
+				77,
+				"LOC"
+			],
+			[
+				"ISRAEL",
+				87,
+				93,
+				"GPE"
+			],
+			[
+				"SADAT",
+				174,
+				179,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "HOWEVER, THEY FEEL THAT THIS STEP MUST BE TAKEN. 4.",
+		"entities": []
+	},
+	{
+		"content": "KREISKY STATED THAT HE HAD TRIED TO PREPARE A PAPER RECENTLY WHICH WOULD PERMIT THE PLO GRACIOUSLY TO MOVE TOWARD RELATIONS WITH ISRAEL BUT THAT IT IS NOT YET COM- PLETED.",
+		"entities": [
+			[
+				"KREISKY",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"PLO",
+				84,
+				87,
+				"ORG"
+			],
+			[
+				"ISRAEL",
+				129,
+				135,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "HE STATED THAT HE EXPECTED ARAFAT WILL TRY TO REPEAT POSITIONS TAKEN AT VARIOUS TIMES IN THE PAST DES-",
+		"entities": [
+			[
+				"ARAFAT",
+				27,
+				33,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "CRIBING PLO WILLINGNESS TO TREAT WITH ISRAEL, AND THEREBY ENABLING HIM TO CIRCUMSCRIBE THE QUESTION OF HIS WILLING- NESS TO DEAL DIRECTLY WITH ISRAEL.",
+		"entities": [
+			[
+				"PLO",
+				8,
+				11,
+				"ORG"
+			],
+			[
+				"ISRAEL",
+				38,
+				44,
+				"GPE"
+			],
+			[
+				"ISRAEL",
+				143,
+				149,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "KREISKY CONTINUED THAT THERE WILL BE A TERRIBLE NOISE ABOUT THIS IN ISRAEL, BUT \"WE MUST DO IT.\"",
+		"entities": [
+			[
+				"KREISKY",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"ISRAEL",
+				68,
+				74,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FURTHERMORE, HE ASSERTED THAT SADAT IS VERY HAPPY ABOUT THIS MEETING AND SUPPORTS IT, HOPING THEREBY TO MOVE THE PALESTINIAN QUESTION TOWARD AN AGREE- ABLE SOLUTION.",
+		"entities": [
+			[
+				"SADAT",
+				30,
+				35,
+				"PERSON"
+			],
+			[
+				"PALESTINIAN",
+				113,
+				124,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "5.",
+		"entities": []
+	},
+	{
+		"content": "IN THE COURSE OF OUR DISCUSSION, KREISKY OPINED THAT A SOLUTION FOR THE QUESTION OF JERUSALEM CAN BE FOUND.",
+		"entities": [
+			[
+				"KREISKY",
+				33,
+				40,
+				"PERSON"
+			],
+			[
+				"JERUSALEM",
+				84,
+				93,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "HE SAID HE IS NOT A TECHNICIAN ON THIS QUESTION",
+		"entities": []
+	},
+	{
+		"content": "BUT, AS ROME IS THE CAPITAL OF THE CATHOLIC CHURCH, CERTAINLY SOME SOLUTION CAN BE FOUND TO ASSURE THE INDEPENDENCE AND SAFE- GUARDING OF MOSLEM HOLY PLACES IN JERUSALEM.",
+		"entities": [
+			[
+				"ROME",
+				8,
+				12,
+				"LOC"
+			],
+			[
+				"CATHOLIC CHURCH",
+				35,
+				50,
+				"ORG"
+			],
+			[
+				"MOSLEM",
+				138,
+				144,
+				"NORP"
+			],
+			[
+				"JERUSALEM",
+				160,
+				169,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "HE SAID HE WAS SURE",
+		"entities": []
+	},
+	{
+		"content": "MAYOR TEDDY KOLLEK OF JERUSALEM CAN FIND A SOLU- TION TO THIS PROBLEM.",
+		"entities": [
+			[
+				"MAYOR TEDDY KOLLEK",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"JERUSALEM",
+				22,
+				31,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "FURTHERMORE, HE STATED THAT THE PALESTINIANS, BEING BASICALLY SECULAR RATHER THAN RELI- GIOUS LIKE THE PRESENT IRANIAN STATE, ARE NOT TOO INTER-",
+		"entities": [
+			[
+				"PALESTINIANS",
+				32,
+				44,
+				"NORP"
+			],
+			[
+				"IRANIAN STATE",
+				111,
+				124,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "ESTED IN THE QUESTION OF JERUSALEM.",
+		"entities": [
+			[
+				"JERUSALEM",
+				25,
+				34,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "WHAT THEY WANT IS THEIR HOMELAND.",
+		"entities": []
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "KREISKY REITERATED, AS HE HAS IN THE PAST, THAT THE SAUDIS EXAGGERATE ALL THEIR FEELINGS BUT THAT EVENTUALLY WILL ACCEPT DEVELOPMENTS IN THE MIDDLE EAST AND JERUSALEM.",
+		"entities": [
+			[
+				"KREISKY",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"SAUDIS",
+				52,
+				58,
+				"GPE"
+			],
+			[
+				"MIDDLE EAST",
+				141,
+				152,
+				"LOC"
+			],
+			[
+				"JERUSALEM",
+				157,
+				166,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE ROYAL FAMILY IS PRESENTLY SPLIT ON THE POLICY TOWARD PALESTINE, BUT HE BELIEVES THEY WILL SETTLE DOWN SOON AND COMPOSE THEIR DIFFERENCES.",
+		"entities": [
+			[
+				"PALESTINE",
+				57,
+				66,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "7.",
+		"entities": []
+	},
+	{
+		"content": "THE CHANCELLOR TOLD ME THAT HE WOULD KEEP ME INFORMED OF HIS CONVERSATIONS AND MEETINGS WITH ARAFAT.",
+		"entities": [
+			[
+				"CHANCELLOR",
+				4,
+				14,
+				"PERSON"
+			],
+			[
+				"ARAFAT",
+				93,
+				99,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "WOLF ']",
+		"entities": [
+			[
+				"WOLF",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['BRUSSELS 20525 1.",
+		"entities": [
+			[
+				"BRUSSELS",
+				2,
+				10,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "GUNDELACH'S ACCOUNT OF FRG CABINET MEETING AND OF SCHMIDT'S REPORTED COMMENTS IS OF INTEREST AND WE WILL BE FOLLOWING UP HERE -- WITH ALL DUE CIRCUMSPECTION --",
+		"entities": [
+			[
+				"GUNDELACH",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"FRG CABINET",
+				23,
+				34,
+				"GPE"
+			],
+			[
+				"SCHMIDT",
+				50,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "TO SEE WHAT IF ANYTHING WE CAN DEVELOP WHICH WOULD SUBSTANTIATE OR GIVE MORE INFORMATION ON THE INCIDENT.",
+		"entities": []
+	},
+	{
+		"content": "MEANWHILE, HAVING HAD CONSIDERABLE EXPERIENCE IN THE PAST WITH COLORFUL STORIES ABOUT SCHMIDT'S ALLEGED, OFF-THE-CUFF REMARKS ON A VARIETY OF SUBJECTS, I WOULD BE CAUTIOUS ABOUT ACCEPTING THIS ONE AT FACE VALUE.",
+		"entities": [
+			[
+				"SCHMIDT",
+				86,
+				93,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "WHILE WE KNOW THAT SCHMIDT WAS DEFINITELY FEELING \"NOT UP TO PAR\" LAST WEEK AND THAT HE IS NOTORIOUSLY IM- PATIENT WITH DETAILS, HIS REPORTED DISMISSAL OF THE IMPORTANCE OF THE MTN NEGOTIATIONS DOESN'T JIBE WITH WHAT WE KNOW OF HIS BASIC POSITION.",
+		"entities": [
+			[
+				"SCHMIDT",
+				19,
+				26,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MOREOVER, TO LINK THIS TO SCHMIDT'S PRESUMED \"GENERAL ATTITUDE TOWARDS THE UNITED STATES\" SEEMS TO BE GOING A BIT FAR.",
+		"entities": [
+			[
+				"SCHMIDT",
+				26,
+				33,
+				"PERSON"
+			],
+			[
+				"UNITED STATES",
+				75,
+				88,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "IN FACT, WE HAVE FOUND FRG OFFICIALS -- BOTH BEFORE AND AFTER THE CABINET SESSION DISCUSSED REFTELS -- TO BE UNDERSTANDING AND REASONABLY FORTHCOMING ABOUT THE MTN NEGOTIATING SITUATION IN THE LIGHT OF OUR FAILURE TO GET EXTENSION OF THE COUNTERVAILING DUTY WAIVER.",
+		"entities": [
+			[
+				"FRG",
+				23,
+				26,
+				"GPE"
+			],
+			[
+				"CABINET",
+				66,
+				73,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WE ARE INDEED COUNTING ON HAVING BOB STRAUSS MEET WITH THE CHANCELLOR AND WOULD EXPECT TO RECEIVE A MORE AUTHORITATIVE VERSION OF FRG VIEWS AT THAT TIME.",
+		"entities": [
+			[
+				"BOB STRAUSS",
+				33,
+				44,
+				"PERSON"
+			],
+			[
+				"CHANCELLOR",
+				59,
+				69,
+				"PERSON"
+			],
+			[
+				"FRG",
+				130,
+				133,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "STOESSEL NOTE BY OC/T: NOT PASSED ABOVE ADDRESSEES ']",
+		"entities": [
+			[
+				"STOESSEL",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"OC/T",
+				17,
+				21,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[\"MATHIAS 1.",
+		"entities": [
+			[
+				"MATHIAS",
+				2,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "JANE MATHIAS, A MEMBER OF SENATOR WENDELL FORD'S STAFF, HAS REQUESTED AN INFORMAL POLITICAL BRIEFING DURING HER NOVEMBER 15-16 STAY IN TOKYO.",
+		"entities": [
+			[
+				"JANE MATHIAS",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"SENATOR WENDELL FORD",
+				26,
+				46,
+				"PERSON"
+			],
+			[
+				"NOVEMBER 15-16",
+				112,
+				126,
+				"DATE"
+			],
+			[
+				"TOKYO",
+				135,
+				140,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SHE HAS STAFF RESPONSIBILITIES FOR INTERNATIONAL RELATIONS, THIS IS HER FIRST TRIP TO JAPAN, AND SHE HAD NO PARTICULAR POINTS OF INTEREST TO SUGGEST FOR THE BRIEFING.",
+		"entities": [
+			[
+				"JAPAN",
+				86,
+				91,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SHE HAS ALSO REQUESTED AN APPOINTMENT WITH THE DEFENSE ATTACHE'S OFFICE.",
+		"entities": [
+			[
+				"DEFENSE ATTACHE",
+				47,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SINCE HER TRAVEL PLANS AND HOTEL RESERVATIONS WERE NOT DEFINITE, SHE WILL CONTACT AL SELIGMAN'S OFFICE ON NOVEMBER 15 FOR FINAL ARRANGEMENTS.",
+		"entities": [
+			[
+				"AL SELIGMAN",
+				82,
+				93,
+				"PERSON"
+			],
+			[
+				"NOVEMBER 15",
+				106,
+				117,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "KISSINGER \"]",
+		"entities": [
+			[
+				"KISSINGER",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "I SPENT A COUPLE OF HOURS WITH DAYAN AT HIS HOME SUNDAY EVENING, JULY 24, TO REVIEW FOR HIM MY IMPRESSIONS OF PRIME MINISTER BEGIN'S VISIT TO WASHINGTON.IN",
+		"entities": [
+			[
+				"DAYAN",
+				31,
+				36,
+				"PERSON"
+			],
+			[
+				"JULY 24",
+				65,
+				72,
+				"DATE"
+			],
+			[
+				"PRIME MINISTER BEGIN",
+				110,
+				130,
+				"PERSON"
+			],
+			[
+				"WASHINGTON",
+				142,
+				152,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE COURSE OF OUR CONVERSATION, HE MADE SEVERAL OBSERVA- TIONS ABOUT RELATED MATTERS WHICH ARE WORTH REPORTING.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "DAYAN ACKNOWLEDGED THAT THE VISIT LOOKED FROM HERE AS IF IT HAD GONE",
+		"entities": [
+			[
+				"DAYAN",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "EXTREMELY WELL ON ALL FRONTS.",
+		"entities": []
+	},
+	{
+		"content": "FRANKLY, HE SAID, BEGIN'S SUCCESS IN REUNITING THE POLITICAL SUPPORT OF AMERICAN JEWRY SOLIDLY BEHIND HIM WAS ONE OF HIS OUTSTANDING ACHIEVEMENTS, TOGETHER WITH THE CLOSE RAPPORT WHICH HE APPARENTLY ESTABLISHED WITH PRESIDENT CARTER.",
+		"entities": [
+			[
+				"BEGIN",
+				18,
+				23,
+				"PERSON"
+			],
+			[
+				"AMERICAN JEWRY",
+				72,
+				86,
+				"NORP"
+			],
+			[
+				"PRESIDENT CARTER",
+				216,
+				232,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "BUT, DAYAN CONTINUED, DESPITE THE PRESENT EUPHORIC ATMOSPHERE",
+		"entities": [
+			[
+				"DAYAN",
+				5,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "HE WAS VERY CONCERNED THAT THERE APPARENTLY HAD BEEN NO PROGRESS ON THE KEY ISSUES OF SUBSTANCE WHICH DIVIDED US, ESPECIALLY THE PALESTINIAN PROBLEM.IN",
+		"entities": [
+			[
+				"PALESTINIAN",
+				129,
+				140,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "THIS CONNECTION HE WONDERED WHETHER SECRETARY VANCE INTENDED TO GET INTO SERIOUS DISCUSSIONS OF SUBSTANTIVE ALTERNATIVES DURING HIS FORTHCOMING TRIP, OR LIMIT HIMSELF TO OVERCOMING PROCEDURAL OBSTACLES.",
+		"entities": [
+			[
+				"SECRETARY VANCE",
+				36,
+				51,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "(THE CLEAR IMPLICATION IS THAT DAYAN HOPES VERY MUCH",
+		"entities": [
+			[
+				"DAYAN",
+				31,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "IT WILL BE THE FORMER.)",
+		"entities": []
+	},
+	{
+		"content": "HE ALSO WAS SKEPTICAL ABOUT THE EXTENT TO WHICH ONE COULD HAVE SERIOUS DISCUSSIONS IN NEW YORK WITH THE ARAB FOREIGN MINISTERS DURING THE UN GENERAL ASSEMBLY.HE SAID THAT FROM HIS EXPERIENCE THE FOREIGN MINISTERS ARE NOT EMPOWERED TO DECIDE ANYTHING OF ANY SUBSTANCE, AND THAT EVERYTHING WOULD HAVE TO BE HANDLED IN THE CAPITALS.",
+		"entities": [
+			[
+				"NEW YORK",
+				86,
+				94,
+				"LOC"
+			],
+			[
+				"ARAB",
+				104,
+				108,
+				"NORP"
+			],
+			[
+				"FOREIGN MINISTERS",
+				109,
+				126,
+				"PERSON"
+			],
+			[
+				"UN GENERAL ASSEMBLY",
+				138,
+				157,
+				"ORG"
+			],
+			[
+				"FOREIGN MINISTERS",
+				195,
+				212,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "NONETHELESS, HE COULD SEE WHATEVER CONVERSATIONS COULD BE TRIGGERED IN NEW YORK MIGHT SERVE A USEFUL PURPOSE.",
+		"entities": [
+			[
+				"NEW YORK",
+				71,
+				79,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "I TOLD HIM IT WAS MY IMPRESSION THAT THE SECRETARY WOULD INDEED CONCENTRATE ON THE PROCEDURAL ROADBLOCKS TO GENEVA, BUT HE WOULD ALSO CERTAINLY BE PREPARED AND INDEED PROBABLY WISHES TO EXPLORE FURTHER THE ELMENTS OF A SUBSTANTIVE FRAMEWORK FOR NEGOTIATIONS - AS HAD OCCURED IN WASHINGTON DURING THE BEGIN VISIT.",
+		"entities": [
+			[
+				"SECRETARY",
+				41,
+				50,
+				"PERSON"
+			],
+			[
+				"GENEVA",
+				108,
+				114,
+				"LOC"
+			],
+			[
+				"WASHINGTON",
+				278,
+				288,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SEEKING TO REASSURE HIM, I SAID THAT IN ANY EVENT I KNEW THE SECRETARY WOULD BE HAPPY TO \"TALK SUBSTANTIVE OPTIONS\" WITH DAYAN, BOTH HERE IN ISRAEL AND WHEN DAYAN CAME TO THE US AT THE TIME OF THE UNGA. 4.",
+		"entities": [
+			[
+				"SECRETARY",
+				61,
+				70,
+				"PERSON"
+			],
+			[
+				"DAYAN",
+				121,
+				126,
+				"PERSON"
+			],
+			[
+				"ISRAEL",
+				141,
+				147,
+				"LOC"
+			],
+			[
+				"DAYAN",
+				157,
+				162,
+				"PERSON"
+			],
+			[
+				"US",
+				175,
+				177,
+				"LOC"
+			],
+			[
+				"UNGA",
+				197,
+				201,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "DAYAN ASKED WHAT THE NEXT STEPS WOULD BE IN REGARD TO SOUTH LEBANON IN LIGHT OF THE WASHINGTON MEETINGS.",
+		"entities": [
+			[
+				"DAYAN",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"SOUTH LEBANON",
+				54,
+				67,
+				"LOC"
+			],
+			[
+				"WASHINGTON",
+				84,
+				94,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I REPLIED THAT WE PLAN TO TEST OUT THE UN PEACE- KEEPING FORCE IDEA WITH SARKIS AND PERHAPS VERY INFORMALLY WITH THE UN SECRETARY GENERAL'S STAFF;",
+		"entities": [
+			[
+				"UN",
+				39,
+				41,
+				"ORG"
+			],
+			[
+				"SARKIS",
+				73,
+				79,
+				"PERSON"
+			],
+			[
+				"UN SECRETARY GENERAL",
+				117,
+				137,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "ASSUMING ENCOURAGEMENT FROM THOSE QUARTERS, SECRETARY VANCE WOULD UNDOUBTEDLY WISH TO PURSUE IT WITH SYRIANS AND THE LEBANESE AS WELL AS THE ISRAELIS DURING HIS FORTHCOMING TRIP.",
+		"entities": [
+			[
+				"SECRETARY VANCE",
+				44,
+				59,
+				"PERSON"
+			],
+			[
+				"SYRIANS",
+				101,
+				108,
+				"GPE"
+			],
+			[
+				"LEBANESE",
+				117,
+				125,
+				"GPE"
+			],
+			[
+				"ISRAELIS",
+				141,
+				149,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "DAYAN COMMENTED FURTHER THAT A BUFFER ZONE SHOULD STRETCH AS FAR AS THE LITANI",
+		"entities": [
+			[
+				"DAYAN",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"LITANI",
+				72,
+				78,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "RIVER.HE WAS CONVINCED THAT IF A UN FORCE WERE IN BEING, A REJUVENATED LEBANESE ARMY COULD BEGIN TO SUPPLY SOME STROOPS, AND IF SYRIA PLUS THE FATAH WING OF THE PLO WERE ALL BEHIND THE CONCEPT, THAT THOSE PALESTINIAN REJECTONIST UNITS NOW IN THE SOUTH COULD BE NEUTRALIZED OR PUSHED OUT SINCE THEY ARE NOT \"ALL THAT NUMEROUS.\"",
+		"entities": [
+			[
+				"UN FORCE",
+				33,
+				41,
+				"ORG"
+			],
+			[
+				"LEBANESE ARMY",
+				71,
+				84,
+				"ORG"
+			],
+			[
+				"SYRIA",
+				128,
+				133,
+				"GPE"
+			],
+			[
+				"FATAH",
+				143,
+				148,
+				"ORG"
+			],
+			[
+				"PLO",
+				161,
+				164,
+				"ORG"
+			],
+			[
+				"PALESTINIAN",
+				205,
+				216,
+				"NORP"
+			],
+			[
+				"SOUTH",
+				246,
+				251,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "HE SAID AGAIN THAT IN HIS CONCEPT A UN PEACEKEEPING FORCE WAS REQUIRED UNTIL SUCH TIME AS THE LEBANESE ARMY IS AGAIN ABLE TO RESUME ITS REPONSIBILITIES AT THE BORDER AREA.",
+		"entities": [
+			[
+				"UN",
+				36,
+				38,
+				"ORG"
+			],
+			[
+				"LEBANESE ARMY",
+				94,
+				107,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "5.COMMENT:",
+		"entities": []
+	},
+	{
+		"content": "DAYAN WAS CLEARLY FEELING SOMEWHAT LEFT OUT,DESPITE HAVING HAD DETAILED REPORTS FROM AMBASSADOR DINITZ ABOUT THE WASHINGTON MEETINGS.",
+		"entities": [
+			[
+				"DAYAN",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"AMBASSADOR DINITZ",
+				85,
+				102,
+				"PERSON"
+			],
+			[
+				"WASHINGTON",
+				113,
+				123,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "HE IS CHAFING AT THE BIT TO GET INTO THE NEGOTIATING PROCESS HIMSELF, AS HE HAS BEEN FROM THE DAY HE ASSUMED OFFICE.",
+		"entities": []
+	},
+	{
+		"content": "LEWIS.",
+		"entities": [
+			[
+				"LEWIS",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "UNQUOTE VANCE\". ']",
+		"entities": [
+			[
+				"VANCE",
+				8,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "AGATTACHE MET WITH PERSHIN/EXPORTKHLEB TO REVIEW CURRENT IMPORT ESTIMATES REFTEL AND RECENT DEVELOPMENTS IN GRAIN PICTURE.",
+		"entities": [
+			[
+				"PERSHIN/EXPORTKHLEB",
+				19,
+				38,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "PERSHIN ADVISED THAT TOTAL 1975 PURCHASES INDICATED IN REFTEL WERE APPROXIMATELY CORRECT.",
+		"entities": [
+			[
+				"PERSHIN",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"1975",
+				27,
+				31,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "SPECIFIC CHANGES IN COUNTRY PURCHASES WERE NOTED.",
+		"entities": []
+	},
+	{
+		"content": "CANADIAN PURCHASES ARE SOME- WHAT HIGHER AND WERE ATTRIBUTED TO NON-CWB PURCHASES.",
+		"entities": [
+			[
+				"CANADIAN",
+				0,
+				8,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "US AND AUSTRALIAN DATA WERE CORRECT.",
+		"entities": [
+			[
+				"US",
+				0,
+				2,
+				"GPE"
+			],
+			[
+				"AUSTRALIAN",
+				7,
+				17,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WEST EUROPEAN PURCHASES ARE ONLY 200,000 METRIC TONS -- BRAZIL, AFGENTINA AND CANADA SHARE",
+		"entities": [
+			[
+				"WEST EUROPEAN",
+				0,
+				13,
+				"NORP"
+			],
+			[
+				"BRAZIL",
+				56,
+				62,
+				"GPE"
+			],
+			[
+				"AFGENTINA",
+				64,
+				73,
+				"GPE"
+			],
+			[
+				"CANADA",
+				78,
+				84,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE REMAINING 800,000 TONS.",
+		"entities": []
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "PERSHIN DID NOT INDICATE ORIGIN OF EAST EUROPEAN PURCHASES, BUT ATTACHE IN PREVIOUS CONVERSATION WITH EAST EUROPEAN COUNTERPART DETERMINED THAT ROMANIA IS SOURCE OF GRAIN -- PRINCIPALLY WHEAT. 4.",
+		"entities": [
+			[
+				"PERSHIN",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"EAST EUROPEAN",
+				35,
+				48,
+				"NORP"
+			],
+			[
+				"EAST EUROPEAN",
+				102,
+				115,
+				"NORP"
+			],
+			[
+				"ROMANIA",
+				144,
+				151,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "OTHER FOREIGN EMBASSY SOURCES INDICATED THAT SOME CORN PURCHASED FROM BRAZIL WILL MOVE TO CUBA.",
+		"entities": [
+			[
+				"BRAZIL",
+				70,
+				76,
+				"GPE"
+			],
+			[
+				"CUBA",
+				90,
+				94,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "PERSHIN IMPLIED THAT SOME BULGARIAN CORN IS BEING SHIPPED TO CUBA.",
+		"entities": [
+			[
+				"PERSHIN",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"BULGARIAN",
+				26,
+				35,
+				"NORP"
+			],
+			[
+				"CUBA",
+				61,
+				65,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "HOWEVER, NO US CORN OR OTHER GRAINS WILL BE SHIPPED TO CUBA.",
+		"entities": [
+			[
+				"US",
+				12,
+				14,
+				"NORP"
+			],
+			[
+				"CUBA",
+				55,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "5.",
+		"entities": []
+	},
+	{
+		"content": "SOYBEAN PURCHASES OF 1.5 MILLION TONS AGAIN CONFIRMED -- ALL REPORTEDLY FOR USSR DESTINATION AND CONSUMPTION.",
+		"entities": [
+			[
+				"USSR",
+				76,
+				80,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "UNLOADING AND DISCHARGING OF GRAIN STILL ESTIMATED AT AVERAGE OF TWO MILLION TONS A MONTH WITH POSSIBILITY UP TO FOUR MILLION TONS AT PEAK CAPACITY.",
+		"entities": []
+	},
+	{
+		"content": "INCREASED OFF-LOADINGS ABOVE AVERAGE OF TWO MILLION TONS MOST LIKELY TO OCCUR DURING SPRING AND FALL PERIODS, BUT SUCH VOLUME CANNOT BE SUSTAINED THROUGHOUT THE YEAR.",
+		"entities": []
+	},
+	{
+		"content": "7.",
+		"entities": []
+	},
+	{
+		"content": "PERSHIN INDICATED THAT TEST VESSEL WITH USDA OFFICIAL ABOARD WILL ARRIVE LENINGRAD ABOUT JANUARY 5.",
+		"entities": [
+			[
+				"PERSHIN",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"USDA",
+				40,
+				44,
+				"ORG"
+			],
+			[
+				"LENINGRAD",
+				73,
+				82,
+				"LOC"
+			],
+			[
+				"JANUARY 5",
+				89,
+				98,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "WOULD APPRECIATE COMMENTS ABOUT USSR GRAIN TEAM VISIT TO US.",
+		"entities": [
+			[
+				"USSR",
+				32,
+				36,
+				"GPE"
+			],
+			[
+				"US",
+				57,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MATLOCK ']",
+		"entities": [
+			[
+				"MATLOCK",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['RE US VOLUNTARY CONTRIBUTION TO IAEA TECHNICAL ASSISTANCE PROGRAM.",
+		"entities": [
+			[
+				"US",
+				5,
+				7,
+				"GPE"
+			],
+			[
+				"IAEA",
+				34,
+				38,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "1.",
+		"entities": []
+	},
+	{
+		"content": "MISSION HAS RECEIVED LETTER DATED APRIL 6, 1979 FROM IAEA ENCLOSING SUBJECT REPORT.",
+		"entities": [
+			[
+				"MISSION",
+				0,
+				7,
+				"ORG"
+			],
+			[
+				"APRIL 6, 1979",
+				34,
+				47,
+				"DATE"
+			],
+			[
+				"IAEA",
+				53,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "REPORT STATES THAT AS OF MARCH 31 WITHDRAWALS TOTALING $500,000 HAVE BEEN MADE FROM LETTER OF CREDIT NO. 19-16-7211, AND A BALANCE OF $1,100,000 REMAINS.",
+		"entities": [
+			[
+				"MARCH 31",
+				25,
+				33,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "MISSION POUCHING COPIES OF LETTER AND REPORT TO IO/EX/IFM AND IO/SCT.",
+		"entities": [
+			[
+				"IO/EX/IFM",
+				48,
+				57,
+				"ORG"
+			],
+			[
+				"IO/SCT",
+				62,
+				68,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "KIRK ']",
+		"entities": [
+			[
+				"KIRK",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['CONCUR WITH MISSION RECOMMENDATION PARA 2 REFTEL.",
+		"entities": [
+			[
+				"MISSION",
+				14,
+				21,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "VANCE ']",
+		"entities": [
+			[
+				"VANCE",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['C. 78 PARIS 21525 NO OBJECTION.",
+		"entities": [
+			[
+				"PARIS",
+				8,
+				13,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "VANCE ']",
+		"entities": [
+			[
+				"VANCE",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	}
+]

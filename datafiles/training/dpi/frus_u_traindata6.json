@@ -1,0 +1,5749 @@
+[
+	{
+		"content": "['PARTICIPANTS Dr. Henry A. Kissinger and Soviet Ambassador Anatoliy Dobrynin I received a phone call from Ambassador Dobrynin the morning of my return from the President's European trip during which he stated that he would like to see me if at all possible that day.",
+		"entities": [
+			[
+				"Henry A. Kissinger",
+				19,
+				37,
+				"PERSON"
+			],
+			[
+				"Soviet",
+				42,
+				48,
+				"GPE"
+			],
+			[
+				"Ambassador Anatoliy Dobrynin",
+				49,
+				77,
+				"PERSON"
+			],
+			[
+				"Ambassador Dobrynin",
+				107,
+				126,
+				"PERSON"
+			],
+			[
+				"President",
+				161,
+				170,
+				"PERSON"
+			],
+			[
+				"European",
+				173,
+				181,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "We agreed to meet at 2:15 p.m. in the Map Room.",
+		"entities": []
+	},
+	{
+		"content": "Ambassador Dobrynin greeted me by saying that he had had two communications from the Soviet Government which had come back with very great speed after our earlier conversation.",
+		"entities": [
+			[
+				"Ambassador Dobrynin",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"Soviet Government",
+				85,
+				102,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He stated that Moscow's hope had obviously been to reach me before our departure for Europe but that it had been too late to do so.",
+		"entities": [
+			[
+				"Moscow",
+				15,
+				21,
+				"GPE"
+			],
+			[
+				"Europe",
+				85,
+				91,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Ambassador then handed me the two communications.",
+		"entities": [
+			[
+				"Ambassador",
+				4,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The first dealt with Jordan, the second with Cuba.",
+		"entities": [
+			[
+				"Jordan",
+				21,
+				27,
+				"GPE"
+			],
+			[
+				"Cuba",
+				45,
+				49,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "With respect to Jordan, Dobrynin added that the note was somewhat dated but it should give us a good idea of the attitude of the Soviet Government.",
+		"entities": [
+			[
+				"Jordan",
+				16,
+				22,
+				"GPE"
+			],
+			[
+				"Dobrynin",
+				24,
+				32,
+				"PERSON"
+			],
+			[
+				"Soviet Government",
+				129,
+				146,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The two communications read as follows: Jordan \"The Soviet Government has received with satisfaction President Nixon's communication to the effect that the United States do not contemplate any military actions in connection with the events in Jordan and that the US Government is exerting restraining influence in order to prevent interference in the events in Jordan by other foreign states.",
+		"entities": [
+			[
+				"Jordan",
+				40,
+				46,
+				"GPE"
+			],
+			[
+				"Soviet Government",
+				52,
+				69,
+				"GPE"
+			],
+			[
+				"President Nixon",
+				101,
+				116,
+				"PERSON"
+			],
+			[
+				"United States",
+				156,
+				169,
+				"GPE"
+			],
+			[
+				"Jordan",
+				243,
+				249,
+				"GPE"
+			],
+			[
+				"US Government",
+				263,
+				276,
+				"GPE"
+			],
+			[
+				"Jordan",
+				361,
+				367,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"From the very start of the events in Jordan the Soviet side, as the US side has already been informed, has been taking steps aimed at bringing about a speedy end to the fratricidal collisions in Jordan and at preventing interference in the events therein by other states, both belonging to that area and those outside of it.",
+		"entities": [
+			[
+				"Jordan",
+				38,
+				44,
+				"GPE"
+			],
+			[
+				"Soviet",
+				49,
+				55,
+				"GPE"
+			],
+			[
+				"US",
+				69,
+				71,
+				"GPE"
+			],
+			[
+				"Jordan",
+				196,
+				202,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This, as the US Government is aware, has produced certain results.",
+		"entities": [
+			[
+				"US Government",
+				13,
+				26,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"The situation in Jordan still remains, however, rather complex.",
+		"entities": [
+			[
+				"Jordan",
+				18,
+				24,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Therefore, we proceed from the assumption that also in the time ahead all states should exercise necessary prudence in their actions in order not to aggravate the situation but, on the contrary, to help end the conflict in Jordan.",
+		"entities": [
+			[
+				"Jordan",
+				223,
+				229,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"In Moscow it is believed that the most effective means of preventing events like those which occurred in Jordan, is a speedy attainment of a peaceful settlement in the Middle East as a whole. \"",
+		"entities": [
+			[
+				"Moscow",
+				4,
+				10,
+				"LOC"
+			],
+			[
+				"Jordan",
+				106,
+				112,
+				"GPE"
+			],
+			[
+				"Middle East",
+				169,
+				180,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Soviet position on questions pertaining to such settlement and, in particular, on the question of contacts between the sides through Jarring is well known to the US Government.",
+		"entities": [
+			[
+				"Soviet",
+				4,
+				10,
+				"GPE"
+			],
+			[
+				"Jarring",
+				137,
+				144,
+				"PERSON"
+			],
+			[
+				"US Government",
+				166,
+				179,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\" Cuba \"The Soviet Government has received with attention President Nixon's communication indicating some uncertainty which has appeared in the President's mind in light of the understanding reached in 1962 between the USSR and US Governments on the Cuban question.",
+		"entities": [
+			[
+				"Cuba",
+				2,
+				6,
+				"LOC"
+			],
+			[
+				"Soviet Government",
+				12,
+				29,
+				"GPE"
+			],
+			[
+				"President Nixon",
+				58,
+				73,
+				"PERSON"
+			],
+			[
+				"President",
+				144,
+				153,
+				"PERSON"
+			],
+			[
+				"1962",
+				202,
+				206,
+				"DATE"
+			],
+			[
+				"USSR",
+				219,
+				223,
+				"GPE"
+			],
+			[
+				"US Governments",
+				228,
+				242,
+				"GPE"
+			],
+			[
+				"Cuban",
+				250,
+				255,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"We noted with satisfaction the reaffirmation made by President Nixon in reply to our inquiry, that the appropriate understanding reached at that time on the Cuban question remains fully in force, that is, the United States as before will not seek by the force of arms, through military means to change the existing situation in Cuba.",
+		"entities": [
+			[
+				"President Nixon",
+				54,
+				69,
+				"PERSON"
+			],
+			[
+				"Cuban",
+				158,
+				163,
+				"GPE"
+			],
+			[
+				"United States",
+				210,
+				223,
+				"GPE"
+			],
+			[
+				"Cuba",
+				329,
+				333,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We also noted the reaffirmation made as regards the United States's preventing such actions on the part of the Cuban counter-revolutionary exiles.",
+		"entities": [
+			[
+				"United States",
+				52,
+				65,
+				"GPE"
+			],
+			[
+				"Cuban counter-revolutionary",
+				111,
+				138,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "\"On our part, we have already stated to President Nixon and are ready to affirm it again that in the Cuban question the Soviet Government continues to proceed from the understanding reached on this question in 1962.",
+		"entities": [
+			[
+				"President Nixon",
+				40,
+				55,
+				"PERSON"
+			],
+			[
+				"Cuban",
+				101,
+				106,
+				"GPE"
+			],
+			[
+				"Soviet Government",
+				120,
+				137,
+				"GPE"
+			],
+			[
+				"1962",
+				210,
+				214,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "\"The Soviet side has not done and is not doing in Cuba now--that includes the area of the Cienfuegos port--anything of the kind that would contradict that mentioned understanding.",
+		"entities": [
+			[
+				"Soviet",
+				5,
+				11,
+				"GPE"
+			],
+			[
+				"Cuba",
+				50,
+				54,
+				"LOC"
+			],
+			[
+				"Cienfuegos",
+				90,
+				100,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "\"The American side is well aware of the negative attitude generally on the part of the Soviet Union toward creating military bases by foreign states on the territory of other states.",
+		"entities": [
+			[
+				"American",
+				5,
+				13,
+				"GPE"
+			],
+			[
+				"Soviet Union",
+				87,
+				99,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Moreover, the Soviet Government has introduced--both in the Committee on Disarmament and in the course of the Soviet-American strategic arms limitation talks--a proposal to limit the area of navigation for rocket-carrying submarines.",
+		"entities": [
+			[
+				"Soviet Government",
+				14,
+				31,
+				"GPE"
+			],
+			[
+				"Committee on Disarmament",
+				60,
+				84,
+				"ORG"
+			],
+			[
+				"Soviet-American",
+				110,
+				125,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"In any case, we would like to reaffirm once more that the Soviet side strictly adheres to its part of the understanding on the Cuban question and will continue to adhere to it in the future on the assumption that the American side as President Nixon has reaffirmed, will also strictly observe its part of the understanding.",
+		"entities": [
+			[
+				"Soviet",
+				59,
+				65,
+				"GPE"
+			],
+			[
+				"Cuban",
+				128,
+				133,
+				"GPE"
+			],
+			[
+				"American",
+				218,
+				226,
+				"GPE"
+			],
+			[
+				"President Nixon",
+				235,
+				250,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\"I would like to draw your attention in connection with your remarks in our last conversation to the sometimes asserted 'right' for American atomic submarines to enter the Black Sea.",
+		"entities": [
+			[
+				"American",
+				132,
+				140,
+				"NORP"
+			],
+			[
+				"Black Sea",
+				172,
+				181,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Such assertions are groundless since the 1936 Convention on the status of the Black Sea Straits clearly forbids submarines of non-coastal states to enter the Black Sea.",
+		"entities": [
+			[
+				"1936 Convention",
+				41,
+				56,
+				"LAW"
+			],
+			[
+				"Black Sea Straits",
+				78,
+				95,
+				"LOC"
+			],
+			[
+				"Black Sea",
+				158,
+				167,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "\" After I had read the Cuban note, Ambassador Dobrynin added that the Soviet Government would not be able to make an agreement that Soviet submarines would never call at Cuban ports but he was prepared to state that Soviet submarines would not call there in an operational capacity.",
+		"entities": [
+			[
+				"Cuban",
+				23,
+				28,
+				"GPE"
+			],
+			[
+				"Ambassador Dobrynin",
+				35,
+				54,
+				"PERSON"
+			],
+			[
+				"Soviet Government",
+				70,
+				87,
+				"GPE"
+			],
+			[
+				"Soviet",
+				132,
+				138,
+				"NORP"
+			],
+			[
+				"Cuban",
+				170,
+				175,
+				"NORP"
+			],
+			[
+				"Soviet",
+				216,
+				222,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "He could not say whether there might not be one submarine in six months and another one in twelve months.",
+		"entities": []
+	},
+	{
+		"content": "I told him that I considered this a forthright statement.",
+		"entities": []
+	},
+	{
+		"content": "I stated that I was concerned, however, that there might be some ambiguity about the meaning of the word \"base\" and, therefore, I thought it would be very unfortunate if our two governments got into a major disagreement over the issue of what actually constituted a base.",
+		"entities": []
+	},
+	{
+		"content": "Consequently, our side would have some clarifying questions to ask the Soviet Government.",
+		"entities": [
+			[
+				"Soviet Government",
+				71,
+				88,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "At the very least we would have to state our view of what constituted a base.",
+		"entities": []
+	},
+	{
+		"content": "The presence of the Soviet ships, especially the tender and barges, at Cienfuegos, was clearly inconsistent with the understanding.",
+		"entities": [
+			[
+				"Soviet",
+				20,
+				26,
+				"NORP"
+			],
+			[
+				"Cienfuegos",
+				71,
+				81,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Dobrynin said he would send on these questions.",
+		"entities": [
+			[
+				"Ambassador Dobrynin",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Dobrynin then tried to engage me in a discussion of the Middle East, specifically whether I thought the Deputies in New York could make some progress in negotiations.",
+		"entities": [
+			[
+				"Ambassador Dobrynin",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"Middle East",
+				67,
+				78,
+				"LOC"
+			],
+			[
+				"New York",
+				127,
+				135,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I told him that the Mideast negotiations probably had to mark some time for the moment.",
+		"entities": [
+			[
+				"Mideast",
+				20,
+				27,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He then asked whether I could provide some advance information about the President's Vietnam speech.",
+		"entities": [
+			[
+				"President",
+				73,
+				82,
+				"PERSON"
+			],
+			[
+				"Vietnam",
+				85,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I replied that it was not finished yet.",
+		"entities": []
+	},
+	{
+		"content": "He asked whether I was worried that he might give the information to their North Vietnamese allies and promised that this would not happen.",
+		"entities": [
+			[
+				"North Vietnamese",
+				75,
+				91,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I said I would not want to test your loyalty to your allies in this manner, but that I would see whether I could get him an advance copy of the President's remarks, perhaps by the next morning.",
+		"entities": [
+			[
+				"President",
+				144,
+				153,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The meeting adjourned.']",
+		"entities": []
+	},
+	{
+		"content": "['On February 18, 1954, the four Ministers meeting at Berlin issued a communique describing the agreements they had reached during four weeks of discussions.",
+		"entities": [
+			[
+				"February 18, 1954",
+				5,
+				22,
+				"DATE"
+			],
+			[
+				"Ministers",
+				33,
+				42,
+				"PERSON"
+			],
+			[
+				"Berlin",
+				54,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For a text, see Department of State Bulletin, March 1, 1954, pages 317-318.",
+		"entities": [
+			[
+				"Department of State Bulletin",
+				16,
+				44,
+				"ORG"
+			],
+			[
+				"March 1, 1954",
+				46,
+				59,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "This communique was the culmination of the efforts at the Conference, among other things, to call a conference of Korean belligerents to discuss the political settlement of the Korean problem.",
+		"entities": [
+			[
+				"Korean",
+				114,
+				120,
+				"NORP"
+			],
+			[
+				"Korean",
+				177,
+				183,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The meeting was scheduled to begin in Geneva on April 26, 1954.",
+		"entities": [
+			[
+				"Geneva",
+				38,
+				44,
+				"LOC"
+			],
+			[
+				"April 26, 1954",
+				48,
+				62,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "There was no provision for neutral participation and the question of the restoration of peace in Indochina was also to be discussed.",
+		"entities": [
+			[
+				"Indochina",
+				97,
+				106,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "For documentation on the Korean phase of the Geneva Conference, initially concerned with United States efforts to persuade the Republic of Korea to participate in the meeting, see volume XVI, pages 1 ff.']",
+		"entities": [
+			[
+				"Korean",
+				25,
+				31,
+				"NORP"
+			],
+			[
+				"Geneva Conference",
+				45,
+				62,
+				"EVENT"
+			],
+			[
+				"United States",
+				89,
+				102,
+				"GPE"
+			],
+			[
+				"Republic of Korea",
+				127,
+				144,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[\"[Telegram] 85.",
+		"entities": []
+	},
+	{
+		"content": "My telegram August 22, 7 p.m.",
+		"entities": [
+			[
+				"August 22",
+				12,
+				21,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Government's note to the Pope, of which I was shown a copy the other day by De Broqueville, was altered by the King personally before it was sent and in its final form is neither as long nor quite as cordial as it was originally.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"Pope",
+				37,
+				41,
+				"PERSON"
+			],
+			[
+				"De Broqueville",
+				88,
+				102,
+				"PERSON"
+			],
+			[
+				"King",
+				123,
+				127,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It goes to Rome to-day and the following is a translation of its French text: The Government of the King has had the honor to receive the message by which the Holy Father has presented to the chiefs of the belligerent peoples his views as to the basis on which should repose the reorganization, the future relations between the nations now at war.",
+		"entities": [
+			[
+				"Rome",
+				11,
+				15,
+				"GPE"
+			],
+			[
+				"French",
+				65,
+				71,
+				"NORP"
+			],
+			[
+				"Government of the King",
+				82,
+				104,
+				"GPE"
+			],
+			[
+				"Holy Father",
+				159,
+				170,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It will study with the greatest deference the propositions which the pontifical document sets forth in such elevated terms.",
+		"entities": []
+	},
+	{
+		"content": "The Government of the King is pleased to find there a new testimony which it highly values of the especial interest which the Holy Father has for the Belgian nation so cruelly and so unjustly afflicted by the war that desolates the world; it is happy to be able to express to him its lively and profound gratitude.",
+		"entities": [
+			[
+				"Government of the King",
+				4,
+				26,
+				"GPE"
+			],
+			[
+				"Holy Father",
+				126,
+				137,
+				"PERSON"
+			],
+			[
+				"Belgian",
+				150,
+				157,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Whitlock\"]",
+		"entities": [
+			[
+				"Whitlock",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['My Dear Mr. Ambassador: I submitted to the President your personal note of November 29th, containing a statement of the earnest desire of your Government that our Commissioners should remain in Paris beyond December 6th; and I have just received a communication from him returning your letter and stating that he \"adheres to his original decision in regard to the withdrawing of our American Commissioners.",
+		"entities": [
+			[
+				"Ambassador",
+				14,
+				24,
+				"PERSON"
+			],
+			[
+				"President",
+				45,
+				54,
+				"PERSON"
+			],
+			[
+				"November 29th",
+				77,
+				90,
+				"DATE"
+			],
+			[
+				"Commissioners",
+				165,
+				178,
+				"PERSON"
+			],
+			[
+				"Paris",
+				196,
+				201,
+				"LOC"
+			],
+			[
+				"December 6th",
+				209,
+				221,
+				"DATE"
+			],
+			[
+				"American Commissioners",
+				385,
+				407,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\" I am telegraphing to Mr. Polk the President's decision and requesting him to advise M. Clemenceau of it.",
+		"entities": [
+			[
+				"Polk",
+				27,
+				31,
+				"PERSON"
+			],
+			[
+				"President",
+				36,
+				45,
+				"PERSON"
+			],
+			[
+				"M. Clemenceau",
+				86,
+				99,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "As I told you on Saturday last, I realize the reasons for your Government's desire, and regret that other reasons, which are more imperative in my opinion, compel this Government to withdraw from Paris as originally planned.",
+		"entities": [
+			[
+				"Paris",
+				196,
+				201,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Anything which might affect the ratification of the Peace Treaty by the United States would be most unwise, and I am not alone in the belief that the continuance of our Commissioners at Paris after the Senate's action at its last session would injuriously affect the plan of campaign to secure ratification at an early date.",
+		"entities": [
+			[
+				"Peace Treaty",
+				52,
+				64,
+				"LAW"
+			],
+			[
+				"United States",
+				72,
+				85,
+				"GPE"
+			],
+			[
+				"Commissioners",
+				169,
+				182,
+				"PERSON"
+			],
+			[
+				"Paris",
+				186,
+				191,
+				"LOC"
+			],
+			[
+				"Senate",
+				202,
+				208,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I am [etc.]",
+		"entities": []
+	},
+	{
+		"content": "Robert Lansing']",
+		"entities": [
+			[
+				"Robert Lansing",
+				0,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['223.",
+		"entities": []
+	},
+	{
+		"content": "Deptel 164--Fatah.",
+		"entities": [
+			[
+				"Fatah",
+				12,
+				17,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Conveyed Israeli points as outlined first para reftel and in Deptel 160 to PriMin Tell Oct 19 making clear I was simply transmitting message and not endorsing various points.",
+		"entities": [
+			[
+				"Israeli",
+				9,
+				16,
+				"GPE"
+			],
+			[
+				"PriMin Tell",
+				75,
+				86,
+				"PERSON"
+			],
+			[
+				"Oct 19",
+				87,
+				93,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Tell reacted with extreme irritation, saying he had about reached limit of his patience in having \"those people\" tell him how to do his job and not do anything themselves.",
+		"entities": [
+			[
+				"Tell",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Borders were joint responsibility with both sides responsible for taking reasonable security measures.",
+		"entities": []
+	},
+	{
+		"content": "He thought Jordan had commendable record of arrests and regardless of what was said about full moon, he felt record of past three weeks indicated considerable progress had been made.",
+		"entities": [
+			[
+				"Jordan",
+				11,
+				17,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He had authorized us to pass factual information to GOI and this should convince them of GOJ sincerity.",
+		"entities": [
+			[
+				"GOI",
+				52,
+				55,
+				"GPE"
+			],
+			[
+				"GOJ",
+				89,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "What was Israel doing on its side to clear up this activity?",
+		"entities": [
+			[
+				"Israel",
+				9,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Tell said we could report that it would also be grave miscalculation to assume Jordan would not respond to another retaliatory raid.",
+		"entities": [
+			[
+				"Tell",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Jordan",
+				79,
+				85,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As for contact between local commanders this could serve no useful purpose and was obviously designed embarrass Jordan with other Arabs.",
+		"entities": [
+			[
+				"Jordan",
+				112,
+				118,
+				"GPE"
+			],
+			[
+				"Arabs",
+				130,
+				135,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "To extent either army encountered Fatah he assumed they would take action.",
+		"entities": [
+			[
+				"Fatah",
+				34,
+				39,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Problem arose in those areas where it was impossible fully to cover frontier.",
+		"entities": []
+	},
+	{
+		"content": "No direct contact would obviate this problem and he had no intention of getting into position where Israeli commander would try to control disposition of Jordanian forces.",
+		"entities": [
+			[
+				"Israeli commander",
+				100,
+				117,
+				"PERSON"
+			],
+			[
+				"Jordanian",
+				154,
+				163,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Curfew also not feasible unless they able fully patrol area in question and to extent they could do this curfew not necessary.",
+		"entities": []
+	},
+	{
+		"content": "Re approaches to other governments, these had been most disappointing and indicated no disposition to help.",
+		"entities": []
+	},
+	{
+		"content": "Trip of security officer to Kuwait postponed since he too busy rounding up suspects but would be made later.",
+		"entities": [
+			[
+				"Kuwait",
+				28,
+				34,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Contact with Syria so far only through local Embassy and indicated complete disinterest.",
+		"entities": [
+			[
+				"Syria",
+				13,
+				18,
+				"GPE"
+			],
+			[
+				"Embassy",
+				45,
+				52,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "However Queen Mother would raise subject during her visit to Damascus next week.",
+		"entities": [
+			[
+				"Queen Mother",
+				8,
+				20,
+				"PERSON"
+			],
+			[
+				"Damascus",
+				61,
+				69,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This attitude on part of neighbors explained GOJ inability to penetrate main apparatus which was operating outside Jordan.",
+		"entities": [
+			[
+				"GOJ",
+				45,
+				48,
+				"GPE"
+			],
+			[
+				"Jordan",
+				115,
+				121,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He felt financial center probably Kuwait but operating center Syria.",
+		"entities": [
+			[
+				"Kuwait",
+				34,
+				40,
+				"LOC"
+			],
+			[
+				"Syria",
+				62,
+				67,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Comment:",
+		"entities": []
+	},
+	{
+		"content": "Asking us to pass message such as that in reftel embarrassing since it appears we are questioning factual information GOJ has given us.",
+		"entities": [
+			[
+				"GOJ",
+				118,
+				121,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I think we need to remember GOI has no Mission here and all their information re GOJ activity obviously comes from spies.",
+		"entities": [
+			[
+				"GOI",
+				28,
+				31,
+				"GPE"
+			],
+			[
+				"GOJ",
+				81,
+				84,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We on other hand have reasonably good direct contacts with local officials who have been most cooperative in providing facts and authorizing us to pass them to Israelis.",
+		"entities": [
+			[
+				"Israelis",
+				160,
+				168,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We are satisfied GOJ is trying and is making progress and in face of evidence we have, it looks silly to constantly reiterate Tel Aviv line that \"you are doing nothing\" and \"we are going to attack you for it.",
+		"entities": [
+			[
+				"GOJ",
+				17,
+				20,
+				"GPE"
+			],
+			[
+				"Tel Aviv",
+				126,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "Barnes']",
+		"entities": [
+			[
+				"Barnes",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['My Dear Mr. Secretary: With regard to the Arabic incident I am authorized to inform you confidentially that since several months the commanders of our submarines had orders not to attack the large ocean liners without warning and safety for non-combatants.",
+		"entities": [
+			[
+				"Secretary",
+				14,
+				23,
+				"PERSON"
+			],
+			[
+				"Arabic",
+				44,
+				50,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Therefore, if the Arabic was attacked without warning, this would have been done contrary to the instructions given to the commanders of the submarines.",
+		"entities": [
+			[
+				"Arabic",
+				18,
+				24,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "These orders have now been modified, so as to comprise all liners.",
+		"entities": []
+	},
+	{
+		"content": "These instructions are and will remain in force pending the negotiations with the Government of the United States, which as we hope will in the end lead to a complete understanding on all questions of maritime warfare.",
+		"entities": [
+			[
+				"Government of the United States",
+				82,
+				113,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I remain [etc.]",
+		"entities": []
+	},
+	{
+		"content": "J. Bernstorff']",
+		"entities": [
+			[
+				"J. Bernstorff",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['285.",
+		"entities": []
+	},
+	{
+		"content": "My 274, June 24, 6 p.m.",
+		"entities": [
+			[
+				"June 24",
+				8,
+				15,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The French have given to the British and ourselves the proposed text of an amendment to article 52 of the draft convention foreseeing investigation on the spot in the case of certain complaints.",
+		"entities": [
+			[
+				"French",
+				4,
+				10,
+				"GPE"
+			],
+			[
+				"British",
+				29,
+				36,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our translation follows: \"Insert between the second and third paragraphs a new paragraph conceived as follows: 'For the purpose of drawing up its report, the Commission shall decide by a two-thirds majority, excluding the parties to the difference, whether the inquiry into the complaint shall be carried on solely through the examination of official documents communicated to it or whether the nature of the alleged facts necessitates local investigation.",
+		"entities": [
+			[
+				"Commission",
+				158,
+				168,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In the latter case the high contracting parties agree to furnish the investigators designated to act within their territory all facilities for the accomplishment of their mission.'",
+		"entities": []
+	},
+	{
+		"content": "\" In handing this memorandum to Wilson, Massigli explained that the insertion of some such clause was to them of capital importance inasmuch as in private conversations with the Germans, the Germans had insisted on the elimination from the Treaty of Versailles clauses of the right of inspection in Germany under the terms of those clauses.",
+		"entities": [
+			[
+				"Wilson",
+				32,
+				38,
+				"PERSON"
+			],
+			[
+				"Massigli",
+				40,
+				48,
+				"PERSON"
+			],
+			[
+				"Germans",
+				178,
+				185,
+				"GPE"
+			],
+			[
+				"Germans",
+				191,
+				198,
+				"GPE"
+			],
+			[
+				"Treaty of Versailles",
+				240,
+				260,
+				"LAW"
+			],
+			[
+				"Germany",
+				299,
+				306,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In order to maintain this right in regard to Germany, which the French consider essential, they must insist on the insertion of some such clause in the treaty.",
+		"entities": [
+			[
+				"Germany",
+				45,
+				52,
+				"GPE"
+			],
+			[
+				"French",
+				64,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Massigli added that would certainly seem as if any honest state would welcome such investigation in case of complaint.",
+		"entities": [
+			[
+				"Massigli",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I learn that the Italian delegation has instructions in this connection to the effect that they may admit such a right of inspection in the event that they get a treaty of real reduction.",
+		"entities": [
+			[
+				"Italian",
+				17,
+				24,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They are unwilling to admit such a right for any treaty of mediocre achievement.",
+		"entities": []
+	},
+	{
+		"content": "Their former thesis had been that they could not admit right of local inspection under any conditions.",
+		"entities": []
+	},
+	{
+		"content": "You may feel that the Italian position is logical and that to facilitate real achievement we might be able to admit the possibility on which the French are insistent.",
+		"entities": [
+			[
+				"Italian",
+				22,
+				29,
+				"GPE"
+			],
+			[
+				"French",
+				145,
+				151,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We realize that our past attitude like the Italian has been to oppose any such provision and that it could only be justified if necessary to final agreement upon substantial reductions.",
+		"entities": [
+			[
+				"Italian",
+				43,
+				50,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We are studying possible modification to make this provision more acceptable to us and would appreciate your views.",
+		"entities": []
+	},
+	{
+		"content": "Gibson']",
+		"entities": [
+			[
+				"Gibson",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"No. 142",
+		"entities": []
+	},
+	{
+		"content": "Sir: The Department has received your Legation's despatch No. 20, dated February 8, 1922, concerning PS8500 sterling which the General Receiver of Customs remitted the latter part of January to The National City Bank of New York, Fiscal Agents of the Liberian refunding loan of 1912.",
+		"entities": [
+			[
+				"Department",
+				9,
+				19,
+				"ORG"
+			],
+			[
+				"Legation",
+				38,
+				46,
+				"ORG"
+			],
+			[
+				"February 8, 1922",
+				72,
+				88,
+				"DATE"
+			],
+			[
+				"General Receiver of Customs",
+				127,
+				154,
+				"PERSON"
+			],
+			[
+				"January",
+				183,
+				190,
+				"DATE"
+			],
+			[
+				"National City Bank of New York",
+				198,
+				228,
+				"ORG"
+			],
+			[
+				"Liberian",
+				251,
+				259,
+				"NORP"
+			],
+			[
+				"1912",
+				278,
+				282,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The fact that the General Receiver remitted PS8500 within six days, PS7000 on January 25th and PS1500 on January 31st, would seem to confirm recent complaints made to the Department that the Receivership held the collections of assigned revenues for unduly long periods, apparently waiting until a large sum had accumulated before making remittances to the Fiscal Agents.",
+		"entities": [
+			[
+				"General Receiver",
+				18,
+				34,
+				"PERSON"
+			],
+			[
+				"January 25th",
+				78,
+				90,
+				"DATE"
+			],
+			[
+				"January 31st",
+				105,
+				117,
+				"DATE"
+			],
+			[
+				"Department",
+				171,
+				181,
+				"ORG"
+			],
+			[
+				"Receivership",
+				191,
+				203,
+				"ORG"
+			],
+			[
+				"Fiscal Agents",
+				357,
+				370,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Department desires you to bring this matter to the attention of the General Receiver and you may say that unless there are justifiable reasons for not doing so, remittances from the assigned revenues for the service of the 1912 loan should be made as nearly as possible in conformity with the terms of the refunding loan agreement which require that the Receivership forward to the Fiscal Agents on the first day of each month during the life of the loan an amount equal to twenty per cent of the gross receipts from the assigned revenues during the preceding month, but never less than eight thousand six hundred dollars United States gold.",
+		"entities": [
+			[
+				"Department",
+				4,
+				14,
+				"ORG"
+			],
+			[
+				"General Receiver",
+				72,
+				88,
+				"PERSON"
+			],
+			[
+				"1912",
+				227,
+				231,
+				"DATE"
+			],
+			[
+				"Receivership",
+				358,
+				370,
+				"ORG"
+			],
+			[
+				"Fiscal Agents",
+				386,
+				399,
+				"PERSON"
+			],
+			[
+				"United States",
+				626,
+				639,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "As the interest on the 1912 loan is still considerably in arrears, the Receivership should, until these arrears are fully paid, increase the monthly remittances above the sum required by the loan agreement whenever and as much as the state of the assigned revenues will permit.",
+		"entities": [
+			[
+				"1912",
+				23,
+				27,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I am [etc.]",
+		"entities": []
+	},
+	{
+		"content": "Charles E. Hughes\"]",
+		"entities": [
+			[
+				"Charles E. Hughes",
+				0,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"No. 248.]",
+		"entities": []
+	},
+	{
+		"content": "Sir: With farther reference to the case of Oscar Cespedes, as reported in my dispatch No. 244, of 2d instant, I have now the honor to transmit copy of a letter from the United States consul at Matanzas, with a newspaper containing the publication of part of the decision of the audiencia, or superior court of Matanzas, convened to settle the question of competency (of which I transmitted a translation in said No. 244), and copy of the protest presented by him to the governor of the province.",
+		"entities": [
+			[
+				"Oscar Cespedes",
+				43,
+				57,
+				"PERSON"
+			],
+			[
+				"United States consul",
+				169,
+				189,
+				"ORG"
+			],
+			[
+				"Matanzas",
+				193,
+				201,
+				"LOC"
+			],
+			[
+				"Matanzas",
+				310,
+				318,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I am informed that the decision of this court is considered final as regards the question of competency raised, and that the military tribunals must now take charge of the procedure.",
+		"entities": []
+	},
+	{
+		"content": "The decisions of these courts having now the same force as the supreme court at Madrid, the only way to reverse this judgment must come through diplomatic efforts.",
+		"entities": [
+			[
+				"Madrid",
+				80,
+				86,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I am also advised that there has been a want of form, a technical point in the procedure, which can be availed of toward that end, and which consisted in the fact that the civil jurisdiction of Alfonso XII upon receiving from the Captaincy-General, or military jurisdiction, the inhibition of the case, failed to return the proceedings with its objections, to the military jurisdiction, but instead raised the question of competency, and referred the matter direct to the audiencia, or superior court at Matanzas, with the result stated.",
+		"entities": [
+			[
+				"Alfonso XII",
+				194,
+				205,
+				"PERSON"
+			],
+			[
+				"Captaincy-General",
+				230,
+				247,
+				"PERSON"
+			],
+			[
+				"Matanzas",
+				504,
+				512,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I am, etc., Joseph A. Springer.",
+		"entities": [
+			[
+				"Joseph A. Springer",
+				12,
+				30,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[Inclosure 1 in No. 248.]",
+		"entities": []
+	},
+	{
+		"content": "Mr. Brice to Mr. Springer.",
+		"entities": [
+			[
+				"Brice",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Springer",
+				17,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "United States Consulate,Matanzas, December 2, 1896.",
+		"entities": [
+			[
+				"United States Consulate",
+				0,
+				23,
+				"ORG"
+			],
+			[
+				"Matanzas",
+				24,
+				32,
+				"LOC"
+			],
+			[
+				"December 2, 1896",
+				34,
+				50,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Sir:",
+		"entities": []
+	},
+	{
+		"content": "In compliance with your request of 1st instant, I herewith inclose you copy of newspaper in which is published the decision of the audiencia in Cespedes' case.",
+		"entities": [
+			[
+				"1st",
+				35,
+				38,
+				"DATE"
+			],
+			[
+				"Cespedes",
+				144,
+				152,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I also inclose copy of protest, same case.",
+		"entities": []
+	},
+	{
+		"content": "In compliance with a cablegram from the Department of State, I also made (on 28th November) a verbal protest to civil governor of this province, same effect.",
+		"entities": [
+			[
+				"Department of State",
+				40,
+				59,
+				"ORG"
+			],
+			[
+				"28th November",
+				77,
+				90,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Cespedes is seriously ill and is now in the city jail hospital.",
+		"entities": [
+			[
+				"Cespedes",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I visited him Monday, November 30.",
+		"entities": [
+			[
+				"Monday, November 30",
+				14,
+				33,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I am, etc., A. C. Brice.",
+		"entities": [
+			[
+				"A. C. Brice",
+				12,
+				23,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[Inclosure 2 in No. 248.]",
+		"entities": []
+	},
+	{
+		"content": "Mr. Brice to Governor of Matanzas.",
+		"entities": [
+			[
+				"Brice",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Governor of Matanzas",
+				13,
+				33,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Matanzas, December 1, 1896.",
+		"entities": [
+			[
+				"Matanzas",
+				0,
+				8,
+				"LOC"
+			],
+			[
+				"December 1, 1896",
+				10,
+				26,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Sir: On the 25th November, 1896, the audiencia or supreme court for the province of Matanzas in convened session rendered a decision in the case of Oscar Cespedes, an American citizen, and said to be a prisoner of war.",
+		"entities": [
+			[
+				"25th November, 1896",
+				12,
+				31,
+				"DATE"
+			],
+			[
+				"Matanzas",
+				84,
+				92,
+				"LOC"
+			],
+			[
+				"Oscar Cespedes",
+				148,
+				162,
+				"PERSON"
+			],
+			[
+				"American",
+				167,
+				175,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "This decision or decree says that Oscar Cespedes shall be tried by military court-martial.",
+		"entities": [
+			[
+				"Oscar Cespedes",
+				34,
+				48,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "As consul of the United States, I hereby earnestly protest against this decision of audiencia on the following grounds, viz: This decision is a direct violation of protocol of 1877 between Spain and the United States, terms of protocol well known to Spanish officials.",
+		"entities": [
+			[
+				"United States",
+				17,
+				30,
+				"GPE"
+			],
+			[
+				"1877",
+				176,
+				180,
+				"DATE"
+			],
+			[
+				"Spain",
+				189,
+				194,
+				"GPE"
+			],
+			[
+				"United States",
+				203,
+				216,
+				"GPE"
+			],
+			[
+				"Spanish",
+				250,
+				257,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Cespedes declares on oath that he came to Cuba as a reporter for the Key West Herald, Florida, that he never bore arms against the Government of Spain, and that when captured by General Molina's column, September 2, 1896, he had no arms of any description in hand or on his person.",
+		"entities": [
+			[
+				"Cespedes",
+				4,
+				12,
+				"GPE"
+			],
+			[
+				"Cuba",
+				46,
+				50,
+				"LOC"
+			],
+			[
+				"Key West Herald",
+				73,
+				88,
+				"ORG"
+			],
+			[
+				"Florida",
+				90,
+				97,
+				"LOC"
+			],
+			[
+				"Government of Spain",
+				135,
+				154,
+				"GPE"
+			],
+			[
+				"General Molina",
+				182,
+				196,
+				"PERSON"
+			],
+			[
+				"September 2, 1896",
+				207,
+				224,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In accordance with above declaration of Mr. Cespedes, and the terms of protocol of 1877, this American citizen should be tried by ordinary jurisdiction or civil trial.",
+		"entities": [
+			[
+				"Cespedes",
+				44,
+				52,
+				"LOC"
+			],
+			[
+				"1877",
+				83,
+				87,
+				"DATE"
+			],
+			[
+				"American",
+				94,
+				102,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Close investigation, and without prejudice, in the case of Oscar Cespedes, shows that he is guilty of no intentional crime against the Spanish Government.",
+		"entities": [
+			[
+				"Oscar Cespedes",
+				59,
+				73,
+				"PERSON"
+			],
+			[
+				"Spanish Government",
+				135,
+				153,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Facts fully proven show that Mr. Cespedes came to Cuba simply as a reporter for one of the many newspapers of the United States.",
+		"entities": [
+			[
+				"Cespedes",
+				33,
+				41,
+				"PERSON"
+			],
+			[
+				"Cuba",
+				50,
+				54,
+				"GPE"
+			],
+			[
+				"United States",
+				114,
+				127,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "With the highest consideration, etc., A. C. Brice.",
+		"entities": [
+			[
+				"A. C. Brice",
+				38,
+				49,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[Subinclosure in No. 248.--Translation.] examination.",
+		"entities": []
+	},
+	{
+		"content": "An examination was held on Tuesday at 12 o'clock m. for the purpose of deciding the question of competency raised by the military authority and the court of Alfonso XII in re the prosecution of Don Oscar Cespedes y Figueredo, an American citizen, for the crime of rebellion.",
+		"entities": [
+			[
+				"Alfonso XII",
+				157,
+				168,
+				"PERSON"
+			],
+			[
+				"Don Oscar Cespedes y Figueredo",
+				194,
+				224,
+				"PERSON"
+			],
+			[
+				"American",
+				229,
+				237,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The following is the conclusion reached:",
+		"entities": []
+	},
+	{
+		"content": "Whereas, although citizens of the United States, in virtue of the protocol of January 12, 1877, are entitled to the privilege of being tried for any crime committed by them in Spanish territory by none but the ordinary courts, they are debarred from this privilege if they commit any crime of which it is in the province of any special authority to take cognizance, provided they are taken with arms in their hands; and Whereas, the evidence transmitted by the military authority furnishes sufficient grounds to consider Don Oscar Cespedes guilty of the crime of rebellion, and debarred as aforesaid an account of his having been taken with arms in his hands; so that it is within the province of the military authorities to try him, and not within that of the ordinary courts, according to the provisions of article 9 (No. 3) of the Code of Military Justice.",
+		"entities": [
+			[
+				"United States",
+				34,
+				47,
+				"GPE"
+			],
+			[
+				"January 12, 1877",
+				78,
+				94,
+				"DATE"
+			],
+			[
+				"Spanish",
+				176,
+				183,
+				"GPE"
+			],
+			[
+				"Don Oscar Cespedes",
+				521,
+				539,
+				"PERSON"
+			],
+			[
+				"Code of Military Justice",
+				834,
+				858,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Now, therefore, in view of that legal provision in article 1 of the protocol of January 12, 1877, we declare it to be within the province of the military authorities to take cognizance of the case which has given rise to this question concerning competency.",
+		"entities": [
+			[
+				"January 12, 1877",
+				80,
+				96,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Let this decision be brought to the notice of his excellency the Captain-General and the examining judge of the court of Alfonso XII.",
+		"entities": [
+			[
+				"Captain-General",
+				65,
+				80,
+				"PERSON"
+			],
+			[
+				"Alfonso XII.",
+				121,
+				133,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Matanzas, November 25, 1896.",
+		"entities": [
+			[
+				"Matanzas",
+				0,
+				8,
+				"LOC"
+			],
+			[
+				"November 25, 1896",
+				10,
+				27,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "(Several signatures follow.)",
+		"entities": []
+	},
+	{
+		"content": "Note.--Oscar Cespedes landed in the island on the 33d (sic) of June with the expedition commanded by Ricardo Trujillo and joined Lacret's band.",
+		"entities": [
+			[
+				"Cespedes",
+				13,
+				21,
+				"LOC"
+			],
+			[
+				"33d",
+				50,
+				53,
+				"DATE"
+			],
+			[
+				"June",
+				63,
+				67,
+				"DATE"
+			],
+			[
+				"Ricardo Trujillo",
+				101,
+				117,
+				"PERSON"
+			],
+			[
+				"Lacret",
+				129,
+				135,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He was taken prisoner in the Jicarita Mountains on the 3d of September by the troops under Colonel Molina, and is now in San Severino castle.\"]",
+		"entities": [
+			[
+				"Jicarita Mountains",
+				29,
+				47,
+				"LOC"
+			],
+			[
+				"3d of September",
+				55,
+				70,
+				"DATE"
+			],
+			[
+				"Colonel Molina",
+				91,
+				105,
+				"PERSON"
+			],
+			[
+				"San Severino",
+				121,
+				133,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "['confidential 193.",
+		"entities": []
+	},
+	{
+		"content": "In view of difficulty establishing citizenship status in individual cases SCAP proposes pending clarification of question to treat as Japanese nationals Formosans in Japan who continue voluntarily to reside there instead of accepting repatriation.",
+		"entities": [
+			[
+				"SCAP",
+				74,
+				78,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				134,
+				142,
+				"NORP"
+			],
+			[
+				"Formosans",
+				153,
+				162,
+				"NORP"
+			],
+			[
+				"Japan",
+				166,
+				171,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Please ascertain by discreet inquiry and report to Dept whether the Chinese authorities agree to such procedure.",
+		"entities": [
+			[
+				"Dept",
+				51,
+				55,
+				"ORG"
+			],
+			[
+				"Chinese",
+				68,
+				75,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Byrnes']",
+		"entities": [
+			[
+				"Byrnes",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['My Dear Mr. President: The Executive Committee on Commercial Policy has, as you know, been giving continuing and serious attention to the problem of our agricultural surpluses with particular reference to diminishing markets for these products in Europe.",
+		"entities": [
+			[
+				"President",
+				14,
+				23,
+				"PERSON"
+			],
+			[
+				"Executive Committee on Commercial Policy",
+				29,
+				69,
+				"ORG"
+			],
+			[
+				"Europe",
+				249,
+				255,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It has also, a: have many other Departments and agencies of the Government, bee concerned with the problem of acquisition of adequate supplies of strategic and critical materials.",
+		"entities": []
+	},
+	{
+		"content": "At its meeting this morning the Committee considered a report of one of its subcommittees on a possible method of dealing with both of these problems simultaneously and after discussion of the proposal, it was the consensus of the Committee that the plan be approved in principle and that such a plan could be implemented by a measure along the lines of the enclosed draft bill.",
+		"entities": [
+			[
+				"Committee",
+				32,
+				41,
+				"ORG"
+			],
+			[
+				"Committee",
+				231,
+				240,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Briefly, this proposal would authorize the President to enter into agreements with foreign countries providing for an exchange of not more than 31/2 percent of the present gold stocks, to be taken from the stabilization fund, for an emergency reserve supply of imported strategic and critical raw materials, with the proviso that under such agreements foreign countries would be permitted to obtain title to the gold, in advance of the actual delivery of the strategic and critical raw materials, if such gold is used exclusively for the purchase of raw and manufactured agricultural products produced in and exported from the United States.",
+		"entities": [
+			[
+				"President",
+				43,
+				52,
+				"PERSON"
+			],
+			[
+				"United States",
+				627,
+				640,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "If the principle embodied in the foregoing proposal and the enclosed draft should appear desirable to you and to the Cabinet, the Committee would be glad to give some further consideration to the details of the suggested bill as well as to incorporate such changes as you or the Cabinet might consider desirable.",
+		"entities": [
+			[
+				"Cabinet",
+				117,
+				124,
+				"ORG"
+			],
+			[
+				"Committee",
+				130,
+				139,
+				"ORG"
+			],
+			[
+				"Cabinet",
+				279,
+				286,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It is not the thought of the Committee that this suggested plan should conflict with or act as a substitute for any other plan for the speedy acquisition of strategic materials which may be under consideration.",
+		"entities": [
+			[
+				"Committee",
+				29,
+				38,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Faithfully yours, Henry F. Grady']",
+		"entities": [
+			[
+				"Henry F. Grady",
+				18,
+				32,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"61.",
+		"entities": []
+	},
+	{
+		"content": "Department's 28, May [April] 30, 4 p.m.",
+		"entities": [
+			[
+				"May [April] 30",
+				17,
+				31,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Prime Minister has requested me to telegraph a message in the following sense to be transmitted to ex-Ambassador Morgenthau: The Prime Minister appreciates Mr. Morgenthau's interest in Greece and wishes to thank him.",
+		"entities": [
+			[
+				"Prime Minister",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"ex-Ambassador",
+				103,
+				116,
+				"TITLE"
+			],
+			[
+				"Morgenthau",
+				117,
+				127,
+				"PERSON"
+			],
+			[
+				"Prime Minister",
+				133,
+				147,
+				"PERSON"
+			],
+			[
+				"Morgenthau",
+				164,
+				174,
+				"PERSON"
+			],
+			[
+				"Greece",
+				189,
+				195,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Government's policy is directed toward internal peace and friendship between the political parties and every effort is being exerted to achieve that purpose.",
+		"entities": []
+	},
+	{
+		"content": "The Government is doing its best to the end that sanctions may be as few as possible.",
+		"entities": []
+	},
+	{
+		"content": "MacVeagh\"]",
+		"entities": [
+			[
+				"MacVeagh",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['102.",
+		"entities": []
+	},
+	{
+		"content": "Your 176, July 16, 11 p.m.",
+		"entities": [
+			[
+				"July 16",
+				10,
+				17,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Department believes that it may be possible to work out here a draft of an exportation clause which will be satisfactory to both sides, the inclusion of which will of course be contingent upon the undertaking for purchases of $40,000,000.",
+		"entities": [
+			[
+				"Department",
+				4,
+				14,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "However, in order that proper consideration may be given to all the factors involved it will not be possible to forward to you the text before July 19.",
+		"entities": [
+			[
+				"July 19",
+				143,
+				150,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In the meantime it is desired that you ascertain, without commitment on the part of this Government, whether there would be any objection to the addition to the exceptions contained in paragraph 2 of article 11 of the Netherlands Agreement, of a sentence along the following lines: \"It shall be understood that any action which may be taken by the President of the United States under authority of article [section] 2b of the Neutrality Act of 1937 in regard to the passage of title of goods shall not be considered as contravening any of the above provisions of this section relating to exportation.",
+		"entities": [
+			[
+				"Netherlands Agreement",
+				218,
+				239,
+				"LAW"
+			],
+			[
+				"President of the United States",
+				348,
+				378,
+				"PERSON"
+			],
+			[
+				"Neutrality Act of 1937",
+				426,
+				448,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "\" It would be most helpful if the Department could have your reply before Monday.",
+		"entities": [
+			[
+				"Department",
+				34,
+				44,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Hull']",
+		"entities": [
+			[
+				"Hull",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"On August 3, McCloy despatched a long telegram, eyes only, for Acheson and Byroade positing his solution to the problem of the defense of Western Europe.",
+		"entities": [
+			[
+				"August 3",
+				5,
+				13,
+				"DATE"
+			],
+			[
+				"McCloy",
+				15,
+				21,
+				"PERSON"
+			],
+			[
+				"Acheson",
+				65,
+				72,
+				"PERSON"
+			],
+			[
+				"Byroade",
+				77,
+				84,
+				"PERSON"
+			],
+			[
+				"Western Europe",
+				140,
+				154,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In particular he stated the position and role the Federal Republic of Germany would have to play within this context.",
+		"entities": [
+			[
+				"Federal Republic of Germany",
+				50,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This telegram began an exchange of communications between London, Paris, Frankfort, and Washington concerning the defense of Western Europe, and the question of German rearmament became merged in this larger issue.",
+		"entities": [
+			[
+				"London",
+				58,
+				64,
+				"GPE"
+			],
+			[
+				"Paris",
+				66,
+				71,
+				"GPE"
+			],
+			[
+				"Frankfort",
+				73,
+				82,
+				"GPE"
+			],
+			[
+				"Washington",
+				88,
+				98,
+				"GPE"
+			],
+			[
+				"Western Europe",
+				125,
+				139,
+				"LOC"
+			],
+			[
+				"German",
+				161,
+				167,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For the text of McCloy's telegram (No. 962) and further documentation on the defense of Western Europe and German rearmament, see volume III, page 180 and pages 1 ff.\"]",
+		"entities": [
+			[
+				"McCloy",
+				16,
+				22,
+				"PERSON"
+			],
+			[
+				"Western Europe",
+				88,
+				102,
+				"LOC"
+			],
+			[
+				"German",
+				107,
+				113,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "['Ambassador William J. Handley, Executive Director of the Cabinet Committee on international Narcotics Control, called the meeting of the Working Group to order at 11:05 a.m.",
+		"entities": [
+			[
+				"Ambassador William J. Handley",
+				2,
+				31,
+				"PERSON"
+			],
+			[
+				"Executive Director",
+				33,
+				51,
+				"TITLE"
+			],
+			[
+				"Cabinet Committee on international Narcotics Control",
+				59,
+				11,
+				"ORG"
+			],
+			[
+				"Working Group",
+				139,
+				152,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "All principals and ex-officio members were in attendance except Dr. Robert DuPont who was testifying before the House Armed Services Committee on Opium Stockpile Release and Mr. Guy Wiggins of the U.S. Mission to the U.N.",
+		"entities": [
+			[
+				"Robert DuPont",
+				68,
+				81,
+				"PERSON"
+			],
+			[
+				"House Armed Services Committee",
+				112,
+				142,
+				"ORG"
+			],
+			[
+				"Guy Wiggins",
+				178,
+				189,
+				"PERSON"
+			],
+			[
+				"U.S. Mission to the U.N.",
+				197,
+				221,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Chairman thanked the group for their participation and, noting the paucity of meetings in the past, stated his intention to meet every two or three months.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Chairman moved to the first item on the agenda (Tab A).",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He suggested that the purpose of the Working Group and the CCINC structure was to facilitate interagency decision making.",
+		"entities": [
+			[
+				"Working Group",
+				37,
+				50,
+				"ORG"
+			],
+			[
+				"CCINC",
+				59,
+				64,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The regional committees seldom delay a decision while waiting for new information.",
+		"entities": []
+	},
+	{
+		"content": "Rather, delays are a function of internal agency staffing snafus.",
+		"entities": []
+	},
+	{
+		"content": "The Chairman suggested that the Working Group and Coordinating Subcommittee should move to handle disputed programs rapidly, not allowing weeks of indecision to pass.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Working Group",
+				32,
+				45,
+				"ORG"
+			],
+			[
+				"Coordinating Subcommittee",
+				50,
+				75,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The windows for successful diplomatic initiative are often short.",
+		"entities": []
+	},
+	{
+		"content": "In the same view, the Chairman suggested that the Working Group should discuss issues informally amongst themselves before passing them up to Cabinet members.",
+		"entities": [
+			[
+				"Chairman",
+				22,
+				30,
+				"PERSON"
+			],
+			[
+				"Working Group",
+				50,
+				63,
+				"ORG"
+			],
+			[
+				"Cabinet",
+				142,
+				149,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He cited Burma as an example of an issue where early Working Group consultation might have avoided delays which followed locked-in statements of position by several Cabinet officers.",
+		"entities": [
+			[
+				"Burma",
+				9,
+				14,
+				"GPE"
+			],
+			[
+				"Working Group",
+				53,
+				66,
+				"ORG"
+			],
+			[
+				"Cabinet",
+				165,
+				172,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The group concurred.",
+		"entities": []
+	},
+	{
+		"content": "Documents pertaining to the current CCINC structure were distributed (Tab B).",
+		"entities": [
+			[
+				"CCINC",
+				36,
+				41,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Chairman mentioned that working level meetings in the major regions (Europe, South America, Southeast Asia, the Near East) would be scheduled over the next six months.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Europe",
+				73,
+				79,
+				"LOC"
+			],
+			[
+				"South America",
+				81,
+				94,
+				"LOC"
+			],
+			[
+				"Southeast Asia",
+				96,
+				110,
+				"LOC"
+			],
+			[
+				"Near East",
+				116,
+				125,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Chairman indicated that a joint Cabinet Committee meeting (Domestic Council drug committees and the International committee) with the President attending would probably be held on October 23.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Cabinet Committee",
+				36,
+				53,
+				"ORG"
+			],
+			[
+				"President",
+				138,
+				147,
+				"PERSON"
+			],
+			[
+				"October 23",
+				184,
+				194,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The agenda item or items dealing with the international program will be circulated to Coordinating Subcommittee members in early October.",
+		"entities": [
+			[
+				"Coordinating Subcommittee",
+				86,
+				111,
+				"ORG"
+			],
+			[
+				"October",
+				129,
+				136,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A program review focusing on new trafficking routes (Mexico, Southeast Asia) will probably be the subject for CCINC review.",
+		"entities": [
+			[
+				"Mexico",
+				53,
+				59,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				61,
+				75,
+				"LOC"
+			],
+			[
+				"CCINC",
+				110,
+				115,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Chairman then discussed current attitudes on the Hill.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Hill",
+				53,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He mentioned that he was engaging in consultations on the approved Burma assistance package.",
+		"entities": [
+			[
+				"Burma",
+				67,
+				72,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He also mentioned that efforts were ongoing to defeat the Wolff amendment for the trade bill and the Hartke amendment to the Foreign Assistance Act.",
+		"entities": [
+			[
+				"Wolff amendment",
+				58,
+				73,
+				"LAW"
+			],
+			[
+				"Hartke amendment",
+				101,
+				117,
+				"LAW"
+			],
+			[
+				"Foreign Assistance Act",
+				125,
+				147,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The latter would require a Presidential determination of all those countries making satisfactory progress on narcotics control.",
+		"entities": []
+	},
+	{
+		"content": "Such a determination would tie the hands of our negotiators who subsequently attempt to apply pressure for improvement to the countries.",
+		"entities": []
+	},
+	{
+		"content": "While discussing Congressional relations, the Chairman mentioned the general displeasure on the Hill, particularly in the House, on the inability of CCINC programs to utilize the relatively small amount of funds allotted by Congress.",
+		"entities": [
+			[
+				"Congressional",
+				17,
+				30,
+				"ORG"
+			],
+			[
+				"Chairman",
+				46,
+				54,
+				"PERSON"
+			],
+			[
+				"Hill",
+				96,
+				100,
+				"ORG"
+			],
+			[
+				"House",
+				122,
+				127,
+				"ORG"
+			],
+			[
+				"CCINC",
+				149,
+				154,
+				"ORG"
+			],
+			[
+				"Congress",
+				224,
+				232,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Chairman indicated that first quarter FY 74 expenditures were very low.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"FY 74",
+				42,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "He expressed the hope that all agencies would move expeditiously to implement approved programs.",
+		"entities": []
+	},
+	{
+		"content": "This is particularly true for new programs such as those in Pakistan, Mexico and Thailand where public and Congressional attention is frequent.",
+		"entities": [
+			[
+				"Pakistan",
+				60,
+				68,
+				"GPE"
+			],
+			[
+				"Mexico",
+				70,
+				76,
+				"GPE"
+			],
+			[
+				"Thailand",
+				81,
+				89,
+				"GPE"
+			],
+			[
+				"Congressional",
+				107,
+				120,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Chairman next moved to a review of 20 priority countries (Tab C).",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He especially emphasized programs in Mexico, Burma, Thailand and Pakistan.",
+		"entities": [
+			[
+				"Mexico",
+				37,
+				43,
+				"LOC"
+			],
+			[
+				"Burma",
+				45,
+				50,
+				"LOC"
+			],
+			[
+				"Thailand",
+				52,
+				60,
+				"LOC"
+			],
+			[
+				"Pakistan",
+				65,
+				73,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Mexico, it was stated, is the top priority country.",
+		"entities": [
+			[
+				"Mexico",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "New DEA statistics indicate that nearly 40 percent of heroin seizures in the U.S. are of Mexican origin.",
+		"entities": [
+			[
+				"DEA",
+				4,
+				7,
+				"ORG"
+			],
+			[
+				"U.S.",
+				77,
+				81,
+				"LOC"
+			],
+			[
+				"Mexican",
+				89,
+				96,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Concerning Mexico, the Chairman stated that he believed that his and Mr. Bartels participation in the upcoming meeting between Attorneys General Richardson and Ojeda Paullada (Mexico) was critical to implementation of proposals presented to Mexican President Echeverria on September 11.",
+		"entities": [
+			[
+				"Mexico",
+				11,
+				17,
+				"GPE"
+			],
+			[
+				"Chairman",
+				23,
+				31,
+				"PERSON"
+			],
+			[
+				"Bartels",
+				73,
+				80,
+				"PERSON"
+			],
+			[
+				"Attorneys General Richardson",
+				127,
+				155,
+				"ORG"
+			],
+			[
+				"Ojeda Paullada",
+				160,
+				174,
+				"PERSON"
+			],
+			[
+				"Mexico",
+				176,
+				182,
+				"GPE"
+			],
+			[
+				"Mexican",
+				241,
+				248,
+				"GPE"
+			],
+			[
+				"President Echeverria",
+				249,
+				269,
+				"PERSON"
+			],
+			[
+				"September 11",
+				273,
+				285,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bartels also emphasized the criticality of Mexico.",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"Mexico",
+				47,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He stated that other nations further away often point to Mexico and suggest that we should pay attention to our close neighbors before wielding a heavy stick half-way around the globe.",
+		"entities": [
+			[
+				"Mexico",
+				57,
+				63,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In reviewing the priority countries, the Chairman indicated that new trafficking and production centers were consistently located in areas uncontrolled by local civil authorities.",
+		"entities": [
+			[
+				"Chairman",
+				41,
+				49,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Thus there is almost always a need to provide assistance to military units (ea.",
+		"entities": []
+	},
+	{
+		"content": "Mexico, Burma, Thailand).",
+		"entities": [
+			[
+				"Mexico",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Burma",
+				8,
+				13,
+				"GPE"
+			],
+			[
+				"Thailand",
+				15,
+				23,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Second, for the same reasons, it is almost always necessary to provide economic alternatives to small hillside farmers who are forced to give up their sole source of cash income when forced from opium production.",
+		"entities": []
+	},
+	{
+		"content": "The members concurred with the top priority country designation and the basic program approach outlined by the Chairman.",
+		"entities": [
+			[
+				"Chairman",
+				111,
+				119,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bolten recommended that the 20 priority countries might better be grouped into regional configurations.",
+		"entities": [
+			[
+				"Bolten",
+				4,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Chairman referred this suggestion to Mr. Peters, Chairman of the Coordinating Subcommittee.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Peters",
+				45,
+				51,
+				"PERSON"
+			],
+			[
+				"Chairman of the Coordinating Subcommittee",
+				53,
+				94,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "The Chairman then proceeded to the third agenda item, program-and drug priorities.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He stated that the priorities established by the CCINC on March 20, 1972, were still valid, namely: \"1) interdiction at the U.S. border 2) improved overseas law enforcement and intelligence 3) overseas crop substitution, crop eradication, treatment, rehabilitation, education and research.\"",
+		"entities": [
+			[
+				"CCINC",
+				49,
+				54,
+				"ORG"
+			],
+			[
+				"March 20, 1972",
+				58,
+				72,
+				"DATE"
+			],
+			[
+				"U.S.",
+				124,
+				128,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "However, the Chairman, added that three caveats were in order based upon accumulating experience: Country priorities are the determinants of program actions.",
+		"entities": [
+			[
+				"Chairman",
+				13,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "First, attention must be paid to critical nations; secondarily, the mix of enforcement/agricultural programs is developed.",
+		"entities": []
+	},
+	{
+		"content": "It is seldom possible to separate number two (enforcement and intelligence) and number three (substitution/eradication) priorities, particularly when the focus of trafficking shifts into lesser developed countries.",
+		"entities": []
+	},
+	{
+		"content": "Strong enforcement is seldom palatable to a government unless some economic alternative for displaced farmers is provided.",
+		"entities": []
+	},
+	{
+		"content": "\"Intelligence\" as listed in priority two should be expanded and clarified to indicate a focus on major international targeting.",
+		"entities": []
+	},
+	{
+		"content": "As soon as possible, local narcotics enforcement efforts and U.S. agent resources should be turned from street-level efforts to international conspiracies.",
+		"entities": [
+			[
+				"U.S.",
+				61,
+				65,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The members concurred with the Chairman's expanded delineation of priorities.",
+		"entities": [
+			[
+				"Chairman",
+				31,
+				39,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bartels and Ms. Cowan (Dr. DuPont's representative) next addressed the issue of drug priorities for international enforcement.",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"Cowan",
+				20,
+				25,
+				"PERSON"
+			],
+			[
+				"DuPont",
+				31,
+				37,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bartels indicated that domestic priorities were shifting to reflect the rise in polydrug abuse.",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He stated, however, that heroin should remain as the top priority overseas.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Bartels also pointed out that DEA was studying the methods of effective international enforcement against pill diversion.",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"DEA",
+				34,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Ms. Cowan similarly stated that heroin remained the number one priority of the treatment community.",
+		"entities": [
+			[
+				"Cowan",
+				4,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "She indicated that, at this point, priority two for international enforcement purposes was not clear.",
+		"entities": []
+	},
+	{
+		"content": "Based on SAODAP experiences, one cannot single out cocaine as a clear number two priority over pills.",
+		"entities": [
+			[
+				"SAODAP",
+				9,
+				15,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Minnick pointed out that it would be desirable and reasonable to keep domestic and international priorities reasonably consistent.",
+		"entities": [
+			[
+				"Minnick",
+				4,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Thus he recommended that amphetamines and barbiturates be accorded a priority equal to that of cocaine.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Bolten then mentioned the increased incidence of liquid hash oil coming from the Near East and South Asia.",
+		"entities": [
+			[
+				"Bolten",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"Near East",
+				85,
+				94,
+				"LOC"
+			],
+			[
+				"South Asia",
+				99,
+				109,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The effect of this substance on the demanding population is not well known according to Ms. Cowan.",
+		"entities": [
+			[
+				"Cowan",
+				92,
+				97,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Ms. Cowan discussed the new SAODAP emphasis on international treatment.",
+		"entities": [
+			[
+				"Cowan",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"SAODAP",
+				28,
+				34,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "She indicated that increasingly nations were becoming aware of their internal drug problem, particularly as it predictably spreads to middle class youth.",
+		"entities": []
+	},
+	{
+		"content": "She noted that a forthcoming U.S. position on exporting treatment was imperative because (1) the U.S. is viewed as the leader in treatment and (2) treatment assistance often provides a wedge to induce enforcement cooperation of direct benefit to the U.S.",
+		"entities": [
+			[
+				"U.S.",
+				29,
+				33,
+				"GPE"
+			],
+			[
+				"U.S.",
+				97,
+				101,
+				"GPE"
+			],
+			[
+				"U.S.",
+				250,
+				254,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The members concurred with this assessment.",
+		"entities": []
+	},
+	{
+		"content": "Before moving to the fourth item, the Chairman briefly reviewed the debate on shortages of opium for legitimate medicinal purposes.",
+		"entities": [
+			[
+				"Chairman",
+				38,
+				46,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He stated that so far only the U.S. pharmaceutical manufacturers had complained of a shortage.",
+		"entities": [
+			[
+				"U.S.",
+				31,
+				35,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The Administration is moving to release opium from the strategic stockpile to be prepared to meet potential short-term needs (next three years).",
+		"entities": [
+			[
+				"Administration",
+				4,
+				18,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In the long term, the U.S. will work on research and other solutions bilaterally and in consultation with multilateral organizations (INCB, etc.).",
+		"entities": [
+			[
+				"U.S.",
+				22,
+				26,
+				"GPE"
+			],
+			[
+				"INCB",
+				134,
+				138,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "For example, the U.S. is exploring tentatively with India the possibility of increased opium straw production.",
+		"entities": [
+			[
+				"U.S.",
+				17,
+				21,
+				"GPE"
+			],
+			[
+				"India",
+				52,
+				57,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Chairman mentioned that there was some concern over the play given in Turkey to the shortage attendant to their November 1973 election campaign.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Turkey",
+				74,
+				80,
+				"GPE"
+			],
+			[
+				"November 1973",
+				116,
+				129,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "At this point, however, it is the State Department assessment that Turkey will maintain the ban.",
+		"entities": [
+			[
+				"State Department",
+				34,
+				50,
+				"ORG"
+			],
+			[
+				"Turkey",
+				67,
+				73,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Among the major reasons for this expected steadfastness, the Chairman stated, is the success of crop substitution programs which are providing viable economic alternatives for farmers forced out of the legitimate opium business.",
+		"entities": [
+			[
+				"Chairman",
+				61,
+				69,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Assistant Secretary Long stated that he concurred with the Chairman's optimistic evaluation of the agricultural program.",
+		"entities": [
+			[
+				"Assistant Secretary Long",
+				0,
+				24,
+				"PERSON"
+			],
+			[
+				"Chairman",
+				59,
+				67,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Chairman moved to item four, enforcement priorities, and called on Mr. Bartels, Acting Administrator of the Drug Enforcement Administration.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Bartels",
+				75,
+				82,
+				"PERSON"
+			],
+			[
+				"Acting Administrator",
+				84,
+				104,
+				"TITLE"
+			],
+			[
+				"Drug Enforcement Administration",
+				112,
+				143,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bartels distributed the organization chart for the new DEA (Tab D).",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"DEA",
+				59,
+				62,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He indicated that the new organization emphasized the institutionalization of the international program.",
+		"entities": []
+	},
+	{
+		"content": "Both the intelligence and enforcement components provide for distinct and co-equal status (along with domestic) of the international effort.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Bartels stated that DEA international priorities were as follows: Upgrade local enforcement capabilities.",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"DEA",
+				24,
+				27,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "First a capable narcotics unit must be established in the national enforcement apparatus.",
+		"entities": []
+	},
+	{
+		"content": "This first step, now well underway, is usually accompanied by emphasis on (a) organization and (b) smaller case-making which provides the taste of success to the units.",
+		"entities": []
+	},
+	{
+		"content": "The second step--now the dominant focus of DEA overseas efforts--is to move other governments toward effective action against major traffickers.",
+		"entities": [
+			[
+				"DEA",
+				43,
+				46,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This requires concentrating on information collection and development by local units of good informant nets.",
+		"entities": []
+	},
+	{
+		"content": "Going hand-in-glove with the emerging emphasis stated above are DEA agent efforts aimed (with CIA, IRS cooperation) at making international conspiracy cases in the U.S.",
+		"entities": [
+			[
+				"DEA",
+				64,
+				67,
+				"ORG"
+			],
+			[
+				"CIA",
+				94,
+				97,
+				"ORG"
+			],
+			[
+				"IRS",
+				99,
+				102,
+				"ORG"
+			],
+			[
+				"U.S.",
+				164,
+				168,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Finally, DEA should provide technical advice to national narcotics enforcement units.",
+		"entities": [
+			[
+				"DEA",
+				9,
+				12,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bartels pointed out, citing his recent trip to Mexico, that this assistance is often rudimentary (cameras, etc).",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"Mexico",
+				51,
+				57,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "On the other hand, as narcotics smuggling becomes more concentrated in areas not under civil control (Burma, Thailand, parts of western Mexico), heavy equipment assistance (aircraft and arms) becomes necessary.",
+		"entities": [
+			[
+				"Burma",
+				102,
+				107,
+				"LOC"
+			],
+			[
+				"Thailand",
+				109,
+				117,
+				"LOC"
+			],
+			[
+				"Mexico",
+				136,
+				142,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bartels then stated some of the organizational goals of DEA's international program in the immediate future.",
+		"entities": [
+			[
+				"Bartels",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"DEA",
+				60,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "These include working toward an established overseas agent force, upgrading one man offices and increasing field operational intelligence analysis capability.",
+		"entities": []
+	},
+	{
+		"content": "The Chairman next called upon Mr. Bolten to discuss the Major International Narcotics Traffickers List being prepared under the auspices of the CCINC intelligence Subcommittee.",
+		"entities": [
+			[
+				"Chairman",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Bolten",
+				34,
+				40,
+				"PERSON"
+			],
+			[
+				"CCINC",
+				144,
+				149,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Bolten stated that his subcommittee's goals were entirely consistent with the priorities outlined by Mr. Bartels.",
+		"entities": [
+			[
+				"Bolten",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"Bartels",
+				109,
+				116,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He said that experience of the past year indicates that the greatest impact on international narcotics traffic has resulted from the arrest and conviction of a relatively small number of major syndicate leaders.",
+		"entities": []
+	},
+	{
+		"content": "(This group includes persons such as Sarti, Ricord, David, Pastou, Micoli, etc.)",
+		"entities": [
+			[
+				"Sarti",
+				37,
+				42,
+				"PERSON"
+			],
+			[
+				"Ricord",
+				44,
+				50,
+				"PERSON"
+			],
+			[
+				"David",
+				52,
+				57,
+				"PERSON"
+			],
+			[
+				"Micoli",
+				67,
+				73,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "During this period considerable progress has been made by American law enforcement officers abroad in establishing working relationships with local foreign enforcement agencies for the purpose of dealing with low and middle level cases as they arise.",
+		"entities": [
+			[
+				"American",
+				58,
+				66,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "At the same time, unilateral narcotics intelligence collection capabilities have been developed in critical areas of the world.",
+		"entities": []
+	},
+	{
+		"content": "The time has now come, he stated, to place greater emphasis on those major traffickers who control the syndicates capable of moving bulk quantities of morphine base, heroin, and cocaine.",
+		"entities": []
+	},
+	{
+		"content": "This means turning over to local foreign enforcement agencies the routine cases while American law enforcement and intelligence personnel abroad concentrate on the major traffickers.",
+		"entities": [
+			[
+				"American",
+				86,
+				94,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The implementation of this approach is a significant sign of the growing maturity of the agencies concerned.",
+		"entities": []
+	},
+	{
+		"content": "DEA and CIA were requested by the CCINC Intelligence Subcommittee to identify the major international narcotics traffickers and to compile basic biographic data on each individual.",
+		"entities": [
+			[
+				"DEA",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"CIA",
+				8,
+				11,
+				"ORG"
+			],
+			[
+				"CCINC Intelligence Subcommittee",
+				34,
+				65,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This list (MITL) is now completed and contains approximately 225 names of persons regarded as principal active traffickers.",
+		"entities": []
+	},
+	{
+		"content": "After final checking, the list will be sent to DEA and CIA representatives abroad with instructions to collaborate and coordinate on efforts against these target personalities, first as intelligence collection targets and then for ultimate enforcement action.",
+		"entities": [
+			[
+				"DEA",
+				47,
+				50,
+				"ORG"
+			],
+			[
+				"CIA",
+				55,
+				58,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Working Group concurred with the priorities and programs outlined by Mr. Bartels and Mr. Bolten.",
+		"entities": [
+			[
+				"Working Group",
+				4,
+				17,
+				"ORG"
+			],
+			[
+				"Bartels",
+				77,
+				84,
+				"PERSON"
+			],
+			[
+				"Bolten",
+				93,
+				99,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Assistant Secretary Morgan stated that Treasury, while moving from Customs overseas activities (other than Custom training and Customs Cooperation Council participation), would emphasize financial enforcement through IRS programs.",
+		"entities": [
+			[
+				"Assistant Secretary Morgan",
+				0,
+				26,
+				"PERSON"
+			],
+			[
+				"Treasury",
+				39,
+				47,
+				"ORG"
+			],
+			[
+				"Customs",
+				67,
+				74,
+				"ORG"
+			],
+			[
+				"Custom",
+				107,
+				113,
+				"ORG"
+			],
+			[
+				"Customs Cooperation Council",
+				127,
+				154,
+				"ORG"
+			],
+			[
+				"IRS",
+				217,
+				220,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "An enclosure from a letter from Secretary Shultz to Secretary Rogers on Treasury responsibilities is at Tab E. The Chairman thanked the members for their participation.",
+		"entities": [
+			[
+				"Secretary Shultz",
+				32,
+				48,
+				"PERSON"
+			],
+			[
+				"Secretary Rogers",
+				52,
+				68,
+				"PERSON"
+			],
+			[
+				"Treasury",
+				72,
+				80,
+				"ORG"
+			],
+			[
+				"Chairman",
+				115,
+				123,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The meeting adjourned at 12:20 p.m.",
+		"entities": []
+	},
+	{
+		"content": "[Organization of the Cabinet Committee on International Narcotics Control chart]",
+		"entities": [
+			[
+				"Cabinet Committee on International Narcotics Control",
+				21,
+				73,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Tab CMemorandum From Executive Director of the Cabinet Committee on International Narcotics Matters (Handley) Washington, September 26, 1973 There are Narcotics Control Action Plans for fifty-nine countries.",
+		"entities": [
+			[
+				"Executive Director",
+				21,
+				39,
+				"TITLE"
+			],
+			[
+				"Cabinet Committee on International Narcotics Matters",
+				47,
+				99,
+				"ORG"
+			],
+			[
+				"Handley",
+				101,
+				108,
+				"PERSON"
+			],
+			[
+				"Washington",
+				110,
+				120,
+				"LOC"
+			],
+			[
+				"September 26, 1973",
+				122,
+				140,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Coordinating Subcommittee has tentatively identified a list of twenty countries which are or should be receiving priority attention in the coming months.",
+		"entities": [
+			[
+				"Coordinating Subcommittee",
+				4,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The three countries in category one reflect the changing emphasis of the international program.",
+		"entities": []
+	},
+	{
+		"content": "As effective enforcement and cultivation ban efforts close traditional trafficking routes, new ones quickly emerge.",
+		"entities": []
+	},
+	{
+		"content": "A. MEXICO.",
+		"entities": [
+			[
+				"MEXICO",
+				3,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "DEA reports that 38 percent of FY 73 heroin seized in the United States was of Mexican origin, up from eight percent in FY 72.",
+		"entities": [
+			[
+				"DEA",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"FY 73",
+				31,
+				36,
+				"DATE"
+			],
+			[
+				"United States",
+				58,
+				71,
+				"LOC"
+			],
+			[
+				"Mexican",
+				79,
+				86,
+				"NORP"
+			],
+			[
+				"FY 72",
+				120,
+				125,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In addition, there are some indications that white heroin traffickers displaced by other Latin American enforcement efforts are moving toward Mexico.",
+		"entities": [
+			[
+				"Latin American",
+				89,
+				103,
+				"NORP"
+			],
+			[
+				"Mexico",
+				142,
+				148,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Approximately 90 percent of marihuana smuggled into the U.S. is of Mexican origin.",
+		"entities": [
+			[
+				"U.S.",
+				56,
+				60,
+				"LOC"
+			],
+			[
+				"Mexican",
+				67,
+				74,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "On September 11, Ambassador Robert McBride conducted a major program review with Mexican President Echeverria.",
+		"entities": [
+			[
+				"September 11",
+				3,
+				15,
+				"DATE"
+			],
+			[
+				"Ambassador Robert McBride",
+				17,
+				42,
+				"PERSON"
+			],
+			[
+				"Mexican",
+				81,
+				88,
+				"GPE"
+			],
+			[
+				"President Echeverria",
+				89,
+				109,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This review was the outcome of efforts by a special CCINC Task Force.",
+		"entities": [
+			[
+				"CCINC Task Force",
+				52,
+				68,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "McBride focused on the brown (Mexican) heroin problem and proposed (1) increased intelligence collection efforts and (2) equipment support (helicopters and logistics at approximately $5 million per year) for Mexican Army eradication efforts.",
+		"entities": [
+			[
+				"McBride",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Mexican",
+				30,
+				37,
+				"NORP"
+			],
+			[
+				"Mexican Army",
+				208,
+				220,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Echeverria indicated he would seriously consider the U.S. overtures.",
+		"entities": [
+			[
+				"Echeverria",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				53,
+				57,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Implementation will be a sensitive and' time consuming task.",
+		"entities": []
+	},
+	{
+		"content": "A meeting in late October between Attorney General Richardson and Mexican Attorney General Ojeda Panllada will be important to program progress.",
+		"entities": [
+			[
+				"October",
+				18,
+				25,
+				"DATE"
+			],
+			[
+				"Attorney General Richardson",
+				34,
+				61,
+				"PERSON"
+			],
+			[
+				"Mexican",
+				66,
+				73,
+				"GPE"
+			],
+			[
+				"Attorney General Ojeda Panllada",
+				74,
+				105,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "THAILAND Thailand is a major opium producer and the major transit country for heroin smuggled from the Golden Triangle to the United States.",
+		"entities": [
+			[
+				"THAILAND",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"Thailand",
+				9,
+				17,
+				"GPE"
+			],
+			[
+				"Golden Triangle",
+				103,
+				118,
+				"LOC"
+			],
+			[
+				"United States",
+				126,
+				139,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Thais are moving on many fronts in support of anti-narcotics efforts, yet much remains to be done.",
+		"entities": [
+			[
+				"Thais",
+				4,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Golden Triangle caravan routes are policed by Special Narcotics Operations (SNO) Units extensively supported by the CCINC and advised by DEA.",
+		"entities": [
+			[
+				"Golden Triangle",
+				4,
+				19,
+				"LOC"
+			],
+			[
+				"Special Narcotics Operations",
+				50,
+				78,
+				"ORG"
+			],
+			[
+				"SNO",
+				80,
+				83,
+				"ORG"
+			],
+			[
+				"CCINC",
+				120,
+				125,
+				"ORG"
+			],
+			[
+				"DEA",
+				141,
+				144,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Border Patrol Police have a greater capability than SNO to move against major caravans.",
+		"entities": [
+			[
+				"Border Patrol Police",
+				4,
+				24,
+				"ORG"
+			],
+			[
+				"SNO",
+				56,
+				59,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The CCINC has just approved helicopter support to the BPP.",
+		"entities": [
+			[
+				"CCINC",
+				4,
+				9,
+				"ORG"
+			],
+			[
+				"BPP",
+				54,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The major problem in the insurgent area is the continued trafficking of CIF Generals Li and Tuan.",
+		"entities": [
+			[
+				"CIF",
+				72,
+				75,
+				"ORG"
+			],
+			[
+				"Generals Li",
+				76,
+				87,
+				"PERSON"
+			],
+			[
+				"Tuan",
+				92,
+				96,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Both multilateral and bilateral efforts are underway in support of crop substitution.",
+		"entities": []
+	},
+	{
+		"content": "The CCINC has just approved ale first extensive bilateral effort to provide substitute crops for Thai hill tribes.",
+		"entities": [
+			[
+				"CCINC",
+				4,
+				9,
+				"ORG"
+			],
+			[
+				"Thai",
+				97,
+				101,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "After caravans disperse and heroin/opium is divided into small loads in central Thailand, enforcement effectiveness diminishes.",
+		"entities": [
+			[
+				"Thailand",
+				80,
+				88,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "DEA is developing an extensive program of intelligence collection and enforcement support to Thai National Police Units operating in the trafficking areas.",
+		"entities": [
+			[
+				"DEA",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"Thai National Police Units",
+				93,
+				119,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The program will also include beefing up of efforts to interdict Thai trawlers smuggling heroin and opium out of the Gulf of Siam.",
+		"entities": [
+			[
+				"Thai",
+				65,
+				69,
+				"NORP"
+			],
+			[
+				"Gulf of Siam",
+				117,
+				129,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "BURMA Burma is the source of over half of the illicit opium cultivated in the Golden Triangle.",
+		"entities": [
+			[
+				"BURMA",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"Burma",
+				6,
+				11,
+				"GPE"
+			],
+			[
+				"Golden Triangle",
+				78,
+				93,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Efforts to solicit Burmese support for narcotics control operations founded in 1972.",
+		"entities": [
+			[
+				"Burmese",
+				19,
+				26,
+				"GPE"
+			],
+			[
+				"1972",
+				79,
+				83,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In the Spring and Summer of 1973 the Burmese have made extraordinary efforts to begin to move against heroin and opium traffickers.",
+		"entities": [
+			[
+				"Summer of 1973",
+				18,
+				32,
+				"DATE"
+			],
+			[
+				"Burmese",
+				37,
+				44,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The capture of Lo-Hsing Han (driven across the border into Thailand by the Burmese Army) was perhaps the most significant single event in the U.S. motivated enforcement program in Southeast Asia.",
+		"entities": [
+			[
+				"Lo-Hsing Han",
+				15,
+				27,
+				"PERSON"
+			],
+			[
+				"Thailand",
+				59,
+				67,
+				"LOC"
+			],
+			[
+				"Burmese Army",
+				75,
+				87,
+				"ORG"
+			],
+			[
+				"U.S.",
+				142,
+				146,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				180,
+				194,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Burmese have requested aircraft support for major moves against narcotics trafficking insurgents.",
+		"entities": [
+			[
+				"Burmese",
+				4,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The CCINC has approved Ambassador Martin's request for 18 helicopters Congressional consultation on the package is taking place now.",
+		"entities": [
+			[
+				"CCINC",
+				4,
+				9,
+				"ORG"
+			],
+			[
+				"Ambassador Martin",
+				23,
+				40,
+				"PERSON"
+			],
+			[
+				"Congressional",
+				70,
+				83,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "CATEGORY TWO A. TURKEY AND FRANCE.",
+		"entities": [
+			[
+				"TURKEY",
+				16,
+				22,
+				"GPE"
+			],
+			[
+				"FRANCE",
+				27,
+				33,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The opium ban in Turkey is effective to the best of our knowledge.",
+		"entities": [
+			[
+				"Turkey",
+				17,
+				23,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Nonetheless, stockpiles of illicit Turkish opium are still the base for close to half of all U.S. heroin.",
+		"entities": [
+			[
+				"Turkish",
+				35,
+				42,
+				"NORP"
+			],
+			[
+				"U.S.",
+				93,
+				97,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "This is the last year (FY74) of subsistence payments to Turkey.",
+		"entities": [
+			[
+				"FY74",
+				23,
+				27,
+				"GPE"
+			],
+			[
+				"Turkey",
+				56,
+				62,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "No new initiatives are contemplated at this time.",
+		"entities": []
+	},
+	{
+		"content": "DEA enforcement [less than 1 line not declassified] collection efforts in Turkey remain of the utmost importance to the CCINC program.",
+		"entities": [
+			[
+				"DEA",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"Turkey",
+				74,
+				80,
+				"LOC"
+			],
+			[
+				"CCINC",
+				120,
+				125,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "An extreme shortage of morphine base is reported in Marseille.",
+		"entities": [
+			[
+				"Marseille",
+				52,
+				61,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Joint DEA-French enforcement efforts are largely responsible for this state of affairs.",
+		"entities": [
+			[
+				"DEA-French",
+				6,
+				16,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "France remains a key trafficking country, and many targets continue to operate in France.",
+		"entities": [
+			[
+				"France",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"France",
+				82,
+				88,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "PAKISTAN",
+		"entities": [
+			[
+				"PAKISTAN",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As pressure on traditional Near East routes increases, Pakistan becomes an increasingly likely target for major traffickers.",
+		"entities": [
+			[
+				"Near East",
+				27,
+				36,
+				"LOC"
+			],
+			[
+				"Pakistan",
+				55,
+				63,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Approximately 275 tons of illicit opium is produced in Pakistan.",
+		"entities": [
+			[
+				"Pakistan",
+				55,
+				63,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The CCINC has approved a-major enforcement program (support of 25 Field Investigative Units) in Pakistan.",
+		"entities": [
+			[
+				"CCINC",
+				4,
+				9,
+				"ORG"
+			],
+			[
+				"Pakistan",
+				96,
+				104,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Parallel consideration is being given to crop substitution efforts.",
+		"entities": []
+	},
+	{
+		"content": "Pakistan has suggested that $25-35 million in economic assistance is required.",
+		"entities": [
+			[
+				"Pakistan",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The preliminary U.S. estimate of reasonable substitution program is approximately $10 million.",
+		"entities": [
+			[
+				"U.S.",
+				16,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "COLOMBIA Colombia is a key trafficking country for cocaine.",
+		"entities": [
+			[
+				"COLOMBIA",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"Colombia",
+				9,
+				17,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Efforts of the Colombian Government to complement U.S. enforcement programs and unilateral moves against corrupt officials have been satisfactory.",
+		"entities": [
+			[
+				"Colombian Government",
+				15,
+				35,
+				"GPE"
+			],
+			[
+				"U.S.",
+				50,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Colombia continues, however, to be a hub of cocaine trafficking.",
+		"entities": [
+			[
+				"Colombia",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Enforcement and diplomatic initiative maintain high priority.",
+		"entities": []
+	},
+	{
+		"content": "CATEGORY THREE A. AFGHANISTAN",
+		"entities": [
+			[
+				"AFGHANISTAN",
+				18,
+				29,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Afghanistan is a major producer of illicit opium.",
+		"entities": [
+			[
+				"Afghanistan",
+				0,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Much evidence of international trafficking is available, but ties to U.S. heroin markets are not yet established.",
+		"entities": [
+			[
+				"U.S.",
+				69,
+				73,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The Afghan situation is parallel to, but not considered as serious as, the Pak problem.",
+		"entities": [
+			[
+				"Afghan",
+				4,
+				10,
+				"NORP"
+			],
+			[
+				"Pak",
+				75,
+				78,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Potential, however, is great.",
+		"entities": []
+	},
+	{
+		"content": "UN program for enforcement and substitution have gotten started, but have been seriously delayed by the recent governmental change.",
+		"entities": [
+			[
+				"UN",
+				0,
+				2,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The CCINC at the working level has given favorable consideration to a bilateral program for enforcement assistance.",
+		"entities": [
+			[
+				"CCINC",
+				4,
+				9,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "HONG KONG",
+		"entities": [
+			[
+				"Hong Kong",
+				0,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Hong Kong undoubtedly plays a major role in the transit/trafficking of Southeast Asian heroin.",
+		"entities": [
+			[
+				"Hong Kong",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"Southeast Asian",
+				71,
+				86,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The physical and ethnic complexity of Hong Kong is not very conducive to enforcement efforts.",
+		"entities": [
+			[
+				"Hong Kong",
+				38,
+				47,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "However, the seriousness of the trafficking problem demands increasing CCINC attention to enforcement efforts in Hong Kong.",
+		"entities": [
+			[
+				"CCINC",
+				71,
+				76,
+				"ORG"
+			],
+			[
+				"Hong Kong",
+				113,
+				122,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "LAOS Laos is a potential problem country.",
+		"entities": [
+			[
+				"LAOS",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"Laos",
+				5,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The U.S. supported enforcement effort in Laos has apparently been quite effective.",
+		"entities": [
+			[
+				"U.S.",
+				4,
+				8,
+				"GPE"
+			],
+			[
+				"Laos",
+				41,
+				45,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Pressure on Thailand, however, may begin to divert substantial trafficking, once again, through Laos.",
+		"entities": [
+			[
+				"Thailand",
+				12,
+				20,
+				"GPE"
+			],
+			[
+				"Laos",
+				96,
+				100,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "No major new U.S. initiative are contemplated in the short run.",
+		"entities": [
+			[
+				"U.S.",
+				13,
+				17,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "ARGENTINA",
+		"entities": [
+			[
+				"ARGENTINA",
+				0,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Argentine networks were crippled by the destruction of the Ricord network.",
+		"entities": [
+			[
+				"Argentine",
+				0,
+				9,
+				"NORP"
+			],
+			[
+				"Ricord",
+				59,
+				65,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Recently, however, there had been indications that old and new traffickers are regrouping.",
+		"entities": []
+	},
+	{
+		"content": "A degree of laxness in the approach of the Campora government to traffickers was noted.",
+		"entities": [
+			[
+				"Campora",
+				43,
+				50,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Potentially strong diplomatic initiative and perhaps increased support programs will have to be considered to prevent renewal of interest in Argentina as a trafficking center.",
+		"entities": [
+			[
+				"Argentina",
+				141,
+				150,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "PANAMA Panama is a major cocaine transit center and probably financial center for all Latin American drug activities.",
+		"entities": [
+			[
+				"PANAMA",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Panama",
+				7,
+				13,
+				"GPE"
+			],
+			[
+				"Latin American",
+				86,
+				100,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Evidence of white heroin transit is minimal.",
+		"entities": []
+	},
+	{
+		"content": "Basic initiatives by the U.S. and the Panamanian government have been effective, but much remains to be done.",
+		"entities": [
+			[
+				"U.S.",
+				25,
+				29,
+				"GPE"
+			],
+			[
+				"Panamanian government",
+				38,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "India India continues as the world's sole licit opium export nation.",
+		"entities": [
+			[
+				"India India",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"India India",
+				6,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As enforcement pressure on various nations increase, pressure on India for illicit diversion increases.",
+		"entities": [
+			[
+				"India",
+				65,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "U.S. information collections effort will be increasingly directed to the Indian system.",
+		"entities": [
+			[
+				"U.S.",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"Indian",
+				73,
+				79,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Bilateral or multi-lateral assessment and improvement of control system will be considered if deemed necessary.",
+		"entities": []
+	},
+	{
+		"content": "Germany, Italy, Netherlands, and Spain As long as Turkish (and perhaps Near Eastern) opium is available, European traffickers will attempt to ply their well-honed skills as producers and traffickers for U.S. markets.",
+		"entities": [
+			[
+				"Germany",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"Italy",
+				9,
+				14,
+				"GPE"
+			],
+			[
+				"Netherlands",
+				16,
+				27,
+				"GPE"
+			],
+			[
+				"Spain",
+				33,
+				38,
+				"GPE"
+			],
+			[
+				"Turkish",
+				50,
+				57,
+				"NORP"
+			],
+			[
+				"Near Eastern",
+				71,
+				83,
+				"LOC"
+			],
+			[
+				"European",
+				105,
+				113,
+				"NORP"
+			],
+			[
+				"U.S.",
+				203,
+				207,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The effectiveness of French-U.S. enforcement has forced European traffickers to turn to new routes.",
+		"entities": [
+			[
+				"French-U.S.",
+				21,
+				32,
+				"GPE"
+			],
+			[
+				"European",
+				56,
+				64,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Italy, Spain, and Germany have been the scene of apparent increased activity.",
+		"entities": [
+			[
+				"Italy",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"Spain",
+				7,
+				12,
+				"GPE"
+			],
+			[
+				"Germany",
+				18,
+				25,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Netherlands is receiving some heroin from Southeast Asia.",
+		"entities": [
+			[
+				"Netherlands",
+				4,
+				15,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				46,
+				60,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "DEA plans major resource reallocations in Europe to meet these new trends.",
+		"entities": [
+			[
+				"DEA",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"Europe",
+				42,
+				48,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Diplomatically; State and the CCINC must continue to apply appropriate pressure to Europe on a priority basis.",
+		"entities": [
+			[
+				"State",
+				16,
+				21,
+				"ORG"
+			],
+			[
+				"CCINC",
+				30,
+				35,
+				"ORG"
+			],
+			[
+				"Europe",
+				83,
+				89,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Category Four Peru, Ecuador and Bolivia are major production and transit centers for cocaine.",
+		"entities": [
+			[
+				"Peru",
+				14,
+				18,
+				"GPE"
+			],
+			[
+				"Ecuador",
+				20,
+				27,
+				"GPE"
+			],
+			[
+				"Bolivia",
+				32,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If cocaine enforcement continues to be considered as a priority goal of the CCINC program, then programs in these three countries must be strengthened.']",
+		"entities": [
+			[
+				"CCINC",
+				76,
+				81,
+				"ORG"
+			]
+		]
+	}
+]

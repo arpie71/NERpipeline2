@@ -1,0 +1,2542 @@
+[
+	{
+		"content": "[\"Please take a look.",
+		"entities": []
+	},
+	{
+		"content": "From: ezriel kornel Sent: Monday, March 9, 2020 7:10 PM",
+		"entities": [
+			[
+				"ezriel kornel",
+				6,
+				19,
+				"PERSON"
+			],
+			[
+				"Monday, March 9, 2020",
+				26,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] EE®)6)",
+		"entities": []
+	},
+	{
+		"content": ">; Auchincloss, Hugh (NIH/NIAID)",
+		"entities": [
+			[
+				"Auchincloss, Hugh",
+				3,
+				20,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				22,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] >",
+		"entities": []
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Fwd; FW: Coronavirus Remote Monitoring | think this may be a very valuable program.",
+		"entities": [
+			[
+				"Coronavirus Remote Monitoring",
+				9,
+				38,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "| have no involvement but was sent to me for my input.",
+		"entities": []
+	},
+	{
+		"content": "Ezriel Kornel, MD ---------",
+		"entities": [
+			[
+				"Ezriel Kornel",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"MD",
+				15,
+				17,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Forwarded message ---------",
+		"entities": []
+	},
+	{
+		"content": "From: King, Nicholas <nicholas.king@bernstein.com>",
+		"entities": [
+			[
+				"King, Nicholas",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"nicholas.king@bernstein.com",
+				22,
+				49,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Date: Mon, Mar 9, 2020, 5:07 PM Subject: FW:",
+		"entities": [
+			[
+				"Mon, Mar 9, 2020",
+				6,
+				22,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Coronavirus Remote Monitoring Te e",
+		"entities": [
+			[
+				"Coronavirus Remote Monitoring",
+				0,
+				29,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Hi Ed, | thought you'd find this to be of interest.",
+		"entities": [
+			[
+				"Ed",
+				3,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Greg is alI®I(E) and | think there may be an opportunity to help health agencies.",
+		"entities": [
+			[
+				"Greg",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Do you know anyone that this could be passed along to?",
+		"entities": []
+	},
+	{
+		"content": "Nicholas King Vice President — Financial Advisor TS nicholas.king@bernstein.com",
+		"entities": [
+			[
+				"Nicholas King",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Vice President — Financial Advisor TS",
+				14,
+				51,
+				"TITLE"
+			],
+			[
+				"nicholas.king@bernstein.com",
+				52,
+				79,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "After Arts Group | Forbes",
+		"entities": [
+			[
+				"Forbes",
+				19,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Greg OKeeffe",
+		"entities": [
+			[
+				"Greg OKeeffe",
+				6,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, March 09,",
+		"entities": [
+			[
+				"Monday, March 09,",
+				6,
+				23,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "2020 9:05 AM To: King, Nicholas <nicholas.king@bernstein.com>",
+		"entities": [
+			[
+				"2020",
+				0,
+				4,
+				"DATE"
+			],
+			[
+				"King, Nicholas",
+				17,
+				31,
+				"PERSON"
+			],
+			[
+				"nicholas.king@bernstein.com",
+				33,
+				60,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: Coronavirus Remote Monitoring NIH-000726 on clicking links or opening file attachments.",
+		"entities": [
+			[
+				"Coronavirus Remote Monitoring",
+				9,
+				38,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Nick, Following up on our conversation this weekend, | am including some information below about our Remote Patient Monitoring platform which we are making available for free to health agencies and organizations participating in the response to COVID-19 in the United States.",
+		"entities": [
+			[
+				"Nick",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"COVID-19",
+				245,
+				253,
+				"MED"
+			],
+			[
+				"United States",
+				261,
+				274,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Remote Patient Monitoring with FollowApp is a HIPAA-Compliant system that helps health officials to diagnose, contain and treat this highly transmissible viral threat by enabling the effective screening of large numbers of potential patients and to triage/prioritize targeted clinical interventions including the use of test kits.",
+		"entities": []
+	},
+	{
+		"content": "FollowApp's monitoring dashboard and patient mobile applications (i0S and Android) can be used to deliver two of the keys to an effective response plan: 1) encourage self-quarantining (a fundamental epidemioclogic tenet) and 2) off-load exploding clinical volume threatening hospital Emergency Departments.",
+		"entities": []
+	},
+	{
+		"content": "Healthcare systems are thus able to maintain important contact with these populations and recommend targeted escalation of care when needed, while decreasing exposure to both clinicians and other patients.",
+		"entities": []
+	},
+	{
+		"content": "The public perception of the lethality of this global pandemic is fueling panic which, in and of itself, is creating its own logistic issues that are already beginning to overwhelm hospital Emergency Departments.",
+		"entities": []
+	},
+	{
+		"content": "The dilemma for health care systems, then, becomes a question of identifying subpopulations at increased risk while at the same time, keeping these patients out of the hospital.",
+		"entities": []
+	},
+	{
+		"content": "Please feel free to forward this email along with my contact information (cell® provide a demo to anyone who may be interested.",
+		"entities": []
+	},
+	{
+		"content": "Thank you again, Greg Greg O'Keeffe President & CEO Human Resolution Technologies, LLC www.PatientMonitoring.com LinkedIn",
+		"entities": [
+			[
+				"Greg",
+				17,
+				21,
+				"PERSON"
+			],
+			[
+				"Greg O'Keeffe",
+				22,
+				35,
+				"PERSON"
+			],
+			[
+				"President & CEO",
+				36,
+				51,
+				"TITLE"
+			],
+			[
+				"Human Resolution Technologies, LLC",
+				52,
+				86,
+				"ORG"
+			],
+			[
+				"www.PatientMonitoring.com",
+				87,
+				112,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "The information contained in this e-mail is legally privileged and confidential information intended only for the use of the individual or entity to whom it is addressed.",
+		"entities": []
+	},
+	{
+		"content": "If the reader of this message is not the intended recipient, you are hereby notified that any viewing, dissemination, distribution, or copy of this e-mail message is strictly prohibited.",
+		"entities": []
+	},
+	{
+		"content": "If you have received and/or are viewing this e-mail in error, please immediately notify the sender by reply e-mail and delete this e- mail from your system.",
+		"entities": []
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "Q Virus-free.",
+		"entities": []
+	},
+	{
+		"content": "www.avast.com",
+		"entities": [
+		["www.avast.com",
+		0,
+		13,
+		"URL"
+		]
+		]
+	},
+	{
+		"content": "NIH-000727 For further important information about AllianceBernstein please click here http://www.alliancebernstein.com/disclaimer/email/disclaimer.html BERNSTEIN BERNSTEIN NIH-000728 \"]",
+		"entities": [
+			[
+				"http://www.alliancebernstein.com/disclaimer/email/disclaimer.html",
+				87,
+				152,
+				"URL"
+			],
+			[
+				"BERNSTEIN BERNSTEIN",
+				153,
+				172,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['How do we nicely say no to this person?",
+		"entities": []
+	},
+	{
+		"content": "Begin forwarded message:",
+		"entities": []
+	},
+	{
+		"content": "From: \"Sachdev, Amit (HHS/10S)\" [IIe© Date: April 9, 2020 at 2:04:56 PM EDT To: \"Fauci, Anthony (NIH/NIJAID)",
+		"entities": [
+			[
+				"Sachdev, Amit",
+				7,
+				20,
+				"PERSON"
+			],
+			[
+				"HHS/10S",
+				22,
+				29,
+				"ORG"
+			],
+			[
+				"April 9, 2020",
+				44,
+				57,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				81,
+				95,
+				"PERSON"
+			],
+			[
+				"NIH/NIJAID",
+				97,
+				107,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" _ Subject:",
+		"entities": []
+	},
+	{
+		"content": "Hello Hi Dr. Fauci, my name is Amit Sachdev.",
+		"entities": [
+			[
+				"Dr. Fauci",
+				9,
+				18,
+				"PERSON"
+			],
+			[
+				"Amit Sachdev",
+				31,
+				43,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I am a White House fellow and physician most recently at the Brigham.",
+		"entities": [
+			[
+				"White House fellow",
+				7,
+				25,
+				"PERSON"
+			],
+			[
+				"Brigham",
+				61,
+				68,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I know you are super busy and [ would love to partner with you and write a op ed on coronavirus and unite the nation.",
+		"entities": [
+			[
+				"coronavirus",
+				84,
+				95,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "If you have a few minutes, [ would love to speak.",
+		"entities": []
+	},
+	{
+		"content": "I think F Thank you for your time and consideration.",
+		"entities": []
+	},
+	{
+		"content": "Sincerely, Amit Sent from my iPhone ']",
+		"entities": [
+			[
+				"Amit",
+				11,
+				15,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['You are not being ignored.",
+		"entities": []
+	},
+	{
+		"content": "The National Heart Lung and Blood Institute will take a look at this.",
+		"entities": [
+			[
+				"National Heart Lung and Blood Institute",
+				4,
+				43,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Dr. Josh Backon <backon@mail.huji.ac.il>",
+		"entities": [
+			[
+				"Dr. Josh Backon",
+				6,
+				21,
+				"PERSON"
+			],
+			[
+				"backon@mail.huji.ac.il",
+				23,
+				45,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, April 16, 2020 8:09 AM",
+		"entities": [
+			[
+				"Thursday, April 16, 2020",
+				6,
+				30,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Coleman, Amanda (NIH/NIAID)",
+		"entities": [
+			[
+				"Coleman, Amanda",
+				4,
+				19,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				21,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[C] [ ®i®)",
+		"entities": []
+	},
+	{
+		"content": ">; Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				3,
+				17,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				19,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] Subject:",
+		"entities": []
+	},
+	{
+		"content": "Fwd: Covid-19.",
+		"entities": [
+			[
+				"Covid-19",
+				5,
+				13,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "thromboxane inhibitors, and heme binding (02 desaturation) Continue to ignore me.",
+		"entities": [
+			[
+			"thromboxane inhibitors",
+			0,
+			22,
+			"MED"
+			],
+			[
+			"heme binding",
+			28,
+			40,
+			"MED"
+			]
+		]
+	},
+	{
+		"content": "http://www.htct.com.br/en-hemoglobin-value-may-be-decreased-avance- $2531137920300298?fbclid",
+		"entities": [
+			[
+				"http://www.htct.com.br/en-hemoglobin-value-may-be-decreased-avance- $2531137920300298?fbclid",
+				0,
+				92,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "=IwAR3zdsUZE 1M5gxNpqgzrlf862INIbRMFPI9gfRLNSC2FgZNkjCrsw4KDtGe Dr. Josh Backon backon@mail.huji.ac.il ---------",
+		"entities": [
+			[
+				"Dr. Josh Backon",
+				64,
+				79,
+				"PERSON"
+			],
+			[
+				"backon@mail.huji.ac.il",
+				80,
+				102,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Forwarded message ------—--",
+		"entities": []
+	},
+	{
+		"content": "From: Coleman, Amanda (NIH/NIAID)",
+		"entities": [
+			[
+				"Coleman, Amanda",
+				6,
+				21,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				23,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[C] < ®) 6)",
+		"entities": []
+	},
+	{
+		"content": "Date: Thu, Apr 9, 2020 at 6:18 PM",
+		"entities": [
+			[
+				"Thu, Apr 9, 2020",
+				6,
+				22,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: Covid-19.",
+		"entities": [
+			[
+				"Covid-19",
+				13,
+				21,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "thromboxane inhibitors, and heme binding (02 desaturation)",
+		"entities": [
+			[
+			"thromboxane inhibitors",
+			0,
+			22,
+			"MED"
+			],
+			[
+			"heme binding",
+			28,
+			40,
+			"MED"
+			]		]
+	},
+	{
+		"content": "To: Dr. Josh Backon <backon@mail.huji.ac.il>",
+		"entities": [
+			[
+				"Dr. Josh Backon",
+				4,
+				19,
+				"PERSON"
+			],
+			[
+				"backon@mail.huji.ac.il",
+				21,
+				43,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr. Backon, We very much appreciate the information you’ve provided, and | am sharing your updates with the relevant staff at NIH.",
+		"entities": [
+			[
+				"Dr. Backon",
+				5,
+				15,
+				"PERSON"
+			],
+			[
+				"NIH",
+				131,
+				134,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We have directed you to the infermation we think is relevant for your request, and we hope that this has been helpful.",
+		"entities": []
+	},
+	{
+		"content": "We have no additional information to provide at this time.",
+		"entities": []
+	},
+	{
+		"content": "NIAID staff members will not be responding further.",
+		"entities": [
+			[
+				"NIAID",
+				0,
+				5,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Thank you, Amanda Coleman, MPH [C] Office of Scientific Coordination and Program Operations Division of Microbiology and Infectious Diseases NIAID, NIH, DHHS ']",
+		"entities": [
+			[
+				"Amanda Coleman",
+				11,
+				25,
+				"PERSON"
+			],
+			[
+				"MPH",
+				27,
+				30,
+				"TITLE"
+			],
+			[
+				"Office of Scientific Coordination and Program Operations",
+				35,
+				91,
+				"ORG"
+			],
+			[
+				"NIAID",
+				141,
+				146,
+				"ORG"
+			],
+			[
+				"NIH",
+				148,
+				151,
+				"ORG"
+			],
+			[
+				"DHHS",
+				153,
+				157,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[\"Please check it out and respond Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7TA-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda, MD 20892-2520 FAX: (3 E-mil:",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				34,
+				50,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				52,
+				63,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				64,
+				117,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7TA-03 31 Center Drive, MSC 2520",
+				118,
+				168,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				169,
+				198,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				199,
+				211,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "IR The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": []
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				183,
+				188,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Peter Lermen Sent: Friday, March 27, 2020 11:30 AM",
+		"entities": [
+			[
+				"Peter Lermen",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"Friday, March 27, 2020",
+				25,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] [ GI(6) >",
+		"entities": []
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Offering help to fight the Civod-19 Dear Dr. Fauci, | don't want you to waste tco much time in this stressful situation.",
+		"entities": [
+			[
+				"Civod-19",
+				27,
+				35,
+				"MED"
+			],
+			[
+				"Dr. Fauci",
+				41,
+				50,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "As the doctor in charge of the hygiene of the Berner clinic in Crans-Montana in Switzerland, as well as being in contact with my colleagues in private practice, | see every day how important the need for information and consultation of the population in this situation of insecurity is.",
+		"entities": [
+			[
+				"Berner clinic",
+				46,
+				59,
+				"ORG"
+			],
+			[
+				"Crans-Montana",
+				63,
+				76,
+				"LOC"
+			],
+			[
+				"Switzerland",
+				80,
+				91,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "At the same time, we are under threat of a shortage of doctors if we have to strictly apply the federal swiss guidelines (Art. 10b and 10c, regulation 2 COVID-19) or if the wave of illness reduces the number of colleagues available for consultations.",
+		"entities": [
+			[
+				"COVID-19",
+				153,
+				161,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "NIH-000206",
+		"entities": []
+	},
+	{
+		"content": "Thank you for your time Good luck",
+		"entities": []
+	},
+	{
+		"content": "Best regards, Peter Lermen MD internal medicine, internal oncological rehabilitation Co-President oncoreha.ch www.doc-line.ch NIH-000207 \"]",
+		"entities": [
+			[
+				"Peter Lermen",
+				14,
+				26,
+				"PERSON"
+			],
+			[
+				"MD",
+				27,
+				29,
+				"TITLE"
+			],
+			[
+				"www.doc-line.ch",
+				110,
+				125,
+				"PERSON"
+			]
+
+		]
+	},
+	{
+		"content": "[\"Lou: I do not believe that there is a chance to republish Harrison Practice.",
+		"entities": [
+			[
+				"Lou",
+				2,
+				5,
+				"PERSON"
+			],
+			[
+				"Harrison Practice",
+				60,
+				77,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "Best regards, Tony From:",
+		"entities": [
+			[
+				"Tony",
+				14,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "LOUIS FORTUNATO [ O© Sent: Wednesday, February 26, 2020 9:38 PM",
+		"entities": [
+			[
+				"LOUIS FORTUNATO",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"Wednesday, February 26, 2020",
+				27,
+				55,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] )6 Subject:",
+		"entities": []
+	},
+	{
+		"content": "Fwd: Dear Tony: Will you take the lead in the Coronavirus problem/ we always love you/",
+		"entities": [
+			[
+				"Tony",
+				10,
+				14,
+				"PERSON"
+			],
+			[
+				"Coronavirus",
+				46,
+				57,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Saw you on CNN/ Begin forwarded message: From: LOUIS FORTUNATO [ e 65>",
+		"entities": [
+			[
+				"CNN",
+				11,
+				14,
+				"ORG"
+			],
+			[
+				"LOUIS FORTUNATO",
+				47,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Fwd: Any Chance of Harrison Practice being updated and replaced on the market?",
+		"entities": [
+			[
+				"Harrison Practice",
+				19,
+				36,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "| loved it",
+		"entities": []
+	},
+	{
+		"content": "Tony/",
+		"entities": [
+			[
+				"Tony/",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Better than Harrison's Textbook Date: February 17, 2020 at 9:41:40 PM EST To: )",
+		"entities": [
+			[
+				"Harrison's Textbook",
+				12,
+				31,
+				"WORK_OF_ART"
+			],
+			[
+				"February 17, 2020",
+				38,
+				55,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Dear Tony Fauci MD:",
+		"entities": [
+			[
+				"Tony Fauci",
+				5,
+				15,
+				"PERSON"
+			],
+			[
+				"MD",
+				16,
+				18,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Any chance for Harrison Practice being republished again and updated with the newest Pathophysiology and Treatments?",
+		"entities": [
+			[
+				"Harrison Practice",
+				15,
+				32,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "It was better than Harrisons Textbook/More Precise and Succinct Please email me/ | would greatly appreciate your response either wayYes or No// Dr Lou Fortunato Begin forwarded message: NIH-001273 \"]",
+		"entities": [
+			[
+				"Harrisons Textbook",
+				19,
+				37,
+				"WORK_OF_ART"
+			],
+			[
+				"Dr Lou Fortunato",
+				144,
+				160,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['Here are my tracked edits.",
+		"entities": []
+	},
+	{
+		"content": "Thanks.",
+		"entities": []
+	},
+	{
+		"content": "Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				18,
+				29,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				30,
+				83,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda, MD 20892-2520 Phone: FAX: (301) 496-4409 E-mail: The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": [
+			[
+				"Building 31, Room 7A-03 31 Center Drive, MSC 2520",
+				0,
+				49,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				50,
+				79,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				80,
+				92,
+				"LOC"
+			],
+			[
+				"(301) 496-4409",
+				116,
+				130,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				183,
+				188,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Billet, Courtney (NIH/NIAID)",
+		"entities": [
+			[
+				"Billet, Courtney",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				24,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] <IN G)(6) >",
+		"entities": []
+	},
+	{
+		"content": "Sent: Thursday, February 6, 2020 7:31 AM To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Thursday, February 6, 2020",
+				6,
+				32,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				45,
+				59,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				61,
+				70,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] 0 ®I@)>; Folkers, Greg (NIH/NIAID)",
+		"entities": [
+			[
+				"Folkers, Greg",
+				13,
+				26,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				28,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] P ®®); Marston, Hilary (NIH/NIAID) (€] EEEEEEEEGI6)",
+		"entities": [
+			[
+				"Marston, Hilary",
+				11,
+				26,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				28,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Cc: Conrad, Patricia (NIH/NIAID)",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				22,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] I ®I®); Routh, Jennifer (NIH/NIAID)",
+		"entities": [
+			[
+				"Routh, Jennifer",
+				12,
+				27,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				29,
+				38,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] S 96>",
+		"entities": []
+	},
+	{
+		"content": "Subject: ASF: rAzar/Pompeo op-ed",
+		"entities": [
+			[
+				"ASF",
+				9,
+				12,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Sending to all of you simultaneously, in the interest of time.",
+		"entities": []
+	},
+	{
+		"content": "Our comments are due back at noon.",
+		"entities": []
+	},
+	{
+		"content": "From: \"Brennan, Patrick (OS/ASPA)\" <IN ®) )",
+		"entities": [
+			[
+				"Brennan, Patrick",
+				7,
+				23,
+				"PERSON"
+			],
+			[
+				"OS/ASPA",
+				26,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Date: Thursday, February 6, 2020 at 1:23:26 AM To: \"Routh, Jennifer (NIH/NIAID)",
+		"entities": [
+			[
+				"Thursday, February 6, 2020",
+				6,
+				32,
+				"DATE"
+			],
+			[
+				"Routh, Jennifer",
+				52,
+				67,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				69,
+				78,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": ">, \"Fine, Amanda (NIH/OD)",
+		"entities": [
+			[
+				"Fine, Amanda",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				18,
+				24,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" [ ®®>, \"Conrad, Patricia (NIH/NIAID)",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				13,
+				29,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				31,
+				40,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" (@)",
+		"entities": []
+	},
+	{
+		"content": "[ >, \"Kane, Elleen (OS/ASPR/OEA)\"",
+		"entities": [
+			[
+				"Kane, Elleen",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"OS/ASPR/OEA",
+				21,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[ ®®)>, \"Michael, Gretchen (OS/ASPR/OEA)\" \"Billet, Courtney (NIH/NIAID)",
+		"entities": [
+			[
+				"Michael, Gretchen",
+				9,
+				26,
+				"PERSON"
+			],
+			[
+				"OS/ASPR/OEA",
+				28,
+				39,
+				"ORG"
+			],
+			[
+				"Billet, Courtney",
+				43,
+				59,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				61,
+				70,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" @G>, \"Lepore, Loretta (CDC/OD/OCS)\"",
+		"entities": [
+			[
+				"Lepore, Loretta",
+				11,
+				26,
+				"PERSON"
+			],
+			[
+				"CDC/OD/OCS",
+				28,
+				38,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[IN®I@), \"McGowan, Robert (Kyle) (CDC/OD/OCS)\" @), \"Campbell, Amanda (CDC/0D/OCS)\" [IN®I)>, \"Zebley, Kyle (HHS/0S/OGA)\" NIH-002112 ']",
+		"entities": [
+			[
+				"McGowan, Robert",
+				10,
+				25,
+				"PERSON"
+			],
+			[
+				"Kyle",
+				27,
+				31,
+				"PERSON"
+			],
+			[
+				"CDC/OD/OCS",
+				34,
+				44,
+				"ORG"
+			],
+			[
+				"Campbell, Amanda",
+				52,
+				68,
+				"PERSON"
+			],
+			[
+				"CDC/0D/OCS",
+				70,
+				80,
+				"ORG"
+			],
+			[
+				"Zebley, Kyle",
+				93,
+				105,
+				"PERSON"
+			],
+						[
+				"HHS/0S/OGA",
+				107,
+				117,
+				"ORG"
+			]
+
+		]
+	},
+	{
+		"content": "['Tom, Thanks again for reaching out.",
+		"entities": [
+			[
+				"Tom",
+				2,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "| can only imagine The best contacts would be the WHO",
+		"entities": [
+			[
+				"WHO",
+				50,
+				53,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Chief Scientist Soumya Swaminathan I ®® and potentially Director General Tedros Let me know if you hit a roadblock with WHO.",
+		"entities": [
+			[
+				"Chief Scientist Soumya Swaminathan",
+				0,
+				34,
+				"PERSON"
+			],
+			[
+				"Director General Tedros",
+				56,
+				79,
+				"PERSON"
+			],
+			[
+				"WHO",
+				120,
+				123,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "| might then want to weigh in too.",
+		"entities": []
+	},
+	{
+		"content": "Francis From: Hudson, Thomas J [E®© Sent: Monday, March 16, 2020 9:16 AM",
+		"entities": [
+			[
+				"Francis",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Hudson, Thomas J",
+				14,
+				30,
+				"PERSON"
+			],
+			[
+				"Monday, March 16, 2020",
+				42,
+				64,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Collins, Francis (NIH/OD)",
+		"entities": [
+			[
+				"Collins, Francis",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				22,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] I ®6) >",
+		"entities": []
+	},
+	{
+		"content": "Subject: RE: Confidential and urgent request regarding Thank you.",
+		"entities": []
+	},
+	{
+		"content": "THOMAS HUDSON NIH-000434",
+		"entities": [
+			[
+				"THOMAS HUDSON",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Senior Vice-President, R&D Chief Scientific Officer [=1 AbbVie, North Chicago 1 North Waukegan Rd R473, Building APS-1 N Chicago,",
+		"entities": [
+			[
+				"Senior Vice-President, R&D",
+				0,
+				26,
+				"TITLE"
+			],
+			[
+				"Chief Scientific Officer",
+				27,
+				51,
+				"TITLE"
+			],
+			[
+				"AbbVie",
+				56,
+				62,
+				"TITLE"
+			],
+			[
+				"North Chicago",
+				64,
+				77,
+				"LOC"
+			],
+			[
+				"1 North Waukegan Rd R473, Building APS-1",
+				78,
+				118,
+				"ADDRESS"
+			],
+			[
+				"Chicago,",
+				121,
+				129,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "IL 60064 TEL (OFFICE)",
+		"entities": [
+			[
+				"IL",
+				0,
+				2,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "NG EMAIL e abbvie.com This communication may contain information that is proprietary, confidential, or exempt from disclosure.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient, please note that any other dissemination, distribution, use or copying of this communication is strictly prohibited.",
+		"entities": []
+	},
+	{
+		"content": "Anyone who receives this message in error should notify the sender immediately by telephone or by return e-mail and delete it from his or her computer.",
+		"entities": []
+	},
+	{
+		"content": "From: Collins, Francis (NIH/0OD] [E] 6 6)>",
+		"entities": [
+			[
+				"Collins, Francis",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"NIH/0OD",
+				24,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, March 16, 2020 8:14 AM To: Hudson, Thomas J - ®e",
+		"entities": [
+			[
+				"Monday, March 16, 2020",
+				6,
+				28,
+				"DATE"
+			],
+			[
+				"Hudson, Thomas J",
+				41,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Cc: Marston, Hilary (NIH/NIAID)",
+		"entities": [
+			[
+				"Marston, Hilary",
+				4,
+				19,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				21,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] <IN @) 6)",
+		"entities": []
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "[EXTERNAL] RE: Confidential and urgent request regarding Hi Tom, Got your message, am looking into it, hope to get back to you later today.",
+		"entities": [
+			[
+				"Tom",
+				60,
+				63,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best, Francis From: Hudson, Thomas J Sent: Monday, March 16, 2020 9:10 AM",
+		"entities": [
+			[
+				"Francis",
+				6,
+				13,
+				"PERSON"
+			],
+			[
+				"Hudson, Thomas J",
+				20,
+				36,
+				"PERSON"
+			],
+			[
+				"Monday, March 16, 2020",
+				43,
+				65,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Collins, Francis (NIH/0D)",
+		"entities": [
+			[
+				"Collins, Francis",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"NIH/0D",
+				22,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] [ ®)(E)>; Collins, Francis (NIH/OD)",
+		"entities": [
+			[
+				"Collins, Francis",
+				14,
+				30,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				32,
+				38,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] >",
+		"entities": []
+	},
+	{
+		"content": "Subject: RE: Confidential and urgent request regarding This follow-up message is a duplicate that | am sending to another e-mail address that | have on file.",
+		"entities": []
+	},
+	{
+		"content": "Dear Francis, NIH-000435 | am reaching out to you to see if you have any suggestions or individuals that we should contact.",
+		"entities": [
+			[
+				"Francis",
+				5,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best wishes, Tom THOMAS HUDSON",
+		"entities": [
+			[
+				"Tom",
+				13,
+				16,
+				"PERSON"
+			],
+						[
+				"THOMAS HUDSON",
+				17,
+				30,
+				"PERSON"
+			]
+
+		]
+	},
+	{
+		"content": "Senior Vice-President, R&D Chief Scientific Officer AbbVie, North Chicago 1 North Waukegan Rd R473, Building AP9-1 N Chicago, IL 60064 TEL (OFFICE)",
+		"entities": [
+			[
+				"Senior Vice-President, R&D",
+				0,
+				26,
+				"TITLE"
+			],
+			[
+				"Chief Scientific Officer",
+				27,
+				51,
+				"TITLE"
+			],
+			[
+				"AbbVie",
+				52,
+				58,
+				"ORG"
+			],
+			[
+				"North Chicago",
+				60,
+				73,
+				"LOC"
+			],
+			[
+				"1 North Waukegan Rd R473, Building AP9-1",
+				74,
+				114,
+				"ADDRESS"
+			],
+			[
+				"Chicago, IL",
+				117,
+				128,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "[N ®I® EMAIL 6 abbvie.com This communication may contain information that is proprietary, confidential, or exempt from disclosure.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient, please note that any other disse_m‘in‘ation.",
+		"entities": []
+	},
+	{
+		"content": "distribution, use or copying of this commupnication is strictly prohibited.",
+		"entities": []
+	},
+	{
+		"content": "Anyone who receives this message in error should nofify the sender immediately by telephone or by return e-mail and delete it from his or her computer.",
+		"entities": []
+	},
+	{
+		"content": "NIH-000436 ']",
+		"entities": []
+	},
+	{
+		"content": "['Cristina: Please se if we can engage this person (Richard Tubb) and see what he has to offer.",
+		"entities": [
+			[
+				"Cristina",
+				2,
+				10,
+				"PERSON"
+			],
+			[
+				"Richard Tubb",
+				52,
+				64,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He used to be the White House physician Thanks, Tony From: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"White House physician",
+				18,
+				39,
+				"TITLE"
+			],
+			[
+				"Tony",
+				48,
+				52,
+				"PERSON"
+			],
+			[
+				"Fauci, Anthony",
+				59,
+				73,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				75,
+				84,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] Sent: Monday, February 24, 2020 10:42 PM",
+		"entities": [
+			[
+				"Monday, February 24, 2020",
+				10,
+				35,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Biegun, Stephen E < Cc: Cassetti, Cristina (NIH/NIAID)",
+		"entities": [
+			[
+				"Biegun, Stephen",
+				4,
+				19,
+				"PERSON"
+			],
+			[
+				"Cassetti, Cristina",
+				28,
+				46,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				48,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] | Erbelding, Emily (NIH/NIAID)",
+		"entities": [
+			[
+				"Erbelding, Emily",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				24,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] I >; Conrad, Patricia (NIH/NIAID) (£] OIS NI Subject: FW: ACT",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				9,
+				25,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				27,
+				36,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Additional reading material and developments Steve: Thanks for the note.",
+		"entities": [
+			[
+				"Steve",
+				45,
+				50,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "|do indeed know Dr. Tubb.",
+		"entities": [
+			[
+				"Dr. Tubb",
+				16,
+				24,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He sent me similar material and | am going to connect him with our program people here at NIAID to see if we can help in any way.",
+		"entities": [
+			[
+				"NIAID",
+				90,
+				95,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Best regards, Tony From: Biegun, Stephen E < Sent: Monday, February 24, 2020 10:33 PM",
+		"entities": [
+			[
+				"Tony",
+				14,
+				18,
+				"PERSON"
+			],
+			[
+				"Biegun, Stephen",
+				25,
+				40,
+				"PERSON"
+			],
+			[
+				"Monday, February 24, 2020",
+				51,
+				76,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]| ( Subject: Fwd: ACT Additional reading material and developments Tony, | expect you know Dr. Richard Tubb.",
+		"entities": [
+			[
+				"Tony",
+				70,
+				74,
+				"PERSON"
+			],
+			[
+				"Dr. Richard Tubb",
+				94,
+				110,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He and | worked closely together in the White House 18 years ago.",
+		"entities": [
+			[
+				"White House",
+				40,
+				51,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "| have a lot of confidence in his judgment, and therefore am forwarding the materials he sent me for your consideration.",
+		"entities": []
+	},
+	{
+		"content": "| know nothing about the technologies involved, but | know this is a time to write off no good options.",
+		"entities": []
+	},
+	{
+		"content": "Warm regards, NIH-001378 ']",
+		"entities": []
+	},
+	{
+		"content": "['Sorry no.",
+		"entities": []
+	},
+	{
+		"content": "From: Scheyder, Elizabeth C[I @) (6) >",
+		"entities": [
+			[
+				"Scheyder, Elizabeth",
+				6,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Sunday, March 8, 2020 6:03 PM To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Sunday, March 8, 2020",
+				6,
+				27,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				40,
+				54,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				56,
+				65,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] @) 6",
+		"entities": []
+	},
+	{
+		"content": "> Subject: Record a short interview with me for a UPenn course?",
+		"entities": [
+			[
+				"UPenn",
+				50,
+				55,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr. Fauci, | am embarrassed to admit that | was not familiar with your name when | read the story about you in today’s NY Times, but | was most impressed by the statement in the first sentence that you are \"widely respected for [your] ability to explain science without talking down to [your] audience.",
+		"entities": [
+			[
+				"Dr. Fauci",
+				5,
+				14,
+				"PERSON"
+			],
+			[
+				"NY Times",
+				124,
+				132,
+				"ORG"
+			]
+
+		]
+	},
+	{
+		"content": "I'm putting together the first offering of CLCH 300: Communicating Science, as part of the University of Pennsylvania’s new online Certificate in Climate Change.",
+		"entities": [
+			[
+				"University of Pennsylvania",
+				91,
+				117,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(https://Ipsonline.sas.upenn.edu/academics/certificates/climate-change)",
+		"entities": [
+			[
+				"https://Ipsonline.sas.upenn.edu/academics/certificates/climate-change",
+				1,
+				70,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "A brief recorded conversation with you about your strategies for communicating without being patronizing would be maost enlightening for my students.",
+		"entities": []
+	},
+	{
+		"content": "The students in this course will be coming from a wide variety of backgrounds, and potentially from all over the globe.",
+		"entities": []
+	},
+	{
+		"content": "| think they would love to hear from a scientist who is so good at communicating his field of study to different audiences.",
+		"entities": []
+	},
+	{
+		"content": "And let’s face it, as soon as you say NIH as COVID-19 swirls around the globe, their ears will certainly perk up!",
+		"entities": [
+			[
+				"NIH",
+				38,
+				41,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				45,
+				53,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "| think the students would find our interview very engaging and informative.",
+		"entities": []
+	},
+	{
+		"content": "The first run of the course will be from May 26 to July 20, 2020, but we can record the interview (online) any time, since | know you are already over-extended right now.",
+		"entities": [
+			[
+				"May 26",
+				41,
+				47,
+				"DATE"
+			],
+			[
+				"July 20, 2020",
+				51,
+				64,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "| think 15 minutes would be plenty, and | would be happy to send you questions that | plan to use to guide the conversation in advance.",
+		"entities": []
+	},
+	{
+		"content": "If a synchronous conversation is impossible given your schedule, | would be happy to just send you a couple of questions and ask you to use them to guide a 10-15 minute video that you record yourself.",
+		"entities": []
+	},
+	{
+		"content": "Please let me know what you think of this, and | will send you the syllabus when it’s finalized, including where our interview would fit.",
+		"entities": []
+	},
+	{
+		"content": "Then | can begin the process of coordinating this with the Associate Director of our Online Learning Studio.",
+		"entities": []
+	},
+	{
+		"content": "Sincerely, Elizabeth Elizabeth C. Scheyder, Ph.D., P.E. SAS Computing Senior Instructional Technology Project Leader NIH-000784 & Lecturer in SAS Williams 441B NIH-000785 ']",
+		"entities": [
+			[
+				"Elizabeth",
+				11,
+				20,
+				"PERSON"
+			],
+			[
+				"Elizabeth C. Scheyder",
+				21,
+				42,
+				"PERSON"
+			],
+			[
+				"Ph.D., P.E.",
+				44,
+				55,
+				"TITLE"
+			],
+			[
+				"SAS Computing Senior Instructional Technology Project Leader",
+				56,
+				116,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "['Thank you for your note A.S. Fauci.",
+		"entities": [
+			[
+				"A.S. Fauci",
+				26,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent from my iPhone >",
+		"entities": []
+	},
+	{
+		"content": "On Mar 15, 2020, at 1:22 PM, Daphne Coley IIINGE®) wrote: > >",
+		"entities": [
+			[
+				"Mar 15, 2020",
+				3,
+				15,
+				"DATE"
+			],
+			[
+				"Daphne Coley",
+				29,
+				41,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr. Fauci.",
+		"entities": [
+			[
+				"Dr. Fauci",
+				5,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "> >",
+		"entities": []
+	},
+	{
+		"content": "Qut of this whole mess you are the voice of reason that is most comforting.",
+		"entities": []
+	},
+	{
+		"content": "Your intelligence, calm demeanor and lack of personal agenda (I hope) come through in your explanations of this recent crisis.",
+		"entities": []
+	},
+	{
+		"content": "¥ > [ have read how many lives that you saved during the AIDS crisis and laude you for it.",
+		"entities": []
+	},
+	{
+		"content": "[ trust, given enough rein, that you can do it for the COVID-19 crisis.",
+		"entities": [
+			[
+				"COVID-19",
+				55,
+				63,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "5 >",
+		"entities": []
+	},
+	{
+		"content": "You must be feeling the weight of crushing political and media forces areal tightrope.",
+		"entities": []
+	},
+	{
+		"content": "Then, of course you do have to worry about the illness itself, which should be your primary concern but might be problematic given the infighting and > territorial nature of politics.",
+		"entities": []
+	},
+	{
+		"content": "= >",
+		"entities": []
+	},
+	{
+		"content": "Anyway, [ wanted you to know that you have a real fan in—.",
+		"entities": []
+	},
+	{
+		"content": "If there are two there are many, many more.",
+		"entities": []
+	},
+	{
+		"content": "Just keep on doing what you do so well and know that you are appreciated by lots of Americans.",
+		"entities": [
+			[
+				"Americans",
+				84,
+				93,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "> >",
+		"entities": []
+	},
+	{
+		"content": "Best, > Daphne Coley NIH-000588 ']",
+		"entities": [
+			[
+				"Daphne Coley",
+				8,
+				20,
+				"PERSON"
+			]
+		]
+	}
+]

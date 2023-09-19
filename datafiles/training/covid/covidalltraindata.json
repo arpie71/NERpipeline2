@@ -1,0 +1,10469 @@
+[
+	{
+		"content": "Allison tom next uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuumiuuuiiuuuuuuuuuiiiiuuuuuuuumiiiiiuuuuuuuuuumiiiuu uuuuuuuuuuuiiuuuumiiuuuuuuumuuuuuumiiuuiiiiiuuuuuuuuuuuuuuuuuuuuuuuuuuuuiiiuuuuuiiiuuuuum Apr 1, 2020 5: 59 PM Our new Board takes office on April 21.",
+		"entities": [
+			[
+				"Allison tom",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"Apr 1, 2020",
+				191,
+				202,
+				"DATE"
+			],
+			[
+				"April 21",
+				242,
+				250,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "At that meeting we elect a new County Board Chair.",
+		"entities": []
+	},
+	{
+		"content": "We do this through a confidential ballot/ voting process.",
+		"entities": []
+	},
+	{
+		"content": "We are hoping to do this remotely this year.",
+		"entities": []
+	},
+	{
+		"content": "Have you used an online voting system allowing for confidential ballots?",
+		"entities": []
+	},
+	{
+		"content": "Thanks.",
+		"entities": []
+	},
+	{
+		"content": "Mark Abeles- Allison County Administrator County of Bayfield Washburn WI markaa@bayfieldcounty.org V: I?",
+		"entities": [
+			[
+				"Mark Abeles- Allison",
+				0,
+				20,
+				"PERSON"
+			],
+			[
+				"County Administrator",
+				21,
+				41,
+				"TITLE"
+			],
+			[
+				"County of Bayfield",
+				42,
+				60,
+				"GPE"
+			],
+			[
+				"Washburn WI",
+				61,
+				72,
+				"LOC"
+			],
+			[
+				"markaa@bayfieldcounty.org",
+				73,
+				98,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "previous next Apr 1,2020 5: 22 PM C' a U' ii irl e .' irc r:rlb Good evening, Checking to see how other communities are handling FFCRA as it relates to public safety.",
+		"entities": [
+			[
+				"Apr 1,2020",
+				14,
+				24,
+				"DATE"
+			],
+			[
+				"FFCRA",
+				129,
+				134,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "HR and our public safety directors disagree on approach.",
+		"entities": []
+	},
+	{
+		"content": "Catherine Crosby MPA Chief of Staff 748 City of Toledo Toledo OH catherine.crosby@toledo.oh.gov IV:.",
+		"entities": [
+			[
+				"Catherine Crosby",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"MPA Chief of Staff",
+				17,
+				35,
+				"TITLE"
+			],
+			[
+				"City of Toledo",
+				40,
+				54,
+				"GPE"
+			],
+			[
+				"Toledo OH",
+				55,
+				64,
+				"LOC"
+			],
+			[
+				"catherine.crosby@toledo.oh.gov",
+				65,
+				95,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "The City of Delaware is exploring with our local University and with local hotels the possibility of creating an agreement or MOU to secure facilities for additional quarantine space ( if needed) for our safety forces.",
+		"entities": [
+			[
+				"City of Delaware",
+				4,
+				20,
+				"GPE"
+			],
+			[
+				"University",
+				49,
+				59,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We are having internal conversations regarding liability, but would be interested if any communities have created an agreement/ MOU and would be willing to share their agreement language or connect further on this topic.",
+		"entities": []
+	},
+	{
+		"content": "I have attached a DRAFT of what we are working on, but has not yet been finalized.",
+		"entities": []
+	},
+	{
+		"content": "Thank you and stay safe!",
+		"entities": []
+	},
+	{
+		"content": "Kyle Kyle Kridler Assistant City Manager City of Delaware Delaware OH kkridler@delawareohio.net",
+		"entities": [
+			[
+				"Kyle",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Kyle Kridler",
+				5,
+				17,
+				"PERSON"
+			],
+			[
+				"Assistant City Manager",
+				18,
+				40,
+				"TITLE"
+			],
+			[
+				"City of Delaware",
+				41,
+				57,
+				"GPE"
+			],
+			[
+				"Delaware OH",
+				58,
+				69,
+				"LOC"
+			],
+			[
+				"kkridler@delawareohio.net",
+				70,
+				95,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Obviously if there is someone who is willing to assume care of the pet in the home that is the best choice.",
+		"entities": []
+	},
+	{
+		"content": "However, if the person is taken to the hospital and has no back- up pet caretaker, animal control might have to take the pet into the shelter.",
+		"entities": []
+	},
+	{
+		"content": "Here is the National Animal Control Association' s statement on removal of pets in homes of residents with COVID with precautions to keep your animal control workers safe.",
+		"entities": [
+			[
+				"National Animal Control Association",
+				12,
+				47,
+				"ORG"
+			],
+			[
+				"COVID",
+				107,
+				112,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "www.",
+		"entities": []
+	},
+	{
+		"content": "nacanet.",
+		"entities": []
+	},
+	{
+		"content": "org/ wp- content/ uploads/ 2020/ 03/...",
+		"entities": []
+	},
+	{
+		"content": "Ledy VanKavage, Esq.",
+		"entities": [
+			[
+				"Ledy VanKavage",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"Esq",
+				16,
+				19,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Sr.",
+		"entities": []
+	},
+	{
+		"content": "Legislative Attorney Best Friends Animal Society",
+		"entities": [
+					[
+				"Legislative Attorney",
+				0,
+				20,
+				"TITLE"
+			],
+			[
+				"Best Friends Animal Society",
+				21,
+				48,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "618- 550- 9469 CELL bestfriends.",
+		"entities": [
+			[
+				"618- 550- 9469",
+				0,
+				14,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "org facebook.",
+		"entities": []
+	},
+	{
+		"content": "com/ bestfriendsanimalsociety I twitter.",
+		"entities": []
+	},
+	{
+		"content": "Like many local governments, we are freezing non -essential expenditures and hiring until we have a clearer picture of the financial impacts of this pandemic.",
+		"entities": []
+	},
+	{
+		"content": "I' m curious what guidance folks are providing to their department heads regarding spending or if you have any communications you would be willing to share.",
+		"entities": []
+	},
+	{
+		"content": "Ethan Manning Director of Finance City of Newburyport Newburyport MA emanning@cityofnewburyport.",
+		"entities": [
+			[
+				"Ethan Manning",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Director of Finance",
+				14,
+				33,
+				"TITLE"
+			],
+			[
+				"City of Newburyport",
+				34,
+				53,
+				"GPE"
+			],
+			[
+				"Newburyport MA",
+				54,
+				68,
+				"LOC"
+			],
+			[
+				"emanning@cityofnewburyport",
+				69,
+				95,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Apr 1, 2020 10: 01 AM I.",
+		"entities": [
+			[
+				"Apr 1, 2020",
+				0,
+				11,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I asked them all to limit spending to essential services in support of the City' s efforts to prevent, prepare for, or respond to the coronavirus pandemic.",
+		"entities": [
+			[
+				"City",
+				75,
+				79,
+				"GPE"
+			],
+			[
+				"coronavirus",
+				134,
+				145,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "I am developing more refined guidance as we get a better handle on our revenue projection adjustments.",
+		"entities": []
+	},
+	{
+		"content": "Tanisha Briley City Manager City of Cleveland Heights Cleveland Heights OH citymanager@clvhts.com F Original Message:",
+		"entities": [
+			[
+				"Tanisha Briley",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"City Manager",
+				15,
+				27,
+				"TITLE"
+			],
+			[
+				"City of Cleveland Heights",
+				28,
+				53,
+				"GPE"
+			],
+			[
+				"Cleveland Heights OH",
+				54,
+				74,
+				"LOC"
+			],
+			[
+				"citymanager@clvhts.com",
+				75,
+				97,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: 04- 01- 2020 08: 28 AM From: Ethan Manning Subject:",
+		"entities": [
+			[
+				"04- 01- 2020",
+				6,
+				18,
+				"DATE"
+			],
+			[
+				"Ethan Manning",
+				35,
+				48,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Spending and Hiring Freeze Like many local governments, we are freezing non -essential expenditures and hiring until we have a clearer picture of the financial impacts of this pandemic.",
+		"entities": []
+	},
+	{
+		"content": "I' m curious what guidance folks are providing to their department heads regarding spending or if you have any communications you would be willing to share.",
+		"entities": []
+	},
+	{
+		"content": "Ethan Manning Director of Finance City of Newburyport Newburyport MA nl ad.leal.",
+		"entities": [
+			[
+				"Ethan Manning",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Director of Finance",
+				14,
+				33,
+				"TITLE"
+			],
+			[
+				"City of Newburyport",
+				34,
+				53,
+				"GPE"
+			],
+			[
+				"Newburyport MA",
+				54,
+				68,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We' ve not released official guidance, but did tell departments we are freezing hiring and reviewing on a case by case basis.",
+		"entities": []
+	},
+	{
+		"content": "We will do the same for expenditures.",
+		"entities": []
+	},
+	{
+		"content": "I' ll keep you posted if we come up with official guidance.",
+		"entities": []
+	},
+	{
+		"content": "751 Catherine Crosby MPA Chief of Staff City of Toledo Toledo OH catherine.crosby@toledo.oh.",
+		"entities": [
+			[
+				"Catherine Crosby",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"MPA",
+				21,
+				24,
+				"TITLE"
+			],
+			[
+				"Chief of Staff",
+				25,
+				39,
+				"TITLE"
+			],
+			[
+				"City of Toledo",
+				40,
+				54,
+				"GPE"
+			],
+			[
+				"Toledo OH",
+				55,
+				64,
+				"LOC"
+			],
+			[
+				"catherine.crosby@toledo.oh",
+				65,
+				91,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Ilrllillliiillrlli Original Message: Sent: 04- 01- 2020 08: 28 AM From: Ethan Manning Subject: Spending and Hiring Freeze",
+		"entities": [
+			[
+				"04- 01- 2020",
+				43,
+				55,
+				"DATE"
+			],
+			[
+				"Ethan Manning",
+				72,
+				85,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Like many local governments, we are freezing non -essential expenditures and hiring until we have a clearer picture of the financial impacts of this pandemic.",
+		"entities": []
+	},
+	{
+		"content": "I' m curious what guidance folks are providing to their department heads regarding spending or if you have any communications you would be willing to share.",
+		"entities": []
+	},
+	{
+		"content": "Ethan Manning Director of Finance City of Newburyport Newburyport MA en,ia iri,r°ucoiltu too previous next i uuuu u lu. . .",
+		"entities": [
+			[
+				"Ethan Manning",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Director of Finance",
+				14,
+				33,
+				"TITLE"
+			],
+			[
+				"City of Newburyport",
+				34,
+				53,
+				"GPE"
+			],
+			[
+				"Newburyport MA",
+				54,
+				68,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Apr 1, 2020 6: 20 PM r..:!",
+		"entities": [
+			[
+				"Apr 1, 2020",
+				0,
+				11,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "in::, io[ J-Ily....",
+		"entities": []
+	},
+	{
+		"content": "Ikl Tipp City has put a hiring freeze on also, unless it is a critical posit on such as a lineman.",
+		"entities": [
+			[
+				"Tipp City",
+				4,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We had a part- time administrative assistant leave due to her husbands relocation",
+		"entities": []
+	},
+	{
+		"content": "and we are not filling the position.",
+		"entities": []
+	},
+	{
+		"content": "Timothy Eggleston ICMA-CM,MPA City Manager City of Tipp City Tipp City OH egglestl 0@gmail.com F Original Mes age: 752 ']",
+		"entities": [
+			[
+				"Timothy Eggleston",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"ICMA-CM,MPA",
+				18,
+				29,
+				"TITLE"
+			],
+			[
+				"City Manager",
+				30,
+				42,
+				"TITLE"
+			],
+			[
+				"City of Tipp City",
+				43,
+				60,
+				"GPE"
+			],
+			[
+				"Tipp City OH",
+				61,
+				73,
+				"LOC"
+			],
+			[
+				"egglestl 0@gmail.com",
+				74,
+				94,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "['Sent from my iPhone On Mar 21, 2020, at 12:10 AM, PITTMAN, RYAN D <rpittman(@email.sc.edu>wrote: Good Evening Dr. Fauci, My name is Ryan Pittman.",
+		"entities": [
+			[
+				"Mar 21, 2020",
+				25,
+				37,
+				"DATE"
+			],
+			[
+				"PITTMAN, RYAN D",
+				52,
+				67,
+				"PERSON"
+			],
+			[
+				"rpittman(@email.sc.edu",
+				69,
+				91,
+				"EMAIL"
+			],
+			[
+				"Dr. Fauci",
+				112,
+				121,
+				"PERSON"
+			],
+			[
+				"Ryan Pittman",
+				134,
+				146,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "| live in outh Carolina, right outside of |",
+		"entities": [
+			[
+				"Carolina",
+				15,
+				23,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The virus is here.",
+		"entities": []
+	},
+	{
+		"content": "Seeing as this is likely to get worse before it gets better, | want to be prepared to help people in my neighborhood when they start developing symptoms and the hospitals are not ready for them.",
+		"entities": []
+	},
+	{
+		"content": "How do you recommend | go about doing this.",
+		"entities": []
+	},
+	{
+		"content": "| am prepared to acquire a modest stockpile of supplies to give to those suffering through this, but | am not entirely sure what would be best.",
+		"entities": []
+	},
+	{
+		"content": "The hope is to take your information and pass it on to those in other neighborhoods in the area, so we can come together and help as many people as we can get through this pandemic.",
+		"entities": []
+	},
+	{
+		"content": "Thank you for your time.",
+		"entities": []
+	},
+	{
+		"content": "Ryan Pittman, M5 University of South Carolina Department of Statistics NIH-000373 ']",
+		"entities": [
+			[
+				"Ryan Pittman",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"University of South Carolina",
+				17,
+				45,
+				"ORG"
+			],
+			[
+				"Department of Statistics",
+				46,
+				70,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[' FINN Partners FINN PARTNERS TRAVEL, MARKETING, AND RESEARCH INSIGHTS PRACTICAL CONTENT FROM OUR GLOBAL TEAM OF EXPERTS FINN Travel Finn Partners Travel and Lifestyle practice features experts from around the globe representing destinations, airlines, hotels, cruise lines, travel service providers and attractions worldwide.",
+		"entities": [
+			[
+				"FINN Partners",
+				3,
+				16,
+				"ORG"
+			],
+			[
+				"FINN PARTNERS",
+				17,
+				30,
+				"ORG"
+			],
+			[
+				"FINN Travel",
+				122,
+				133,
+				"ORG"
+			],
+			[
+				"Finn Partners Travel and Lifestyle",
+				134,
+				168,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From all sectors, we are seeing the travel industry heavily impacted by the COVID-19 Pandemic.",
+		"entities": [
+			[
+				"COVID-19",
+				76,
+				84,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Our teams have combined some of our best thinking on trends and new directions to assist those in the industry in finding a positive way forward.",
+		"entities": []
+	},
+	{
+		"content": "We hope you find these insights useful in your planning and remember, #DontCancelPostpone #TravelTomorrow TRAVEL BRANDS STRIVE TO FIND BALANCE BETWEEN INSPIRATIONAL AND PROMOTIONAL As travel restrictions from the Coronavirus have spread across the world, it’s evident that tourism is currently one of the most affected sectors during this pandemic...",
+		"entities": [
+			[
+				"Coronavirus",
+				213,
+				224,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Read more HOW TO ADAPT SOCIAL MEDIA STRATEGY FOR THE COVID-19 CRISIS As people across the globe are forced into self-isolation in a bid to prevent the spread of Coronavirus, a new virtual world is evolving and people’s attitudes are switching to a new focus at home...",
+		"entities": [
+			[
+				"COVID-19",
+				53,
+				61,
+				"MED"
+			],
+			[
+				"Coronavirus",
+				161,
+				172,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Read more ARMCHAIR TOURISM THE RISE OF ARMCHAIR TOURISM It was Russian revolutionary leader Vladimir Lenin who once said: “There are decades where nothing happens, and then there are weeks where decades happen.”",
+		"entities": [
+			[
+				"Russian",
+				63,
+				70,
+				"NORP"
+			],
+			[
+				"Vladimir Lenin",
+				92,
+				106,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "And there can be little doubt that these past few weeks...",
+		"entities": []
+	},
+	{
+		"content": "Read more THE STATE OF SPORTS With the Olympics postponed until July 2021, Wimbledon cancelled, the National Basketball Association (NBA) and National Hockey League (NHL) seasons suspended....",
+		"entities": [
+			[
+				"Olympics",
+				39,
+				47,
+				"EVENT"
+			],
+			[
+				"July 2021",
+				64,
+				73,
+				"DATE"
+			],
+			[
+				"Wimbledon",
+				75,
+				84,
+				"EVENT"
+			],
+			[
+				"National Basketball Association",
+				100,
+				131,
+				"ORG"
+			],
+			[
+				"NBA",
+				133,
+				136,
+				"ORG"
+			],
+			[
+				"National Hockey League",
+				142,
+				164,
+				"LOC"
+			],
+			[
+				"NHL",
+				166,
+				169,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Read more TRAVEL BEYOND COVID-19: FIVE KEY TAKEAWAYS FROM THE EXPERTS",
+		"entities": [
+			[
+				"COVID-19",
+				24,
+				32,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "The travel industry is actively working to understand the long-term impacts of COVID-19.",
+		"entities": [
+			[
+				"COVID-19",
+				79,
+				87,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "CatchOn, a FINN Partners company in Asia, took on this topic within a webinar series where thought leaders assess how e...",
+		"entities": [
+			[
+				"CatchOn",
+				0,
+				7,
+				"ORG"
+			],
+			[
+				"FINN Partners",
+				11,
+				24,
+				"ORG"
+			],
+			[
+				"Asia",
+				36,
+				40,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Read more For more information on Finn Partners Travel Practice please contact: Debbie Flynn – Global Travel Amy Skelding – UK/Europe Virginia Sheridan – U.S. Cathy Chon – Asia Terry Ferraro – Promotions and Partnerships For more information on Finn Partners Research please contact: Barry Reicherter - Research, Planning, and Measurement FINNPARTNERS.COM Finn Partners, 301 East 57th Street, New York, NY Unsubscribe Manage preferences ']",
+		"entities": [
+			[
+				"Finn Partners Travel Practice",
+				34,
+				63,
+				"ORG"
+			],
+			[
+				"Debbie Flynn",
+				80,
+				92,
+				"PERSON"
+			],
+			[
+				"Amy Skelding",
+				109,
+				121,
+				"PERSON"
+			],
+			[
+				"UK/Europe",
+				124,
+				133,
+				"LOC"
+			],
+			[
+				"Virginia Sheridan",
+				134,
+				151,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				154,
+				158,
+				"LOC"
+			],
+			[
+				"Cathy Chon",
+				159,
+				169,
+				"TITLE"
+			],
+			[
+				"Asia",
+				172,
+				176,
+				"LOC"
+			],
+			[
+				"Terry Ferraro",
+				177,
+				190,
+				"PERSON"
+			],
+			[
+				"Finn Partners Research",
+				245,
+				267,
+				"ORG"
+			],
+			[
+				"Barry Reicherter",
+				284,
+				300,
+				"PERSON"
+			],
+			[
+				"FINNPARTNERS.COM",
+				339,
+				355,
+				"URL"
+			],
+			[
+				"Finn Partners",
+				356,
+				369,
+				"ORG"
+			],
+			[
+				"301 East 57th Street",
+				371,
+				391,
+				"ADDRESS"
+			],
+			[
+				"New York, NY",
+				393,
+				405,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "['Meanwhile, please keep in mind that the best ways to prevent the spread of COVID-19 are: Maintain your Social Distancing – At least 6 Feet apart!",
+		"entities": [
+			[
+				"COVID-19",
+				77,
+				85,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Stay at home if at all possible.",
+		"entities": []
+	},
+	{
+		"content": "* Wash your hands often with soap and water for at least 20 seconds.",
+		"entities": []
+	},
+	{
+		"content": "If soap and water are not available, use an alcohol-based hand sanitizer.",
+		"entities": []
+	},
+	{
+		"content": "* Avoid touching your eyes, nose, and mouth with unwashed hands.",
+		"entities": []
+	},
+	{
+		"content": "* Avoid close contact with people who are sick.",
+		"entities": []
+	},
+	{
+		"content": "* Stay home when you are sick, or if you are a not an essential employee.",
+		"entities": []
+	},
+	{
+		"content": "* Cover your cough or sneeze with a tissue, then immediately throw the tissue in the trash.",
+		"entities": []
+	},
+	{
+		"content": "* Clean and disinfect frequently touched objects and surfaces.",
+		"entities": []
+	},
+	{
+		"content": "COVID-19 spreads through the air when an infected person coughs or sneezes.",
+		"entities": [
+			[
+				"COVID-19",
+				0,
+				8,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Symptoms are thought to appear within two to 14 days after exposure and consist of fever, cough, runny nose, and difficulty breathing.",
+		"entities": []
+	},
+	{
+		"content": "For people with mild illness, individuals are asked to stay home, drink plenty of fluids, and get rest.",
+		"entities": []
+	},
+	{
+		"content": "For people with more severe symptoms, such as shortness of breath, individuals are advised to seek healthcare, using telemedicine where available.",
+		"entities": []
+	},
+	{
+		"content": "Mail Attachment image001.jpg ']",
+		"entities": []
+	},
+	{
+		"content": "[\"Hi Katrina, Ok to send out?",
+		"entities": [
+			[
+				"Katrina",
+				5,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I am fine with it.",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Alisa >>>",
+		"entities": [
+			[
+				"Alisa",
+				8,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Michael Keuler 7/15/2020 5:15 PM >>",
+		"entities": [
+			[
+				"Michael Keuler",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"7/15/2020",
+				15,
+				24,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Hi Katrina and Alisa, I sent this to you before, but I wanted to get final approval to send.",
+		"entities": [
+			[
+				"Katrina",
+				3,
+				10,
+				"PERSON"
+			],
+			[
+				"Alisa",
+				15,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Please see below the correspondence I have drafted to send to H2A farmworker employers.",
+		"entities": []
+	},
+	{
+		"content": "I tried to keep it short, sweet, and persuasive to increase testing among farmworkers.",
+		"entities": []
+	},
+	{
+		"content": "It will officially be sent from Dora Herrera, Foreign Labor Coordinator with the Oregon Employement Department to H2A employers in Marion County.",
+		"entities": [
+			[
+				"Dora Herrera",
+				32,
+				44,
+				"PERSON"
+			],
+			[
+				"Foreign Labor Coordinator",
+				46,
+				71,
+				"TITLE"
+			],
+			[
+				"Oregon Employement Department",
+				81,
+				110,
+				"ORG"
+			],
+			[
+				"Marion County",
+				131,
+				144,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "-----------------------------------------------------",
+		"entities": []
+	},
+	{
+		"content": "Marion County encourages agriculture employers with H2A farmworkers to sign up for an onsite testing event.",
+		"entities": [
+			[
+				"Marion County",
+				0,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Resources are available for COVID-19 testing to come to your facility.",
+		"entities": [
+			[
+				"COVID-19",
+				28,
+				36,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "This aligns with Marion County's goal of increased testing for vulnerable populations, such as Migrant Seasonal Farmworkers.",
+		"entities": [
+			[
+				"Marion County",
+				17,
+				30,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To request COVID-19 testing for your farmworkers, please complete the attached COVID-19 Testing Event Request Form.",
+		"entities": [
+			[
+				"COVID-19",
+				11,
+				19,
+				"MED"
+			],
+			[
+				"COVID-19",
+				79,
+				87,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "In addition, please see Marion County's COVID-19 Farm Worksite Health Guidelines for more information to prevent the spread of COVID-19: •",
+		"entities": [
+			[
+				"Marion County",
+				24,
+				37,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				40,
+				48,
+				"MED"
+			],
+			[
+				"COVID-19",
+				127,
+				135,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "English: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_FarmWorksiteHousingGuidelines_1.pdf • Spanish: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf For more information, contact us at health_liaison@co.marion.or.us.",
+		"entities": [
+			[
+				"English",
+				0,
+				7,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_FarmWorksiteHousingGuidelines_1.pdf •",
+				9,
+				113,
+				"URL"
+			],
+			[
+				"Spanish",
+				114,
+				121,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf",
+				123,
+				230,
+				"URL"
+			],
+			[
+				"health_liaison@co.marion.or.us",
+				267,
+				297,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Kind Regards, Michael Keuler Farm Needs Coordinator COVID-19 Liaison Team Marion County Health & Human Services 503-991-3595 >>",
+		"entities": [
+			[
+				"Michael Keuler",
+				14,
+				28,
+				"PERSON"
+			],
+			[
+				"Farm Needs Coordinator",
+				29,
+				51,
+				"TITLE"
+			],
+			[
+				"COVID-19 Liaison Team",
+				52,
+				73,
+				"ORG"
+			],
+			[
+				"Marion County Health & Human Services",
+				74,
+				111,
+				"ORG"
+			],
+			[
+				"503-991-3595",
+				112,
+				124,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "> Katrina Rothenberger 7/7/2020 4:46 PM >>",
+		"entities": [
+			[
+				"Katrina Rothenberger",
+				2,
+				22,
+				"PERSON"
+			],
+			[
+				"7/7/2020",
+				23,
+				31,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Yeah, is the graphic available in Spanish too?",
+		"entities": [
+			[
+				"Spanish",
+				34,
+				41,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Katrina Rothenberger, MPH Marion County Health & Human Services Public Health Division Director Desk: 503-373-3787 Cell: 971-707-2437 P Please consider the environment before printing this email >>>",
+		"entities": [
+			[
+				"Katrina Rothenberger",
+				0,
+				20,
+				"PERSON"
+			],
+			[
+				"MPH",
+				22,
+				25,
+				"TITLE"
+			],
+			[
+				"Marion County Health & Human Services",
+				26,
+				63,
+				"ORG"
+			],
+			[
+				"Public Health Division Director",
+				64,
+				95,
+				"TITLE"
+			],
+			[
+				"503-373-3787",
+				102,
+				114,
+				"PHONE"
+			],
+			[
+				"971-707-2437",
+				121,
+				133,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "Michael Keuler 7/7/2020 12:13 PM >>",
+		"entities": [
+			[
+				"Michael Keuler",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"7/7/2020",
+				15,
+				23,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Hi all, Just checking on this to see if this messaging is ready to send out Oregon Employment Department for H2A employers.",
+		"entities": [
+			[
+				"Oregon Employment Department",
+				76,
+				104,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Let me know if you have edits.",
+		"entities": []
+	},
+	{
+		"content": "I believe the testing request form is being reviewed by Kelly for any additional edits.",
+		"entities": [
+			[
+				"Kelly",
+				56,
+				61,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Kind Regards, Michael Keuler Farm Needs Coordinator COVID-19 Liaison Team Marion County Health & Human Services 503-991-3595 >>>",
+		"entities": [
+			[
+				"Michael Keuler",
+				14,
+				28,
+				"PERSON"
+			],
+			[
+				"Farm Needs Coordinator",
+				29,
+				51,
+				"TITLE"
+			],
+			[
+				"COVID-19 Liaison Team",
+				52,
+				73,
+				"ORG"
+			],
+			[
+				"Marion County Health & Human Services",
+				74,
+				111,
+				"ORG"
+			],
+			[
+				"503-991-3595",
+				112,
+				124,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "Michael Keuler 7/1/2020 4:03 PM >>",
+		"entities": [
+			[
+				"Michael Keuler",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"7/1/2020",
+				15,
+				23,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Hi Katrina and Alisa, Please see below the correspondence I have drafted to send to H2A farmworker employers.",
+		"entities": [
+			[
+				"Katrina",
+				3,
+				10,
+				"PERSON"
+			],
+			[
+				"Alisa",
+				15,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I tried to keep it short, sweet, and persuasive to increase testing among farmworkers.",
+		"entities": []
+	},
+	{
+		"content": "It will officially be sent from Dora Herrera, Foreign Labor Coordinator with the Oregon Employement Department to H2A employers in Marion County.",
+		"entities": [
+			[
+				"Dora Herrera",
+				32,
+				44,
+				"PERSON"
+			],
+			[
+				"Foreign Labor Coordinator",
+				46,
+				71,
+				"TITLE"
+			],
+			[
+				"Oregon Employement Department",
+				81,
+				110,
+				"ORG"
+			],
+			[
+				"Marion County",
+				131,
+				144,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "-----------------------------------------------------",
+		"entities": []
+	},
+	{
+		"content": "Marion County encourages agriculture employers with H2A farmworkers to sign up for an onsite testing event.",
+		"entities": [
+			[
+				"Marion County",
+				0,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Resources are available for COVID-19 testing to come to your facility.",
+		"entities": [
+			[
+				"COVID-19",
+				28,
+				36,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "This aligns with Marion County's goal of increased testing for vulnerable populations, such as H2A farmworkers.",
+		"entities": [
+			[
+				"Marion County",
+				17,
+				30,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To request COVID-19 testing for your farmworkers, please complete the COVID-19 Testing Event Request Form [insert hyperlink].",
+		"entities": [
+			[
+				"COVID-19",
+				11,
+				19,
+				"MED"
+			],
+			[
+				"COVID-19",
+				70,
+				78,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "In addition, please see Marion County's COVID-19 Farm Worksite Health Guidelines for more information to prevent the spread of COVID-19: •",
+		"entities": [
+			[
+				"Marion County",
+				24,
+				37,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				40,
+				48,
+				"MED"
+			],
+			[
+				"COVID-19",
+				127,
+				135,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "English: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- •",
+		"entities": [
+			[
+				"English",
+				0,
+				7,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- •",
+				9,
+				74,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "English: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID-",
+		"entities": [
+			[
+				"English",
+				0,
+				7,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID-",
+				9,
+				72,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "19_FarmWorksiteHousingGuidelines_1.pdf • Spanish: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf For more information, contact us at health_liaison@co.marion.or.us.",
+		"entities": [
+			[
+				"Spanish",
+				41,
+				48,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf",
+				50,
+				157,
+				"URL"
+			],
+			[
+				"health_liaison@co.marion.or.us",
+				194,
+				224,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Kind Regards, Michael Keuler Farm Needs Coordinator COVID-19 Liaison Team Marion County Health & Human Services 503-991-3595 >>>",
+		"entities": [
+			[
+				"Michael Keuler",
+				14,
+				28,
+				"PERSON"
+			],
+			[
+				"Farm Needs Coordinator",
+				29,
+				51,
+				"TITLE"
+			],
+			[
+				"COVID-19 Liaison Team",
+				52,
+				73,
+				"ORG"
+			],
+			[
+				"Marion County Health & Human Services",
+				74,
+				111,
+				"ORG"
+			],
+			[
+				"503-991-3595",
+				112,
+				124,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "Jenna Wyatt 7/1/2020 3:57 PM >>>",
+		"entities": [
+			[
+				"Jenna Wyatt",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"7/1/2020",
+				12,
+				20,
+				"DATE"
+			]
+			
+		]
+	},
+	{
+		"content": "Looks great!",
+		"entities": []
+	},
+	{
+		"content": "Just added a colon in the version below: Marion County encourages agriculture employers with H2A farmworkers to sign up for an onsite testing event.",
+		"entities": [
+			[
+				"Marion County",
+				41,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Resources are available for COVID-19 testing to come to your facility.",
+		"entities": [
+			[
+				"COVID-19",
+				28,
+				36,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "This aligns with Marion County's goal of increased testing for vulnerable populations, such as H2A farmworkers.",
+		"entities": [
+			[
+				"Marion County",
+				17,
+				30,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To request COVID-19 testing for your farmworkers, please complete the COVID-19 Testing Event Request Form [insert hyperlink].",
+		"entities": [
+			[
+				"COVID-19",
+				11,
+				19,
+				"MED"
+			],
+			[
+				"COVID-19",
+				70,
+				78,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "In addition, please see Marion County's COVID-19 Farm Worksite Health Guidelines for more information to prevent the spread of COVID-19: •",
+		"entities": [
+			[
+				"Marion County",
+				24,
+				37,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				40,
+				48,
+				"MED"
+			],
+			[
+				"COVID-19",
+				127,
+				135,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "English: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_FarmWorksiteHousingGuidelines_1.pdf • Spanish: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf For more information, contact us at health_liaison@co.marion.or.us.",
+		"entities": [
+			[
+				"English",
+				0,
+				7,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_FarmWorksiteHousingGuidelines_1.pdf •",
+				9,
+				113,
+				"URL"
+			],
+			[
+				"Spanish",
+				114,
+				121,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf",
+				123,
+				230,
+				"URL"
+			],
+			[
+				"health_liaison@co.marion.or.us",
+				267,
+				297,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">>>",
+		"entities": []
+	},
+	{
+		"content": "Michael Keuler 7/1/2020 3:54 PM >>",
+		"entities": [
+			[
+				"Michael Keuler",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"7/1/2020",
+				15,
+				23,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Hi Jenna, Please see below the correspondence I have drafted to send to H2A farmworker employers and give me your feedback.",
+		"entities": [
+			[
+				"Jenna",
+				3,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I tried to keep it short, sweet, and persuasive to increase testing among farmworkers.",
+		"entities": []
+	},
+	{
+		"content": "Once I get your feedback, I will send to the Incident Commanders.",
+		"entities": []
+	},
+	{
+		"content": "It will officially be sent from Dora Herrera, Foreign Labor Coordinator with the Oregon Employement Department.",
+		"entities": [
+			[
+				"Dora Herrera",
+				32,
+				44,
+				"PERSON"
+			],
+			[
+				"Foreign Labor Coordinator",
+				46,
+				71,
+				"TITLE"
+			],
+			[
+				"Oregon Employement Department",
+				81,
+				110,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "-----------------------------------------------------",
+		"entities": []
+	},
+	{
+		"content": "Marion County encourages agriculture employers with H2A farmworkers to sign up for an onsite testing event.",
+		"entities": [
+			[
+				"Marion County",
+				0,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Resources are available for COVID-19 testing to come to your facility.",
+		"entities": [
+			[
+				"COVID-19",
+				28,
+				36,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "This aligns with Marion County's goal of increased testing for vulnerable populations, such as H2A farmworkers.",
+		"entities": [
+			[
+				"Marion County",
+				17,
+				30,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To request COVID-19 testing for your farmworkers, please complete the COVID-19 Testing Event Request Form [insert hyperlink].",
+		"entities": [
+			[
+				"COVID-19",
+				11,
+				19,
+				"MED"
+			],
+			[
+				"COVID-19",
+				70,
+				78,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "In addition, please see Marion County's COVID-19 Farm Worksite Health Guidelines for more information to prevent the spread of COVID-19.",
+		"entities": [
+			[
+				"Marion County",
+				24,
+				37,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				40,
+				48,
+				"MED"
+			],
+			[
+				"COVID-19",
+				127,
+				135,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "English: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_FarmWorksiteHousingGuidelines_1.pdf • Spanish: https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf For more information, contact us at health_liaison@co.marion.or.us.",
+		"entities": [
+			[
+				"English",
+				0,
+				7,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_FarmWorksiteHousingGuidelines_1.pdf •",
+				9,
+				113,
+				"URL"
+			],
+			[
+				"Spanish",
+				114,
+				121,
+				"NORP"
+			],
+			[
+				"https://www.co.marion.or.us/HLT/COVID-19/Documents/2020MCCOVID- 19_SpanishFarmWorksiteHousingGuidelines.pdf",
+				123,
+				230,
+				"URL"
+			],
+			[
+				"health_liaison@co.marion.or.us",
+				267,
+				297,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Kind Regards, Michael Keuler Farm Needs Coordinator COVID-19 Liaison Team Marion County Health & Human Services 503-991-3595 \"]",
+		"entities": [
+			[
+				"Michael Keuler",
+				14,
+				28,
+				"PERSON"
+			],
+			[
+				"Farm Needs Coordinator",
+				29,
+				51,
+				"TITLE"
+			],
+			[
+				"COVID-19 Liaison Team",
+				52,
+				73,
+				"ORG"
+			],
+			[
+				"Marion County Health & Human Services",
+				74,
+				111,
+				"ORG"
+			],
+			[
+				"503-991-3595",
+				112,
+				124,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "['Hi all The Epidemiology Sit Rep for today is attached.",
+		"entities": []
+	},
+	{
+		"content": "Cherie Sent from my Verizon, Samsung Galaxy smartphone",
+		"entities": [
+			[
+				"Cherie",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Hi all Attached please find today's Epidemiology Sit Rep.",
+		"entities": []
+	},
+	{
+		"content": "This report is for situational awareness and is not intended for public nor media.",
+		"entities": []
+	},
+	{
+		"content": "Cherie Sent from my Verizon, Samsung Galaxy smartphone",
+		"entities": [
+			[
+				"Cherie",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "--------",
+		"entities": []
+	},
+	{
+		"content": "Original message --------",
+		"entities": []
+	},
+	{
+		"content": "From: \"Drenzek, Cherie\" <Cherie.Drenzek@dph.ga.gov>",
+		"entities": [
+			[
+				"Drenzek, Cherie",
+				7,
+				22,
+				"PERSON"
+			],
+			[
+				"Cherie.Drenzek@dph.ga.gov",
+				25,
+				50,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Date: 6/30/20 11:48 PM (GMT-05:00)",
+		"entities": [
+			[
+				"6/30/20",
+				6,
+				13,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: \"Rustin, Chris\" <Chris.Rustin@dph.ga.gov>, \"Soetebier, Karl\" <Karl.Soetebier@dph.ga.gov>, \"Minarcine, Scott\" <Scott.Minarcine@dph.ga.gov>, \"Mindlin, Michele\" <Michele.Mindlin@dph.ga.gov>, \"Bacon, Rosalyn\" <Rosalyn.Bacon@dph.ga.gov>, \"Toomey, Kathleen\" <kathleen.toomey@dph.ga.gov>, \"Miller, Kristin\" <kristin.miller@dph.ga.gov>, \"Nydam, Nancy\" <Nancy.Nydam@dph.ga.gov>, \"Hough, Dawona\" <Dawona.Hough@dph.ga.gov>, \"Keheley, Ricky\" <Ricky.Keheley@dph.ga.gov>, \"Franko, Elizabeth\" <Elizabeth.Franko@dph.ga.gov>, \"Kroening, Sara\" <sara.kroening@dph.ga.gov>, \"Nadeau, Kelly\" <Kelly.Nadeau@dph.ga.gov>",
+		"entities": [
+			[
+				"Rustin, Chris",
+				5,
+				18,
+				"PERSON"
+			],
+			[
+				"Chris.Rustin@dph.ga.gov",
+				21,
+				44,
+				"EMAIL"
+			],
+			[
+				"Soetebier, Karl",
+				48,
+				63,
+				"PERSON"
+			],
+			[
+				"Karl.Soetebier@dph.ga.gov",
+				66,
+				91,
+				"EMAIL"
+			],
+			[
+				"Minarcine, Scott",
+				95,
+				111,
+				"PERSON"
+			],
+			[
+				"Scott.Minarcine@dph.ga.gov",
+				114,
+				140,
+				"EMAIL"
+			],
+			[
+				"Mindlin, Michele",
+				144,
+				160,
+				"PERSON"
+			],
+			[
+				"Michele.Mindlin@dph.ga.gov",
+				163,
+				189,
+				"EMAIL"
+			],
+			[
+				"Bacon, Rosalyn",
+				193,
+				207,
+				"PERSON"
+			],
+			[
+				"Rosalyn.Bacon@dph.ga.gov",
+				210,
+				234,
+				"EMAIL"
+			],
+			[
+				"Toomey, Kathleen",
+				238,
+				254,
+				"PERSON"
+			],
+			[
+				"kathleen.toomey@dph.ga.gov",
+				257,
+				283,
+				"EMAIL"
+			],
+			[
+				"Miller, Kristin",
+				287,
+				302,
+				"PERSON"
+			],
+			[
+				"kristin.miller@dph.ga.gov",
+				305,
+				330,
+				"EMAIL"
+			],
+			[
+				"Nydam, Nancy",
+				334,
+				346,
+				"PERSON"
+			],
+			[
+				"Nancy.Nydam@dph.ga.gov",
+				349,
+				371,
+				"EMAIL"
+			],
+			[
+				"Hough, Dawona",
+				375,
+				388,
+				"PERSON"
+			],
+			[
+				"Dawona.Hough@dph.ga.gov",
+				391,
+				414,
+				"EMAIL"
+			],
+			[
+				"Keheley, Ricky",
+				418,
+				432,
+				"PERSON"
+			],
+			[
+				"Ricky.Keheley@dph.ga.gov",
+				435,
+				459,
+				"EMAIL"
+			],
+			[
+				"Franko, Elizabeth",
+				463,
+				480,
+				"PERSON"
+			],
+			[
+				"Elizabeth.Franko@dph.ga.gov",
+				483,
+				510,
+				"EMAIL"
+			],
+			[
+				"Kroening, Sara",
+				514,
+				528,
+				"PERSON"
+			],
+			[
+				"sara.kroening@dph.ga.gov",
+				531,
+				555,
+				"EMAIL"
+			],
+			[
+				"Nadeau, Kelly",
+				559,
+				572,
+				"PERSON"
+			],
+			[
+				"Kelly.Nadeau@dph.ga.gov",
+				576,
+				599,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: EOC Epidemiology <eocepidemiology@gets.onmicrosoft.com>, DPH-EPI <DPH-EPI@dph.ga.gov>, \"Loke, Ryan\" <ryan.loke@georgia.gov>, \"Noggle, Caylee\" <caylee.noggle@georgia.gov>, audrey.arona@gnrhealth.com, \"Memark, Janet\" <janet.memark@dph.ga.gov>, \"Voccio, Gary\" <Gary.Voccio@dph.ga.gov>, \"Taylor, Zachary\" <zachary.taylor@dph.ga.gov>, \"Logan, Pamela\" <pamela.logan@dph.ga.gov>, \"Goggans, Stephen\" <Stephen.Goggans@dph.ga.gov>, \"Townsend, Beverley\" <Beverley.Townsend@dph.ga.gov>, \"Ruis, Charles\" <charles.ruis@dph.ga.gov>, \"Grow, William\" <William.Grow@dph.ga.gov>, \"Obasanjo, Olugbenga\" <Olugbenga.Obasanjo@dph.ga.gov>, \"Ford, Sandra\" <Sandra.Ford@dph.ga.gov>, \"Paxton, Lynn\"",
+		"entities": [
+			[
+				"EOC Epidemiology",
+				4,
+				20,
+				"ORG"
+			],
+			[
+				"eocepidemiology@gets.onmicrosoft.com",
+				22,
+				58,
+				"EMAIL"
+			],
+			[
+				"DPH-EPI@dph.ga.gov",
+				70,
+				88,
+				"EMAIL"
+			],
+			[
+				"Loke, Ryan",
+				92,
+				102,
+				"PERSON"
+			],
+			[
+				"ryan.loke@georgia.gov",
+				105,
+				126,
+				"EMAIL"
+			],
+			[
+				"Noggle, Caylee",
+				130,
+				144,
+				"PERSON"
+			],
+			[
+				"caylee.noggle@georgia.gov",
+				147,
+				172,
+				"EMAIL"
+			],
+			[
+				"audrey.arona@gnrhealth.com",
+				175,
+				201,
+				"EMAIL"
+			],
+			[
+				"Memark, Janet",
+				204,
+				217,
+				"PERSON"
+			],
+			[
+				"janet.memark@dph.ga.gov>",
+				220,
+				244,
+				"EMAIL"
+			],
+			[
+				"Voccio, Gary",
+				247,
+				259,
+				"PERSON"
+			],
+			[
+				"Gary.Voccio@dph.ga.gov",
+				262,
+				284,
+				"EMAIL"
+			],
+			[
+				"Taylor, Zachary",
+				288,
+				303,
+				"PERSON"
+			],
+			[
+				"zachary.taylor@dph.ga.gov",
+				306,
+				331,
+				"EMAIL"
+			],
+			[
+				"Logan, Pamela",
+				335,
+				348,
+				"PERSON"
+			],
+			[
+				"pamela.logan@dph.ga.gov",
+				351,
+				374,
+				"EMAIL"
+			],
+			[
+				"Goggans, Stephen",
+				378,
+				394,
+				"PERSON"
+			],
+			[
+				"Stephen.Goggans@dph.ga.gov",
+				397,
+				423,
+				"EMAIL"
+			],
+			[
+				"Townsend, Beverley",
+				427,
+				445,
+				"PERSON"
+			],
+			[
+				"Beverley.Townsend@dph.ga.gov",
+				448,
+				476,
+				"EMAIL"
+			],
+			[
+				"Ruis, Charles",
+				480,
+				493,
+				"PERSON"
+			],
+			[
+				"charles.ruis@dph.ga.gov",
+				496,
+				519,
+				"EMAIL"
+			],
+			[
+				"Grow, William",
+				523,
+				536,
+				"PERSON"
+			],
+			[
+				"William.Grow@dph.ga.gov",
+				539,
+				562,
+				"EMAIL"
+			],
+			[
+				"Obasanjo, Olugbenga",
+				566,
+				585,
+				"PERSON"
+			],
+			[
+				"Olugbenga.Obasanjo@dph.ga.gov",
+				588,
+				617,
+				"EMAIL"
+			],
+			[
+				"Ford, Sandra",
+				621,
+				633,
+				"PERSON"
+			],
+			[
+				"Sandra.Ford@dph.ga.gov",
+				636,
+				658,
+				"EMAIL"
+			],
+			[
+				"Paxton, Lynn",
+				662,
+				674,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "<Lynn.Paxton@fultoncountyga.gov>, \"Haynes, Reneé\" <renee.haynes@dph.ga.gov>, \"Davis, Lawton\" <Lawton.Davis@dph.ga.gov>, \"Craft, Thomas\" <thomas.craft@dph.ga.gov> Subject: Epidemiology Daily Sit Rep, 6/30/20 20",
+		"entities": [
+			[
+				"Lynn.Paxton@fultoncountyga.gov",
+				1,
+				31,
+				"EMAIL"
+			],
+			[
+				"Haynes, Reneé",
+				35,
+				48,
+				"PERSON"
+			],
+			[
+				"renee.haynes@dph.ga.gov",
+				51,
+				74,
+				"EMAIL"
+			],
+			[
+				"Davis, Lawton",
+				78,
+				91,
+				"PERSON"
+			],
+			[
+				"Lawton.Davis@dph.ga.gov",
+				94,
+				117,
+				"EMAIL"
+			],
+			[
+				"Craft, Thomas",
+				121,
+				134,
+				"PERSON"
+			],
+			[
+				"thomas.craft@dph.ga.gov",
+				137,
+				160,
+				"EMAIL"
+			],
+			[
+				"6/30/20",
+				199,
+				206,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Hi all Attached please find today's Epidemiology SitRep.",
+		"entities": []
+	},
+	{
+		"content": "This document is for internal situational awareness only, not public nor media.",
+		"entities": []
+	},
+	{
+		"content": "Take care, Cherie Cherie L. Drenzek DVM, MS State Epidemiologist Chief Science Officer Georgia Department of Public Health 2 Peachtree Street NW, Suite 14-420 Atlanta, GA 30303 404-657-2609 cherie.drenzek@dph.ga.gov 21 ']",
+		"entities": [
+			[
+				"Cherie",
+				11,
+				17,
+				"PERSON"
+			],
+			[
+				"Cherie L. Drenzek",
+				18,
+				35,
+				"PERSON"
+			],
+			[
+				"DVM, MS State Epidemiologist",
+				36,
+				64,
+				"TITLE"
+			],
+			[
+				"Chief Science Officer",
+				65,
+				86,
+				"TITLE"
+			],
+			[
+				"Georgia Department of Public Health",
+				87,
+				122,
+				"ORG"
+			],
+			[
+				"2 Peachtree Street NW, Suite 14-420",
+				123,
+				158,
+				"ADDRESS"
+			],
+			[
+				"Atlanta, GA",
+				159,
+				170,
+				"LOC"
+			],
+			[
+				"404-657-2609",
+				177,
+				189,
+				"PHONE"
+			],
+			[
+				"cherie.drenzek@dph.ga.gov",
+				190,
+				215,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "['Date: 4/9/20 12:55 PM (GMT-05:00)",
+		"entities": [
+			[
+				"4/9/20",
+				8,
+				14,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: DBPD PIO < pio@dbpd.us >",
+		"entities": [
+			[
+				"DBPD PIO",
+				4,
+				12,
+				"ORG"
+			],
+			[
+				"pio@dbpd.us",
+				15,
+				26,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Subject: FOX & Friends First-",
+		"entities": [
+			[
+				"FOX & Friends First",
+				9,
+				28,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "FOX News Channel Interview Request",
+		"entities": [
+			[
+				"FOX News Channel",
+				0,
+				16,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Hello, This is Kyra with FOX News Channel’s national morning program FOX & Friends First.",
+		"entities": [
+			[
+				"Kyra",
+				15,
+				19,
+				"PERSON"
+			],
+			[
+				"FOX News Channel",
+				25,
+				41,
+				"ORG"
+			],
+			[
+				"FOX & Friends First",
+				69,
+				88,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "I am reaching out to see if a member from the Daytona Beach Police Department would be available tomorrow morning at 05:30 AM EST to join us for a LIVE interview via Skype.",
+		"entities": [
+			[
+				"Daytona Beach Police Department",
+				46,
+				77,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We would like to discuss the talking drones that the department is using to enforce social distancing guidelines.",
+		"entities": []
+	},
+	{
+		"content": "Please let me know if someone from the department would be available tomorrow morning at 5:30 AM EST to join us LIVE via Skype.",
+		"entities": []
+	},
+	{
+		"content": "Thank you, Kyra Dersarkissian FOX & Friends First FOX News Channel 718-974-4976 Sent from Mail for Windows 10 This message and its attachments may contain legally privileged or confidential information.",
+		"entities": [
+			[
+				"Kyra Dersarkissian",
+				11,
+				29,
+				"PERSON"
+			],
+			[
+				"FOX & Friends First",
+				30,
+				49,
+				"EVENT"
+			],
+			[
+				"FOX News Channel",
+				50,
+				66,
+				"ORG"
+			],
+			[
+				"718-974-4976",
+				67,
+				79,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "It is intended solely for the named addressee.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the addressee indicated in this message (or responsible for delivery of the message to the addressee), you may not copy or deliver this message or its attachments to anyone.",
+		"entities": []
+	},
+	{
+		"content": "Rather, you should permanently delete this message and its attachments and kindly notify the sender by reply e-mail.",
+		"entities": []
+	},
+	{
+		"content": "Any content of this message and its attachments that does not relate to the official business of Fox News or Fox Business must not be taken to have been sent or endorsed by either of them.",
+		"entities": [
+			[
+				"Fox News",
+				97,
+				105,
+				"ORG"
+			],
+			[
+				"Fox Business",
+				109,
+				121,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No representation is made that this email or its attachments are without defect.",
+		"entities": []
+	},
+	{
+		"content": "_________________________________________________________________",
+		"entities": []
+	},
+	{
+		"content": "Under Florida law, e-mail addresses are public records.",
+		"entities": [
+			[
+				"Florida",
+				6,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity.",
+		"entities": []
+	},
+	{
+		"content": "Instead, contact this office by phone or in writing.",
+		"entities": []
+	},
+	{
+		"content": "_________________________________________________________________",
+		"entities": []
+	},
+	{
+		"content": "Under Florida law, e-mail addresses are public records.",
+		"entities": [
+			[
+				"Florida",
+				6,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity.",
+		"entities": []
+	},
+	{
+		"content": "Instead, contact this office by phone or in writing.",
+		"entities": []
+	},
+	{
+		"content": "_________________________________________________________________",
+		"entities": []
+	},
+	{
+		"content": "Under Florida law, e-mail addresses are public records.",
+		"entities": [
+			[
+				"Florida",
+				6,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity.",
+		"entities": []
+	},
+	{
+		"content": "Instead, contact this office by phone or in writing.",
+		"entities": []
+	},
+	{
+		"content": "_________________________________________________________________",
+		"entities": []
+	},
+	{
+		"content": "Under Florida law, e-mail addresses are public records.",
+		"entities": [
+			[
+				"Florida",
+				6,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity.",
+		"entities": []
+	},
+	{
+		"content": "Instead, contact this office by phone or in writing. ']",
+		"entities": []
+	},
+	{
+		"content": "['CAUTION:",
+		"entities": []
+	},
+	{
+		"content": "This email originated from outside your organization.",
+		"entities": []
+	},
+	{
+		"content": "Exercise caution when opening attachments or clicking links, especially from unknown senders.",
+		"entities": []
+	},
+	{
+		"content": "Yes they are both recent.",
+		"entities": []
+	},
+	{
+		"content": "We are sending out quarantine letters and if we have any pushback from provider I will let you know.",
+		"entities": []
+	},
+	{
+		"content": "I jumped ahead asking you so I can say \"I have already consulted with our health officer'' Will recommend testing again.",
+		"entities": []
+	},
+	{
+		"content": "From: Alex L. Brzezny <brzeznya@columbiabasinhospital.org>",
+		"entities": [
+			[
+				"Alex L. Brzezny",
+				6,
+				21,
+				"PERSON"
+			],
+			[
+				"brzeznya@columbiabasinhospital.org",
+				23,
+				57,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Tuesday, April 28, 2020 3:43 PM",
+		"entities": [
+			[
+				"Tuesday, April 28, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Maria Vargas <mvargas@granthealth.org>",
+		"entities": [
+			[
+				"Maria Vargas",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"mvargas@granthealth.org",
+				18,
+				41,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: guidance Quarantine, no bones about it.",
+		"entities": []
+	},
+	{
+		"content": "The onle other method would be to test (and confirm positive) or to test twice with a negative result at least 24 hours apart.",
+		"entities": []
+	},
+	{
+		"content": "Any symptoms: PROBABLE and ISOLATE.",
+		"entities": []
+	},
+	{
+		"content": "Testing would have been an OK thing to do; quarantine very acceptable.",
+		"entities": []
+	},
+	{
+		"content": "No work!!",
+		"entities": []
+	},
+	{
+		"content": "The exposure is recent, \"weeks ago\" has no way to be proven (and serology tests do not work for that purpose).",
+		"entities": []
+	},
+	{
+		"content": "I am presuming that the \"confirmed\" was tested recently.",
+		"entities": []
+	},
+	{
+		"content": "AB From: Maria Vargas [mailto:mvargas@granthealth.org]",
+		"entities": [
+			[
+				"Maria Vargas",
+				9,
+				21,
+				"PERSON"
+			],
+			[
+				"mvargas@granthealth.org",
+				30,
+				53,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Tuesday, April 28, 2020 3:33 PM",
+		"entities": [
+			[
+				"Tuesday, April 28, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Alex L. Brzezny Subject: guidance",
+		"entities": [
+			[
+				"Alex L. Brzezny",
+				4,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Quick question, We have a confirmed who was exposed via her father in law who is also confirmed .. her husband went in to be tested today in Quincy and explained to the Dr he had similar symptoms weeks ago, so Dr opted to not test and gave him a release to return to work.",
+		"entities": [
+			[
+				"Quincy",
+				141,
+				147,
+				"LOC"
+			],
+			[
+				"Dr",
+				169,
+				171,
+				"TITLE"
+			],
+			[
+				"Dr",
+				210,
+				212,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "We do NOT know he had COVID and he has now been exposed to 2 confirmed cases.",
+		"entities": [
+			[
+				"COVID",
+				22,
+				27,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "My thought is we still quarantine.",
+		"entities": []
+	},
+	{
+		"content": "He has a Dr's note stating otherwise is why I am wanting your written guidance in case he refuses Maria Vargas Community Public Health Manager 1038 W Ivy St Moses Lake WA 98837",
+		"entities": [
+			[
+				"Maria Vargas",
+				98,
+				110,
+				"PERSON"
+			],
+			[
+				"Community Public Health Manager",
+				111,
+				142,
+				"TITLE"
+			],
+			[
+				"1038 W Ivy St",
+				143,
+				156,
+				"ADDRESS"
+			],
+			[
+				"Moses Lake WA",
+				157,
+				170,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "mvargas@,granthealth.org 509-766-7960 ext 19 509-766-6519 1 YGCHD tHtANt' COUNTY HEALTH 01~-rrucr 0 ,,,.,_bllcHt~",
+		"entities": [
+			[
+				"mvargas@,granthealth.org",
+				0,
+				24,
+				"EMAIL"
+			],
+			[
+				"509-766-7960",
+				25,
+				37,
+				"PHONE"
+			],
+			[
+				"509-766-6519",
+				45,
+				57,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "th Always working for a safer and healthier Grant County CONFIDENTIALITY NOTICE:",
+		"entities": [
+			[
+				"Grant County",
+				44,
+				56,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This e-mail message and any attachments are for the sole use of the intended recipient(s) and may contain proprietary, confidential or privileged information.",
+		"entities": []
+	},
+	{
+		"content": "Any unauthorized review, use, disclosure or distribution is prohibited and may be a violation of law.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient or a person responsible for delivering this message to an intended recipient, please contact the sender by reply e~mail and destroy al!",
+		"entities": []
+	},
+	{
+		"content": "copies of the original message.",
+		"entities": []
+	},
+	{
+		"content": "This e-mail may be considered subject to the Public Records Act and as such may be disclosed by Grant County Health District to a third-party requester.",
+		"entities": [
+			[
+				"Public Records Act",
+				45,
+				63,
+				"LAW"
+			],
+			[
+				"Grant County Health District",
+				96,
+				124,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2 ']",
+		"entities": []
+	},
+	{
+		"content": "['Good afternoon, Attached is the case count for today!",
+		"entities": []
+	},
+	{
+		"content": "Stay safe and well!",
+		"entities": []
+	},
+	{
+		"content": "Debra Debra Bradley, MSW Director of Health City of St. Joseph Health Department Patee Market Health Center 904 S. Tenth Street St. Joseph, MO 64503 (816) 271-4636 dbradley@stjoemo.org ']",
+		"entities": [
+			[
+				"Debra",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Debra Bradley",
+				6,
+				19,
+				"PERSON"
+			],
+			[
+				"MSW Director of Health",
+				21,
+				43,
+				"TITLE"
+			],
+			[
+				"City of St. Joseph Health Department",
+				44,
+				80,
+				"ORG"
+			],
+			[
+				"Patee Market Health Center 904 S. Tenth Street",
+				81,
+				127,
+				"ADDRESS"
+			],
+			[
+				"St. Joseph, MO",
+				128,
+				142,
+				"LOC"
+			],
+			[
+				"(816) 271-4636",
+				149,
+				163,
+				"PHONE"
+			],
+			[
+				"dbradley@stjoemo.org",
+				164,
+				184,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "['Hi everyone, This week’s internal Policy Talking Points are a day early.",
+		"entities": []
+	},
+	{
+		"content": "Please note that a few of the questions have crossed out information that has updated information relating to it.",
+		"entities": []
+	},
+	{
+		"content": "I tried to reference the updated information but please check the date of the specific question/answer in case the guidance has been updated since that question was originally asked.",
+		"entities": []
+	},
+	{
+		"content": "http://inside.cbs.state.or.us/osha/policy/covid19.html Hope you all enjoy your long weekend!",
+		"entities": [
+			[
+				"http://inside.cbs.state.or.us/osha/policy/covid19.html",
+				0,
+				54,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Kate Ryan ALH/RCD/Policy Support Staff, OR-OSHA Portland Field Office 16760 SW Upper Boones Ferry Rd, Suite 200 Tigard, Oregon 97224",
+		"entities": [
+			[
+				"Kate Ryan",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"ALH/RCD/Policy Support Staff",
+				10,
+				38,
+				"TITLE"
+			],
+			[
+				"OR-OSHA Portland Field Office",
+				40,
+				69,
+				"ORG"
+			],
+			[
+				"16760 SW Upper Boones Ferry Rd, Suite 200",
+				70,
+				111,
+				"ADDRESS"
+			],
+			[
+				"Tigard, Oregon",
+				112,
+				126,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ph: 971-673-2918 Fax: 971-673-2901 ']",
+		"entities": [
+			[
+				"971-673-2918",
+				4,
+				16,
+				"PHONE"
+			],
+			[
+				"971-673-2901",
+				22,
+				34,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "[\"Hello All I am forwarding the dates for the upcoming COVID-19 vaccine clinics that will be held in Township Hall.",
+		"entities": [
+			[
+				"COVID-19",
+				55,
+				63,
+				"MED"
+			],
+			[
+				"Township Hall",
+				102,
+				115,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I am sharing this information for FYI only (not for wide spread distribution).",
+		"entities": []
+	},
+	{
+		"content": "These clinics are still reserved for high priority groups.",
+		"entities": []
+	},
+	{
+		"content": "We will be in contact those who are eligible based on their priority status.",
+		"entities": []
+	},
+	{
+		"content": "We are working with ERand our other partners on coordinating the invitation and registration for participants.",
+		"entities": []
+	},
+	{
+		"content": "I have attached our recent Vaccine Minute (to be released today) that describes the priority groups more clearly.",
+		"entities": []
+	},
+	{
+		"content": "Please let me know if you have any questions.",
+		"entities": []
+	},
+	{
+		"content": "Richard From: Katie Hickel <khickel@co.carver.mn.us>",
+		"entities": [
+			[
+				"Richard",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Katie Hickel",
+				14,
+				26,
+				"PERSON"
+			],
+			[
+				"khickel@co.carver.mn.us",
+				28,
+				51,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Wednesday, January 06, 202111:42 AM",
+		"entities": [
+			[
+				"Wednesday, January 06, 202111:42",
+				6,
+				38,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Richard Scott <rscott@co.carver.mn.us>",
+		"entities": [
+			[
+				"Richard Scott",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"rscott@co.carver.mn.us",
+				19,
+				41,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Samantha Downs <sdowns@co.carver.mn.us>",
+		"entities": [
+			[
+				"Samantha Downs",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"sdowns@co.carver.mn.us",
+				20,
+				42,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Upcoming clinic dates Hi Richard, Below are the dates and times we have confirmed for Homeland Health to provide clinics through February.",
+		"entities": [
+			[
+				"Richard",
+				25,
+				32,
+				"PERSON"
+			],
+			[
+				"Homeland Health",
+				86,
+				101,
+				"ORG"
+			],
+			[
+				"February",
+				129,
+				137,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We have not reached out to the groups yet who are going to be included in these clinics and we are still working this out.",
+		"entities": []
+	},
+	{
+		"content": "Wanted to provide for your awareness, and anyone you think should be forwarded to (knowing it's not for dissemination and we will be in contact with who will be asked to sign up).",
+		"entities": []
+	},
+	{
+		"content": "We are planning to use Township Hall for all listed as well.",
+		"entities": [
+			[
+				"Township Hall",
+				102,
+				115,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "First Dose Second Dose Date Time Date Time 30-Dec 4-8PM 28-Jan 4-8 PM 5-Jan 4-8 PM 2-Feb 4-8PM 12-Jan 4-8 PM 9-Feb 4-8PM 14-Jan 9AM-1PM 11-Feb 9AM-1PM 19-Jan 1-5 PM 16-Feb 1-5 PM 21-Jan 9AM-1PM 18-Feb 9AM-1PM 26-Jan 1-5 PM 23-Feb 1-5 PM 28-Jan 11-3 PM 25-Feb 9AM-1PM Thanks! 1 \"]",
+		"entities": [
+			[
+				"30-Dec",
+				43,
+				49,
+				"DATE"
+			],
+			[
+				"28-Jan",
+				56,
+				62,
+				"DATE"
+			],
+			[
+				"5-Jan",
+				70,
+				75,
+				"DATE"
+			],
+			[
+				"2-Feb",
+				83,
+				88,
+				"DATE"
+			],
+			[
+				"12-Jan",
+				95,
+				101,
+				"DATE"
+			],
+			[
+				"9-Feb",
+				109,
+				114,
+				"DATE"
+			],
+			[
+				"14-Jan",
+				121,
+				127,
+				"DATE"
+			],
+			[
+				"11-Feb",
+				136,
+				142,
+				"DATE"
+			],
+			[
+				"19-Jan",
+				151,
+				157,
+				"DATE"
+			],
+			[
+				"16-Feb",
+				165,
+				171,
+				"DATE"
+			],
+			[
+				"21-Jan",
+				179,
+				185,
+				"DATE"
+			],
+			[
+				"18-Feb",
+				194,
+				200,
+				"DATE"
+			],
+			[
+				"26-Jan",
+				209,
+				215,
+				"DATE"
+			],
+			[
+				"23-Feb",
+				223,
+				229,
+				"DATE"
+			],
+			[
+				"28-Jan",
+				237,
+				243,
+				"DATE"
+			],
+			[
+				"25-Feb",
+				252,
+				258,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "[' \\u200c JOIN US FOR A CUP!",
+		"entities": []
+	},
+	{
+		"content": "\\ufeffWednesday, September 30, 2020 8:30 a.m. -",
+		"entities": [
+			[
+				"\\ufeffWednesday, September 30, 2020",
+				0,
+				35,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Networking 9:00 a.m. - Cup of Joe Presenters Restoration Natatorium - 117 Francis Street (Parking is available in lot across street) Cup of Joe, inspired by the 1 Million Cups model in Kansas City, is a simple way to engage entrepreneurs in communities around the world.",
+		"entities": [
+			[
+				"Cup of Joe",
+				23,
+				33,
+				"ORG"
+			],
+			[
+				"117 Francis Street",
+				70,
+				88,
+				"ADDRESS"
+			],
+			[
+				"Cup of Joe",
+				133,
+				143,
+				"ORG"
+			],
+			[
+				"1 Million Cups",
+				161,
+				175,
+				"ORG"
+			],
+			[
+				"Kansas City",
+				185,
+				196,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Each week, Cup of Joe offers local businesses an opportunity to share their experience with a diverse audience of mentors, advisers, and fellow business owners.",
+		"entities": [
+			[
+				"Cup of Joe",
+				11,
+				21,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "___________________________________________________________",
+		"entities": []
+	},
+	{
+		"content": "MELISSA CHESTNUT",
+		"entities": [
+			[
+				"MELISSA CHESTNUT",
+				0,
+				16,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Naturally You Makeup Artistry Melissa Chesnut began her entrepreneurial journey while in college at the age of 19 with a beauty and skin care company.",
+		"entities": [
+			[
+				"Naturally You Makeup Artistry",
+				0,
+				29,
+				"ORG"
+			],
+			[
+				"Melissa Chesnut",
+				30,
+				45,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It was a facial cleanser that finally worked on her acne that set her on a path of building a successful business over the next 10 years.",
+		"entities": []
+	},
+	{
+		"content": "After the birth of her second child and paying attention to retail trends, Melissa leaned in to what her customers were asking for: makeup application services for their special occasions.",
+		"entities": [
+			[
+				"Melissa",
+				75,
+				82,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "She went back to school for her certification and in the spring of 2016 launched her new business venture, Naturally You Makeup Artistry.",
+		"entities": [
+			[
+				"2016",
+				67,
+				71,
+				"DATE"
+			],
+			[
+				"Naturally You Makeup Artistry",
+				107,
+				136,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In the last four years, Melissa has helped more than 200 brides achieve timeless and natural beauty on their wedding day, built a team of seven independent contractors and opened a brick and mortar makeup studio in her tiny hometown of Dearborn, Missouri.",
+		"entities": [
+			[
+				"Melissa",
+				24,
+				31,
+				"PERSON"
+			],
+			[
+				"Dearborn, Missouri",
+				236,
+				254,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "While focusing on luxurious skin prep, natural aesthetics and impeccable customer experience, Melissa has been recognized by the wedding industry’s top affiliations, such as The Knot, three years in a row and recently was a nominee for Top Three Makeup Artists in the Kansas City area.",
+		"entities": [
+			[
+				"Melissa",
+				94,
+				101,
+				"PERSON"
+			],
+			[
+				"The Knot",
+				174,
+				182,
+				"ORG"
+			],
+			[
+				"Kansas City",
+				268,
+				279,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Melissa works full-time in marketing and communications at LifeLine Foods in St. Joseph and lives on a small farm with her husband, Todd, and two small children in Dearborn, Missouri.",
+		"entities": [
+			[
+				"Melissa",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"LifeLine Foods",
+				59,
+				73,
+				"ORG"
+			],
+			[
+				"St. Joseph",
+				77,
+				87,
+				"LOC"
+			],
+			[
+				"Todd",
+				132,
+				136,
+				"PERSON"
+			],
+			[
+				"Dearborn, Missouri",
+				164,
+				182,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "facebook.com JOHN ELLIS \\ufeffCollege Coupons College Coupons has been helping businesses reach students, faculty and communities since 1974 through our print coupon books.",
+		"entities": [
+			[
+				"facebook.com",
+				0,
+				12,
+				"URL"
+			],
+			[
+				"JOHN ELLIS",
+				13,
+				23,
+				"PERSON"
+			],
+			[
+				"College Coupons",
+				30,
+				45,
+				"ORG"
+			],
+			[
+				"College Coupons",
+				46,
+				61,
+				"ORG"
+			],
+			[
+				"1974",
+				136,
+				140,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The 2 3/4\" X 4 1/4\" coupon books are the perfect size, easily fitting into pockets, purses, and backpacks.",
+		"entities": []
+	},
+	{
+		"content": "College Coupons print and distribute coupon books twice a year, one in August for the fall semester and one in January for the spring semester.",
+		"entities": [
+			[
+				"College Coupons",
+				0,
+				15,
+				"ORG"
+			],
+			[
+				"August",
+				71,
+				77,
+				"ORG"
+			],
+			[
+				"January",
+				111,
+				118,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In 2019 College Coupons developed and added an app to complement the print product.",
+		"entities": [
+			[
+				"2019",
+				3,
+				7,
+				"DATE"
+			],
+			[
+				"College Coupons",
+				8,
+				23,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This app allows businesses to monitor and handle their own marketing needs, adjusting and creating new ads on the fly.",
+		"entities": []
+	},
+	{
+		"content": "John Ellis began with College Coupons in 1994 as a regional sales rep.",
+		"entities": [
+			[
+				"John Ellis",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"College Coupons",
+				22,
+				37,
+				"ORG"
+			],
+			[
+				"1994",
+				41,
+				45,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In 2010 he became sales manager and in 2018 he purchased College Coupons.",
+		"entities": [
+			[
+				"2010",
+				3,
+				7,
+				"DATE"
+			],
+			[
+				"2018",
+				39,
+				43,
+				"DATE"
+			],
+			[
+				"College Coupons",
+				57,
+				72,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "John also operated a mobile DJ company for 42 years.",
+		"entities": [
+			[
+				"John",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He lives in Olathe, Kansas with his wife and three spoiled pets.",
+		"entities": [
+			[
+				"Olathe, Kansas",
+				12,
+				26,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "college-coupons.com September Coffee Sponsor: Pronto Cafe \\ufeff Visit the Cup of Joe Website Can't make it to Cup of Joe?",
+		"entities": [
+			[
+				"college-coupons.com",
+				0,
+				19,
+				"URL"
+			],
+			[
+				"Pronto Cafe",
+				46,
+				57,
+				"ORG"
+			],
+			[
+				"Cup of Joe",
+				75,
+				85,
+				"ORG"
+			],
+			[
+				"Cup of Joe",
+				111,
+				121,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Join us on Facebook Live!",
+		"entities": []
+	},
+	{
+		"content": "\\ufeff Presenters prepare a 10-minute educational presentation and engage in 15 minutes of feedback and questions.",
+		"entities": []
+	},
+	{
+		"content": "Entrepreneurs gain insightful feedback while connecting with a supportive community that cares about their progress.",
+		"entities": []
+	},
+	{
+		"content": "The audience learns a great deal from the presentations.",
+		"entities": []
+	},
+	{
+		"content": "Whether this is through passively listening or deeply engaging with the entrepreneurs, there is much to learn every week from these dynamic and diverse communities.",
+		"entities": []
+	},
+	{
+		"content": "Join our local group to discover what the buzz is about.",
+		"entities": []
+	},
+	{
+		"content": "Supporters gather around 8:30am for coffee and conversation.",
+		"entities": []
+	},
+	{
+		"content": "The program begins at 9:00am.",
+		"entities": []
+	},
+	{
+		"content": "This is a casual gathering for entrepreneurs, by entrepreneurs.",
+		"entities": []
+	},
+	{
+		"content": "Please join us to share ideas--over a cup of joe!",
+		"entities": []
+	},
+	{
+		"content": "STAY CONNECTED \\u200c",
+		"entities": []
+	},
+	{
+		"content": "\\u200c",
+		"entities": []
+	},
+	{
+		"content": "St. Joseph Chamber of Commerce | 3003",
+		"entities": [
+			[
+				"St. Joseph Chamber of Commerce",
+				0,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Frederick Avenue, St. Joseph, MO 64506 Unsubscribe dbradley@stjoemo.org Update Profile | About our service provider Sent by redmond@saintjoseph.com powered by Try email marketing for free today!",
+		"entities": [
+			[
+				"Frederick Avenue",
+				0,
+				16,
+				"ADDRESS"
+			],
+			[
+				"St. Joseph, MO",
+				18,
+				32,
+				"LOC"
+			],
+			[
+				"dbradley@stjoemo.org",
+				51,
+				71,
+				"EMAIL"
+			],
+			[
+				"redmond@saintjoseph.com",
+				124,
+				147,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "EXTERNAL EMAIL: Do not click on any links or open any attachments unless you are expecting the email and/or know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "If in doubt, delete the email. ']",
+		"entities": []
+	},
+	{
+		"content": "['Importance: High Media Partners: Please see attached advisory as a follow‐up from the press conference earlier this afternoon.",
+		"entities": []
+	},
+	{
+		"content": "Note:",
+		"entities": []
+	},
+	{
+		"content": "This release contains the JOINT EXECUTIVE ORDER, as well as supplemental information, including an FAQ’s that we need your help in disseminating to the public.",
+		"entities": [
+			[
+				"JOINT EXECUTIVE ORDER",
+				26,
+				47,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "You can also access this advisory and supplemental information at the following link: https://bit.ly/3d7nQoe",
+		"entities": [
+			[
+				"https://bit.ly/3d7nQoe",
+				86,
+				108,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Thanks for your support!",
+		"entities": []
+	},
+	{
+		"content": "Wendy Howell Public Information Officer Dougherty County Board of Commissioners/Administration Phone: 229.302.3006",
+		"entities": [
+			[
+				"Wendy Howell",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"Public Information Officer",
+				13,
+				39,
+				"TITLE"
+			],
+			[
+				"Dougherty County Board of Commissioners/Administration",
+				40,
+				94,
+				"ORG"
+			],
+			[
+				"229.302.3006",
+				102,
+				114,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "Mobile: 229.854.0006 222 Pine Avenue, Suite 540, Albany, Georgia 31701 Web: Dougherty.ga.us Email: whowell@dougherty.ga.us PUBLIC RECORDS NOTICE:",
+		"entities": [
+			[
+				"229.854.0006",
+				8,
+				20,
+				"PHONE"
+			],
+			[
+				"222 Pine Avenue, Suite 540",
+				21,
+				47,
+				"ADDRESS"
+			],
+			[
+				"Albany, Georgia",
+				49,
+				64,
+				"LOC"
+			],
+			[
+				"Dougherty.ga.us",
+				76,
+				91,
+				"URL"
+			],
+			[
+				"whowell@dougherty.ga.us",
+				99,
+				122,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Georgia has a very broad public records law.",
+		"entities": [
+			[
+				"Georgia",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Most written communications to or from City and County officials regarding City and County business are public records available to the public and media upon request.",
+		"entities": [
+			[
+				"City",
+				39,
+				43,
+				"GPE"
+			],
+			[
+				"County",
+				48,
+				54,
+				"GPE"
+			],
+			[
+				"City",
+				75,
+				79,
+				"GPE"
+			],
+			[
+				"County",
+				84,
+				90,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Your email communications may be subject to public disclosure.",
+		"entities": []
+	},
+	{
+		"content": "40 MEDIA ADVISORY FOR IMMEDIATE RELEASE March 19, 2020 MEDIA CONTACT:",
+		"entities": [
+			[
+				"March 19, 2020",
+				40,
+				54,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "WENDY HOWELL DOUGHERTY COUNTY PUBLIC INFORMATION OFFICER 229.854.0006 whowell@dougherty.ga.us DOUGHERTY COUNTY, GEORGIA –",
+		"entities": [
+			[
+				"WENDY HOWELL",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"DOUGHERTY COUNTY PUBLIC INFORMATION OFFICER",
+				13,
+				56,
+				"TITLE"
+			],
+			[
+				"229.854.0006",
+				57,
+				69,
+				"PHONE"
+			],
+			[
+				"whowell@dougherty.ga.us",
+				70,
+				93,
+				"EMAIL"
+			],
+			[
+				"DOUGHERTY COUNTY",
+				94,
+				110,
+				"LOC"
+			],
+			[
+				"GEORGIA",
+				112,
+				119,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Today, Mayor Bo Dorough, City of Albany, and Chairman Christopher S. Cohilas, Dougherty County Board of Commissioners, issued a Joint Executive Order, in the wake of the Coronavirus (COVID-19) Pandemic and under the Authority of the Georgia Emer- gency Management Act of 1981.",
+		"entities": [
+			[
+				"Mayor Bo Dorough",
+				7,
+				23,
+				"PERSON"
+			],
+			[
+				"City of Albany",
+				25,
+				39,
+				"GPE"
+			],
+			[
+				"Chairman",
+				45,
+				53,
+				"TITLE"
+			],
+			[
+				"Christopher S. Cohilas",
+				54,
+				76,
+				"PERSON"
+			],
+			[
+				"Dougherty County Board of Commissioners",
+				78,
+				117,
+				"ORG"
+			],
+			[
+				"Joint Executive Order",
+				128,
+				149,
+				"LAW"
+			],
+			[
+				"Coronavirus",
+				170,
+				181,
+				"MED"
+			],
+			[
+				"COVID-19",
+				183,
+				191,
+				"MED"
+			],
+			[
+				"Georgia Emer- gency Management Act of 1981",
+				233,
+				275,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The order is in effect for seven (7) days beginning 8 a.m. on March 20, 2020.",
+		"entities": [
+			[
+				"March 20, 2020",
+				62,
+				76,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Center for Disease Control (CDC) has recommended that all events with more than 50 people be cancelled to curb the spread of COVID-19 and the World Health Organization (WHO) has classi- fied the coronavirus as a pandemic.",
+		"entities": [
+			[
+				"Center for Disease Control",
+				4,
+				30,
+				"ORG"
+			],
+			[
+				"CDC",
+				32,
+				35,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				129,
+				137,
+				"MED"
+			],
+			[
+				"World Health Organization",
+				146,
+				171,
+				"ORG"
+			],
+			[
+				"WHO",
+				173,
+				176,
+				"ORG"
+			],
+			[
+				"coronavirus",
+				199,
+				210,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "In Dougherty County, Phoebe Putney Memorial Hospital has re- ported four deaths connected to COVID-19.",
+		"entities": [
+			[
+				"Dougherty County",
+				3,
+				19,
+				"LOC"
+			],
+			[
+				"Phoebe Putney Memorial Hospital",
+				21,
+				52,
+				"FAC"
+			],
+			[
+				"COVID-19",
+				93,
+				101,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Large gatherings of individuals pose a risk of the spread of COVID-19 and the CDC recommends limiting large gatherings to contain the spread.",
+		"entities": [
+			[
+				"COVID-19",
+				61,
+				69,
+				"MED"
+			],
+			[
+				"CDC",
+				78,
+				81,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "For the full Joint Executive Order, visit Dougherty.ga.us and the News and Events/Public Notices section.",
+		"entities": [
+			[
+				"Joint Executive Order",
+				13,
+				34,
+				"LAW"
+			],
+			[
+				"Dougherty.ga.us",
+				42,
+				57,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "### About Dougherty County, Georgia Located in the heart of Southwest Georgia, Dougherty County is home to internationally recognized quail plantations, a university and technical institute.",
+		"entities": [
+			[
+				"Dougherty County",
+				10,
+				26,
+				"LOC"
+			],
+			[
+				"Georgia",
+				28,
+				35,
+				"LOC"
+			],
+			[
+				"Southwest Georgia",
+				60,
+				77,
+				"LOC"
+			],
+			[
+				"Dougherty County",
+				79,
+				95,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Our mission is to improve the quality of life for all citizens by being accessible and good stewards of our resources, delivering cost-effective, responsive services with integ- rity, fairness, and friendliness.",
+		"entities": []
+	},
+	{
+		"content": "For more information, visit Dougherty.ga.us.",
+		"entities": [
+			[
+				"Dougherty.ga.us",
+				28,
+				43,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Or, find us on Facebook at face- book.com/Dougherty.ga.us or on Twitter @1doughertycoga.",
+		"entities": [
+			[
+				"face- book.com/Dougherty.ga.us",
+				27,
+				57,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "City of Albany/Dougherty County Declaration of Disaster & Public Health Emergency FAQs When does the order go into effect?",
+		"entities": [
+			[
+				"City of Albany",
+				0,
+				14,
+				"GPE"
+			],
+			[
+				"Dougherty County",
+				15,
+				31,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The order goes into effect at 8 a.m. on March 20, 2020.",
+		"entities": [
+			[
+				"March 20, 2020",
+				40,
+				54,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "How long does the order last?",
+		"entities": []
+	},
+	{
+		"content": "The order is in place for seven days (March 25, 2020).",
+		"entities": [
+			[
+				"March 25, 2020",
+				38,
+				52,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "It may be amended at any time should circumstances dictate.",
+		"entities": []
+	},
+	{
+		"content": "Will there be enforcement and how?",
+		"entities": []
+	},
+	{
+		"content": "A violation of the order is a misdemeanor.",
+		"entities": []
+	},
+	{
+		"content": "If you have a complaint about businesses operating outside of the order or large community gatherings during the effective period, please notify the Emergency Operations Center at (229) 302-1900.",
+		"entities": [
+			[
+				"Emergency Operations Center",
+				149,
+				176,
+				"ORG"
+			],
+			[
+				"(229) 302-1900",
+				180,
+				194,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "The City may use other enforcement tools as allowed by law.",
+		"entities": [
+			[
+				"The City",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To report a potential violation of the order, Should my business close during this time?",
+		"entities": []
+	},
+	{
+		"content": "The order does not require all private businesses to temporarily close, but those that fall under the categories listed in the declaration of Public Health Emergency are expected to follow the order.",
+		"entities": []
+	},
+	{
+		"content": "If you are unsure if your business falls under the classifications listed in the order, call 311.",
+		"entities": []
+	},
+	{
+		"content": "Are daycares required to close under this order?",
+		"entities": []
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "Childcare facilities are not included in this order, but should maintain social distancing.",
+		"entities": []
+	},
+	{
+		"content": "Can production facilities and distribution centers stay open?",
+		"entities": []
+	},
+	{
+		"content": "Yes, production facilities and distribution centers may remain open so long as social distancing guidelines of six feet are followed.",
+		"entities": []
+	},
+	{
+		"content": "Will grocery stores remain open?",
+		"entities": []
+	},
+	{
+		"content": "Yes, grocery stores may remain open so long as persons are not within six feet of one another for extended periods of time.",
+		"entities": []
+	},
+	{
+		"content": "Will retailers and shopping centers have to close?",
+		"entities": []
+	},
+	{
+		"content": "Malls and shopping centers and other retail establishments are not included in the definition of community gathering so long as persons are not within six feet of one another for extended periods of time.",
+		"entities": []
+	},
+	{
+		"content": "Does my church have to cancel in-person service?",
+		"entities": []
+	},
+	{
+		"content": "Possibly.",
+		"entities": []
+	},
+	{
+		"content": "A community gathering is defined as any indoor or outdoor event or convening that brings or is likely to bring together 10 or more persons at the same time in a single room or enclosed space including auditoriums, meeting halls and event centers.",
+		"entities": []
+	},
+	{
+		"content": "Please see definitions in section 7 of the order.",
+		"entities": []
+	},
+	{
+		"content": "Depending upon the size of your congregation, your in-person services may violate the order.",
+		"entities": []
+	},
+	{
+		"content": "Can we still hold funeral services?",
+		"entities": []
+	},
+	{
+		"content": "Yes, as long as indoor attendance is limited to less than 10 persons per the community gathering definition in sections 4 and 6 of the order.",
+		"entities": []
+	},
+	{
+		"content": "Outdoor graveside services would not be subject to the community gathering prohibition as long as they are not in fenced or otherwise enclosed spaces and attendees are able to maintain 6-foot social distancing measures.",
+		"entities": []
+	},
+	{
+		"content": "Can we still hold weddings, birthday parties, book clubs, baby showers, private gatherings in a home?",
+		"entities": []
+	},
+	{
+		"content": "At a business?",
+		"entities": []
+	},
+	{
+		"content": "Possibly.",
+		"entities": []
+	},
+	{
+		"content": "Public or private community gatherings that bring together or are likely to bring together 10 or more people at the same time are prohibited.",
+		"entities": []
+	},
+	{
+		"content": "Please see Sections 4 and 6 of the Order for the specific definitions or requirements.",
+		"entities": []
+	},
+	{
+		"content": "The Mayor and Dougherty County Public Health District strongly recommend canceling, rescheduling or not attending events with more than 10 persons.",
+		"entities": [
+			[
+				"The Mayor",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Dougherty County Public Health District",
+				14,
+				53,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If my restaurant/bar/gym limits access to 10 members or less at a time, does it have to close?",
+		"entities": []
+	},
+	{
+		"content": "Restaurants are prohibited from providing service in their dining rooms.",
+		"entities": []
+	},
+	{
+		"content": "Restaurants may continue to provide drive through, pick up/curbside and delivery services.",
+		"entities": []
+	},
+	{
+		"content": "Bars and other similar establishments are closed.",
+		"entities": []
+	},
+	{
+		"content": "Gyms and other similar businesses fall under the temporary closure order.",
+		"entities": []
+	},
+	{
+		"content": "My hotel has a restaurant and/or continental breakfast buffet.",
+		"entities": []
+	},
+	{
+		"content": "Should that be closed?",
+		"entities": []
+	},
+	{
+		"content": "Yes.",
+		"entities": []
+	},
+	{
+		"content": "Food should be delivered to rooms or picked up to-go during the effective period of the order.",
+		"entities": []
+	},
+	{
+		"content": "Are beauty and barber shops allowed to stay open?",
+		"entities": []
+	},
+	{
+		"content": "Yes.",
+		"entities": []
+	},
+	{
+		"content": "Social distancing guidelines of six feet are required.",
+		"entities": []
+	},
+	{
+		"content": "Can dance studios continue classes that are limited to 10 students or less at one time?",
+		"entities": []
+	},
+	{
+		"content": "No.",
+		"entities": []
+	},
+	{
+		"content": "A dance studio falls under the category of Indoor Recreational Facility and is subject to the requirements of the order.",
+		"entities": []
+	},
+	{
+		"content": "Can employees of businesses not affected by the order still be allowed to come in to work, but remain closed to the public?",
+		"entities": []
+	},
+	{
+		"content": "Yes, as long as community gathering situations are not created as defined in the order (sections 5 and 7).",
+		"entities": []
+	},
+	{
+		"content": "The recommended six-foot social distance is required.",
+		"entities": []
+	},
+	{
+		"content": "Can we still maintain our dentist, eye doctor, and medical doctor appointments?",
+		"entities": []
+	},
+	{
+		"content": "Yes.",
+		"entities": []
+	},
+	{
+		"content": "Hospitals and medical facilities are not included in the Community Gathering definition so long as persons are generally not within 6 feet of one another for extended periods.",
+		"entities": []
+	},
+	{
+		"content": "Please see the social distancing recommendations included with the order or visit https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf Will the City work with people who cannot pay their utility bill due to being out of work as a result of COVID-19?",
+		"entities": [
+			[
+				"https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf",
+				82,
+				167,
+				"URL"
+			],
+			[
+				"City",
+				177,
+				181,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				273,
+				281,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "If you are unable to pay your bill, please contact the the Albany Utility Board at (229) 883-8330.",
+		"entities": [
+			[
+				"Albany Utility Board",
+				59,
+				79,
+				"ORG"
+			],
+			[
+				"(229) 883-8330",
+				83,
+				97,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "As always, utilities staff is prepared to work with you on a payment plan for your bill.",
+		"entities": []
+	},
+	{
+		"content": "Is public transit still running a full schedule?",
+		"entities": []
+	},
+	{
+		"content": "Yes.",
+		"entities": []
+	},
+	{
+		"content": "Transit services are not prohibited under the order and are continuing as normal, with enhanced measures for cleaning.",
+		"entities": []
+	},
+	{
+		"content": "Six foot distancing still required.",
+		"entities": []
+	},
+	{
+		"content": "Is the animal shelter remaining open?",
+		"entities": []
+	},
+	{
+		"content": "Animal shelter operations are continuing as normal.",
+		"entities": []
+	},
+	{
+		"content": "Are parks and playgrounds still open?",
+		"entities": []
+	},
+	{
+		"content": "Outdoor recreational facilities such as parks and playgrounds remain open so long as there are not gatherings of 10 or more people.",
+		"entities": []
+	},
+	{
+		"content": "Parks and Recreation has implemented an extensive cleaning schedule for all playground equipment, tables, benches and other outdoor facilities. ']",
+		"entities": [
+			[
+				"Parks and Recreation",
+				0,
+				20,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[\"attn: County EMs During some of the regional briefings that I've been doing this week, I reported that Region VII is sending questions about this event up to FEMA Headquarters for clarification.",
+		"entities": [
+			[
+				"FEMA",
+				160,
+				164,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FEMA Region VII has been sending us a compilation of those questions every couple of weeks.",
+		"entities": [
+			[
+				"FEMA",
+				0,
+				4,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Some of the EM's I've talked to expressed an interest in seeing those questions, so I'm sending you the latest list of questions and answers.",
+		"entities": []
+	},
+	{
+		"content": "I'm also attaching a list of all of the applicants who have already entered a Request for Public Assistance for your use.",
+		"entities": []
+	},
+	{
+		"content": "The remaining four documents are ones that I think you will be able to refer to often in the days ahead and while you may have received them before, I'm sending them again here.",
+		"entities": []
+	},
+	{
+		"content": "It is instructions you can give to potential applicants, a list of eligible emergency protective measures, updated information about procurement rules during this event and a blank copy of the RPA form.",
+		"entities": []
+	},
+	{
+		"content": "Additionally, an Applicant Briefing slide deck and other forms and fact sheets have been posted on the KDEM PA website at http://www.kansastag.gov/KDEM.asp?PageID=166 Please feel free to refer folks to this page for information about applying for FEMA PA.",
+		"entities": [
+			[
+				"KDEM",
+				103,
+				107,
+				"ORG"
+			],
+			[
+				"http://www.kansastag.gov/KDEM.asp?PageID=166",
+				122,
+				166,
+				"URL"
+			],
+			[
+				"FEMA",
+				247,
+				251,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Please do not hesitate to contact me if you have other questions or concerns.",
+		"entities": []
+	},
+	{
+		"content": "And, again, thank you all for your help.",
+		"entities": []
+	},
+	{
+		"content": "Christina J. Flyntz Public Assistance Officer Kansas Division of Emergency Management 2800 SW Topeka Blvd Topeka, KS 66611 christina.j.flyntz.nfg@mail.mil 785-646-2523 3 \"]",
+		"entities": [
+			[
+				"Christina J. Flyntz",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"Public Assistance Officer",
+				20,
+				45,
+				"TITLE`"
+			],
+			[
+				"Kansas Division of Emergency Management",
+				46,
+				85,
+				"ORG"
+			],
+			[
+				"2800 SW Topeka Blvd",
+				86,
+				105,
+				"ADDRESS"
+			],
+			[
+				"Topeka, KS",
+				106,
+				116,
+				"LOC"
+			],
+			[
+				"christina.j.flyntz.nfg@mail.mil",
+				123,
+				154,
+				"EMAIL"
+			],
+			[
+				"785-646-2523",
+				155,
+				167,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "['Sent: Thursday, January 23, 2020 9:18 AM",
+		"entities": [
+			[
+				"Thursday, January 23, 2020",
+				8,
+				34,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Figliola, Mike <Mike.Figliola@turner.com>",
+		"entities": [
+			[
+				"Figliola, Mike",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"Mike.Figliola@turner.com",
+				20,
+				44,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: Request from CNN's New Day Checking now for all times between 6- 9 will let you know soonest Patricia L. Conrad Public Health Analyst and Special Assistant to the Director National Institute of Allergy and Infectious Diseases",
+		"entities": [
+			[
+				"CNN",
+				26,
+				29,
+				"ORG"
+			],
+			[
+				"New Day",
+				32,
+				39,
+				"EVENT"
+			],
+			[
+				"Patricia L. Conrad",
+				106,
+				124,
+				"PERSON"
+			],
+			[
+				"Public Health Analyst and Special Assistant to the Director",
+				125,
+				184,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				185,
+				238,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The National Institutes of Health 31 Center Drive, MSC 2520 - Room 7A03 Bethesda, Maryland 20892 301-496-4409 fax Disclaimer:",
+		"entities": [
+			[
+				"National Institutes of Health",
+				4,
+				33,
+				"ORG"
+			],
+			[
+				"31 Center Drive, MSC 2520 - Room 7A03",
+				34,
+				71,
+				"ADDRESS"
+			],
+			[
+				"Bethesda, Maryland",
+				72,
+				90,
+				"LOC"
+			],
+			[
+				"301-496-4409",
+				97,
+				109,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": []
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statement made that are sender's gwn and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				0,
+				53,
+				"ORG"
+			],
+			[
+				"NIAID",
+				55,
+				60,
+				"ORG"
+			],
+			[
+				"NIAID",
+				174,
+				179,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Figliola, Mike <Mlike.Figlicla@turner.com>",
+		"entities": [
+			[
+				"Figliola, Mike",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"Mlike.Figlicla@turner.com",
+				22,
+				47,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, January 23, 2020 9:10 AM",
+		"entities": [
+			[
+				"Thursday, January 23, 2020",
+				6,
+				32,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Conrad, Patricia (NIH/NIAID)",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				22,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] Subject: RE: Request from CNN's New Day Hi again Could be back half of 7Zam",
+		"entities": [
+			[
+				"CNN",
+				30,
+				33,
+				"ORG"
+			],
+			[
+				"New Day",
+				36,
+				43,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "but if this gets much worse we may play it higher in the hour —is there any time that doesn’t work?",
+		"entities": []
+	},
+	{
+		"content": "Mike Figliola Editorial Producer CNN's New Day NIH-001840 mike figliola@turner.com <image001.jpg> CONFIDENTIALITY NOTICE:",
+		"entities": [
+			[
+				"Mike Figliola",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Editorial Producer",
+				14,
+				32,
+				"TITLE"
+			],
+			[
+				"CNN",
+				33,
+				36,
+				"ORG"
+			],
+			[
+				"New Day",
+				39,
+				46,
+				"EVENT"
+			],
+			[
+				"mike figliola@turner.com",
+				58,
+				82,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "This e-mail transmission, and any documents, files or previous e-mail messages attached to it, may contain confidential information that is legally privileged.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient, or a person responsible for delivering it to the intended recipient, you are hereby notified that any disclosure, copying, distribution or use of any of the information contained in or attached to this message is STRICTLY PROHIBITED.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this transmission in error, please immediately notify us by reply e-mail at mike figliola@turner.com or by telephone at (917) 670-9410, and destroy the original transmission and its attachments without reading them or saving them to disk.",
+		"entities": [
+			[
+				"mike figliola@turner.com",
+				97,
+				121,
+				"EMAIL"
+			],
+			[
+				"(917) 670-9410",
+				141,
+				155,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "Sent: Thursay, January 23, 2020 8:57 AM To: Figliola, Mike <Mike Figliola@turner.com>",
+		"entities": [
+			[
+				"Thursay, January 23, 2020",
+				6,
+				31,
+				"DATE"
+			],
+			[
+				"Figliola, Mike",
+				44,
+				58,
+				"PERSON"
+			],
+			[
+				"Mike Figliola@turner.com",
+				60,
+				84,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Subject: FW: Request from CNN's New Day",
+		"entities": [
+			[
+				"CNN",
+				26,
+				29,
+				"ORG"
+			],
+			[
+				"New Day",
+				32,
+				39,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Hi Mike — we can make this happen.",
+		"entities": [
+			[
+				"Mike",
+				3,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The 7 am hour is best for us but will get back to you.",
+		"entities": []
+	},
+	{
+		"content": "do you have an idea of the hit time?",
+		"entities": []
+	},
+	{
+		"content": "need to make sure our nih studio is available.",
+		"entities": [
+			[
+				"nih",
+				22,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "thx Patricia L. Conrad Public Health Analyst and Special Assistant to the Director National Institute of Allergy and Infectious Diseases",
+		"entities": [
+			[
+				"Patricia L. Conrad",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"Public Health Analyst",
+				23,
+				44,
+				"TITLE"
+			],
+			[
+				"Special Assistant to the Director",
+				49,
+				82,
+				"ORG"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				83,
+				136,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The National Institutes of Health 31 Center Drive, MSC 2520 - Room 7A03 Bethesda, Maryland 20892 301-496-4409 fax NIH-001841 Disclaimer:",
+		"entities": [
+			[
+				"National Institutes of Health",
+				4,
+				33,
+				"ORG"
+			],
+			[
+				"31 Center Drive, MSC 2520 - Room 7A03",
+				34,
+				71,
+				"ADDRESS"
+			],
+			[
+				"Bethesda, Maryland",
+				72,
+				90,
+				"LOC"
+			],
+			[
+				"301-496-4409",
+				97,
+				109,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": []
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statement made that are sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				0,
+				53,
+				"ORG"
+			],
+			[
+				"NIAID",
+				55,
+				60,
+				"ORG"
+			],
+			[
+				"NIAID",
+				174,
+				179,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Begin forwarded message: From: \"Figliola, Mike\" <Mlike.Figliola@turner.com>",
+		"entities": [
+			[
+				"Figliola, Mike",
+				32,
+				46,
+				"PERSON"
+			],
+			[
+				"Mlike.Figliola@turner.com",
+				49,
+				74,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Date: January 23, 2020 at 8:36:15 AM EST",
+		"entities": [
+			[
+				"January 23, 2020",
+				6,
+				22,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: \"Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				5,
+				19,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				21,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" Suect: RE:",
+		"entities": []
+	},
+	{
+		"content": "Reque from CNN's New Day",
+		"entities": [
+			[
+				"CNN",
+				11,
+				14,
+				"ORG"
+			],
+			[
+				"New Day",
+				17,
+				24,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Hi everyone, This is Mike with CNN’s New Day",
+		"entities": [
+			[
+				"Mike",
+				21,
+				25,
+				"PERSON"
+			],
+			[
+				"CNN",
+				31,
+				34,
+				"ORG"
+			],
+			[
+				"New Day",
+				37,
+				44,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Hope you are",
+		"entities": []
+	},
+	{
+		"content": "well We would like to invite Dr, Fauci back to the program to discuss coronavirus Might he be available tomorrow",
+		"entities": [
+			[
+				"Dr, Fauci",
+				29,
+				38,
+				"PERSON"
+			],
+			[
+				"coronavirus",
+				70,
+				81,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "We air 6-9am and happy to provide car service to and from the studio wherever you are located.",
+		"entities": []
+	},
+	{
+		"content": "John Berman and Alisyn Camerota anchor from NY.",
+		"entities": [
+			[
+				"John Berman",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"Alisyn Camerota",
+				16,
+				31,
+				"PERSON"
+			],
+			[
+				"NY",
+				44,
+				46,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Thoughts?",
+		"entities": []
+	},
+	{
+		"content": "best, M NIH-001842 Mike Figliola Editorial Producer CNN'’s New Day 'ike.ﬂglloia@turner.com <image001.jpg> CONFIDENTIALITY NOTICE:",
+		"entities": [
+			[
+				"Mike Figliola",
+				19,
+				32,
+				"PERSON"
+			],
+			[
+				"Editorial Producer",
+				33,
+				51,
+				"TITLE"
+			],
+			[
+				"CNN",
+				52,
+				55,
+				"ORG"
+			],
+			[
+				"New Day",
+				59,
+				66,
+				"EVENT"
+			],
+			[
+				"ike.ﬂglloia@turner.com",
+				68,
+				90,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "This e- mail transmission, and any documents, files or previous e-mail messages attached to it, may contain confidential information that is legally privileged.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient, or a person responsible for delivering it to the intended recipient, you are hereby notified that any disclosure, copying, distribution or use of any of the information contained in or attached to this message is STRICTLY PROHIBITED.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this transmission in error, please immediately notify us by reply e-mail at mike figliola@turner.com or by telephone at (917) 670-9410, and destroy the original transmission and its attachments without reading them or saving them to disk.",
+		"entities": [
+			[
+				"mike figliola@turner.com",
+				97,
+				121,
+				"EMAIL"
+			],
+			[
+				"(917) 670-9410",
+				141,
+				155,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "(@ NIH-001843 ']",
+		"entities": []
+	},
+	{
+		"content": "[' The Morning Pulse APRIL 16, 2020 FS \"'.",
+		"entities": [
+			[
+				"The Morning Pulse",
+				3,
+				20,
+				"ORG"
+			],
+			[
+				"APRIL 16, 2020",
+				21,
+				35,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": ";",
+		"entities": []
+	},
+	{
+		"content": "and",
+		"entities": []
+	},
+	{
+		"content": "k.Considered an \" industry insider\", thought - leader and an independent voice on retirement, personal finance and related issues, he has appeared in both television and print discussing the issues related to retirement and the capital markets.",
+		"entities": []
+	},
+	{
+		"content": "779 he Broadcast Retirement Network ( BRN) is the first lifestyle media platform focused n helping Americans achieve financial independence and to make retirement and savings culturally relevant.",
+		"entities": [
+			[
+				"Broadcast Retirement Network",
+				7,
+				35,
+				"ORG"
+			],
+			[
+				"BRN",
+				38,
+				41,
+				"ORG"
+			],
+			[
+				"Americans",
+				99,
+				108,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The content is informative and engages the viewer.",
+		"entities": []
+	},
+	{
+		"content": "Most importantly - No agendas, no sales pitches, no product pushes.",
+		"entities": []
+	},
+	{
+		"content": "Our morning show, BRN AM, provides an assessment of daily issues so that Americans an create a plan of action for themselves and their families.",
+		"entities": [
+			[
+				"BRN AM",
+				18,
+				24,
+				"EVENT"
+			],
+			[
+				"Americans",
+				73,
+				82,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "BRN AM focuses on delivering headline news via brief interviews with real Americans working toward their financial goals.",
+		"entities": [
+			[
+				"BRN AM",
+				0,
+				6,
+				"EVENT"
+			],
+			[
+				"Americans",
+				74,
+				83,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Unlike financial shows which prioritize institutional investment managers and public policy organizations, BRN AM is a lifestyle show that brings the stories and ideas of regular Americans to the forefront.",
+		"entities": [
+			[
+				"BRN AM",
+				107,
+				110,
+				"EVENT"
+			],
+			[
+				"Americans",
+				179,
+				188,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "We engage with a range of topics pertaining to retirement, focusing individual episodes on personal finance, healthcare, social security, home -ownership and so on to provide viewers with the full picture regarding the future of financial security in America.",
+		"entities": [
+			[
+				"America",
+				251,
+				258,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The hyperlinks above take you to internet site( s) sponsored and maintained by independent third parties that are unaffiliated with The Morning Pulse, Inc.",
+		"entities": [
+			[
+				"The Morning Pulse, Inc.",
+				132,
+				155,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The hyperlinks as provided are maintained to provide the author( s) and their respective organizations the proper attribution for developing the original content.",
+		"entities": []
+	},
+	{
+		"content": "The links and content provided in The Morning Pulse and The Weekly Pulse are for general reference and educational purposes only.",
+		"entities": [
+			[
+				"The Morning Pulse",
+				34,
+				51,
+				"ORG"
+			],
+			[
+				"The Weekly Pulse",
+				56,
+				72,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Although we believe the content provider to be a reliable source of information, we do not guarantee the accuracy of the information or warranty the representations of such Websites.",
+		"entities": []
+	},
+	{
+		"content": "The information available through these Web sites has not been prepared by nor does The Morning Pulse, Inc. have an ability to alter the content, and content will not be monitored by The Morning Pulse, Inc. in the future.",
+		"entities": [
+			[
+				"The Morning Pulse, Inc.",
+				84,
+				107,
+				"ORG"
+			],
+			[
+				"The Morning Pulse, Inc.",
+				183,
+				206,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Morning Pulse, Inc. assumes no responsibility for the use of or inability to use such site and recommends you review the terms, conditions, and privacy policy applying to your use of the site.",
+		"entities": [
+			[
+				"The Morning Pulse, Inc.",
+				0,
+				23,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Expression of opinions contained on these hyperlinks may or may not be consistent with the opinions of The Morning Pulse, Inc.",
+		"entities": [
+			[
+				"The Morning Pulse, Inc.",
+				103,
+				126,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Copyright 02020",
+		"entities": []
+	},
+	{
+		"content": "The Morning Pulse, Inc., All rights reserved.",
+		"entities": [
+			[
+				"The Morning Pulse, Inc.",
+				0,
+				23,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This email was sent to mmccoygdougherty.ga.us why did 1 get this?",
+		"entities": [
+			[
+				"mmccoygdougherty.ga.us",
+				23,
+				45,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "unsubscribe from this list update subscription preferences The Morning Pulse, Inc. • 4 Beacon Way • Jersey City, NJ 07304 •",
+		"entities": [
+			[
+				"The Morning Pulse, Inc.",
+				59,
+				82,
+				"ORG"
+			],
+			[
+				"4 Beacon Way",
+				85,
+				97,
+				"ADDRESS"
+			],
+			[
+				"Jersey City, NJ",
+				100,
+				115,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "USA PUBLIC RECORDS NOTICE:",
+		"entities": [
+			[
+				"USA",
+				0,
+				3,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Georgia has a very broad public records lava.",
+		"entities": [
+			[
+				"Georgia",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Most written communications to or from City and County o dals regarding City and County business are public records available to the public and media upon request.",
+		"entities": [
+			[
+				"City",
+				39,
+				43,
+				"GPE"
+			],
+			[
+				"County",
+				48,
+				54,
+				"GPE"
+			],
+			[
+				"City",
+				72,
+				76,
+				"GPE"
+			],
+			[
+				"County",
+				81,
+				87,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Your email communications may be subject to public disclosure.",
+		"entities": []
+	},
+	{
+		"content": "780 ']",
+		"entities": []
+	},
+	{
+		"content": "[\" So glad I did reach out to you.",
+		"entities": []
+	},
+	{
+		"content": "Please respond directly to Mr. Zwerling for me then.",
+		"entities": [
+			[
+				"Mr. Zwerling",
+				27,
+				39,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "From: Dorian Stonebarger <dstonebarger@lasvegasnevada.gov>",
+		"entities": [
+			[
+				"Dorian Stonebarger",
+				6,
+				24,
+				"PERSON"
+			],
+			[
+				"dstonebarger@lasvegasnevada.gov",
+				26,
+				57,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, April 13, 2020",
+		"entities": [
+			[
+				"Monday, April 13, 2020",
+				6,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "1:29 PM",
+		"entities": []
+	},
+	{
+		"content": "To: Carolyn G. Goodman <cgoodman@LasVegasNevada.GOV>",
+		"entities": [
+			[
+				"Carolyn G. Goodman",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"cgoodman@LasVegasNevada.GOV",
+				24,
+				51,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Kimberly Reid <kreid@LasVegasNevada.GOV> Subject: RE: Liquor/Wine - Covid 19 Mayor, Thank you for checking.",
+		"entities": [
+			[
+				"Kimberly Reid",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"kreid@LasVegasNevada.GOV",
+				19,
+				43,
+				"EMAIL"
+			],
+			[
+				"Covid 19",
+				72,
+				80,
+				"MED"
+			],
+			[
+				"Mayor",
+				81,
+				86,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Although the below is true that one of ReBar’s distributors had missed their delivery, they should be fine sticking with their previously approved vendors.",
+		"entities": [
+			[
+				"ReBar",
+				39,
+				44,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Had he known that Mr. Zwerling would be reaching out to you directly he would have given him better guidance.",
+		"entities": [
+			[
+				"Mr. Zwerling",
+				18,
+				30,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best, Dorian From: Carolyn G. Goodman <cgoodman@LasVegasNevada.GOV>",
+		"entities": [
+			[
+				"Dorian",
+				6,
+				12,
+				"PERSON"
+			],
+			[
+				"Carolyn G. Goodman",
+				19,
+				37,
+				"PERSON"
+			],
+			[
+				"cgoodman@LasVegasNevada.GOV",
+				39,
+				66,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, April 13, 2020 1:07 PM",
+		"entities": [
+			[
+				"Monday, April 13, 2020",
+				6,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Dorian Stonebarger <dstonebarger@lasvegasnevada.gov>",
+		"entities": [
+			[
+				"Dorian Stonebarger",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"dstonebarger@lasvegasnevada.gov",
+				24,
+				55,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Kimberly Reid <kreid@LasVegasNevada.GOV> Subject: FW: Liquor/Wine - Covid 19 Importance:",
+		"entities": [
+			[
+				"Kimberly Reid",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"kreid@LasVegasNevada.GOV",
+				19,
+				43,
+				"EMAIL"
+			],
+			[
+				"Covid 19",
+				72,
+				80,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "High What’s this, please?",
+		"entities": []
+	},
+	{
+		"content": "From: Terry Zwerling Sent: Friday, April 10, 2020 10:16 PM",
+		"entities": [
+			[
+				"Terry Zwerling",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"Friday, April 10, 2020",
+				27,
+				49,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Carolyn G. Goodman <cgoodman@LasVegasNevada.GOV> Subject: Liquor/Wine - Covid 19 Importance:",
+		"entities": [
+			[
+				"Carolyn G. Goodman",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"cgoodman@LasVegasNevada.GOV",
+				24,
+				51,
+				"EMAIL"
+			],
+			[
+				"Covid 19",
+				76,
+				84,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "High CLV001299 CAUTION:",
+		"entities": []
+	},
+	{
+		"content": "This email originated from an External Source.",
+		"entities": []
+	},
+	{
+		"content": "Please use caution before opening attachments, clicking links, or responding to this email.",
+		"entities": []
+	},
+	{
+		"content": "Do not sign-in with your City of Las Vegas account credentials.",
+		"entities": [
+			[
+				"City of Las Vegas",
+				25,
+				42,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Dear Carolyn, Good evening.",
+		"entities": [
+			[
+				"Carolyn",
+				5,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "How are you, your health and Oscar?",
+		"entities": [
+			[
+				"Oscar",
+				29,
+				34,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We know each other through Cynthia Dustin Cruz and Oscar was my uncle's attorney.",
+		"entities": [
+			[
+				"Cynthia Dustin Cruz",
+				27,
+				46,
+				"PERSON"
+			],
+			[
+				"Oscar",
+				51,
+				56,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I represent a good cause in these trying times.",
+		"entities": []
+	},
+	{
+		"content": "Our friend Derek Stonegraber was stood up by his distributor, Breakthru Beverage today.",
+		"entities": [
+			[
+				"Derek Stonegraber",
+				11,
+				28,
+				"PERSON"
+			],
+			[
+				"Breakthru Beverage",
+				62,
+				80,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Would it be possible for a local Vegas retail chain to ship to Derrick for resale?",
+		"entities": [
+			[
+				"Vegas",
+				33,
+				38,
+				"LOC"
+			],
+			[
+				"Derrick",
+				63,
+				70,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "An approval letter is all we require and it helps the public, Derrick and our inventory of beer.",
+		"entities": [
+			[
+				"Derrick",
+				62,
+				69,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Beer has an expiration like produce.",
+		"entities": []
+	},
+	{
+		"content": "My proposal is a one time ship from Liquor World to Rehbar for resale in the month of April.",
+		"entities": [
+			[
+				"Liquor World",
+				36,
+				48,
+				"ORG"
+			],
+			[
+				"Rehbar",
+				52,
+				58,
+				"ORG"
+			],
+			[
+				"April",
+				86,
+				91,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Thank you for your consideration.",
+		"entities": []
+	},
+	{
+		"content": "Sincerely, Terry Zwerling Sent via the Samsung Galaxy S7 edge, an AT&T 4G LTE smartphone CLV001300 \"]",
+		"entities": [
+			[
+				"Terry Zwerling",
+				11,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[' Sponsored by: Health Tradition Health Tradition From WisPolitics.com/WisBusiness.com ... --",
+		"entities": [
+			[
+				"WisPolitics.com/WisBusiness.com",
+				56,
+				87,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Attorney General Josh Kaul says that while a decline in opioid prescriptions in Wisconsin is progress, there is still room for improvement.",
+		"entities": [
+			[
+				"Attorney General",
+				0,
+				16,
+				"TITLE"
+			],
+			[
+				"Josh Kaul",
+				17,
+				26,
+				"PERSON"
+			],
+			[
+				"Wisconsin",
+				80,
+				89,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "\"The biggest public safety challenge we face and one of the most important public health issues we face in Wisconsin is the opioid epidemic,\" Kaul told reporters yesterday at a news conference ahead of testifying on a sexual assault test kit bill.",
+		"entities": [
+			[
+				"Wisconsin",
+				107,
+				116,
+				"LOC"
+			],
+			[
+				"Kaul",
+				142,
+				146,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\"There has been a decline in opioid prescriptions in the last few years,\" he said.",
+		"entities": []
+	},
+	{
+		"content": "But \"the prescription rates for opioids remain far, far higher than they were approximately 20 years ago.",
+		"entities": []
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "President Trump addressed the opioid crisis in his State of the Union.",
+		"entities": [
+			[
+				"President Trump",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"State of the Union",
+				64,
+				69,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "He said that his administration is curbing the opioid epidemic, adding that Wisconsin's drug overdose death declined by 10 percent.",
+		"entities": [
+			[
+				"Wisconsin",
+				76,
+				85,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "\"We will not quit until we have beaten the opioid epidemic once and for all,\" Trump said.",
+		"entities": [
+			[
+				"Trump",
+				78,
+				83,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Kaul called for three steps to combat opioids and meth, which he added is another growing challenge in Wisconsin.",
+		"entities": [
+			[
+				"Kaul",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Wisconsin",
+				103,
+				112,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "\"One, we need to keep working to raise awareness about these issues and educate people about these issues so that we can reduce the use of opioids and meth,\" he said.",
+		"entities": []
+	},
+	{
+		"content": "See more at WisBusiness.com.",
+		"entities": [
+			[
+				"WisBusiness.com",
+				12,
+				27,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Sponsored by: Wisconsin Academy of Physician Assistants -- Rep. David Steffen, who authored a new version of legislation creating a statutory framework for sexual assault test kits, said provisions that critics are now decrying as poison pills were added to get his Assembly Republican colleagues on board.",
+		"entities": [
+			[
+				"Wisconsin Academy of Physician Assistants",
+				14,
+				55,
+				"ORG"
+			],
+			[
+				"Rep. David Steffen",
+				59,
+				77,
+				"PERSON"
+			],
+			[
+				"Assembly",
+				266,
+				274,
+				"ORG"
+			],
+			[
+				"Republican",
+				275,
+				285,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Steffen co-authored the original version of the legislation, which cleared the Senate on a voice vote in October but has been stalled in the Assembly.",
+		"entities": [
+			[
+				"Steffen",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Senate",
+				79,
+				85,
+				"LOC"
+			],
+			[
+				"October",
+				105,
+				112,
+				"DATE"
+			],
+			[
+				"Assembly",
+				141,
+				149,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He then released a new version last week that included provisions such as requiring law enforcement to notify the U.S. Immigration and Customs Enforcement if a non-citizen who wasn't authorized to be in the country was arrested for sexual assault.",
+		"entities": [
+			[
+				"U.S. Immigration and Customs Enforcement",
+				114,
+				154,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Dems, activists, survivors and members of the general public yesterday accused Assembly GOP lawmakers of playing politics with the bill by adding the provisions.",
+		"entities": [
+			[
+				"Dems",
+				0,
+				4,
+				"NORP"
+			],
+			[
+				"GOP",
+				88,
+				91,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "But Steffen testified before the Assembly Health Committee hearing yesterday the changes were needed to get the bill moving.",
+		"entities": [
+			[
+				"Steffen",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"Assembly Health Committee",
+				33,
+				58,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "\"The clock was ticking loudly, and I didn't want to go another session without this getting done,\" the Green Bay Republican said.",
+		"entities": [
+			[
+				"Green Bay Republican",
+				103,
+				123,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\"Sometimes the sausage-making is so ugly that it is appropriately behind closed doors.",
+		"entities": []
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "The original proposal, SB 200, would require the testing of all sexual assault kits where the victim consented to a test, as well as require the storage of kits for up to 50 years.",
+		"entities": [
+			[
+				"SB 200",
+				23,
+				29,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Its Assembly companion AB 214, which has over 50 of the 99 Assembly representatives signed on as co-sponsors, has yet to receive a hearing in the Assembly Health Committee.",
+		"entities": [
+			[
+				"Assembly",
+				4,
+				12,
+				"ORG"
+			],
+			[
+				"AB 214",
+				23,
+				29,
+				"LAW"
+			],
+			[
+				"Assembly representatives",
+				59,
+				83,
+				"PERSON"
+			],
+			[
+				"Assembly Health Committee",
+				146,
+				171,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "See more at WisPolitics.com.\\xa0\\xa0 Top Stories - Hong Kong Mandates Quarantine For Mainland Arrivals; Coronavirus Cases Surpass 28,000 - Coronavirus death toll reaches 565 - Coronavirus Puts A Crimp On The Chinese Tourism Industry - French drugmaker Sanofi working on coronavirus initiative - Partial e-cigarette 'flavor ban' goes into effect today.",
+		"entities": [
+			[
+				"WisPolitics.com",
+				12,
+				27,
+				"URL"
+			],
+			[
+				"Hong Kong",
+				53,
+				62,
+				"GPE"
+			],
+			[
+				"Mainland",
+				85,
+				93,
+				"LOC"
+			],
+			[
+				"Coronavirus",
+				104,
+				115,
+				"MED"
+			],
+			[
+				"Coronavirus",
+				139,
+				150,
+				"MED"
+			],
+			[
+				"Coronavirus",
+				176,
+				187,
+				"MED"
+			],
+			[
+				"Chinese",
+				208,
+				215,
+				"NORP"
+			],
+			[
+				"French",
+				237,
+				243,
+				"NORP"
+			],
+			[
+				"Sanofi",
+				252,
+				258,
+				"ORG"
+			],
+			[
+				"coronavirus",
+				270,
+				281,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Here's what happens next - Governors warn Trump rule could lead to big Medicaid cuts - Gene Variation May Protect Against Alzheimer's:",
+		"entities": [
+			[
+				"Trump",
+				42,
+				47,
+				"PERSON"
+			],
+			[
+				"Medicaid",
+				71,
+				79,
+				"ORG"
+			],
+			[
+				"Alzheimer",
+				122,
+				131,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Study Press Releases - Rep. Nygren:",
+		"entities": [
+			[
+				"Rep. Nygren",
+				23,
+				34,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Bill regulating PFAS firefighting foam signed into law - Rep. Considine: We must address student mental health - WAFCA: Governor signs bill expanding mental health consultation for students Copyright © 2020 WisPolitics.com, All rights reserved.",
+		"entities": [
+			[
+				"Rep. Considine",
+				57,
+				71,
+				"PERSON"
+			],
+			[
+				"2020",
+				202,
+				206,
+				"DATE"
+			],
+			[
+				"WisPolitics.com",
+				207,
+				222,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "WisPolitics.com news subscription Our mailing address is: WisPolitics.com 14 W. Mifflin, Ste. 222",
+		"entities": [
+			[
+				"WisPolitics.com",
+				0,
+				15,
+				"URL"
+			],
+			[
+				"WisPolitics.com",
+				58,
+				73,
+				"URL"
+			],
+			[
+				"14 W. Mifflin, Ste. 222",
+				74,
+				97,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Madison, WI 53703 Add us to your address book Want to change which emails you receive?",
+		"entities": [
+			[
+				"Madison, WI",
+				0,
+				11,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Update your preferences here.",
+		"entities": []
+	},
+	{
+		"content": "If you would like to stop delivery of ALL WisPolitics.com/WisBusiness.com emails, unsubscribe here. ']",
+		"entities": [
+			[
+				"WisPolitics.com/WisBusiness.com",
+				42,
+				73,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "[\"Hi, Mike was asking about case numbers.",
+		"entities": [
+			[
+				"Mike",
+				6,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He is saying that we will need to address that, either with numbers or explaining why we don't have them.",
+		"entities": []
+	},
+	{
+		"content": "Have you heard back from Cargill on this subject?",
+		"entities": [
+			[
+				"Cargill",
+				25,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Should we try and say something in this press release?",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Mary -- ________________________________________",
+		"entities": [
+			[
+				"Mary",
+				8,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mary Brumage | Marketing & Media Specialist Northeast Colorado Health Department 700 Columbine Street Sterling, Colorado 80751 970-522-3741 ext.",
+		"entities": [
+			[
+				"Mary Brumage",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"Marketing & Media Specialist",
+				15,
+				43,
+				"TITLE"
+			],
+			[
+				"Northeast Colorado Health Department",
+				44,
+				80,
+				"ORG"
+			],
+			[
+				"700 Columbine Street",
+				81,
+				101,
+				"ADDRESS"
+			],
+			[
+				"Sterling, Colorado",
+				102,
+				120,
+				"LOC"
+			],
+			[
+				"970-522-3741",
+				127,
+				139,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "1257 970-522-1412 fax maryb@nchd.org Protecting Health; Inspiring Prevention CONFIDENTIALITY NOTICE:",
+		"entities": [
+			[
+				"970-522-1412",
+				5,
+				17,
+				"PHONE"
+			],
+			[
+				"maryb@nchd.org",
+				22,
+				36,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "The information contained in this message may be confidential information intended for the use of the individual or entity named above.",
+		"entities": []
+	},
+	{
+		"content": "If the reader of this message is not the intended recipient, or the employee or agent responsible to deliver it to the intended recipient, you are hereby notified that any release, dissemination, distribution, or copying of this communication is proh bited.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this communication in error, please notify the author immediately by replying to this message and delete the original message.",
+		"entities": []
+	},
+	{
+		"content": "Thank you. \"]",
+		"entities": []
+	},
+	{
+		"content": "[\"Morning – I have not been able to get excel to load my info so sending it this way:",
+		"entities": []
+	},
+	{
+		"content": "Last contact 5/21 Eric Faisst is health department Madison lead Eric Faisst Eric.Faisst@madisoncounty.ny.gov; Eric Faisst Director of Public Health Madison County Department of Health 138 N. Court Street, PO Box 605",
+		"entities": [
+			[
+				"5/21",
+				13,
+				17,
+				"DATE"
+			],
+			[
+				"Eric Faisst",
+				18,
+				29,
+				"PERSON"
+			],
+			[
+				"Madison",
+				51,
+				58,
+				"LOC"
+			],
+			[
+				"Eric Faisst",
+				64,
+				75,
+				"PERSON"
+			],
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				76,
+				108,
+				"EMAIL"
+			],
+			[
+				"Eric Faisst",
+				110,
+				121,
+				"PERSON"
+			],
+			[
+				"Director of Public Health",
+				122,
+				147,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				148,
+				183,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				184,
+				215,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Wampsville, NY 13163 P: 315-366-2361 F: 315-3662697 Email: eric.faisst@madisoncounty.ny.gov Website: www.healthymadisoncounty.org No plan is currently in place.",
+		"entities": [
+			[
+				"Wampsville, NY",
+				0,
+				14,
+				"LOC"
+			],
+			[
+				"315-366-2361",
+				24,
+				36,
+				"PHONE"
+			],
+			[
+				"315-3662697",
+				40,
+				51,
+				"PHONE"
+			],
+			[
+				"eric.faisst@madisoncounty.ny.gov",
+				59,
+				91,
+				"EMAIL"
+			],
+			[
+				"www.healthymadisoncounty.org",
+				101,
+				129,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "For Empire Green outbreak the workers were in hotels and did not get moved.",
+		"entities": [
+			[
+				"Empire Green outbreak",
+				4,
+				25,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "From: Richard Stup Sent: Thursday, May 21, 2020",
+		"entities": [
+			[
+				"Richard Stup",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"Thursday, May 21, 2020",
+				25,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "3:10 PM",
+		"entities": []
+	},
+	{
+		"content": "To: Karin Bump <kbump@cornell.edu>",
+		"entities": [
+			[
+				"Karin Bump",
+				4,
+				14,
+				"PERSON"
+			],
+			[
+				"kbump@cornell.edu",
+				16,
+				33,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: CCE/NYFB Farm Employee Housing Action Plan follow up Hi Karin, two things: 1.",
+		"entities": [
+			[
+				"CCE/NYFB",
+				13,
+				21,
+				"ORG"
+			],
+			[
+				"Karin",
+				69,
+				74,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Could you please update the info for your county in the Excel file for this project?",
+		"entities": []
+	},
+	{
+		"content": "I know you’ve been actively working with your county health department.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Would you be willing to share on the call tomorrow morning about your experiences working with the local department?",
+		"entities": []
+	},
+	{
+		"content": "I’m trying to get all the ED’s and NYFB staff to really appreciate the urgency of this planning.",
+		"entities": [
+			[
+				"ED",
+				26,
+				28,
+				"ORG"
+			],
+			[
+				"NYFB",
+				35,
+				39,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Your team is living through an outbreak and you would have a good perspective.",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Rich From: Karin Bump <kbump@cornell.edu>",
+		"entities": [
+			[
+				"Rich",
+				8,
+				12,
+				"PERSON"
+			],
+			[
+				"Karin Bump",
+				19,
+				29,
+				"PERSON"
+			],
+			[
+				"kbump@cornell.edu",
+				31,
+				48,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Wednesday, May 20, 2020 2:18 PM",
+		"entities": [
+			[
+				"Wednesday, May 20, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Richard Stup <res396@cornell.edu>",
+		"entities": [
+			[
+				"Richard Stup",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"res396@cornell.edu",
+				18,
+				36,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: CCE/NYFB Farm Employee Housing Action Plan follow up Hi Richard – is this only for CCE or could I invite our county health department lead?",
+		"entities": [
+			[
+				"CCE/NYFB",
+				13,
+				21,
+				"ORG"
+			],
+			[
+				"Richard",
+				69,
+				76,
+				"PERSON"
+			],
+			[
+				"CCE",
+				96,
+				99,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Richard Stup <res396@cornell.edu>",
+		"entities": [
+			[
+				"Richard Stup",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"res396@cornell.edu",
+				20,
+				38,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Wednesday, May 20, 2020 12:39 PM",
+		"entities": [
+			[
+				"Wednesday, May 20, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: lwickham@nyfb.org; Kevin J. Jordan <kjj33@cornell.edu>; Andrea Lista <aml355@cornell.edu>; Casey L Sukeforth <cls348@cornell.edu>; pdugan@nyfb.org; James R. Barber <jrb248@cornell.edu>; lmcgrath@lifb.com; 262 lmcgrath@lifb.com; admin@lifb.com; Jared Buono <jb2559@cornell.edu>; Nicolina Venice Foti <nvf5@cornell.edu>; Diane B. Held <dbh24@cornell.edu>; Ariel Kirk <adk39@cornell.edu>; Michele E. Ledoux <mel14@cornell.edu>; mjames@nyfb.org; Sarah A. Pechar <sas66@cornell.edu>; david.bell@orleanscountyny.gov; Theresa C. Mayhew <tcm5@cornell.edu>; Ashley Elizabeth Tully <aet92@cornell.edu>; Ashley Elizabeth Tully <aet92@cornell.edu>; Kenneth Schlather <ks47@cornell.edu>; Tim Hayes <tch82@cornell.edu>; Arlene Wilson <aaw66@cornell.edu>; Maire R. Ullrich <mru2@cornell.edu>; ktrombly@nyfb.org; Gabrielle Rose Wormuth <grw67@cornell.edu>; Robert Batt <rpb23@cornell.edu>; Kelsey O'Shea <kio3@cornell.edu>; Justin Paul Rogers <jpr237@cornell.edu>; htalmage@nyfb.org; Katelyn Walley-Stoll <kaw249@cornell.edu>; kwallach@nyfb.org; Evon Antonio <ea353@cornell.edu>; Elizabeth A. Claypoole <eac9@cornell.edu>; rstjacques@nyfb.org; Joshua William Vrooman <jwv33@cornell.edu>; Joshua William Vrooman <jwv33@cornell.edu>; theyn@nyfb.org; theyn@nyfb.org; Lee Van de Water <lv99@cornell.edu>; tbigham@nyfb.org; Daniel L. Welch <dlw56@cornell.edu>; Timothy Scott Davis <tsd2@cornell.edu>; David Gray Cox <dgc23@cornell.edu>; Mary Beth McEwen <mm822@cornell.edu>; Lindsay Ferlito <lc636@cornell.edu>; Mary Patricia Breyette <mba32@cornell.edu>; Steve Ammerman - Farm Bureau New York (SAmmerman@nyfb.org) <SAmmerman@nyfb.org>; Lorraine S. Kemak <lsk8@cornell.edu>; Daniel L. Welch <dlw56@cornell.edu>; Andrew G. Fagan <agf1@cornell.edu>; David C. Rutherford <dcr25@cornell.edu>; David A. Skeval <das546@cornell.edu>;",
+		"entities": [
+			[
+				"lwickham@nyfb.org",
+				4,
+				21,
+				"EMAIL"
+			],
+			[
+				"Kevin J. Jordan",
+				23,
+				38,
+				"PERSON"
+			],
+			[
+				"kjj33@cornell.edu",
+				40,
+				57,
+				"EMAIL"
+			],
+			[
+				"Andrea Lista",
+				60,
+				72,
+				"PERSON"
+			],
+			[
+				"aml355@cornell.edu",
+				74,
+				92,
+				"EMAIL"
+			],
+			[
+				"Casey L Sukeforth",
+				95,
+				112,
+				"PERSON"
+			],
+			[
+				"cls348@cornell.edu",
+				114,
+				132,
+				"EMAIL"
+			],
+			[
+				"pdugan@nyfb.org",
+				135,
+				150,
+				"EMAIL"
+			],
+			[
+				"James R. Barber",
+				152,
+				167,
+				"PERSON"
+			],
+			[
+				"jrb248@cornell.edu",
+				169,
+				187,
+				"EMAIL"
+			],
+			[
+				"lmcgrath@lifb.com",
+				190,
+				207,
+				"EMAIL"
+			],
+			[
+				"lmcgrath@lifb.com",
+				213,
+				230,
+				"EMAIL"
+			],
+			[
+				"admin@lifb.com",
+				232,
+				246,
+				"EMAIL"
+			],
+			[
+				"Jared Buono",
+				248,
+				259,
+				"PERSON"
+			],
+			[
+				"jb2559@cornell.edu",
+				261,
+				279,
+				"EMAIL"
+			],
+			[
+				"Nicolina Venice Foti",
+				282,
+				302,
+				"PERSON"
+			],
+			[
+				"nvf5@cornell.edu",
+				304,
+				320,
+				"EMAIL"
+			],
+			[
+				"Diane B. Held",
+				323,
+				336,
+				"PERSON"
+			],
+			[
+				"dbh24@cornell.edu",
+				338,
+				355,
+				"EMAIL"
+			],
+			[
+				"Ariel Kirk",
+				358,
+				368,
+				"PERSON"
+			],
+			[
+				"adk39@cornell.edu",
+				370,
+				387,
+				"EMAIL"
+			],
+			[
+				"Michele E. Ledoux",
+				390,
+				407,
+				"PERSON"
+			],
+			[
+				"mel14@cornell.edu",
+				409,
+				426,
+				"EMAIL"
+			],
+			[
+				"mjames@nyfb.org",
+				429,
+				444,
+				"EMAIL"
+			],
+			[
+				"Sarah A. Pechar",
+				446,
+				461,
+				"PERSON"
+			],
+			[
+				"sas66@cornell.edu",
+				463,
+				480,
+				"EMAIL"
+			],
+			[
+				"david.bell@orleanscountyny.gov",
+				483,
+				513,
+				"EMAIL"
+			],
+			[
+				"Theresa C. Mayhew",
+				515,
+				532,
+				"PERSON"
+			],
+			[
+				"tcm5@cornell.edu",
+				534,
+				550,
+				"EMAIL"
+			],
+			[
+				"Ashley Elizabeth Tully",
+				553,
+				575,
+				"PERSON"
+			],
+			[
+				"aet92@cornell.edu",
+				577,
+				584,
+				"EMAIL"
+			],
+			[
+				"Ashley Elizabeth Tully",
+				597,
+				619,
+				"PERSON"
+			],
+			[
+				"aet92@cornell.edu",
+				621,
+				638,
+				"EMAIL"
+			],
+			[
+				"Kenneth Schlather",
+				641,
+				658,
+				"PERSON"
+			],
+			[
+				"ks47@cornell.edu",
+				660,
+				676,
+				"EMAIL"
+			],
+			[
+				"Tim Hayes",
+				679,
+				688,
+				"PERSON"
+			],
+			[
+				"tch82@cornell.edu",
+				690,
+				707,
+				"EMAIL"
+			],
+			[
+				"Arlene Wilson",
+				710,
+				723,
+				"PERSON"
+			],
+			[
+				"aaw66@cornell.edu",
+				725,
+				742,
+				"EMAIL"
+			],
+			[
+				"Maire R. Ullrich",
+				745,
+				761,
+				"PERSON"
+			],
+			[
+				"mru2@cornell.edu",
+				763,
+				779,
+				"EMAIL"
+			],
+			[
+				"ktrombly@nyfb.org",
+				782,
+				799,
+				"EMAIL"
+			],
+			[
+				"Gabrielle Rose Wormuth",
+				801,
+				823,
+				"PERSON"
+			],
+			[
+				"grw67@cornell.edu",
+				825,
+				842,
+				"EMAIL"
+			],
+			[
+				"Robert Batt",
+				845,
+				856,
+				"PERSON"
+			],
+			[
+				"rpb23@cornell.edu",
+				858,
+				875,
+				"EMAIL"
+			],
+			[
+				"Kelsey O'Shea",
+				878,
+				891,
+				"PERSON"
+			],
+			[
+				"kio3@cornell.edu",
+				893,
+				909,
+				"EMAIL"
+			],
+			[
+				"Justin Paul Rogers",
+				912,
+				930,
+				"PERSON"
+			],
+			[
+				"jpr237@cornell.edu",
+				932,
+				950,
+				"EMAIL"
+			],
+			[
+				"htalmage@nyfb.org",
+				953,
+				970,
+				"EMAIL"
+			],
+			[
+				"Katelyn Walley-Stoll",
+				972,
+				992,
+				"PERSON"
+			],
+			[
+				"kaw249@cornell.edu",
+				994,
+				1012,
+				"EMAIL"
+			],
+			[
+				"kwallach@nyfb.org",
+				1015,
+				1032,
+				"EMAIL"
+			],
+			[
+				"Evon Antonio",
+				1034,
+				1046,
+				"PERSON"
+			],
+			[
+				"ea353@cornell.edu",
+				1048,
+				1065,
+				"EMAIL"
+			],
+			[
+				"Elizabeth A. Claypoole",
+				1068,
+				1090,
+				"PERSON"
+			],
+			[
+				"eac9@cornell.edu",
+				1092,
+				1108,
+				"EMAIL"
+			],
+			[
+				"rstjacques@nyfb.org",
+				1111,
+				1130,
+				"EMAIL"
+			],
+			[
+				"Joshua William Vrooman",
+				1132,
+				1154,
+				"PERSON"
+			],
+			[
+				"jwv33@cornell.edu",
+				1156,
+				1173,
+				"EMAIL"
+			],
+			[
+				"Joshua William Vrooman",
+				1176,
+				1198,
+				"PERSON"
+			],
+			[
+				"jwv33@cornell.edu",
+				1200,
+				1217,
+				"EMAIL"
+			],
+			[
+				"theyn@nyfb.org",
+				1220,
+				1234,
+				"EMAIL"
+			],
+			[
+				"theyn@nyfb.org",
+				1236,
+				1250,
+				"EMAIL"
+			],
+			[
+				"Lee Van de Water",
+				1252,
+				1268,
+				"PERSON"
+			],
+			[
+				"lv99@cornell.edu",
+				1270,
+				1286,
+				"EMAIL"
+			],
+			[
+				"tbigham@nyfb.org",
+				1289,
+				1305,
+				"EMAIL"
+			],
+			[
+				"Daniel L. Welch",
+				1307,
+				1322,
+				"PERSON"
+			],
+			[
+				"dlw56@cornell.edu",
+				1324,
+				1341,
+				"EMAIL"
+			],
+			[
+				"Timothy Scott Davis",
+				1344,
+				1363,
+				"PERSON"
+			],
+			[
+				"tsd2@cornell.edu",
+				1365,
+				1381,
+				"EMAIL"
+			],
+			[
+				"David Gray Cox",
+				1384,
+				1398,
+				"PERSON"
+			],
+			[
+				"dgc23@cornell.edu",
+				1400,
+				1417,
+				"EMAIL"
+			],
+			[
+				"Mary Beth McEwen",
+				1420,
+				1436,
+				"PERSON"
+			],
+			[
+				"mm822@cornell.edu",
+				1438,
+				1455,
+				"EMAIL"
+			],
+			[
+				"Lindsay Ferlito",
+				1458,
+				1473,
+				"PERSON"
+			],
+			[
+				"lc636@cornell.edu",
+				1475,
+				1492,
+				"EMAIL"
+			],
+			[
+				"Mary Patricia Breyette",
+				1495,
+				1517,
+				"PERSON"
+			],
+			[
+				"mba32@cornell.edu",
+				1519,
+				1536,
+				"EMAIL"
+			],
+			[
+				"Steve Ammerman",
+				1539,
+				1553,
+				"PERSON"
+			],
+			[
+				"Farm Bureau New York",
+				1556,
+				1576,
+				"ORG"
+			],
+			[
+				"SAmmerman@nyfb.org",
+				1578,
+				1596,
+				"EMAIL"
+			],
+			[
+				"SAmmerman@nyfb.org",
+				1599,
+				1617,
+				"EMAIL"
+			],
+			[
+				"Lorraine S. Kemak",
+				1620,
+				1637,
+				"PERSON"
+			],
+			[
+				"lsk8@cornell.edu",
+				1639,
+				1655,
+				"EMAIL"
+			],
+			[
+				"Daniel L. Welch",
+				1658,
+				1673,
+				"PERSON"
+			],
+			[
+				"dlw56@cornell.edu",
+				1675,
+				1692,
+				"EMAIL"
+			],
+			[
+				"Andrew G. Fagan",
+				1695,
+				1710,
+				"PERSON"
+			],
+			[
+				"agf1@cornell.edu",
+				1712,
+				1728,
+				"EMAIL"
+			],
+			[
+				"David C. Rutherford",
+				1731,
+				1750,
+				"PERSON"
+			],
+			[
+				"dcr25@cornell.edu",
+				1752,
+				1769,
+				"EMAIL"
+			],
+			[
+				"David A. Skeval",
+				1772,
+				1787,
+				"PERSON"
+			],
+			[
+				"das546@cornell.edu",
+				1789,
+				1807,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Paul A. Forestiere, II <paf14@cornell.edu>; Andrew G. Fagan <agf1@cornell.edu>; Tim Hayes <tch82@cornell.edu>; Timothy Scott Davis <tsd2@cornell.edu>; Philip Cherry <pc526@cornell.edu>; W. Averell H. Bauder <bauder@cornell.edu>; Tess McKinley <tsm223@cornell.edu>; Elizabeth A. Claypoole <eac9@cornell.edu>; Arlene Wilson <aaw66@cornell.edu>; Lisa Verstandig Godlewski <lav4@cornell.edu>; Evon Antonio <ea353@cornell.edu>; Evon Antonio <ea353@cornell.edu>; Brian T. Gilchrist <btg5@cornell.edu>; Bernadine L. Wiesen <bw27@cornell.edu>; William M. Schwerd <wms4@cornell.edu>; Sarah A. Pechar <sas66@cornell.edu>; James A. Seeley <jas744@cornell.edu>; Brian T. Gilchrist <btg5@cornell.edu>; Ruth Anne Moore <ram527@cornell.edu>; Lucy T. Joyce <ltj1@cornell.edu>; Stefanie Hubert <sh379@cornell.edu>; Suzanne Barclay <sb2475@cornell.edu>; Colleen Monaghan <cm638@cornell.edu>; Jared Buono <jb2559@cornell.edu>; Barbara K. Sacks <bks28@cornell.edu>; Kenneth A. Smith <kas294@cornell.edu>; J M. Darling <jmd30@cornell.edu>; Jamila Page <jp2488@cornell.edu>; Garet D. Livermore <gdl56@cornell.edu>; Karin Bump <kbump@cornell.edu>; Mary Beth McEwen <mm822@cornell.edu>; Don Robert Smyers <drs269@cornell.edu>; Don Robert Smyers <drs269@cornell.edu>; Mary Patricia Breyette <mba32@cornell.edu>; James A. Seeley <jas744@cornell.edu>; Casey L Sukeforth <cls348@cornell.edu>; Kevin J. Jordan <kjj33@cornell.edu>; Michele E. Ledoux <mel14@cornell.edu>; Gregory M Sandor <gms8@cornell.edu>; Patrick T. Ames <pta2@cornell.edu>; Laura K. Hunsberger <lkh47@cornell.edu>; Emily C. Reynolds <eck47@cornell.edu>; Diane B. Held <dbh24@cornell.edu>; Glenn Edward Simon <ges255@cornell.edu>; Andrea Lista <aml355@cornell.edu>; Justin Paul Rogers <jpr237@cornell.edu>; Robert Batt <rpb23@cornell.edu>; Abby Griffith <agg79@cornell.edu>; Dick Rivers <rer263@cornell.edu>; Christopher Pickerell <pickerell@cornell.edu>; Kenneth Schlather <ks47@cornell.edu>",
+		"entities": [
+			[
+				"Paul A. Forestiere, II",
+				0,
+				22,
+				"PERSON"
+			],
+			[
+				"paf14@cornell.edu",
+				24,
+				41,
+				"EMAIL"
+			],
+			[
+				"Andrew G. Fagan",
+				44,
+				59,
+				"PERSON"
+			],
+			[
+				"agf1@cornell.edu",
+				61,
+				77,
+				"EMAIL"
+			],
+			[
+				"Tim Hayes",
+				80,
+				89,
+				"PERSON"
+			],
+			[
+				"tch82@cornell.edu",
+				91,
+				108,
+				"EMAIL"
+			],
+			[
+				"Timothy Scott Davis",
+				111,
+				130,
+				"PERSON"
+			],
+			[
+				"tsd2@cornell.edu",
+				132,
+				148,
+				"EMAIL"
+			],
+			[
+				"Philip Cherry",
+				151,
+				164,
+				"PERSON"
+			],
+			[
+				"pc526@cornell.edu",
+				166,
+				183,
+				"EMAIL"
+			],
+			[
+				"W. Averell H. Bauder",
+				186,
+				206,
+				"PERSON"
+			],
+			[
+				"bauder@cornell.edu",
+				208,
+				226,
+				"EMAIL"
+			],
+			[
+				"Tess McKinley",
+				229,
+				242,
+				"PERSON"
+			],
+			[
+				"tsm223@cornell.edu",
+				244,
+				262,
+				"EMAIL"
+			],
+			[
+				"Elizabeth A. Claypoole",
+				265,
+				287,
+				"PERSON"
+			],
+			[
+				"eac9@cornell.edu",
+				289,
+				305,
+				"EMAIL"
+			],
+			[
+				"Arlene Wilson",
+				308,
+				321,
+				"PERSON"
+			],
+			[
+				"aaw66@cornell.edu",
+				323,
+				340,
+				"EMAIL"
+			],
+			[
+				"Lisa Verstandig Godlewski",
+				343,
+				368,
+				"PERSON"
+			],
+			[
+				"lav4@cornell.edu",
+				370,
+				386,
+				"EMAIL"
+			],
+			[
+				"Evon Antonio",
+				389,
+				401,
+				"PERSON"
+			],
+			[
+				"ea353@cornell.edu",
+				403,
+				420,
+				"EMAIL"
+			],
+			[
+				"Evon Antonio",
+				423,
+				435,
+				"PERSON"
+			],
+			[
+				"ea353@cornell.edu",
+				437,
+				454,
+				"EMAIL"
+			],
+			[
+				"Brian T. Gilchrist",
+				457,
+				475,
+				"PERSON"
+			],
+			[
+				"btg5@cornell.edu",
+				477,
+				493,
+				"EMAIL"
+			],
+			[
+				"Bernadine L. Wiesen",
+				496,
+				515,
+				"PERSON"
+			],
+			[
+				"bw27@cornell.edu",
+				517,
+				533,
+				"EMAIL"
+			],
+			[
+				"William M. Schwerd",
+				536,
+				554,
+				"PERSON"
+			],
+			[
+				"wms4@cornell.edu",
+				556,
+				572,
+				"EMAIL"
+			],
+			[
+				"Sarah A. Pechar",
+				575,
+				590,
+				"PERSON"
+			],
+			[
+				"sas66@cornell.edu",
+				592,
+				609,
+				"EMAIL"
+			],
+			[
+				"James A. Seeley",
+				612,
+				627,
+				"PERSON"
+			],
+			[
+				"jas744@cornell.edu",
+				629,
+				647,
+				"EMAIL"
+			],
+			[
+				"Brian T. Gilchrist",
+				650,
+				668,
+				"PERSON"
+			],
+			[
+				"btg5@cornell.edu",
+				670,
+				686,
+				"EMAIL"
+			],
+			[
+				"Ruth Anne Moore",
+				689,
+				704,
+				"PERSON"
+			],
+			[
+				"ram527@cornell.edu",
+				706,
+				724,
+				"EMAIL"
+			],
+			[
+				"Lucy T. Joyce",
+				727,
+				740,
+				"PERSON"
+			],
+			[
+				"ltj1@cornell.edu",
+				742,
+				758,
+				"EMAIL"
+			],
+			[
+				"Stefanie Hubert",
+				761,
+				776,
+				"PERSON"
+			],
+			[
+				"sh379@cornell.edu",
+				778,
+				795,
+				"EMAIL"
+			],
+			[
+				"Suzanne Barclay",
+				798,
+				813,
+				"PERSON"
+			],
+			[
+				"sb2475@cornell.edu",
+				815,
+				833,
+				"EMAIL"
+			],
+			[
+				"Colleen Monaghan",
+				836,
+				852,
+				"PERSON"
+			],
+			[
+				"cm638@cornell.edu",
+				854,
+				871,
+				"EMAIL"
+			],
+			[
+				"Jared Buono",
+				874,
+				885,
+				"PERSON"
+			],
+			[
+				"jb2559@cornell.edu",
+				887,
+				905,
+				"EMAIL"
+			],
+			[
+				"Barbara K. Sacks",
+				908,
+				924,
+				"PERSON"
+			],
+			[
+				"bks28@cornell.edu",
+				926,
+				943,
+				"EMAIL"
+			],
+			[
+				"Kenneth A. Smith",
+				946,
+				962,
+				"PERSON"
+			],
+			[
+				"kas294@cornell.edu",
+				964,
+				982,
+				"EMAIL"
+			],
+			[
+				"J M. Darling",
+				985,
+				997,
+				"PERSON"
+			],
+			[
+				"jmd30@cornell.edu",
+				999,
+				1016,
+				"EMAIL"
+			],
+			[
+				"Jamila Page",
+				1019,
+				1030,
+				"PERSON"
+			],
+			[
+				"jp2488@cornell.edu",
+				1032,
+				1050,
+				"EMAIL"
+			],
+			[
+				"Garet D. Livermore",
+				1053,
+				1071,
+				"PERSON"
+			],
+			[
+				"gdl56@cornell.edu",
+				1073,
+				1090,
+				"EMAIL"
+			],
+			[
+				"Karin Bump",
+				1093,
+				1103,
+				"PERSON"
+			],
+			[
+				"kbump@cornell.edu",
+				1105,
+				1122,
+				"EMAIL"
+			],
+			[
+				"Mary Beth McEwen",
+				1125,
+				1141,
+				"PERSON"
+			],
+			[
+				"mm822@cornell.edu",
+				1143,
+				1160,
+				"EMAIL"
+			],
+			[
+				"Don Robert Smyers",
+				1163,
+				1180,
+				"PERSON"
+			],
+			[
+				"drs269@cornell.edu",
+				1182,
+				1200,
+				"EMAIL"
+			],
+			[
+				"Don Robert Smyers",
+				1203,
+				1220,
+				"PERSON"
+			],
+			[
+				"drs269@cornell.edu",
+				1222,
+				1240,
+				"EMAIL"
+			],
+			[
+				"Mary Patricia Breyette",
+				1243,
+				1265,
+				"PERSON"
+			],
+			[
+				"mba32@cornell.edu",
+				1267,
+				1284,
+				"EMAIL"
+			],
+			[
+				"James A. Seeley",
+				1287,
+				1302,
+				"PERSON"
+			],
+			[
+				"jas744@cornell.edu",
+				1304,
+				1322,
+				"EMAIL"
+			],
+			[
+				"Casey L Sukeforth",
+				1325,
+				1342,
+				"PERSON"
+			],
+			[
+				"cls348@cornell.edu",
+				1344,
+				1362,
+				"EMAIL"
+			],
+			[
+				"Kevin J. Jordan",
+				1365,
+				1380,
+				"PERSON"
+			],
+			[
+				"kjj33@cornell.edu",
+				1382,
+				1399,
+				"EMAIL"
+			],
+			[
+				"Michele E. Ledoux",
+				1402,
+				1419,
+				"PERSON"
+			],
+			[
+				"mel14@cornell.edu",
+				1421,
+				1438,
+				"EMAIL"
+			],
+			[
+				"Gregory M Sandor",
+				1441,
+				1457,
+				"PERSON"
+			],
+			[
+				"gms8@cornell.edu",
+				1459,
+				1475,
+				"EMAIL"
+			],
+			[
+				"Patrick T. Ames",
+				1478,
+				1493,
+				"PERSON"
+			],
+			[
+				"pta2@cornell.edu",
+				1495,
+				1511,
+				"EMAIL"
+			],
+			[
+				"Laura K. Hunsberger",
+				1514,
+				1533,
+				"PERSON"
+			],
+			[
+				"lkh47@cornell.edu",
+				1535,
+				1552,
+				"EMAIL"
+			],
+			[
+				"Emily C. Reynolds",
+				1555,
+				1572,
+				"PERSON"
+			],
+			[
+				"eck47@cornell.edu",
+				1574,
+				1591,
+				"EMAIL"
+			],
+			[
+				"Diane B. Held",
+				1594,
+				1607,
+				"PERSON"
+			],
+			[
+				"dbh24@cornell.edu",
+				1609,
+				1626,
+				"EMAIL"
+			],
+			[
+				"Glenn Edward Simon",
+				1629,
+				1647,
+				"PERSON"
+			],
+			[
+				"ges255@cornell.edu",
+				1649,
+				1667,
+				"EMAIL"
+			],
+			[
+				"Andrea Lista",
+				1670,
+				1682,
+				"PERSON"
+			],
+			[
+				"aml355@cornell.edu",
+				1684,
+				1702,
+				"EMAIL"
+			],
+			[
+				"Justin Paul Rogers",
+				1705,
+				1723,
+				"PERSON"
+			],
+			[
+				"jpr237@cornell.edu",
+				1725,
+				1743,
+				"EMAIL"
+			],
+			[
+				"Robert Batt",
+				1746,
+				1757,
+				"PERSON"
+			],
+			[
+				"rpb23@cornell.edu",
+				1759,
+				1776,
+				"EMAIL"
+			],
+			[
+				"Abby Griffith",
+				1779,
+				1792,
+				"PERSON"
+			],
+			[
+				"agg79@cornell.edu",
+				1794,
+				1811,
+				"EMAIL"
+			],
+			[
+				"Dick Rivers",
+				1814,
+				1825,
+				"PERSON"
+			],
+			[
+				"rer263@cornell.edu",
+				1827,
+				1845,
+				"EMAIL"
+			],
+			[
+				"Christopher Pickerell",
+				1848,
+				1869,
+				"PERSON"
+			],
+			[
+				"pickerell@cornell.edu",
+				1871,
+				1892,
+				"EMAIL"
+			],
+			[
+				"Kenneth Schlather",
+				1895,
+				1912,
+				"PERSON"
+			],
+			[
+				"ks47@cornell.edu",
+				1914,
+				1930,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Julie Berry <jrb7@cornell.edu>; Jeff Williams <JWilliams@nyfb.org>; Elizabeth Higgins <emh56@cornell.edu>; JWagner@nyfb.org; AKrenning-muoio@nyfb.org; JWilliams@nyfb.org; EWolters@nyfb.org; Mark Wiltberger <mw883@cornell.edu>; Bell, David <David.Bell@orleanscountyny.gov>; Lang, Cierra <Cierra.Lang@orleanscountyny.gov> Subject: RE: CCE/NYFB Farm Employee Housing Action Plan follow up",
+		"entities": [
+			[
+				"Julie Berry",
+				4,
+				15,
+				"PERSON"
+			],
+			[
+				"jrb7@cornell.edu",
+				17,
+				33,
+				"EMAIL"
+			],
+			[
+				"Jeff Williams",
+				36,
+				49,
+				"PERSON"
+			],
+			[
+				"JWilliams@nyfb.org",
+				51,
+				69,
+				"EMAIL"
+			],
+			[
+				"Elizabeth Higgins",
+				72,
+				89,
+				"PERSON"
+			],
+			[
+				"emh56@cornell.edu",
+				91,
+				108,
+				"EMAIL"
+			],
+			[
+				"JWagner@nyfb.org",
+				111,
+				127,
+				"EMAIL"
+			],
+			[
+				"AKrenning-muoio@nyfb.org",
+				129,
+				153,
+				"EMAIL"
+			],
+			[
+				"JWilliams@nyfb.org",
+				155,
+				173,
+				"EMAIL"
+			],
+			[
+				"EWolters@nyfb.org",
+				175,
+				192,
+				"EMAIL"
+			],
+			[
+				"Mark Wiltberger",
+				194,
+				209,
+				"PERSON"
+			],
+			[
+				"mw883@cornell.edu",
+				211,
+				228,
+				"EMAIL"
+			],
+			[
+				"Bell, David",
+				231,
+				242,
+				"PERSON"
+			],
+			[
+				"David.Bell@orleanscountyny.gov",
+				244,
+				274,
+				"EMAIL"
+			],
+			[
+				"Lang, Cierra",
+				277,
+				289,
+				"PERSON"
+			],
+			[
+				"Cierra.Lang@orleanscountyny.gov",
+				291,
+				322,
+				"EMAIL"
+			],
+			[
+				"CCE/NYFB",
+				337,
+				345,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Hello Everyone, quick reminder to register for the webinar Friday.",
+		"entities": [
+			[
+				"Friday",
+				59,
+				65,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We will discuss progress and try to answer your questions.",
+		"entities": []
+	},
+	{
+		"content": "Executive Directors, if you attempted to update the Excel file in Box and had trouble, try again, I’ve added you all as editors for the Excel database.",
+		"entities": [
+			[
+				"Executive Directors",
+				0,
+				19,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Please try to have your information about your county health departments up to date before Friday.",
+		"entities": [
+			[
+				"Friday",
+				91,
+				97,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Thanks, Rich From: Richard Stup Sent: Friday, May 15, 2020",
+		"entities": [
+			[
+				"Rich",
+				8,
+				12,
+				"PERSON"
+			],
+			[
+				"Richard Stup",
+				19,
+				31,
+				"PERSON"
+			],
+			[
+				"Friday, May 15, 2020",
+				38,
+				58,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "5:14 PM Hello Everyone, 263 I hope this note finds you at the end of a productive week.",
+		"entities": []
+	},
+	{
+		"content": "I wanted to follow up about our CCE/NYFB Farm Employee Housing Action Plan project.",
+		"entities": [
+			[
+				"CCE/NYFB",
+				32,
+				40,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "By now everyone should have established connections with your local counterparts in CCE or NYFB.",
+		"entities": [
+			[
+				"CCE",
+				84,
+				87,
+				"ORG"
+			],
+			[
+				"NYFB",
+				91,
+				95,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Hopefully you have also made progress in following up to assess the readiness of you county health departments for the needs of the agricultural workforce.",
+		"entities": []
+	},
+	{
+		"content": "Many of you have already filled in information in the online database, thank you.",
+		"entities": []
+	},
+	{
+		"content": "Updates \\uf0b7",
+		"entities": []
+	},
+	{
+		"content": "The Box site: https://cornell.box.com/s/qoons9n4aiutkxhdef98g7xp9ydi8h4r, and the Excel database found in it cannot be edited by NYFB staff.",
+		"entities": [
+			[
+				"https://cornell.box.com/s/qoons9n4aiutkxhdef98g7xp9ydi8h4r,",
+				14,
+				73,
+				"URL"
+			],
+			[
+				"NYFB",
+				129,
+				133,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "CCE staff should make these update or reach out to Liz Higgins or myself to add your updates.",
+		"entities": [
+			[
+				"CCE",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"Liz Higgins",
+				51,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\\uf0b7 David Bell, the PHEP Coordinator for Orleans County who joined our webinar, has followed up by sharing an important planning document with us.",
+		"entities": [
+			[
+				"David Bell",
+				7,
+				17,
+				"PERSON"
+			],
+			[
+				"PHEP Coordinator",
+				24,
+				44,
+				"TITLE"
+			],
+			[
+				"Orleans County",
+				44,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "You will find the “Grower and Seasonal Farmworker COVID-19 Outreach Plan - Genesee and Orleans Counties” in the Box folder.",
+		"entities": [
+			[
+				"COVID-19",
+				50,
+				58,
+				"MED"
+			],
+			[
+				"Genesee",
+				75,
+				82,
+				"GPE"
+			],
+			[
+				"Orleans Counties",
+				87,
+				103,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This contains specific details about the planning process and communications that they carried out with growers in their counties.",
+		"entities": []
+	},
+	{
+		"content": "David is also glad to answer any questions that you or your county health department may have about their planning approach.",
+		"entities": [
+			[
+				"David",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Next Steps 1.",
+		"entities": []
+	},
+	{
+		"content": "Continue to work with your local contacts to assess the readiness of county health departments to support the housing and care needs of farm workers in your counties.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "CCE staff should add data to the Excel file “Worker COVID Housing Contacts.xlsx” found in the Box folder.",
+		"entities": [
+			[
+				"CCE",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"COVID",
+				52,
+				57,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "Coordinate with health departments to communicate with farm employers about options in their county to care for and house sick employees. 4.",
+		"entities": []
+	},
+	{
+		"content": "Join a follow up webinar on Friday, May 22 at 10:00 AM.",
+		"entities": [
+			[
+				"Friday, May 22",
+				28,
+				42,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We will review progress in the database and answer any questions at that time.",
+		"entities": []
+	},
+	{
+		"content": "Webinar invitation will come separately from this email.",
+		"entities": []
+	},
+	{
+		"content": "Please reach out if you have any questions.",
+		"entities": []
+	},
+	{
+		"content": "Thanks for your work on this important project!",
+		"entities": []
+	},
+	{
+		"content": "Rich Richard E. Stup, Ph.D. Cornell Agricultural Workforce Development College of Agriculture and Life Sciences and The Charles H. Dyson School of Applied Economics and Management Cornell University 164 Plant Science Building Office 607-255-7890 | Cell 570-939-5081 rstup@cornell.edu | agworkforce.cals.cornell.edu COVID-19 response: Need information?",
+		"entities": [
+			[
+				"Rich",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Richard E. Stup",
+				5,
+				20,
+				"PERSON"
+			],
+			[
+				"Ph.D.",
+				22,
+				27,
+				"TITLE"
+			],
+			[
+				"Cornell Agricultural Workforce Development College of Agriculture and Life Sciences",
+				28,
+				111,
+				"ORG"
+			],
+			[
+				"The Charles H. Dyson School of Applied Economics and Management",
+				116,
+				179,
+				"ORG"
+			],
+			[
+				"164 Plant Science Building Office",
+				199,
+				232,
+				"ADDRESS"
+			],
+			[
+				"607-255-7890",
+				233,
+				245,
+				"PHONE"
+			],
+			[
+				"570-939-5081",
+				253,
+				265,
+				"PHONE"
+			],
+			[
+				"rstup@cornell.edu",
+				266,
+				283,
+				"EMAIL"
+			],
+			[
+				"agworkforce.cals.cornell.edu",
+				286,
+				314,
+				"URL"
+			],
+			[
+				"COVID-19",
+				315,
+				323,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "View the following Cornell CALS and CCE Resource Pages Updated Regularly General Questions & Links: https://eden.cce.cornell.edu/ Food Production, Processing & Safety Questions: https://instituteforfoodsafety.cornell.edu/coronavirus-covid-19/ Employment & Agricultural Workforce Questions: http://agworkforce.cals.cornell.edu/ Cornell Small Farms Resiliency Resources: https://smallfarms.cornell.edu/resources/farm-resilience/ Financial & Mental Health Resources for Farmers: https://www.nyfarmnet.org/",
+		"entities": [
+			[
+				"https://eden.cce.cornell.edu/",
+				100,
+				129,
+				"URL"
+			],
+			[
+				"https://instituteforfoodsafety.cornell.edu/coronavirus-covid-19/",
+				178,
+				242,
+				"URL"
+			],
+			[
+				"http://agworkforce.cals.cornell.edu/",
+				290,
+				326,
+				"URL"
+			],
+			[
+				"https://smallfarms.cornell.edu/resources/farm-resilience/",
+				369,
+				426,
+				"URL"
+			],
+			[
+				"https://www.nyfarmnet.org/",
+				476,
+				502,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Information for farmworkers in Spanish, Mam and other indigenous languages: www.farmworkers.cornell.edu www.trabajadores.cornell.edu 264 ATTENTION:",
+		"entities": [
+			[
+				"Spanish",
+				31,
+				38,
+				"NORP"
+			],
+			[
+				"Mam",
+				40,
+				43,
+				"NORP"
+			],
+			[
+				"www.farmworkers.cornell.edu",
+				76,
+				103,
+				"URL"
+			],
+			[
+				"www.trabajadores.cornell.edu",
+				104,
+				132,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "This email came from an external source.",
+		"entities": []
+	},
+	{
+		"content": "Carefully consider before opening attachments or clicking on links from unknown senders or unexpected emails.",
+		"entities": []
+	},
+	{
+		"content": "265 \"]",
+		"entities": []
+	},
+	{
+		"content": "['Your message did not reach some or all of the intended recipients.",
+		"entities": []
+	},
+	{
+		"content": "Subject: 2019 novel Coronavirus response: what you need to know Sent: 1/31/2020 1:23:51 PM The following recipient(s) could not be reached: jerlito.weathers@dhs.wisconsin.gov on 1/31/2020 1:24:53 PM \\xa0\\xa0\\xa0 Diagnostic code =",
+		"entities": [
+			[
+				"2019 novel Coronavirus",
+				9,
+				31,
+				"MED"
+			],
+			[
+				"1/31/2020",
+				70,
+				79,
+				"DATE"
+			],
+			[
+				"jerlito.weathers@dhs.wisconsin.gov",
+				140,
+				174,
+				"EMAIL"
+			],
+			[
+				"1/31/2020",
+				178,
+				187,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "MtsCongested; Reason code =",
+		"entities": []
+	},
+	{
+		"content": "TransferFailed; Status code = 540 \\xa0\\xa0\\xa0 <DM2GCC01FT005.mail.protection.outlook.com #5.4.14 smtp;554 5.4.14 Hop count exceeded - possible mail loop",
+		"entities": []
+	},
+	{
+		"content": "ATTR1 [DM2GCC01FT005.eop-gcc01.prod.protection.outlook.com]> ']",
+		"entities": []
+	},
+	{
+		"content": "['As discussed, attached please find: Current list of non-complaint businesses from Environmental Health Farmers Market guidance from Environmental Health, which was released to permitted markets on 4/28/20 Census spreadsheet from Aging & Adult, with suggestion to focus on the green section numbers To get this project launched as quickly as possible, would you please confirm jurisdictional intent to participate in the restaurant feeding program by the end of business today?",
+		"entities": [
+			[
+				"4/28/20",
+				199,
+				206,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Please also advise if the jurisdiction wants to set a maximum limit of participants.",
+		"entities": []
+	},
+	{
+		"content": "We will also be in communication with participating jurisdictions on the restaurant bid process so your offices can outreach to local restaurants.",
+		"entities": []
+	},
+	{
+		"content": "Based on the response in our discussion, the jurisdictions that have indicated interest in participating are: 1.",
+		"entities": []
+	},
+	{
+		"content": "California City 2.",
+		"entities": [
+			[
+				"California City",
+				0,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Delano 3.",
+		"entities": [
+			[
+				"Delano",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Shafter 4.",
+		"entities": [
+			[
+				"Shafter",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Taft Thanks, Geo Georgianna Armstrong Kern County Office of Emergency Services 2601 Panorama Drive, Building B, Bakersfield, CA 93306",
+		"entities": [
+			[
+				"Taft",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"Geo",
+				13,
+				16,
+				"PERSON"
+			],
+			[
+				"Georgianna Armstrong",
+				17,
+				37,
+				"PERSON"
+			],
+			[
+				"Kern County Office of Emergency Services",
+				38,
+				78,
+				"ORG"
+			],
+			[
+				"2601 Panorama Drive, Building B,",
+				79,
+				111,
+				"ADDRESS"
+			],
+			[
+				"Bakersfield, CA",
+				112,
+				127,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Desk: 661-873-2604 Cell: 661-330-0195 Email: garmstrong@kerncountyfire.org",
+		"entities": [
+			[
+				"661-873-2604",
+				6,
+				13,
+				"PHONE"
+			],
+			[
+				"661-330-0195",
+				25,
+				37,
+				"PHONE"
+			],
+			[
+				"garmstrong@kerncountyfire.org",
+				45,
+				74,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "From: Georgianna Armstrong <garmstrong@kerncountyfire.org>",
+		"entities": [
+			[
+				"Georgianna Armstrong",
+				6,
+				26,
+				"PERSON"
+			],
+			[
+				"garmstrong@kerncountyfire.org",
+				28,
+				57,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Tuesday, April 28, 2020 7:11 PM",
+		"entities": [
+			[
+				"Tuesday, April 28, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Bill Malinen <bmalinen@bvcsd.org>; daranda <daranda@stallionspringscsd.com>; Shelly Castaneda - Bakersfield College (shelly.castaneda@bakersfieldcollege.edu) <shelly.castaneda@bakersfieldcollege.edu>; mwilliamson@csub.edu; Christian Shannon <chshannon@kern.org>; Alinn <Alinn@californiacity-ca.gov>; Chris Huot <chuot@bakersfieldcity.us>; Craig Jones <cjones@cityoftaft.org>; Daniel Ortiz-Hernandez <daortiz@ci.wasco.ca.us>; David Tooley <DTooley@mcfarlandcity.org>; Gabriel Gonzalez <ggonzalez@shafter.com>; ggarrett <ggarrett@tehachapicityhall.com>; Jerry Breckinridge <jbreckinridge@arvin.org>; lrobison_com@bak.rr.com; Maribel Reyna <mreyna@cityofdelano.org>; Ron Strand <rstrand@ridgecrest-ca.gov>; Foxe, Brian L. (AFRC-240) <brian.foxe@nasa.gov",
+		"entities": [
+			[
+				"Bill Malinen",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"bmalinen@bvcsd.org",
+				18,
+				36,
+				"EMAIL"
+			],
+			[
+				"daranda@stallionspringscsd.com",
+				48,
+				78,
+				"EMAIL"
+			],
+			[
+				"Shelly Castaneda",
+				81,
+				97,
+				"PERSON"
+			],
+			[
+				"Bakersfield College",
+				100,
+				119,
+				"ORG"
+			],
+			[
+				"shelly.castaneda@bakersfieldcollege.edu",
+				121,
+				160,
+				"EMAIL"
+			],
+			[
+				"shelly.castaneda@bakersfieldcollege.edu",
+				163,
+				202,
+				"EMAIL"
+			],
+			[
+				"mwilliamson@csub.edu",
+				205,
+				225,
+				"EMAIL"
+			],
+			[
+				"Christian Shannon",
+				227,
+				244,
+				"PERSON"
+			],
+			[
+				"chshannon@kern.org",
+				246,
+				264,
+				"EMAIL"
+			],
+			[
+				"Alinn",
+				267,
+				272,
+				"PERSON"
+			],
+			[
+				"Alinn@californiacity-ca.gov",
+				274,
+				301,
+				"EMAIL"
+			],
+			[
+				"Chris Huot",
+				304,
+				314,
+				"PERSON"
+			],
+			[
+				"chuot@bakersfieldcity.us",
+				316,
+				340,
+				"EMAIL"
+			],
+			[
+				"Craig Jones",
+				343,
+				354,
+				"PERSON"
+			],
+			[
+				"cjones@cityoftaft.org",
+				356,
+				377,
+				"EMAIL"
+			],
+			[
+				"Daniel Ortiz-Hernandez",
+				380,
+				402,
+				"PERSON"
+			],
+			[
+				"daortiz@ci.wasco.ca.us",
+				404,
+				426,
+				"EMAIL"
+			],
+			[
+				"David Tooley",
+				429,
+				441,
+				"PERSON"
+			],
+			[
+				"DTooley@mcfarlandcity.org",
+				443,
+				468,
+				"EMAIL"
+			],
+			[
+				"Gabriel Gonzalez",
+				471,
+				487,
+				"PERSON"
+			],
+			[
+				"ggonzalez@shafter.com",
+				489,
+				510,
+				"EMAIL"
+			],
+			[
+				"ggarrett@tehachapicityhall.com",
+				523,
+				553,
+				"EMAIL"
+			],
+			[
+				"Jerry Breckinridge",
+				556,
+				574,
+				"PERSON"
+			],
+			[
+				"jbreckinridge@arvin.org",
+				576,
+				599,
+				"EMAIL"
+			],
+			[
+				"lrobison_com@bak.rr.com",
+				602,
+				625,
+				"EMAIL"
+			],
+			[
+				"Maribel Reyna",
+				627,
+				640,
+				"PERSON"
+			],
+			[
+				"mreyna@cityofdelano.org",
+				642,
+				665,
+				"EMAIL"
+			],
+			[
+				"Ron Strand",
+				668,
+				678,
+				"PERSON"
+			],
+			[
+				"rstrand@ridgecrest-ca.gov",
+				680,
+				705,
+				"EMAIL"
+			],
+			[
+				"Foxe, Brian L.",
+				708,
+				722,
+				"PERSON"
+			],
+			[
+				"brian.foxe@nasa.gov",
+				735,
+				754,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Megan Person <personm@kerncounty.com>; Brandon Smith <bssmith@kerncountyfire.org>; Steve Shoemaker <sshoemaker@kerncountyfire.org>; Matt Constantine <matt@kerncounty.com>; Wendy Benson <wbenson@kerncountyfire.org>; Dean Boller <dboller@kerncountyfire.org>; David Witt <dwitt@kerncountyfire.org>; Jacob Cagle <jcagle@kerncountyfire.org>; Michelle Corson <CorsonM@kerncounty.com>; Amy Rutledge <RutledgeA@kerncounty.com>; Brynn Carrigan ']",
+		"entities": [
+			[
+				"Megan Person",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"personm@kerncounty.com",
+				14,
+				36,
+				"EMAIL"
+			],
+			[
+				"Brandon Smith",
+				39,
+				52,
+				"PERSON"
+			],
+			[
+				"bssmith@kerncountyfire.org",
+				54,
+				80,
+				"EMAIL"
+			],
+			[
+				"Steve Shoemaker",
+				83,
+				98,
+				"PERSON"
+			],
+			[
+				"sshoemaker@kerncountyfire.org",
+				100,
+				129,
+				"EMAIL"
+			],
+			[
+				"Matt Constantine",
+				132,
+				148,
+				"PERSON"
+			],
+			[
+				"matt@kerncounty.com",
+				150,
+				169,
+				"EMAIL"
+			],
+			[
+				"Wendy Benson",
+				172,
+				184,
+				"PERSON"
+			],
+			[
+				"wbenson@kerncountyfire.org",
+				186,
+				212,
+				"EMAIL"
+			],
+			[
+				"Dean Boller",
+				215,
+				226,
+				"PERSON"
+			],
+			[
+				"dboller@kerncountyfire.org",
+				228,
+				254,
+				"EMAIL"
+			],
+			[
+				"David Witt",
+				257,
+				267,
+				"PERSON"
+			],
+			[
+				"dwitt@kerncountyfire.org",
+				269,
+				293,
+				"EMAIL"
+			],
+			[
+				"Jacob Cagle",
+				296,
+				307,
+				"PERSON"
+			],
+			[
+				"jcagle@kerncountyfire.org",
+				309,
+				334,
+				"EMAIL"
+			],
+			[
+				"Michelle Corson",
+				337,
+				352,
+				"PERSON"
+			],
+			[
+				"CorsonM@kerncounty.com",
+				354,
+				376,
+				"EMAIL"
+			],
+			[
+				"Amy Rutledge",
+				379,
+				391,
+				"PERSON"
+			],
+			[
+				"RutledgeA@kerncounty.com",
+				393,
+				417,
+				"EMAIL"
+			],
+			[
+				"Brynn Carrigan",
+				420,
+				434,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['Hi Everyone, I cleaned up the COVID-19 Response Notebook on OneNote.",
+		"entities": [
+			[
+				"COVID-19",
+				32,
+				40,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "It’s still a work in progress.",
+		"entities": []
+	},
+	{
+		"content": "I moved the ICS Contact Information page into the INCIDENT BOARD section.",
+		"entities": []
+	},
+	{
+		"content": "Please update it with your contact information.",
+		"entities": []
+	},
+	{
+		"content": "Thank you!",
+		"entities": []
+	},
+	{
+		"content": "Rachel Freeman, MPH, CHES Substance Use Prevention Programs Coordinator Weld County Department of Public Health and Environment 1555 N. 17th Avenue - Greeley, Colorado – 80631 Tel: 970.400.2385 Web: www.weldhealth.org \\xa0\\xa0 Confidentiality Notice: This electronic transmission and any attached documents or other writings are intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure.",
+		"entities": [
+			[
+				"Rachel Freeman",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"MPH, CHES Substance Use Prevention Programs Coordinator",
+				16,
+				71,
+				"TITLE"
+			],
+			[
+				"Weld County Department of Public Health and Environment",
+				72,
+				127,
+				"ORG"
+			],
+			[
+				"1555 N. 17th Avenue",
+				128,
+				147,
+				"ADDRESS"
+			],
+			[
+				"Greeley, Colorado",
+				150,
+				167,
+				"LOC"
+			],
+			[
+				"970.400.2385",
+				181,
+				193,
+				"PHONE"
+			],
+			[
+				"www.weldhealth.org",
+				199,
+				217,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "If you have received this communication in error, please immediately notify sender by return e-mail and destroy the communication.",
+		"entities": []
+	},
+	{
+		"content": "Any disclosure, copying, distribution or the taking of any action concerning the contents of this communication or any attachments by anyone other than the named recipient is strictly prohibited. ']",
+		"entities": []
+	},
+	{
+		"content": "['In review of the Albany‐Dougherty County shelter in place order, I am writing on behalf our local Independent Insurance Agencies to request clarity in the language of essential business services.",
+		"entities": [
+			[
+				"Albany‐Dougherty County",
+				19,
+				42,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Declaration speaks to professional services, but does not mention insurance agencies or companies specifically.",
+		"entities": []
+	},
+	{
+		"content": "Attached is a letter sent to Governor Kemp and Commissioner King asking for clarity if a statewide mandate is put in place.",
+		"entities": [
+			[
+				"Governor Kemp",
+				29,
+				42,
+				"PERSON"
+			],
+			[
+				"Commissioner King",
+				47,
+				64,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It is important for our members to know if this policy applies to them or not.",
+		"entities": []
+	},
+	{
+		"content": "We are requesting that you issue a statement indicating that insurance agencies are included in the definition of professional services and therefore are considered an essential service.",
+		"entities": []
+	},
+	{
+		"content": "This could be done in reply to this message, where we could send to our member agencies or a public announcement.",
+		"entities": []
+	},
+	{
+		"content": "https://www.athensclarkecounty.com/DocumentCenter/View/67248/03‐Second‐Declaration‐of‐a‐Local‐State‐of‐ Emergency‐Related‐to‐COVID‐19‐Final‐Approved‐Version?bidId=",
+		"entities": [
+			[
+				"https://www.athensclarkecounty.com/DocumentCenter/View/67248/03‐Second‐Declaration‐of‐a‐Local‐State‐of‐ Emergency‐Related‐to‐COVID‐19‐Final‐Approved‐Version?bidId=",
+				0,
+				163,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "If I can be a resource, I am available to assist.",
+		"entities": []
+	},
+	{
+		"content": "We look forward to hearing from you.",
+		"entities": []
+	},
+	{
+		"content": "Thank you!",
+		"entities": []
+	},
+	{
+		"content": "PUBLIC RECORDS NOTICE:",
+		"entities": []
+	},
+	{
+		"content": "Georgia has a very broad public records law.",
+		"entities": [
+			[
+				"Georgia",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Most written communications to or from City and County officials regarding City and County business are public records available to the public and media upon request.",
+		"entities": [
+			[
+				"City",
+				39,
+				43,
+				"GPE"
+			],
+			[
+				"County",
+				48,
+				54,
+				"GPE"
+			],
+			[
+				"City",
+				75,
+				79,
+				"GPE"
+			],
+			[
+				"City",
+				84,
+				90,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Your email communications may be subject to public disclosure.",
+		"entities": []
+	},
+	{
+		"content": "This email has been scanned for spam and viruses by Proofpoint Essentials.",
+		"entities": []
+	},
+	{
+		"content": "Click here to report this email as spam.",
+		"entities": []
+	},
+	{
+		"content": "51 ']",
+		"entities": []
+	},
+	{
+		"content": "[\"From: DeOrio - CDPHE, Peggy <peggy.deorio@state.co.us>",
+		"entities": [
+			[
+				"DeOrio - CDPHE, Peggy",
+				8,
+				29,
+				"PERSON"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				31,
+				55,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, May 14, 2020 6:21:09 AM To: Tanya Geiser <tgeiser@weldgov.com>",
+		"entities": [
+			[
+				"Thursday, May 14, 2020",
+				6,
+				28,
+				"DATE"
+			],
+			[
+				"Tanya Geiser",
+				44,
+				56,
+				"PERSON"
+			],
+			[
+				"tgeiser@weldgov.com",
+				58,
+				77,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Mark Wallace <mwallace@weldgov.com>; Wendy Paris <wparis@weldgov.com>",
+		"entities": [
+			[
+				"Mark Wallace",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"mwallace@weldgov.com",
+				18,
+				38,
+				"EMAIL"
+			],
+			[
+				"Wendy Paris",
+				41,
+				52,
+				"PERSON"
+			],
+			[
+				"wparis@weldgov.com",
+				54,
+				72,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: Re: CDPHE-",
+		"entities": [
+			[
+				"CDPHE",
+				13,
+				18,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Weld County Department of Public Health 2021*0394 - Instructions Caution: This email originated from outside of Weld County Government.",
+		"entities": [
+			[
+				"Weld County Department of Public Health",
+				0,
+				39,
+				"ORG"
+			],
+			[
+				"2021",
+				40,
+				44,
+				"DATE"
+			],
+			[
+				"Weld County Government",
+				112,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Do not click links or open attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "Hi Tanya, I was mis-informed.",
+		"entities": [
+			[
+				"Tanya",
+				3,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Our DocuSign person asked me to send your contract amendment to you through DocuSign.",
+		"entities": []
+	},
+	{
+		"content": "She said it would go through the signature process on our end more smoothly.",
+		"entities": []
+	},
+	{
+		"content": "Especially since we are all working from home now due to COVID.",
+		"entities": [
+			[
+				"COVID",
+				57,
+				62,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "She said you could use the document that I sent you through email a few days ago as a review, but that document would not be the document to have signed.",
+		"entities": []
+	},
+	{
+		"content": "You would need to have the document that I send through the DocuSign envelope signed.",
+		"entities": []
+	},
+	{
+		"content": "You would download them, then have the wet signatures applied, then upload them to the DocuSign envelope I send you.",
+		"entities": []
+	},
+	{
+		"content": "Does this make sense?",
+		"entities": []
+	},
+	{
+		"content": "I will be sending the DocuSign envelope to you today.",
+		"entities": []
+	},
+	{
+		"content": "Let me know if you have any questions after you receive it.",
+		"entities": []
+	},
+	{
+		"content": "Thank you, Peggy Peggy DeOrio Contract Manager P 303.692.3107 | F 303.782.5493 4300 Cherry Creek Drive South, Denver, CO 80246-1530 peggy.deorio@state.co.us | www.colorado.gov/cdphe/apcd Are you curious about ground-level ozone in Colorado?",
+		"entities": [
+			[
+				"Peggy",
+				11,
+				16,
+				"PERSON"
+			],
+			[
+				"Peggy DeOrio",
+				17,
+				29,
+				"PERSON"
+			],
+			[
+				"Contract Manager",
+				30,
+				46,
+				"TITLE"
+			],
+			[
+				"303.692.3107",
+				49,
+				61,
+				"PHONE"
+			],
+			[
+				"303.782.5493",
+				66,
+				78,
+				"PHONE"
+			],
+			[
+				"4300 Cherry Creek Drive South",
+				79,
+				108,
+				"ADDRESS"
+			],
+			[
+				"Denver, CO",
+				110,
+				120,
+				"LOC"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				132,
+				156,
+				"EMAIL"
+			],
+			[
+				"www.colorado.gov/cdphe/apcd",
+				159,
+				186,
+				"URL"
+			],
+			[
+				"Colorado",
+				231,
+				239,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Visit our ozone webpage to learn more.",
+		"entities": []
+	},
+	{
+		"content": "Please visit https://www.colorado.gov/pacific/cdphe/apcd-covid-19 to address questions regarding APCD's daily operations during the COVID-19 event.",
+		"entities": [
+			[
+				"https://www.colorado.gov/pacific/cdphe/apcd-covid-19",
+				13,
+				65,
+				"URL"
+			],
+			[
+				"APCD",
+				97,
+				101,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				132,
+				140,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "On Tue, May 12, 2020 at 12:04 PM DeOrio - CDPHE, Peggy <peggy.deorio@state.co.us> wrote: Hi Tanya, I received the following answer from our Purchasing and Contracts Unit: On Tue, May 12, 2020 at 10:04 AM Mallari - CDPHE, Wendy <wendy.mallari@state.co.us> wrote: If you can ask her to go ahead and pop it in the mail, that would be great.",
+		"entities": [
+			[
+				"Tue, May 12, 2020",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"DeOrio - CDPHE, Peggy",
+				33,
+				54,
+				"PERSON"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				56,
+				80,
+				"EMAIL"
+			],
+			[
+				"Tanya",
+				92,
+				97,
+				"PERSON"
+			],
+			[
+				"Purchasing and Contracts Unit",
+				140,
+				169,
+				"ORG"
+			],
+			[
+				"Tue, May 12, 2020",
+				174,
+				191,
+				"DATE"
+			],
+			[
+				"Mallari - CDPHE, Wendy",
+				204,
+				226,
+				"PERSON"
+			],
+			[
+				"wendy.mallari@state.co.us",
+				228,
+				253,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "We may decide at some time that we do not need them.",
+		"entities": []
+	},
+	{
+		"content": "But during this COVID period, we'll try to collect originals as often as we can in case we need to file them for a while.",
+		"entities": [
+			[
+				"COVID",
+				16,
+				21,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Thanks, Peggy!",
+		"entities": [
+			[
+				"Peggy",
+				8,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Therefore, please send the hard copies to me by mail, as well.",
+		"entities": []
+	},
+	{
+		"content": "Thank you, Peggy Peggy DeOrio Contract Manager P 303.692.3107 | F 303.782.5493 4300 Cherry Creek Drive South, Denver, CO 80246-1530 peggy.deorio@state.co.us | www.colorado.gov/cdphe/apcd Are you curious about ground-level ozone in Colorado?",
+		"entities": [
+			[
+				"Peggy",
+				11,
+				16,
+				"PERSON"
+			],
+			[
+				"Peggy DeOrio",
+				17,
+				29,
+				"PERSON"
+			],
+			[
+				"Contract Manager",
+				30,
+				46,
+				"TITLE"
+			],
+			[
+				"303.692.3107",
+				49,
+				61,
+				"PHONE"
+			],
+			[
+				"303.782.5493",
+				66,
+				78,
+				"PHONE"
+			],
+			[
+				"4300 Cherry Creek Drive South",
+				79,
+				108,
+				"ADDRESS"
+			],
+			[
+				"Denver, CO",
+				110,
+				120,
+				"LOC"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				132,
+				156,
+				"EMAIL"
+			],
+			[
+				"www.colorado.gov/cdphe/apcd",
+				159,
+				186,
+				"URL"
+			],
+			[
+				"Colorado",
+				231,
+				239,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Visit our ozone webpage to learn more.",
+		"entities": []
+	},
+	{
+		"content": "Please visit https://www.colorado.gov/pacific/cdphe/apcd-covid-19 to address questions regarding APCD's daily operations during the COVID-19 event.",
+		"entities": [
+			[
+				"https://www.colorado.gov/pacific/cdphe/apcd-covid-19",
+				13,
+				65,
+				"URL"
+			],
+			[
+				"APCD",
+				97,
+				101,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				132,
+				140,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "On Tue, May 12, 2020 at 9:53 AM DeOrio - CDPHE, Peggy <peggy.deorio@state.co.us> wrote: Hi Tanya, Thank you!",
+		"entities": [
+			[
+				"Tue, May 12, 2020",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"DeOrio - CDPHE, Peggy",
+				32,
+				53,
+				"PERSON"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				55,
+				79,
+				"EMAIL"
+			],
+			[
+				"Tanya",
+				91,
+				96,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I don't believe we will need the hard copies, but I will check and get back to you.",
+		"entities": []
+	},
+	{
+		"content": "Thank you!",
+		"entities": []
+	},
+	{
+		"content": "Peggy Peggy DeOrio Contract Manager P 303.692.3107 | F 303.782.5493 4300 Cherry Creek Drive South, Denver, CO 80246-1530 peggy.deorio@state.co.us | www.colorado.gov/cdphe/apcd Are you curious about ground-level ozone in Colorado?",
+		"entities": [
+			[
+				"Peggy",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Peggy DeOrio",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"Contract Manager",
+				19,
+				35,
+				"TITLE"
+			],
+			[
+				"303.692.3107",
+				38,
+				50,
+				"PHONE"
+			],
+			[
+				"303.782.5493",
+				55,
+				67,
+				"PHONE"
+			],
+			[
+				"4300 Cherry Creek Drive South",
+				68,
+				97,
+				"ADDRESS"
+			],
+			[
+				"Denver, CO",
+				99,
+				109,
+				"LOC"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				121,
+				145,
+				"EMAIL"
+			],
+			[
+				"www.colorado.gov/cdphe/apcd",
+				148,
+				175,
+				"URL"
+			],
+			[
+				"Colorado",
+				220,
+				228,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Visit our ozone webpage to learn more.",
+		"entities": []
+	},
+	{
+		"content": "Please visit https://www.colorado.gov/pacific/cdphe/apcd-covid-19 to address questions regarding APCD's daily operations during the COVID-19 event.",
+		"entities": [
+			[
+				"https://www.colorado.gov/pacific/cdphe/apcd-covid-19",
+				13,
+				65,
+				"URL"
+			],
+			[
+				"APCD",
+				97,
+				101,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				132,
+				140,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "On Tue, May 12, 2020 at 9:50 AM Tanya Geiser <tgeiser@weldgov.com> wrote: Yes, of course!",
+		"entities": [
+			[
+				"Tue, May 12, 2020",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"Tanya Geiser",
+				32,
+				44,
+				"PERSON"
+			],
+			[
+				"tgeiser@weldgov.com",
+				46,
+				65,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Would you still also like to receive the hard copies at some point?",
+		"entities": []
+	},
+	{
+		"content": "I will make a note on the instructions sheet.",
+		"entities": []
+	},
+	{
+		"content": "Tanya From: DeOrio - CDPHE, Peggy <peggy.deorio@state.co.us>",
+		"entities": [
+			[
+				"Tanya",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"DeOrio - CDPHE, Peggy",
+				12,
+				33,
+				"PERSON"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				35,
+				59,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Tuesday, May 12, 2020 9:26 AM",
+		"entities": [
+			[
+				"Tuesday, May 12, 2020",
+				6,
+				27,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Tanya Geiser <tgeiser@weldgov.com>",
+		"entities": [
+			[
+				"Tanya Geiser",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"tgeiser@weldgov.com",
+				18,
+				37,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Mark Wallace <mwallace@weldgov.com",
+		"entities": [
+			[
+				"Mark Wallace",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"mwallace@weldgov.com",
+				18,
+				38,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Subject: Re: CDPHE-",
+		"entities": [
+			[
+				"CDPHE",
+				13,
+				18,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Weld County Department of Public Health 2021*0394 - Instructions Caution: This email originated from outside of Weld County Government.",
+		"entities": [
+			[
+				"Weld County Department of Public Health",
+				0,
+				39,
+				"ORG"
+			],
+			[
+				"2021",
+				40,
+				44,
+				"DATE"
+			],
+			[
+				"Weld County Government",
+				112,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Do not click links or open attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "Hi Tanya, Could you please tell me if you would be able to scan the contract amendment after it is signed and email it to me rather than mailing the hard copy?",
+		"entities": [
+			[
+				"Tanya",
+				3,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We will accept a scanned signature, if you are able to do that.",
+		"entities": []
+	},
+	{
+		"content": "Thank you, Peggy Peggy DeOrio Contract Manager P 303.692.3107 | F 303.782.5493 4300 Cherry Creek Drive South, Denver, CO 80246-1530 peggy.deorio@state.co.us | www.colorado.gov/cdphe/apcd Are you curious about ground-level ozone in Colorado?",
+		"entities": [
+			[
+				"Peggy",
+				11,
+				16,
+				"PERSON"
+			],
+			[
+				"Peggy DeOrio",
+				17,
+				29,
+				"PERSON"
+			],
+			[
+				"Contract Manager",
+				30,
+				46,
+				"TITLE"
+			],
+			[
+				"303.692.3107",
+				49,
+				61,
+				"PHONE"
+			],
+			[
+				"303.782.5493",
+				66,
+				78,
+				"PHONE"
+			],
+			[
+				"4300 Cherry Creek Drive South",
+				79,
+				108,
+				"ADDRESS"
+			],
+			[
+				"Denver, CO",
+				110,
+				120,
+				"LOC"
+			],
+			[
+				"peggy.deorio@state.co.us",
+				132,
+				156,
+				"EMAIL"
+			],
+			[
+				"www.colorado.gov/cdphe/apcd",
+				159,
+				186,
+				"URL"
+			],
+			[
+				"Colorado",
+				231,
+				239,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Visit our ozone webpage to learn more.",
+		"entities": []
+	},
+	{
+		"content": "Please visit https://www.colorado.gov/pacific/cdphe/apcd-covid-19 to address questions regarding APCD's daily operations during the COVID-19 event.",
+		"entities": [
+			[
+				"https://www.colorado.gov/pacific/cdphe/apcd-covid-19",
+				13,
+				65,
+				"URL"
+			],
+			[
+				"APCD",
+				97,
+				101,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				132,
+				140,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "On Tue, May 12, 2020 at 8:56 AM Tanya Geiser <tgeiser@weldgov.com> wrote: Hi, Peggy, Thanks for your email.",
+		"entities": [
+			[
+				"Tue, May 12, 2020",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"Tanya Geiser",
+				32,
+				44,
+				"PERSON"
+			],
+			[
+				"tgeiser@weldgov.com",
+				46,
+				65,
+				"EMAIL"
+			],
+			[
+				"Peggy",
+				78,
+				83,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Please consider this our acknowledgment of receipt of the revised contract for FY20-21.",
+		"entities": []
+	},
+	{
+		"content": "Tanya Tanya Geiser Director, Administrative Services Weld County Department of Public Health & Environment 1555 North 17th Avenue, Greeley, CO 80631 ( Direct 970-400-2122 ( Main Switchboard 970-304-6410 Fax: 970-304-6412 * tgeiser@co.weld.co.us www.weldhealth.org P",
+		"entities": [
+			[
+				"Tanya",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Tanya Geiser",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"Director, Administrative Services",
+				19,
+				52,
+				"TITLE"
+			],
+			[
+				"Weld County Department of Public Health & Environment",
+				53,
+				106,
+				"ORG"
+			],
+			[
+				"1555 North 17th Avenue",
+				107,
+				129,
+				"ADDRESS"
+			],
+			[
+				"Greeley, CO",
+				131,
+				142,
+				"ADDRESS"
+			],
+			[
+				"970-400-2122",
+				158,
+				170,
+				"PHONE"
+			],
+			[
+				"970-304-6410",
+				190,
+				202,
+				"PHONE"
+			],
+			[
+				"970-304-6412",
+				208,
+				220,
+				"PHONE"
+			],
+			[
+				"tgeiser@co.weld.co.us",
+				223,
+				244,
+				"EMAIL"
+			],
+			[
+				"www.weldhealth.org",
+				245,
+				263,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Please think green before printing this email. \"]",
+		"entities": []
+	}
+]

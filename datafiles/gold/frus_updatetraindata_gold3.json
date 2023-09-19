@@ -1,0 +1,804 @@
+[
+	{
+		"content": "[\"secret Three cables in today's log add to my growing concern over the lack of progress in completing the EDC arrangements and some of the decisions which have to be taken at Bonn in connection therewith.",
+		"entities": [
+			[
+				"EDC",
+				107,
+				110,
+				"ORG"
+			],
+			[
+				"Bonn",
+				176,
+				180,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "These are the cables from Douglas MacArthur, Paris, no. 6127, April 5; McCloy's telegram of April 5, Bonn, no. 2278; and Gifford's of April 7, London, no. 4478.",
+		"entities": [
+			[
+				"Douglas MacArthur",
+				26,
+				43,
+				"PERSON"
+			],
+			[
+				"Paris",
+				45,
+				50,
+				"LOC"
+			],
+			[
+				"April 5",
+				62,
+				69,
+				"DATE"
+			],
+			[
+				"McCloy",
+				71,
+				77,
+				"PERSON"
+			],
+			[
+				"April 5",
+				92,
+				99,
+				"DATE"
+			],
+			[
+				"Bonn",
+				101,
+				105,
+				"LOC"
+			],
+			[
+				"Gifford",
+				121,
+				128,
+				"PERSON"
+			],
+			[
+				"April 7",
+				134,
+				141,
+				"DATE"
+			],
+			[
+				"London",
+				143,
+				149,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The first two of these urge the necessity of getting some sort of a deadline.",
+		"entities": []
+	},
+	{
+		"content": "The last one reports the Foreign Office's doubts as to the wisdom of a deadline and the fact that one cannot think about setting a deadline for a couple of weeks.",
+		"entities": [
+			[
+				"Foreign Office",
+				25,
+				39,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I think we should give this whole matter urgent attention having the following questions in mind: Is it true that we can keep the EDC and the contractual arrangements linked together if the latter get hopelessly bogged down?",
+		"entities": [
+			[
+				"EDC",
+				130,
+				133,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It seems to me that the same forces which led to the necessity for winding up of the occupation in Japan are also operating in Germany, and that we are going to be faced with a strong demand in Germany to go through with the regime provided for in the contractuals whether or not the EDC is ready.",
+		"entities": [
+			[
+				"Japan",
+				99,
+				104,
+				"GPE"
+			],
+			[
+				"Germany",
+				127,
+				134,
+				"GPE"
+			],
+			[
+				"Germany",
+				194,
+				201,
+				"GPE"
+			],
+			[
+				"EDC",
+				284,
+				287,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It seems unlikely to me that the renewal of the correspondence with the Soviet Union over Germany will accelerate this tendency.",
+		"entities": [
+			[
+				"Soviet Union",
+				72,
+				84,
+				"GPE"
+			],
+			[
+				"Germany",
+				90,
+				97,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This will produce all sorts of problems with France and may end us in a first-class mess.",
+		"entities": [
+			[
+				"France",
+				45,
+				51,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In the second place, have we made careful plans for having the Senate consider and approve the German arrangements?",
+		"entities": [
+			[
+				"Senate",
+				63,
+				69,
+				"ORG"
+			],
+			[
+				"German",
+				95,
+				101,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If the Congress is going to get out of Washington by the end of June there will be very little time for hearings and consideration if the signature of these documents drags on until the end of May.",
+		"entities": [
+			[
+				"Congress",
+				7,
+				15,
+				"ORG"
+			],
+			[
+				"Washington",
+				39,
+				49,
+				"LOC"
+			],
+			[
+				"June",
+				64,
+				68,
+				"DATE"
+			],
+			[
+				"May",
+				193,
+				196,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "People are now talking about the middle of May.",
+		"entities": [
+			[
+				"May",
+				43,
+				46,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "If the Senate does not approve them, including the agreement to the North Atlantic Treaty, then it may not get around to considering them until January 1953, with all the delay and uncertainty that that involves.",
+		"entities": [
+			[
+				"Senate",
+				7,
+				13,
+				"ORG"
+			],
+			[
+				"North Atlantic Treaty",
+				68,
+				89,
+				"LAW"
+			],
+			[
+				"January 1953",
+				144,
+				156,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Will you please give this matter your most urgent attention and let me have your recommendations.",
+		"entities": []
+	},
+	{
+		"content": "D A\"]",
+		"entities": []
+	},
+	{
+		"content": "[\"956.",
+		"entities": []
+	},
+	{
+		"content": "Young Marshal's office has received telegram from General Ma that large Japanese forces with six bombing planes attacked shortly after 4 a.m. today, that Chinese were being hard pressed and that he considered his position very serious.",
+		"entities": [
+			[
+				"Young Marshal",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"General Ma",
+				50,
+				60,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				72,
+				80,
+				"NORP"
+			],
+			[
+				"Chinese",
+				154,
+				161,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "My informant added that Japanese were evidently carrying out their threat to wipe out Ma's troops.",
+		"entities": [
+			[
+				"Japanese",
+				24,
+				32,
+				"GPE"
+			],
+			[
+				"Ma",
+				86,
+				88,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Repeated to Nanking and commander in chief.",
+		"entities": [
+			[
+				"Nanking",
+				12,
+				19,
+				"LOC"
+			],
+			[
+				"commander in chief",
+				24,
+				42,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "For the Minister:Engert\"]",
+		"entities": [
+			[
+				"Minister:Engert",
+				8,
+				23,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"184.",
+		"entities": []
+	},
+	{
+		"content": "My 58, February 2, 6 p.m. and Department's 67, February 13, 4 p.m. Representatives of American Express Company have signed agreement of which I was informed only subsequently.",
+		"entities": [
+			[
+				"February 2",
+				7,
+				17,
+				"DATE"
+			],
+			[
+				"Department",
+				30,
+				40,
+				"ORG"
+			],
+			[
+				"February 13",
+				47,
+				58,
+				"DATE"
+			],
+			[
+				"American Express Company",
+				86,
+				110,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "They are to turn over United States currency to the Polish State Bank, which will make payments through the postoffice as heretofore the only [omission] being that the American Express Company is [now] allowed to provide, at its own expense, personnel in the State Bank and some postoffices to do the actual clerical work.",
+		"entities": [
+			[
+				"United States",
+				22,
+				35,
+				"GPE"
+			],
+			[
+				"Polish State Bank",
+				52,
+				69,
+				"ORG"
+			],
+			[
+				"American Express Company",
+				168,
+				192,
+				"ORG"
+			],
+			[
+				"State Bank",
+				259,
+				269,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I am informed by representative of another American banking concern that American Express Company does business on a different basis from regular banks as it receives payment for transmission on a commission, not on an exchange basis.",
+		"entities": [
+			[
+				"American",
+				43,
+				51,
+				"NORP"
+			],
+			[
+				"American Express Company",
+				73,
+				97,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Therefore, regard foregoing [no?] solution of the problem.",
+		"entities": []
+	},
+	{
+		"content": "[No signature indicated]\"]",
+		"entities": []
+	},
+	{
+		"content": "[\"Resolved, That this honorable corporation, the Covent Garden Theatrical Fund, desires to give utterance to the feelings of grief and horror with which it has received the fearful intelligence of the assassination of Abraham Lincoln, President of the United States, and to convey to his sorrowing widow and the American people its profound condolence and sympathy, together with the expression of its sad and solemn regret that the unnatural parricide who deprived the Father of his country of existence, and the wife of his bosom of her loved protector, should in any the slightest way have been connected with the profession this corporation represents, whose honor and loyalty have ever been its most cherished pride.",
+		"entities": [
+			[
+				"Covent Garden Theatrical Fund",
+				49,
+				78,
+				"ORG"
+			],
+			[
+				"Abraham Lincoln",
+				218,
+				233,
+				"PERSON"
+			],
+			[
+				"President of the United States",
+				235,
+				265,
+				"PERSON"
+			],
+			[
+				"American",
+				312,
+				320,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Signed for the committee of the Covent Garden Theatrical Fund: DRINKWATER MEADOWS, Secretary,6 The Grange, Michael's Grove, Brampton, S. W. Charles Francis Adams, Minister of the United States in England.\"]",
+		"entities": [
+			[
+				"Covent Garden Theatrical Fund",
+				32,
+				61,
+				"ORG"
+			],
+			[
+				"Brampton",
+				124,
+				132,
+				"LOC"
+			],
+			[
+				"Charles Francis Adams",
+				140,
+				161,
+				"PERSON"
+			],
+			[
+				"Minister of the United States in England",
+				163,
+				203,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "['[Here follow a paragraph listing the participants at the meeting and agenda items 1-4.] 5.",
+		"entities": []
+	},
+	{
+		"content": "U.S. Security Effort Overseas, FY 1958 and FY 1959 (NSC Action No. 1828; Memos for NSC from Executive Secretary, same subject, dated March 4 (and references listed therein) and April 29, 1958)",
+		"entities": [
+			[
+				"U.S.",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"FY 1958",
+				31,
+				38,
+				"DATE"
+			],
+			[
+				"FY 1959",
+				43,
+				50,
+				"DATE"
+			],
+			[
+				"NSC",
+				52,
+				55,
+				"ORG"
+			],
+			[
+				"NSC",
+				83,
+				86,
+				"ORG"
+			],
+			[
+				"Executive Secretary",
+				92,
+				111,
+				"PERSON"
+			],
+			[
+				"March 4",
+				133,
+				140,
+				"DATE"
+			],
+			[
+				"April 29, 1958",
+				177,
+				191,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "General Cutler briefed the Council on the Planning Board's proposal, which he described as a \"look-ahead\" to see what would be the trends through June 30, 1962.",
+		"entities": [
+			[
+				"General Cutler",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"Council",
+				27,
+				34,
+				"ORG"
+			],
+			[
+				"Planning Board",
+				42,
+				56,
+				"ORG"
+			],
+			[
+				"June 30, 1962",
+				146,
+				159,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "(A copy of General Cutler's briefing note is filed in the minutes of the meeting, and another is attached to this memorandum.)",
+		"entities": [
+			[
+				"General Cutler",
+				11,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Secretary Quarles expressed the opinion that the Planning Board's new proposal brought the problem down to dimensions which the Defense Department could handle, particularly if the State Department would furnish Defense with the political and economic assumptions upon which to base the study.",
+		"entities": [
+			[
+				"Secretary Quarles",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"Planning Board",
+				49,
+				63,
+				"ORG"
+			],
+			[
+				"Defense Department",
+				128,
+				146,
+				"ORG"
+			],
+			[
+				"State Department",
+				181,
+				197,
+				"ORG"
+			],
+			[
+				"Defense",
+				212,
+				219,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Secretary Herter agreed on the great value which the State Department would place on the proposed study.",
+		"entities": [
+			[
+				"Secretary Herter",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"State Department",
+				53,
+				69,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He pointed out that in providing the political and economic assumptions, the State Department would be obliged to resort to the crystal ball.",
+		"entities": [
+			[
+				"State Department",
+				77,
+				93,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The National Security Council: Noted and discussed the memorandum from the Acting Secretary of Defense on the subject and the views of the Joint Chiefs of Staff attached thereto, prepared pursuant to NSC Action No. 1828-b and transmitted by the reference memorandum of March 4, 1958; in the light of the comment and recommendation of the NSC Planning Board thereon, transmitted by the reference memorandum of April 29, 1958.",
+		"entities": [
+			[
+				"National Security Council",
+				4,
+				29,
+				"ORG"
+			],
+			[
+				"Acting Secretary of Defense",
+				75,
+				102,
+				"PERSON"
+			],
+			[
+				"Joint Chiefs of Staff",
+				139,
+				160,
+				"ORG"
+			],
+			[
+				"NSC",
+				200,
+				203,
+				"ORG"
+			],
+			[
+				"March 4, 1958",
+				269,
+				282,
+				"DATE"
+			],
+			[
+				"NSC Planning Board",
+				338,
+				356,
+				"ORG"
+			],
+			[
+				"April 29, 1958",
+				409,
+				423,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Agreed, as recommended by the NSC Planning Board subject to amendments proposed at the meeting, that, assuming a continuation of approved basic national security policy: (1)",
+		"entities": [
+			[
+				"NSC Planning Board",
+				30,
+				48,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Department of Defense and the Joint Chiefs of Staff be asked to submit, not later than September 1, 1958, a report to the National Security Council on the kind of force posture (missions, major force levels, and major types of armament by service) thought to be desirable as of June 30, 1962, for those nations (approximately 15) which, under military assistance which is contemplated from funds requested for FY 1959, would receive the major dollar portion of such assistance or advanced weapons systems; supplemented by brief mention of other nations which it is contemplated would receive such assistance.",
+		"entities": [
+			[
+				"Department of Defense",
+				4,
+				25,
+				"ORG"
+			],
+			[
+				"Joint Chiefs of Staff",
+				34,
+				55,
+				"ORG"
+			],
+			[
+				"September 1, 1958",
+				91,
+				108,
+				"DATE"
+			],
+			[
+				"National Security Council",
+				126,
+				151,
+				"ORG"
+			],
+			[
+				"June 30, 1962",
+				282,
+				295,
+				"DATE"
+			],
+			[
+				"FY 1959",
+				414,
+				421,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Department of State be asked to submit, on or before June 1, 1958, to the Department of Defense, the political and economic assumptions upon which such a report should be based.",
+		"entities": [
+			[
+				"Department of State",
+				4,
+				23,
+				"ORG"
+			],
+			[
+				"June 1, 1958",
+				57,
+				69,
+				"DATE"
+			],
+			[
+				"Department of Defense",
+				78,
+				99,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Note: The action in b above, as approved by the President, subsequently transmitted to the Secretary of State for implementation of b-(2), and to the Secretary of Defense and the Chairman, Joint Chiefs of Staff, for implementation of b-(1).",
+		"entities": [
+			[
+				"President",
+				48,
+				57,
+				"PERSON"
+			],
+			[
+				"Secretary of State",
+				91,
+				109,
+				"PERSON"
+			],
+			[
+				"Secretary of Defense",
+				150,
+				170,
+				"PERSON"
+			],
+			[
+				"Chairman",
+				179,
+				187,
+				"PERSON"
+			],
+			[
+				"Joint Chiefs of Staff",
+				189,
+				210,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[Here follows agenda item 6.]",
+		"entities": []
+	},
+	{
+		"content": "S. Everett Gleason']",
+		"entities": [
+			[
+				"S. Everett Gleason",
+				0,
+				18,
+				"PERSON"
+			]
+		]
+	}
+]

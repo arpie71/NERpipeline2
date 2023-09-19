@@ -1,0 +1,2933 @@
+[
+	{
+		"content": "['MRN: 1973STATE 133442 SEGMENT NUMBER: 000001 ERROR READING TEXT INDEX FILE; TELEGRAM TEXT FOR THIS MRN IS UNAVAILABLE ']",
+		"entities": [
+			[
+				"1973STATE 133442",
+				7,
+				23,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "C - ENTIRE TEXT 2.",
+		"entities": []
+	},
+	{
+		"content": "IN RESPONSE TO INQUIRY BY EMBOFF, HASSAN BAKHEET, ACTING DIRECTOR OF PETROMIN'S FOREIGN TRADE DIVISION OUTLINED THE CURRENT POLICY OF PETROMIN FOR DIRECT OIL SALES.",
+		"entities": [
+			[
+				"EMBOFF",
+				26,
+				32,
+				"PERSON"
+			],
+			[
+				"HASSAN BAKHEET",
+				34,
+				48,
+				"PERSON"
+			],
+			[
+				"ACTING DIRECTOR",
+				50,
+				65,
+				"TITLE"
+			],
+			[
+				"PETROMIN",
+				69,
+				77,
+				"ORG"
+			],
+			[
+				"FOREIGN TRADE DIVISION",
+				80,
+				102,
+				"ORG"
+			],
+			[
+				"PETROMIN",
+				134,
+				142,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "BAKHEET SAID THAT SINCE EARLY IN 1974 , IT HAS BEEN THE POLICY OF PETROMIN TO SELL OIL ONLY UNDER GOVERNMENT- TO-GOVERNMENT AGREEMENTS AND NOT TO INDIVIDUAL COMPANIES OR BROKERS.",
+		"entities": [
+			[
+				"BAKHEET",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"1974",
+				33,
+				37,
+				"DATE"
+			],
+			[
+				"PETROMIN",
+				66,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE EXCEPTION TO THIS RULE IS THAT SEVERAL JAPANESE COMPANIES AND TWO AMERICAN COMPANIES, INCLUDING ASHLAND OIL, HAD CONCLUDED DIRECT SALES CONTRACTS PRIOR TO THE ADOPTION OF THIS POLICY, AND THESE CONTRACTS HAD BEEN RENEWED SEVERAL TIMES",
+		"entities": [
+			[
+				"JAPANESE",
+				43,
+				51,
+				"NORP"
+			],
+			[
+				"AMERICAN",
+				70,
+				78,
+				"NORP"
+			],
+			[
+				"ASHLAND OIL",
+				100,
+				111,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE MOST RECENT RENEWAL (BAKHEET DID NOT NAME THE COMPANY) HAD BEEN UNTIL 1981.",
+		"entities": [
+			[
+				"BAKHEET",
+				25,
+				32,
+				"PERSON"
+			],
+			[
+				"1981",
+				74,
+				78,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "COMMENT: THE EMBASSY WAS RECENTLY APPROACHED BY THE AMERICAN AGENT OF AN INDEPENDENT OIL COMANY WITH THE REQUEST FOR DOCUMENTATION THAT WOULD IDENTIFY HIM AS A BUYER ACTING WTIH USG APPROVAL.",
+		"entities": [
+			[
+				"EMBASSY",
+				13,
+				20,
+				"ORG"
+			],
+			[
+				"AMERICAN",
+				52,
+				60,
+				"NORP"
+			],
+			[
+				"USG",
+				178,
+				181,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "HE CLAIMED TO HAVE LETTERS OF INTRODUCTION FROM THE DEPARTMENT OF ENERGY, AND ORIGINALLY REQUESTED A LETTER ATTESTING TO IT FROM THE AMBASSADOR.",
+		"entities": [
+			[
+				"DEPARTMENT OF ENERGY",
+				52,
+				72,
+				"ORG"
+			],
+			[
+				"AMBASSADOR",
+				133,
+				143,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "WHEN PRESSED TO PRODUCE THE DOE LETTER, HE DEMURRED AND SAID HE WOULD HAVE TO RETURN TO THE UNITED STATES FOR FURTHER INSTRUCTIONS FROM HIS PRINCIPALS.",
+		"entities": [
+			[
+				"DOE",
+				28,
+				31,
+				"ORG"
+			],
+			[
+				"UNITED STATES",
+				92,
+				105,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "BAKHEET SAID THAT PETROMIN IS APPROACHED FROM TIME TO TIME BY INDIVIDUALS PURPORTING TO BE ACTING UNDER DOE OR DEFENSE DEPARTMENT AUSPICES.",
+		"entities": [
+			[
+				"BAKHEET",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"PETROMIN",
+				18,
+				26,
+				"ORG"
+			],
+			[
+				"DOE",
+				104,
+				107,
+				"ORG"
+			],
+			[
+				"DEFENSE DEPARTMENT",
+				111,
+				129,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "LACKING INSTRUCTIONS FROM THE MINISTRY, PETROMIN NORMALLY TURNS THEM AWAY.",
+		"entities": [
+			[
+				"MINISTRY",
+				30,
+				38,
+				"ORG"
+			],
+			[
+				"PETROMIN",
+				40,
+				48,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "EMBOFF ASKED TO BE INFORMED OF ANY QPPROACHES TO BUY OIL BY INDIVIDUALS CLAIMING TO ACT ON BEHALF OF OR WITH THE AUTHORIZATION OF THE USG.",
+		"entities": [
+			[
+				"EMBOFF",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"USG",
+				134,
+				137,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "BAKHEET AGREED.",
+		"entities": [
+			[
+				"BAKHEET",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "GERLACH \"]",
+		"entities": [
+			[
+				"GERLACH",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['BEGIN SUMMARY:",
+		"entities": []
+	},
+	{
+		"content": "THE UK CURRENT ACCOUNT WAS IN DEFICIT BY 131 MILLION POUNDS (S.A.) IN JANUARY, AN IMPROVEMENT OF 85 MILLION POUNDS OVER DECEMBER, RESULTING PRINCIPALLY FROM A MARKED IMPROVEMENT IN THE NON-OIL TRADE BALANCE.",
+		"entities": [
+			[
+				"UK",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"JANUARY",
+				70,
+				77,
+				"DATE"
+			],
+			[
+				"DECEMBER",
+				120,
+				128,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THE VISIBLE TRADE DEFICIT WAS 261 MILLION POUNDS (S.A.) MADE UP OF A DEFICIT OF 312 MILLION POUNDS IN TRADE IN PETROLEUM AND RELATED PRODUCTS, AND A SURPLUS OF 51 MILLION POUNDS IN TRADE IN NON-OIL GOODS.",
+		"entities": []
+	},
+	{
+		"content": "PROVISIONAL ESTIMATES INDICATE EXPORTS OF 1,546 MILLION POUNDS (S.A., F.O.B.) AND IMPORTS OF 1,807 MILLION POUNDS (S.A., F.O.B.) THE BALANCE ON SERVICES AND OTHER CURRENT TRANSACTIONS ( INVISIBLE TRADE) IS ESTIMATED TO HAVE BEEN IN SURPLUS BY 130 MILLION POUNDS.",
+		"entities": []
+	},
+	{
+		"content": "END SUMMARY 1.",
+		"entities": []
+	},
+	{
+		"content": "TRADE ACCOUNT:",
+		"entities": []
+	},
+	{
+		"content": "IN JANUARY, THE UK TRADE DEFICIT SHOWED AN IMPROVEMENT OF 85 MILLION POUNDS (S.A.) OVER THE DECEM- BER LEVEL.",
+		"entities": [
+			[
+				"JANUARY",
+				3,
+				10,
+				"DATE"
+			],
+			[
+				"UK",
+				16,
+				18,
+				"GPE"
+			],
+			[
+				"DECEM- BER",
+				92,
+				102,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THE JANUARY DEFICIT WAS RECORDED AT 261 MILLION POUNDS (S.A., F.O.B., B/P BASIS) MADE UP OF A DE- FICIT OF 312 MILLION POUNDS IN TRADE IN PETROLEUM AND PETROLEUM RELATED PRODUCTS AND A SURPLUS OF 51 MILLION POUNDS IN TRADE IN NON-OIL GOODS.",
+		"entities": [
+			[
+				"JANUARY",
+				4,
+				11,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THE NON-OIL TRADE SUR- PLUS REFLECTS A TURN-AROUND OF 98 MILLION POUNDS FROM THE DECEMBER DEFICIT OF 47 MILLION POUNDS.",
+		"entities": [
+			[
+				"DECEMBER",
+				81,
+				89,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "TRADE VOLUME: OF PARTICULAR NOTE, WAS THE UPTURN IN THE VOLUME OF UK EXPORTS DURING THE MONTH COMPARED TO THE INCREASED VOLUME OF UK IMPORTS.",
+		"entities": [
+			[
+				"UK",
+				66,
+				68,
+				"GPE"
+			],
+			[
+				"UK",
+				130,
+				132,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE EXPORT VOLUME INDEX (S.A., 1970 EQUALS 100) ROSE FROM THE DECEMBER LEVEL OF 121.8 TO 136.0 IN JANUARY; THE IMPORT VOLUME INDEX IN- CREASED FROM 121.5 TO 127.1.",
+		"entities": [
+			[
+				"1970",
+				31,
+				35,
+				"DATE"
+			],
+			[
+				"DECEMBER",
+				62,
+				70,
+				"DATE"
+			],
+			[
+				"JANUARY",
+				98,
+				105,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "WHILE THE DEPARTMENT OF TRADE INDICATES THAT THE INCREASE IN EXPORT VOLUME MAY BE ERRATIC, THEY ARE UNAWARE OF ANY SINGULARLY LARGE EXPORT SHIPMENT (SUCH AS AIRCRAFT OR SHIPS) THAT MIGHT HAVE CAUSED THE EXCEPTIONALLY LARGE INCREASE DURING THE MONTH.",
+		"entities": [
+			[
+				"DEPARTMENT OF TRADE",
+				10,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "EXPORTS:",
+		"entities": []
+	},
+	{
+		"content": "THE VALUE OF UK EXPORTS ROSE TO 1,546 MILLION POUNDS (S.A., F.O.B., B/P BASIS)",
+		"entities": [
+			[
+				"UK",
+				13,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "AN INCREASE OF 185 MILLION POUNDS OVER DECEMBER.",
+		"entities": [
+			[
+				"DECEMBER",
+				39,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THE EXPORT UNIT VALUE INDEX ROSE FROM 178.3 IN DECEMBER TO 181.4 IN JANUARY (1970 EQUALS 100).",
+		"entities": [
+			[
+				"DECEMBER",
+				47,
+				55,
+				"DATE"
+			],
+			[
+				"JANUARY",
+				68,
+				75,
+				"DATE"
+			],
+			[
+				"1970",
+				77,
+				81,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "IMPORTS:",
+		"entities": []
+	},
+	{
+		"content": "THE VALUE OF UK IMPORTS WAS 1,807 MILLION POUNDS ( S.A., F.O.B., B/P BASIS)",
+		"entities": [
+			[
+				"UK",
+				13,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IN JANUARY, AN INCREASE OF 100 MILLION POUNDS OVER THE DECEMBER LEVEL.",
+		"entities": [
+			[
+				"JANUARY",
+				3,
+				10,
+				"DATE"
+			],
+			[
+				"DECEMBER",
+				55,
+				63,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THE IM- PORT UNIT VALUE INDEX (1970 EQUALS 100) INCREASED FROM 233.9 TO 235.1, DECEMBER TO JANUARY RESPECTIVELY.",
+		"entities": [
+			[
+				"1970",
+				31,
+				35,
+				"DATE"
+			],
+			[
+				"DECEMBER",
+				79,
+				87,
+				"DATE"
+			],
+			[
+				"JANUARY",
+				91,
+				98,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "5.",
+		"entities": []
+	},
+	{
+		"content": "INVISIBLE TRADE AND CURRENT ACCOUNT:",
+		"entities": []
+	},
+	{
+		"content": "THE BALANCE ON SERVICES AND OTHER CURRENT TRANSACTIONS IS ESTIMATED TO HAVE BEEN IN SURPLUS BY ABOUT 130 MILLION POUNDS DURING JANUARY.",
+		"entities": [
+			[
+				"JANUARY",
+				127,
+				134,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THUS, THE VISIBLE TRADE DEFICIT, 312 MILLION POUNDS, COMBINED WITH THE INVISIBLES SURPLUS OF 130 MILLION POUNDS, YIELDED A DEFICIT ON CURRENT ACCOUNT OF 131 MILLION POUNDS, THE LOWEST LEVEL SINCE SEPTEMBER 1973.",
+		"entities": [
+			[
+				"SEPTEMBER 1973",
+				196,
+				210,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "THE CUMULATIVE TOTALS FOR 1975 IN THE VISIBLE ACCOUNT COMPARED TO 1974 ARE: EXPORTS IMPORTS BALANCE 1974 1,012 1,396 -384 1975 1,546 1,807 -261 NOTE:",
+		"entities": [
+			[
+				"1975",
+				26,
+				30,
+				"DATE"
+			],
+			[
+				"1974",
+				66,
+				70,
+				"DATE"
+			],
+			[
+				"1974",
+				100,
+				104,
+				"DATE"
+			],
+			[
+				"1975",
+				122,
+				126,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "ALL FIGURES ARE S.A., F.O.B., B/P BASIS IN MILLIONS OF POUNDS.",
+		"entities": []
+	},
+	{
+		"content": "THE DATA FOR 1975 (JANUARY) IS PROVISIONAL.",
+		"entities": [
+			[
+				"1975",
+				13,
+				17,
+				"DATE"
+			],
+			[
+				"JANUARY",
+				19,
+				26,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "SPIERS ']",
+		"entities": [
+			[
+				"SPIERS",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['AS REPORTED REF (B), PARAGRAPH THREE, BILATERALS ARE BEING SCHEDULED WITH FOREIGN MINISTERS (BEGINNING AT 10:00 A.M.)",
+		"entities": [
+			[
+				"FOREIGN MINISTERS",
+				76,
+				93,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "ON TUESDAY, FEBRUARY 24, AND ARRANGED IN ALPHABETICAL ORDER BY NAME OF COUNTRY.",
+		"entities": [
+			[
+				"FEBRUARY 24",
+				12,
+				23,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "REF (C) DOES NOT CONTEMPLATE ANY CHANGE IN THE PROGRAM.",
+		"entities": []
+	},
+	{
+		"content": "HAD UNDERSTOOD FACIO HAD INFORMED BORGONOVO OF ABOVE.",
+		"entities": [
+			[
+				"FACIO",
+				15,
+				20,
+				"PERSON"
+			],
+			[
+				"BORGONOVO",
+				34,
+				43,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "TODMAN ']",
+		"entities": [
+			[
+				"TODMAN",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"MINISTER PEACOCK 1.",
+		"entities": [
+			[
+				"MINISTER PEACOCK 1",
+				2,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "FOLLOWING IS TEXT OF OCTOBER 21 LETTER FROM SECRETARY VANCE TO FOREIGN MINISTER PEACOCK WHICH EMBASSY IS REQUESTED TO DELIVER TO PEACOCK.",
+		"entities": [
+			[
+				"OCTOBER 21",
+				21,
+				31,
+				"DATE"
+			],
+			[
+				"SECRETARY VANCE",
+				44,
+				59,
+				"PERSON"
+			],
+			[
+				"FOREIGN MINISTER PEACOCK",
+				63,
+				87,
+				"PERSON"
+			],
+			[
+				"EMBASSY",
+				94,
+				101,
+				"ORG"
+			],
+			[
+				"PEACOCK",
+				129,
+				136,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "LETTER IS IN RESPONSE TO PEACOCK'S LETTER OF AUGUST 31.",
+		"entities": [
+			[
+				"PEACOCK",
+				25,
+				32,
+				"PERSON"
+			],
+			[
+				"AUGUST 31",
+				45,
+				54,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "SIGNED ORIGINAL HAS BEEN POUCHED TO EMBASSY AND COPY HAS BEEN DELIVERED TO AUSTRALIAN EMBASSY HERE.",
+		"entities": [
+			[
+				"EMBASSY",
+				36,
+				43,
+				"ORG"
+			],
+			[
+				"AUSTRALIAN EMBASSY",
+				75,
+				93,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "QUOTE",
+		"entities": []
+	},
+	{
+		"content": "DEAR ANDREW:",
+		"entities": [
+			[
+				"ANDREW",
+				5,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "THANK YOU FOR YOUR LONG THOUGHTFUL LETTER ON SOUTHEAST ASIA.",
+		"entities": [
+			[
+				"SOUTHEAST ASIA",
+				45,
+				59,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "YOUR ADVICE AND SUGGESTIONS ARE ALWAYS APPRECIATED AND YOUR OBSERVATIONS IN THIS INSTANCE ARE PARTICULARLY HELPFUL.",
+		"entities": []
+	},
+	{
+		"content": "IN ADDITION TO OUR DISCUSSIONS IN NEW YORK, LET ME ADD THE FOLLOWING THOUGHTS.",
+		"entities": [
+			[
+				"NEW YORK",
+				34,
+				42,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "AS WE HAVE DISCUSSED SEVERAL TIMES, THE UNITED STATES HAS NO INTENTION TO DOWNGRADING THE IMPORTANCE OF SOUTH- EAST ASIA.",
+		"entities": [
+			[
+				"UNITED STATES",
+				40,
+				53,
+				"GPE"
+			],
+			[
+				"SOUTH- EAST ASIA",
+				104,
+				120,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE PROBLEM IS HOW TO CONVEY THIS POLICY CREDIBLY TO OUR FRIENDS.",
+		"entities": []
+	},
+	{
+		"content": "DICK COOPER'S CONSULTATION WITH ASEAN IN MANILA WAS A CONCRETE MANIFESTATION OF OUR POLICY.",
+		"entities": [
+			[
+				"DICK COOPER",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"ASEAN",
+				32,
+				37,
+				"ORG"
+			],
+			[
+				"MANILA",
+				41,
+				47,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "WHILE, LIKE AUSTRALIA, JAPAN AND THE EEC, WE HAVE PROBLEMS IN MEETING ALL OF ASEAN'S REQUESTS, WE SHARE OUR BELIEF THAT IT IS AN IMPORTANT INSTITUTION WORTHY OF OUR COOPERATION AND SUPPORT.",
+		"entities": [
+			[
+				"AUSTRALIA",
+				12,
+				21,
+				"GPE"
+			],
+			[
+				"JAPAN",
+				23,
+				28,
+				"GPE"
+			],
+			[
+				"EEC",
+				37,
+				40,
+				"ORG"
+			],
+			[
+				"ASEAN",
+				77,
+				82,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WE REGARD DICK COOPER'S MEETING AS HAVING PRODUCED A SIGNIFICANT ADVANCE IN MUTUAL UNDERSTANDING ON BASIC ECONOMIC ISSUES AS WELL AS SIGNALING CLEARLY THE US COMMITMENT TO ASEAN.",
+		"entities": [
+			[
+				"DICK COOPER",
+				10,
+				21,
+				"PERSON"
+			],
+			[
+				"US",
+				155,
+				157,
+				"GPE"
+			],
+			[
+				"ASEAN",
+				172,
+				177,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE RECENT TALKS WE HAVE HAD IN NEW YORK AND WASHINGTON WITH THE PRIME MINISTERS OF MALAYSIA AND SINGAPORE AND THE FOREIGN MINISTERS OF THE OTHER ASEAN COUNTRIES HAVE REINFORCED OUR RESOLVE TO SUPPORT ASEAN.",
+		"entities": [
+			[
+				"NEW YORK",
+				32,
+				40,
+				"LOC"
+			],
+			[
+				"WASHINGTON",
+				45,
+				55,
+				"LOC"
+			],
+			[
+				"PRIME MINISTERS",
+				65,
+				80,
+				"PERSON"
+			],
+			[
+				"MALAYSIA",
+				84,
+				92,
+				"GPE"
+			],
+			[
+				"SINGAPORE",
+				97,
+				106,
+				"GPE"
+			],
+			[
+				"FOREIGN MINISTERS",
+				115,
+				132,
+				"PERSON"
+			],
+			[
+				"ASEAN",
+				146,
+				151,
+				"ORG"
+			],
+			[
+				"ASEAN",
+				201,
+				206,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "MORE CONCRETE DEVELOPMENTS ON BOTH SIDES WILL BE FORTHCOMING IN THE MONTHS AHEAD.",
+		"entities": []
+	},
+	{
+		"content": "REGIONALLY ASEAN APPEARS TO HAVE HAD THE HIGHLY BENEFICIAL EFFECT OF INSTILLING GREATER SELF-RELIANCE AND COOPERATION AMONG ITS MEMEBERS, NOT LIMITED TO THE ECONOMIC FIELD ALONE.",
+		"entities": [
+			[
+				"ASEAN",
+				11,
+				16,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "IT HAS ALSO ENHANCED THE INFLUENCE AND COHESION OF ITS MEMBERS IN INTERNATIONAL FORUMS, A DEVELOPMENT WHICH WE BELIEVE WILL LEAD TO GREATER MODERATION.",
+		"entities": []
+	},
+	{
+		"content": "THE UNITED STATES CONSIDERS ASEAN TO BE A POSITIVE FORCE INTENT ON PURSUING A CONSTRUCTIVE ROLE BOTH REGIONALLY AND WITH RESPECT TO WORLD ECONOMIC PROBLEMS.",
+		"entities": [
+			[
+				"UNITED STATES",
+				4,
+				17,
+				"GPE"
+			],
+			[
+				"ASEAN",
+				28,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WE WILL CONTINUE OUR DIALOGUE, WITH THE NEXT MINISTERIAL-LEVEL MEETING SET FOR NEXT JUNE IN WASHINGTON AND A WORKING GROUP ESTABLISHED HERE TO CONTINUE CONSULTATIONS DURING THE INTERIM.",
+		"entities": [
+			[
+				"JUNE",
+				84,
+				88,
+				"DATE"
+			],
+			[
+				"WASHINGTON",
+				92,
+				102,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "IN ADDITION TO THE ECONOMIC POTENTIAL OF ASEAN, WE ARE CONCERNED FOR THE SECURITY NEEDS OF ITS INDIVIDUAL MEMBERS AND ARE DOING WHAT WE CAN TO BE HELFPUL, WITHIN THE LIMITS OF OUR OVERALL POLICIES.",
+		"entities": [
+			[
+				"ASEAN",
+				41,
+				46,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WE WELCOME THE PARALLEL EFFORTS OF AUSTRALIA IN THIS REGARD, INCLUDING OUR REGULAR INTELLIGENCE EXCHANGE ON PROBLEMS IN SOUTHEAST ASIA.",
+		"entities": [
+			[
+				"AUSTRALIA",
+				35,
+				44,
+				"GPE"
+			],
+			[
+				"SOUTHEAST ASIA",
+				120,
+				134,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "WHILE I CAN UNDERSTAND THE UNEASINESS ON THE PART OF REGIONAL GOVERNMENTS ABOUT THE DEGREE OF UNITED STATES SECURITY SUPPORT, IT SEEMS TO ME THAT THEY HAVE ADJUSTED WELL TO THE CHANGE IN THE UNITED STATES MILITARY ROLE IN THE REGION OVER THE PAST SEVERAL YEARS.",
+		"entities": [
+			[
+				"UNITED STATES",
+				94,
+				107,
+				"GPE"
+			],
+			[
+				"UNITED STATES",
+				191,
+				204,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WE DO NOT INTEND, APART FROM KOREA, ANY FURTHER SUBSTANTIAL REDUCTIONS IN OUR MILITARY FORCES IN THE AREA.",
+		"entities": [
+			[
+				"KOREA",
+				29,
+				34,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE DEPLOYMENT OF THESE FORCES, PARTICULARLY OUR NAVAL AND AIR FORCES, THROUGHOUT BOTH THE WESTERN PACIFIC AND THE INDIAN OCEAN SHOULD CONTINUE TO BE AN ELEMENT OF STABILITY AND BE REGARDED AS SUCH BY THE MEMBERS OF ASEAN.",
+		"entities": [
+			[
+				"WESTERN PACIFIC",
+				91,
+				106,
+				"LOC"
+			],
+			[
+				"INDIAN OCEAN",
+				115,
+				127,
+				"LOC"
+			],
+			[
+				"ASEAN",
+				216,
+				221,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "DICK HOLBROOKE",
+		"entities": [
+			[
+				"DICK HOLBROOKE",
+				0,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "AND I HAVE BRIEFED YOU ON WHERE WE STAND ON THE IMPORTANT PHILIPPINE BASE ISSUE, INCLUDING THE RADICAL IMPROVEMENT IN THE ATTITUDE OF PRESIDENT MARCOS TOWARD CONTINUED US NAVAL AND AIR OPERATIONS FROM THESE BASES.",
+		"entities": [
+			[
+				"PHILIPPINE",
+				58,
+				68,
+				"GPE"
+			],
+			[
+				"PRESIDENT MARCOS",
+				134,
+				150,
+				"PERSON"
+			],
+			[
+				"US",
+				168,
+				170,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "HE SEEMS TO RECOGNIZE THE IMPORTANCE OF THE BASES NOT ONLY TO THE DEFENSE OF THE PHILIPPINES BUT ALSO TO THE MAINTENANCE OF SECURITY AND STABILITY IN THE WESTERN PACIFIC AND THE INDIAN OCEAN.",
+		"entities": [
+			[
+				"PHILIPPINES",
+				81,
+				92,
+				"GPE"
+			],
+			[
+				"WESTERN PACIFIC",
+				154,
+				169,
+				"LOC"
+			],
+			[
+				"INDIAN OCEAN",
+				178,
+				190,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "ON THE LATTER ISSUE, ALAN RENOUF HAS BEEN KEPT FULLY INFORMED BY PAUL WARNKE AND LES GELB OF OUR POSITION ON FURTHER INDIAN OCEAN TALKS WITH THE SOVIETS.",
+		"entities": [
+			[
+				"ALAN RENOUF",
+				21,
+				32,
+				"PERSON"
+			],
+			[
+				"PAUL WARNKE",
+				65,
+				76,
+				"PERSON"
+			],
+			[
+				"LES GELB",
+				81,
+				89,
+				"PERSON"
+			],
+			[
+				"INDIAN OCEAN",
+				117,
+				129,
+				"LOC"
+			],
+			[
+				"SOVIETS",
+				145,
+				152,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "AS I TOLD YOU IN NEW YORK, WE ARE FULLY AWARE OF THE VIEWS OF YOUR GOVERNMENT ON THIS ISSUE AND WILL GIVE THEM THE MOST CAREFUL CONSIDERATION AS WE PROCEED.",
+		"entities": [
+			[
+				"NEW YORK",
+				17,
+				25,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "WHILE PROGRESS HAS BEEN MADE TOWARD AGREEMENT TO CAP UNITED STATES AND SOVIET FORCES IN THE INDIAN OCEAN AT THEIR PRESENT LEVEL, IMPORTANT ISSUES REMAIN TO BE RESOLVED.",
+		"entities": [
+			[
+				"UNITED STATES",
+				53,
+				66,
+				"GPE"
+			],
+			[
+				"SOVIET",
+				71,
+				77,
+				"GPE"
+			],
+			[
+				"INDIAN OCEAN",
+				92,
+				104,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "YOU CAN BE ASSURED THAT THE INTERESTS OF ANZUS ARE BEING FULLY TAKEN INTO ACCOUNT, AND THAT WHAT WE INTEND WILL HAVE NO NEGATIVE EFFECT ON THE U.S. ABILITY TO SUPPORT AUSTRALIA AND NEW ZEALAND MILITARILY.",
+		"entities": [
+			[
+				"ANZUS",
+				41,
+				46,
+				"LAW"
+			],
+			[
+				"U.S.",
+				143,
+				147,
+				"GPE"
+			],
+			[
+				"AUSTRALIA",
+				167,
+				176,
+				"GPE"
+			],
+			[
+				"NEW ZEALAND",
+				181,
+				192,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "NOR WILL IT PREJUDICE THE INTERESTS OF OUR OTHER FRIENDS IN SOUTH- EAST ASIA.",
+		"entities": [
+			[
+				"SOUTH- EAST ASIA",
+				60,
+				76,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "WITH REGARD TO THE INDOCHINA STATES, I AGREE WITH YOU THAT ATTEMPTS TO BRING ABOUT NORMALIZATION OF RELATIONS SHOULD FOCUS PRIMARILY ON VIETNAM.",
+		"entities": [
+			[
+				"INDOCHINA",
+				19,
+				28,
+				"LOC"
+			],
+			[
+				"VIETNAM",
+				136,
+				143,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I AM INTERESTED TO NOTE THAT THE JAPANESE SAID THEY SAW MERIT IN THE PROPOSAL THAT SOUTHEAST ASIA BE CONSIDERED AS A WHOLE WITH THE BALANCE BETWEEN VIETNAM AND ASEAN ALWAYS WEIGHTED IN FAVOR OF THE LATTER.",
+		"entities": [
+			[
+				"JAPANESE",
+				33,
+				41,
+				"GPE"
+			],
+			[
+				"SOUTHEAST ASIA",
+				83,
+				97,
+				"LOC"
+			],
+			[
+				"VIETNAM",
+				148,
+				155,
+				"GPE"
+			],
+			[
+				"ASEAN",
+				160,
+				165,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THIS IS A DELICATE ISSUE FOR THEM AND THE APPROACH YOU DESCRIBE WOULD BE A REASONABLE ONE.",
+		"entities": []
+	},
+	{
+		"content": "OUR OBJECTIVE, LIKE YOURS, IS TO ASSIST IN BRINGING ABOUT LONG-TERM STABILITY AND PEACE FOR ALL OF THE COUNTRIES OF SOUTHEAST ASIA.",
+		"entities": [
+			[
+				"SOUTHEAST ASIA",
+				116,
+				130,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "AT PRESENT, THE PRINCIPAL PROBLEMS STEM FROM THE INDOCHINA STATES, ALTHOUGH SOME OF THE ASEAN STATES APPEAR A BIT RIGID IN THEIR ATTITUDES TOWARD THE FORMER.",
+		"entities": [
+			[
+				"INDOCHINA",
+				49,
+				58,
+				"LOC"
+			],
+			[
+				"ASEAN",
+				88,
+				93,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WE WILL CONTINUE TO SEEK MORE NORMAL RELATIONS WITH VIETNAM AND HOPE THAT HANOI WILL COME TO UNDERSTAND BETTER THE POLITICAL REALITIES IN THIS COUNTRY.",
+		"entities": [
+			[
+				"VIETNAM",
+				52,
+				59,
+				"GPE"
+			],
+			[
+				"HANOI",
+				74,
+				79,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "PERHAPS TIME WILL PRODUCE A FAVORABLE EVOLUTION.",
+		"entities": []
+	},
+	{
+		"content": "WE ALSO SHARE YOUR VIEW OF THE IMPORTANCE OF JAPAN IN SOUTHEAST ASIA, AND ITS LIMITED ROOM FOR POLITICAL MANEUVER GIVEN REGIONAL SENSITIVITIES.",
+		"entities": [
+			[
+				"JAPAN",
+				45,
+				50,
+				"GPE"
+			],
+			[
+				"SOUTHEAST ASIA",
+				54,
+				68,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE PRIMARY ROLE FOR JAPAN SHOULD, IN OUR VIEW, BE AN ECONOMIC ONE AND WE BELIVE THIS IS ALSO THE DESIRE OF THE JAPANESE GOVERNMENT.",
+		"entities": [
+			[
+				"JAPAN",
+				21,
+				26,
+				"GPE"
+			],
+			[
+				"JAPANESE GOVERNMENT",
+				112,
+				131,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "CERTAINLY IT IS WHAT WE ENCOURAGE.",
+		"entities": []
+	},
+	{
+		"content": "WE ARE MAINTAINING A CLOSE DIALOGUE WITH JAPAN ON OUR MUTUAL INVOLVEMENT IN SOUTHEAST ASIA.",
+		"entities": [
+			[
+				"JAPAN",
+				41,
+				46,
+				"GPE"
+			],
+			[
+				"SOUTHEAST ASIA",
+				76,
+				90,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I WOULD LIKE TO ASSURE YOU THAT MANY OF THE SUGGESTIONS LISTED AT THE END OF YOUR LETTER HAVE BEEN OR ARE BEING STUDIED FOR IMPLEMENTATION.",
+		"entities": []
+	},
+	{
+		"content": "I BELIEVE WE SEE EYE-TO-EYE ON THE PROBLEMS AND OPPORTUNITIES WE FACE TOGETHER IN SOUTHEAST ASIA.",
+		"entities": [
+			[
+				"SOUTHEAST ASIA",
+				82,
+				96,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "LET ME ALSO TAKE THIS OCCASION TO THANK YOU FOR YOUR LETTER OF CONGRATULATIONS ON HAVING CONCLUDED THE PANAMA CANAL TREATIES.",
+		"entities": [
+			[
+				"PANAMA CANAL TREATIES",
+				103,
+				124,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "WE, TOO, CONSIDER THE CANAL TO BE OF MAJOR IMPORTANCE TO FOREIGN TRADE AND WE AGREE ON THE NEED TO ENSURE THAT IT REMAINS A STABLE FACTOR IN INTERNATIONAL COMMERCE.",
+		"entities": [
+			[
+				"CANAL",
+				22,
+				27,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "THE PURPOSE OF THE TREATIES IS TO ACHIEVE THIS OBJECTIVE.",
+		"entities": []
+	},
+	{
+		"content": "SINCERELY, CY VANCE END QUOTE.",
+		"entities": [
+			[
+				"CY VANCE",
+				11,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "VANCE \"]",
+		"entities": [
+			[
+				"VANCE",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['TAL TASK FORCE ON RUBBER REFERENCE:",
+		"entities": [
+			[
+				"TAL TASK FORCE RUBBER",
+				2,
+				26,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "STREEB-KOBLER TELCON 12/2 1.",
+		"entities": [
+			[
+				"STREEB-KOBLER TELCON",
+				0,
+				20,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "THE FOLLOWING REFERS TO THE TEXT DICTATED OVER PHONE TO ORF/ISM ON THE PROPOSED RECOMMENDATIONS OF THE INTER- GOVERNMENTAL TASK FORCE ON RUBBER AS IT STOOD AT THE CESSATION OF DISCUSSIONS IN THE CONTACT GROUP 6 P.M. THURSDAY EVENING.",
+		"entities": [
+			[
+				"ORF/ISM",
+				56,
+				63,
+				"ORG"
+			],
+			[
+				"INTER- GOVERNMENTAL TASK FORCE ON RUBBER",
+				103,
+				143,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "NEGOTIATIONS OVER PARAGRAPH A AND THE CHAPEAU AT THE START OF PARAGRAPH B HAVE BEEN EXTREMELY DIFFICULT.",
+		"entities": [	]
+	},
+	{
+		"content": "PARAGRAPH",
+		"entities": []
+	},
+	{
+		"content": "A AS IT PRESENTLY STANDS ISHA COMPROMISE MERGER OF ALTERNATE TEXTS AS SUBMITTED BY CONSUMERS AND PRODUCERS.",
+		"entities": [
+			[
+				"ISHA",
+				25,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "USDEL HAS BEEN STRUGGLING, WITH VERY LITTLE SUPPORT FROM ANY OF THE OTHER CONSUMERS, TO AVOID HAVING THE LANGUAGE SUGGEST ANY COMMITMENT TO A NEGOTIATION OR THAT THE ELEMENTS IDENTIFIED SHOULD FORM THE BASIS FOR THE AGREE- MENT.",
+		"entities": [
+			[
+				"USDEL",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "THE WORDING IN PARAGRAPHS A AND B DOES NOT CORRESPOND DIRECTLY TO LANGUAGE THAT HAD BEEN SUGGESTED IN THE US POSITION PAPER.",
+		"entities": [
+			[
+				"US",
+				106,
+				108,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "FOR EXAMPLE, IN THE THIRD SENTENCE OF PARAGRAPH A, WE AGREED AD REFERENDUM TO THE DELETION OF THE WORDS \"IN SUCH AN AGREEMENT\" IN THE PHRASE \"WHICH COULD PLAY AN EFFECTIVE ROLE IN ACHIEVING GREATER PRICE STABILITY.\"",
+		"entities": []
+	},
+	{
+		"content": "WE RECEIVED ABSOLUTELY NO SUPPORT FROM ANY CONSUMER DELEGATION AS TO THE INCLUSION OF THAT PHRASE WHEN THE LOGIC AND RATIONALE OF ITS INCLUSION IN THAT SENTENCE WAS QUESTIONED BY PRODUCERS.",
+		"entities": []
+	},
+	{
+		"content": "SINCE WE CONSIDERED IT MOST ESSENTIAL THAT PHRASING IN THE REST OF THE OPENING PARAGRAPH INCLUDE NO UNQUALIFIED REFERENCE TO FEASIBILITY OR DESIRABILITY, USDEL FELT THAT IT WAS BEST TO ACCEPT DELETION OF THE PHRASE IN EXCHANGE FOR A SOFTENING OF THEIR LANGUAGE ON FEASIBILITY AND DESIRABILITY IN THAT PARAGRAPH.",
+		"entities": [
+			[
+				"USDEL",
+				154,
+				159,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "ON THE CHAPEAU IN PARAGRAPH B, THE ORIGINAL PRODUCER LANGUAGE SIMPLY MADE A DIRECT STATEMENT THAT \"THE TASK FORCE RECOMMENDED THE FOLLOWING ELEMENTS.\"",
+		"entities": []
+	},
+	{
+		"content": "CONSUMERS SUCCEEDED IN PREFACING THE CHAPEAU WITH \"IN THE EVENT THAT GOVERNMENTS COMMIT THEMSELVES\" AND IN INSERTING THE IDEA THAT THESE ELEMENTS SHOULD BE CONSIDERED (BY GOVERNMENTS AT 3RD PREP MEETING)",
+		"entities": []
+	},
+	{
+		"content": "AS A BASIS FOR NEGOTIATIONS RATHER THAN FOR THE AGREEMENT.",
+		"entities": []
+	},
+	{
+		"content": "THIS WAS ACCOMPLISHED WITH GREAT DIFFICULTY AND LITTLE SUPPORT FROM CONSUMERS,",
+		"entities": []
+	},
+	{
+		"content": "WHO, EXCEPT CANADA, WERE PREPARED TO ACCEPT THE MUCH MORE DIRECT PRODUCER LANGUAGE. 4.",
+		"entities": [
+			[
+				"CANADA",
+				12,
+				18,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "CONTACT GROUP RESUMES DELIBERATIONS ON TEXT AT 10:30 FRIDAY MORNING GENEVA TIME.",
+		"entities": [
+			[
+				"GENEVA",
+				68,
+				74,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "USDEL HAS MADE IT CLEAR THAT THIS TEXT WOULD BE SUBMITTED TO WASHINGTON AND THAT THE ENTIRE TEXT, EVEN THAT WHICH IS NOT CURRENTLY BRACKETED, HAS ONLY BEEN ACCEPTED AD REFERENDUM.",
+		"entities": [
+			[
+				"USDEL",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"WASHINGTON",
+				61,
+				71,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "GIVEN THE TIGHTROPE THE US IS WALKING IN TRYING TO MAINTAIN EVEN MARGINAL SUPPORT FROM THE OTHER CONSUMERS, USDEL STRONGLY RECOM- MENDS THAT THE NON-BRACKETED PART OF THE TEXT BE ACCEPTED AS IT NOW STANDS.",
+		"entities": [
+			[
+				"US",
+				24,
+				26,
+				"GPE"
+			],
+			[
+				"USDEL",
+				108,
+				113,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "IN THE VIEW OF USDEL, THIS LANGUAGE NEITHER COMMITS US TO A NEGOTIATION, NOR TO THE DESIRABILITY OR FEASIBILITY OF AN AGREEMENT, OR ANY OF ITS POSSIBLE ELEMENTS.",
+		"entities": [
+			[
+				"USDEL",
+				15,
+				20,
+				"PERSON"
+			],
+			[
+				"US",
+				52,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "FURTHER, IT DOES NOT SUBSTANTIALLY REDUCE OUR FLEXIBILITY, SHOULD WE DECIDE TO JOIN IN A NEGOTIATION.",
+		"entities": []
+	},
+	{
+		"content": "THE IDEA OF FURTHER ANALYSIS BY GOVERNMENTS HAS BEEN RETAINED OVER PRODUCER OPPOSITION AND, ALTHOUGH THERE IS NO SPECIFIC MENTION THAT GOVERNMENTS MAY INTRO-",
+		"entities": []
+	},
+	{
+		"content": "DUCE ALTERNATIVE PROPOSALS AND/OR ELEMENTS SUBSEQUENTLY AND DURING NEGOTIATIONS, THERE IS AN EXPLICIT ACCEPTANCE OF THE ASSUMPTION BY PRODUCERS THAT ALL GOVERNMENTS OBVIOUSLY HAVE SUCH AN OPTION.",
+		"entities": []
+	},
+	{
+		"content": "VANDEN HEUVEL ']",
+		"entities": [
+			[
+				"VANDEN HEUVEL",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "TURKEY 2.",
+		"entities": [
+			[
+				"TURKEY",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "CNTRY CODE: 489 3.",
+		"entities": []
+	},
+	{
+		"content": "SER.NO.",
+		"entities": []
+	},
+	{
+		"content": "51200 4.",
+		"entities": []
+	},
+	{
+		"content": "ECZACIBASI ILAC SANAYI VE TICARET A.S.",
+		"entities": [
+			[
+				"ECZACIBASI ILAC SANAYI VE TICARET A.S.",
+				0,
+				38,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "4A. CODE:",
+		"entities": []
+	},
+	{
+		"content": "K 4B. CODE: C 5.",
+		"entities": []
+	},
+	{
+		"content": "PO BOX 45 6.",
+		"entities": []
+	},
+	{
+		"content": "LEVENT, ISTANBUL 7.",
+		"entities": [
+			[
+				"LEVENT, ISTANBUL",
+				8,
+				16,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "ESTABL: 1953 8.",
+		"entities": [
+			[
+				"1953",
+				8,
+				12,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "EMPL: 1800 9.",
+		"entities": []
+	},
+	{
+		"content": "SIZE: (19-X) LARGE 10.",
+		"entities": []
+	},
+	{
+		"content": "REPUTATION: (22-X) EXCELLENT 11.",
+		"entities": []
+	},
+	{
+		"content": "SELLS IN THE FOLLOWING FOREIGN AREAS: CYPRUS 12.",
+		"entities": [
+			[
+				"CYPRUS",
+				38,
+				44,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "RPT DATE: 11/75 13A. 28340 03 MFR.",
+		"entities": [
+			[
+				"11/75",
+				10,
+				15,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "DIST.",
+		"entities": []
+	},
+	{
+		"content": "PHARMACEUTICALS.",
+		"entities": []
+	},
+	{
+		"content": "13B. 28440/03 MFR. DIST.",
+		"entities": []
+	},
+	{
+		"content": "COSMETICS 13C. 28315/03 MFR.",
+		"entities": []
+	},
+	{
+		"content": "DIST.",
+		"entities": []
+	},
+	{
+		"content": "BIOLOGICAL PREPARATIONS FOR VETERINARY USE.",
+		"entities": []
+	},
+	{
+		"content": "14.",
+		"entities": []
+	},
+	{
+		"content": "CONTACT:",
+		"entities": []
+	},
+	{
+		"content": "NEJAT F. ECZACIBASI TITLE: PRESIDENT 15.",
+		"entities": [
+			[
+				"NEJAT F. ECZACIBASI",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"PRESIDENT",
+				27,
+				36,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "CABLE: IMBIK, ISTANBUL 16.",
+		"entities": [
+			[
+				"IMBIK, ISTANBUL",
+				7,
+				22,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "TELEX: NA 17.",
+		"entities": []
+	},
+	{
+		"content": "TEL: 646450 18.",
+		"entities": []
+	},
+	{
+		"content": "FINANCIAL REFS.",
+		"entities": []
+	},
+	{
+		"content": "TURK TICARET BANKASI, BEYOGLU, ISTANBUL; OSMANLI, BANKASI, KARAKOY, ISTANBUL.",
+		"entities": [
+			[
+				"TURK TICARET BANKASI",
+				0,
+				20,
+				"ORG"
+			],
+			[
+				"BEYOGLU, ISTANBUL",
+				22,
+				39,
+				"LOC"
+			],
+			[
+				"OSMANLI, BANKASI",
+				41,
+				57,
+				"ORG"
+			],
+			[
+				"KARAKOY, ISTANBUL",
+				59,
+				76,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "19.",
+		"entities": []
+	},
+	{
+		"content": "TRADE REFS:",
+		"entities": []
+	},
+	{
+		"content": "UPJOHN INTERNATIONAL INC., KALAMAZOO, MICHIGAN; DON BAXTER INC., GLENDALE, CALIFORNIA. 20.",
+		"entities": [
+			[
+				"UPJOHN INTERNATIONAL INC",
+				0,
+				24,
+				"ORG"
+			],
+			[
+				"KALAMAZOO, MICHIGAN",
+				27,
+				46,
+				"LOC"
+			],
+			[
+				"DON BAXTER INC",
+				48,
+				62,
+				"ORG"
+			],
+			[
+				"GLENDALE, CALIFORNIA",
+				65,
+				85,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FOREIGN FIRMS REPRESENTED: LICENSEE OF UPJOHN INTERNATIONAL INC., KALAMAZOO, MICH.",
+		"entities": [
+			[
+				"UPJOHN INTERNATIONAL INC",
+				39,
+				63,
+				"ORG"
+			],
+			[
+				"KALAMAZOO, MICH",
+				66,
+				81,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FOR PHARMACEUTICALS, ACQUIRED 1961; DON BAXTER, INC., GLENDALE, CALIF.",
+		"entities": [
+			[
+				"1961",
+				30,
+				34,
+				"DATE"
+			],
+			[
+				"DON BAXTER, INC",
+				36,
+				51,
+				"ORG"
+			],
+			[
+				"GLENDALE, CALIF",
+				54,
+				69,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FOR PHARMACEUTICALS, ACQUIRED 1958; ASTRA, SODERTELJE, STOCKHOLM, SWEDEN FOR PHARMACEUTICALS, ACQUIRED1957; PHARMACIA, UPSALA, SWEDEN FOR PHARMACEUTICALS, ACQUIRED 1960; LEO, HELSINGBORG, SWEDEN, PHARMACEUTICALS, ACQUIRED 1960; FUSISAWA, TOKYO, PHARMACEUTICALS, ACQUIRED 1960.",
+		"entities": [
+			[
+				"1958",
+				30,
+				34,
+				"DATE"
+			],
+			[
+				"ASTRA",
+				36,
+				41,
+				"ORG"
+			],
+			[
+				"SODERTELJE",
+				43,
+				53,
+				"LOC"
+			],
+			[
+				"STOCKHOLM",
+				55,
+				64,
+				"LOC"
+			],
+			[
+				"SWEDEN",
+				66,
+				72,
+				"LOC"
+			],
+			[
+				"PHARMACIA",
+				108,
+				117,
+				"ORG"
+			],
+			[
+				"UPSALA",
+				119,
+				125,
+				"LOC"
+			],
+			[
+				"SWEDEN",
+				127,
+				133,
+				"LOC"
+			],
+			[
+				"1960",
+				164,
+				168,
+				"DATE"
+			],
+			[
+				"LEO",
+				170,
+				173,
+				"ORG"
+			],
+			[
+				"HELSINGBORG",
+				175,
+				186,
+				"LOC"
+			],
+			[
+				"SWEDEN",
+				188,
+				194,
+				"LOC"
+			],
+			[
+				"1960",
+				222,
+				226,
+				"DATE"
+			],
+			[
+				"FUSISAWA",
+				228,
+				236,
+				"ORG"
+			],
+			[
+				"TOKYO",
+				238,
+				243,
+				"LOC"
+			],
+			[
+				"1960",
+				271,
+				275,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "21.",
+		"entities": []
+	},
+	{
+		"content": "THIS CONCERN IS ONE OF TURKEY'S LARGEST MANUFACTURERS OF PHAR- MACEUTICALS, COSMETICS VETERINARY AND OVER THE COUNTER DRUGS.",
+		"entities": [
+			[
+				"TURKEY",
+				23,
+				29,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "FIXED ASSETS REPORTED AT TL 200 MILLION ($1 EQUALS TL15), PAID-UP CAPITAL TL 150 MILLION AND SALES TL 600 MILLION.",
+		"entities": []
+	},
+	{
+		"content": "OF THE 350 DIFFER- ENT TYPES OF PRODUCT MARKETED BY ECZACIBASI, SOME ARE MANUFACTURED UNDER LICENSE FROM LEADING INTERNATIONAL DRUG CONCERNS.",
+		"entities": [
+			[
+				"ECZACIBASI",
+				52,
+				62,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FIRM RECENT- LY INTRODUCED NEW HEART AND ASTHMATIC DRUGS.",
+		"entities": []
+	},
+	{
+		"content": "PRODUCTS ARE SOLD TO WHOLESALERS AND TENDERED TO GOVERNMENT AGENCIES.",
+		"entities": []
+	},
+	{
+		"content": "DIRECTOR, DR NEJAT F. ECZACIBASI, ENJOYS A REPUTATION AS ONE OF TURKEY'S MOST ABLE INDUSTRIALISTS.",
+		"entities": [
+			[
+				"DIRECTOR",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"DR NEJAT F. ECZACIBASI",
+				10,
+				32,
+				"PERSON"
+			],
+			[
+				"TURKEY",
+				64,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "HIS MANY BUSINESS INTERESTS ARE CONTROLLED THROUGH ECZACIBASI HOLDING T.A.S., A MANAGEMENT AND FINANCE OR- GANIZATION WHICH HOLDS SHARES IN SEVERAL INDUSTRIAL AND PHARMA- CEUTICAL CONCERNS INCLUDING \"DOSAN\", A TOMATO PASTE FACTORY IN BURSA (26 PERCENT), \"AS KAYNAK ELEKTRODLARI\", A WELDING ELECTRODE PLANT IN YAKACIK, NEAR ISTANBUL (30 PERCENT) AND CONTROLS \"IPEK KAGIT A.S.\", A PAPER PRODUCTS AND SANITARY TISSUE FACTORY AND A LARGE CERAMICS PLANT NEAR KARTAL (ISTANBUL).",
+		"entities": [
+			[
+				"ECZACIBASI HOLDING T.A.S.",
+				51,
+				76,
+				"ORG"
+			],
+			[
+				"DOSAN",
+				200,
+				205,
+				"ORG"
+			],
+			[
+				"BURSA",
+				234,
+				239,
+				"LOC"
+			],
+			[
+				"AS KAYNAK ELEKTRODLARI",
+				255,
+				277,
+				"ORG"
+			],
+			[
+				"YAKACIK",
+				309,
+				316,
+				"LOC"
+			],
+			[
+				"ISTANBUL",
+				323,
+				331,
+				"LOC"
+			],
+			[
+				"IPEK KAGIT A.S.",
+				359,
+				374,
+				"ORG"
+			],
+			[
+				"KARTAL",
+				454,
+				460,
+				"ORG"
+			],
+			[
+				"ISTANBUL",
+				462,
+				470,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "CONSTRUCTION OF A SECOND CERAMICS FACTORY HAS BEEN STARTED IN BILEKIK, ABOUT 200 KMS.",
+		"entities": [
+			[
+				"BILEKIK",
+				62,
+				69,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FROM ISTANBUL.",
+		"entities": [
+			[
+				"ISTANBUL",
+				5,
+				13,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THIS PLANT WILL BECOME OPERATIONAL IN 1978.",
+		"entities": [
+			[
+				"1978",
+				38,
+				42,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "THIS BUSINESS IS BELIEVED TO BE EFFICIENTLY MANAGED AND ENJOYS AN EXCELLENT REPUTATION.ITS BANK RATINGS ARE VERY FAVOURABLE.",
+		"entities": []
+	},
+	{
+		"content": "HIGHLY RECOMMENDED AS A POTENTIAL BUSINESS PARTNER.",
+		"entities": []
+	},
+	{
+		"content": "22.",
+		"entities": []
+	},
+	{
+		"content": "PREPARED BY: E. SEBER; APPROVED:",
+		"entities": [
+			[
+				"E. SEBER",
+				13,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "R.W. BECKHAM; AT: US CONSULATE GENERAL, ISTANBUL.",
+		"entities": [
+			[
+				"R.W. BECKHAM",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"US CONSULATE GENERAL",
+				18,
+				38,
+				"ORG"
+			],
+			[
+				"ISTANBUL",
+				40,
+				48,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MACE ']",
+		"entities": [
+			[
+				"MACE",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "[\"1.",
+		"entities": []
+	},
+	{
+		"content": "DR. FRANCIS OF CDC/WHO TEAM ASKED DCM TO REQUEST EMBASSY LONDON'S ASSISTANCE IN LOCATING LOST SHIPMENT OF EMERGENCY MEDICAL SUPPLIES FROM CDC TO SUDAN.",
+		"entities": [
+			[
+				"DR. FRANCIS",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"CDC/WHO",
+				15,
+				22,
+				"ORG"
+			],
+			[
+				"DCM",
+				34,
+				37,
+				"PERSON"
+			],
+			[
+				"EMBASSY LONDON",
+				49,
+				63,
+				"ORG"
+			],
+			[
+				"CDC",
+				138,
+				141,
+				"ORG"
+			],
+			[
+				"SUDAN",
+				145,
+				150,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "AS FAR AS DR. FRANCIS KNOWS NO RPT NO PERISHABLE ITEMS ARE IN SHIPMENT, BUT ITEMS WHICH HAVE BEEN REQUESTED BY GOS ARE URGENTLY NEEDED BY CDC/WHO/GOS TEAM GOING TO SOUTHERN SUDAN TO INVESTIGATE INFECTIOUS DISEASE OUTBREAK THERE.",
+		"entities": [
+			[
+				"DR. FRANCIS",
+				10,
+				21,
+				"PERSON"
+			],
+			[
+				"GOS",
+				111,
+				114,
+				"GPE"
+			],
+			[
+				"CDC/WHO/GOS",
+				138,
+				149,
+				"ORG"
+			],
+			[
+				"SOUTHERN SUDAN",
+				164,
+				178,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "ACCORDING TO DR. FRANCIS CDC MEDICAL ITEMS WERE SHIPPED VIA PAN AM AND DID ARRIVE IN LONDON OCTOBER 20.",
+		"entities": [
+			[
+				"DR. FRANCIS",
+				13,
+				24,
+				"PERSON"
+			],
+			[
+				"CDC",
+				25,
+				28,
+				"ORG"
+			],
+			[
+				"PAN AM",
+				60,
+				66,
+				"ORG"
+			],
+			[
+				"LONDON",
+				68,
+				74,
+				"LOC"
+			],
+			[
+				"OCTOBER 20",
+				75,
+				85,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "ITEMS ARRIVED TOO LATE, HOWEVER, FOR DR. DAVID SIMPSON TO BRING THEM TO KHARTOUM AS ORIGINALLY PLANNED.",
+		"entities": [
+			[
+				"DR. DAVID SIMPSON",
+				37,
+				54,
+				"PERSON"
+			],
+			[
+				"KHARTOUM",
+				72,
+				80,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THEREFORE, ARRANGEMENTS WERE MADE TO HAVE COOKS SHIP ITEMS TO SUDAN.",
+		"entities": [
+			[
+				"COOKS",
+				42,
+				47,
+				"ORG"
+			],
+			[
+				"SUDAN",
+				62,
+				67,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THEY HAVE NOT YET ARRIVED, HOWEVER, AND NEITHER BRITISH AIRWAYS NOR SUDAN AIRWAYS HAS ANY INFO.",
+		"entities": [
+			[
+				"BRITISH AIRWAYS",
+				48,
+				63,
+				"ORG"
+			],
+			[
+				"SUDAN AIRWAYS",
+				68,
+				81,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "ACTION REQUESTED: EMBASSY LONDON REQUESTED ATTEMPT LOCATE CDC MEDICAL SHIPMENT AND ADVISE EMBASSY KHARTOUM AND CDC ATLANTA SOONEST",
+		"entities": [
+			[
+				"EMBASSY LONDON",
+				18,
+				32,
+				"ORG"
+			],
+			[
+				"CDC",
+				58,
+				61,
+				"ORG"
+			],
+			[
+				"EMBASSY KHARTOUM",
+				90,
+				106,
+				"ORG"
+			],
+			[
+				"CDC ATLANTA",
+				111,
+				122,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "RE STATUS OF SHIPMENT.",
+		"entities": []
+	},
+	{
+		"content": "WE IN TURN WILL ADVISE GOS AND WHO AUTHORITIES HERE.",
+		"entities": [
+			[
+				"GOS",
+				23,
+				26,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "COMMENT: IN SEPARATE MATTER DEPARTMENT AND CDC MAY BE INTERESTED TO KNOW THAT GOS MILITARY TRANSPORTATION TO TAKE GROUP TO SOUTH NEVER MATERIALIZED.",
+		"entities": [
+			[
+				"DEPARTMENT",
+				28,
+				38,
+				"ORG"
+			],
+			[
+				"CDC",
+				43,
+				46,
+				"ORG"
+			],
+			[
+				"GOS",
+				78,
+				81,
+				"GPE"
+			],
+			[
+				"SOUTH",
+				123,
+				128,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "HOWEVER, FRG SUPPLYING AIRCRAFT FOR THIS PURPOSE, AND TEAM WAS SCHEDULED TO DEPART SUNDAY A..",
+		"entities": [
+			[
+				"FRG",
+				9,
+				12,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IN ADDITION TO 10,000 AMPULES GAMMA GLOBULIN REPORTED EARLIER, WE HAVE ALSO LEARNED THAT FRG HAS SUPPLIED SUBSTANTIAL QUANTITY GOWNS AND GLOVES.",
+		"entities": [
+			[
+				"FRG",
+				89,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "BREWER \"]",
+		"entities": [
+			[
+				"BREWER",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['TYOWAS 4-261 RE WASALL 4-54-MD.",
+		"entities": []
+	},
+	{
+		"content": "WILL INSERT NEWKIRK INFORMATION IN JULY OR AUGUST ISSUE OF OUR \"USTS NEWS\" INSERT IN TRAVEL JURNAL.",
+		"entities": [
+			[
+				"NEWKIRK",
+				12,
+				19,
+				"PERSON"
+			],
+			[
+				"JULY",
+				35,
+				39,
+				"DATE"
+			],
+			[
+				"AUGUST",
+				43,
+				49,
+				"DATE"
+			],
+			[
+				"USTS NEWS",
+				64,
+				73,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "COPIES WILL BE FORWARDED VIA OIS WHEN AVAILABLE.",
+		"entities": [
+			[
+				"OIS",
+				29,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "SHOESMITH ']",
+		"entities": [
+			[
+				"SHOESMITH",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['PLEASED HEAR THAT HAMILTON JORDAN WILL BE TRANSITING CAIRO JANUARY 2.",
+		"entities": [
+			[
+				"HAMILTON JORDAN",
+				20,
+				35,
+				"PERSON"
+			],
+			[
+				"CAIRO",
+				55,
+				60,
+				"LOC"
+			],
+			[
+				"JANUARY 2",
+				61,
+				70,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "WILL MEET HIM AT AIRPORT.",
+		"entities": []
+	},
+	{
+		"content": "SHOULD CAUTION THAT TWA-800 HAS ARRIVED LATE PAST FEW WEEKS",
+		"entities": [
+			[
+				"TWA-800",
+				20,
+				27,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "AND THIS IS ALSO POSSIBILITY TOMORROW.",
+		"entities": []
+	},
+	{
+		"content": "WE ARE SEEKING CONFIRM ONWARD ARRANGEMENTS",
+		"entities": []
+	},
+	{
+		"content": "CAIRO-RIYADH VIA SAUDI AIRLINES FOR TOMORROW EVENING.",
+		"entities": [
+			[
+				"CAIRO-RIYADH",
+				0,
+				12,
+				"LOC"
+			],
+			[
+				"SAUDI AIRLINES",
+				17,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "EILTS ']",
+		"entities": [
+			[
+				"EILTS",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['DATA ARE NEEDED RELATIVE TO STATUS OF BEAGLE CHANNEL NEGOTIATIONS ON ARGENTINA-CHILE BOUNDARY.",
+		"entities": [
+			[
+				"BEAGLE CHANNEL",
+				40,
+				54,
+				"LOC"
+			],
+			[
+				"ARGENTINA-CHILE",
+				71,
+				86,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "AVAILABLE INFORMATION DOES NOT INDICATE IF AN AWARD HAS BEEN MADE BY JUDGES OF INTERNATIONAL COURT OF JUSTICE OR IF A FINAL RATIFIED AGREEMENT HAS BEEN REACHED BETWEEN ARGENTINA AND CHILE.",
+		"entities": [
+			[
+				"INTERNATIONAL COURT OF JUSTICE",
+				79,
+				109,
+				"ORG"
+			],
+			[
+				"ARGENTINA",
+				168,
+				177,
+				"GPE"
+			],
+			[
+				"CHILE",
+				182,
+				187,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IN EVENT A SETTLEMENT HAS BEEN REACHED, PLEASE FORWARD TREATY AND MAP OF BOUNDARY.",
+		"entities": []
+	},
+	{
+		"content": "KISSINGER ']",
+		"entities": [
+			[
+				"KISSINGER",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['ESTIMATED DRAWDOWN OF U.S. CONTRIBUTIONS TO SPECIAL FUNDS REQUESTED REF A FOLLOWS: A. ASSUMING NO CONTRIBUTION THROUGH 1979 BEYOND PRESENT $100 MILLION U.S. FISCAL YEARS AMOUNT TO BE DRAWNDOWN 1976 $ 16.3 MILLION #1 77 17.1 78 23.0 79 28.5 80 12.1 81 0 TOTAL 100.0 #2 #1 INCLUDES $5.8 MILLION WHICH WAS REQUESTED TO BE ENCASHED IN AUGUST 1975.",
+		"entities": [
+			[
+				"U.S.",
+				24,
+				28,
+				"GPE"
+			],
+			[
+				"1979",
+				121,
+				125,
+				"DATE"
+			],
+			[
+				"U.S.",
+				154,
+				158,
+				"GPE"
+			],
+			[
+				"1976",
+				195,
+				199,
+				"DATE"
+			],
+			[
+				"AUGUST 1975",
+				333,
+				344,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "#2 $2.9 MILLION ALREADY REQUESTED TO BE ENCASHED IN U.S. FISCAL YEAR 1975.",
+		"entities": [
+			[
+				"U.S.",
+				52,
+				56,
+				"GPE"
+			],
+			[
+				"1975",
+				69,
+				73,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "B. ASSUMING CONTRIBUTION OF $50 MILLION TO ADF IN U.S. FISCAL YEAR 1976 AND A THREE YEAR CONTRIBUTION OF $200 MILLION IN FISCAL YEARS 1977-79.",
+		"entities": [
+			[
+				"ADF",
+				43,
+				46,
+				"ORG"
+			],
+			[
+				"U.S.",
+				50,
+				54,
+				"GPE"
+			],
+			[
+				"1976",
+				67,
+				71,
+				"DATE"
+			],
+			[
+				"1977-79",
+				134,
+				141,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "U.S. FISCAL YEARS AMOUNT TO BE DRAWNDOWN 1976 $16.3 MILLION #1 77 17.1 78 65.9 79 81.7 80 96.0 81 70.1 #2 TOTAL 350.0 #1 INCLUDES #5.8 MILLION WHICH WAS REQUESTED TO BE ENCASHED IN AUGUST 1975.",
+		"entities": [
+			[
+				"U.S.",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"1976",
+				41,
+				45,
+				"DATE"
+			],
+			[
+				"AUGUST 1975",
+				181,
+				192,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "#2 ASSUMES THAT SUBSEQUENT CONTRIBUTION, IF ANY, IS NOT DRAWNDOWN IN THIS YEAR.",
+		"entities": []
+	},
+	{
+		"content": "C. ASSUMING CONTRIBUTION OF $50 MILLION IN FISCAL YEAR 1976 AND A THREE-YEAR CONTRIBUTION OF $230 MILLION IN U.S. FISCAL YEARS 1977-79.",
+		"entities": [
+			[
+				"1976",
+				55,
+				59,
+				"DATE"
+			],
+			[
+				"U.S.",
+				109,
+				113,
+				"GPE"
+			],
+			[
+				"1977-79",
+				127,
+				134,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "U.S. FISCAL YEARS AMOUNT TO BE DRAWNDOWN 1976 $ 16.3 MILLION #1 77 17.1 U.S. FISCAL YEARS AMOUNT TO BE DRAWNDOWN 1978 $ 70.3 MILLION #1 79 87.1 80 102.3 81 84.0 #2 TOTAL 380.0 #1 INCLUDES $5.8 MILLION WHICH WAS REQUESTED TO BE ENCASHED IN AUGUST 1975.",
+		"entities": [
+			[
+				"U.S.",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"1976",
+				41,
+				45,
+				"DATE"
+			],
+			[
+				"U.S.",
+				72,
+				76,
+				"GPE"
+			],
+			[
+				"1978",
+				113,
+				117,
+				"DATE"
+			],
+			[
+				"AUGUST 1975",
+				239,
+				250,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "#2 ASSUMES THAT SUBSEQUENT CONTRIBUTION, IF ANY, IS NOT DRAWN DOWN IN THIS YEAR.",
+		"entities": []
+	},
+	{
+		"content": "SULLIVAN ']",
+		"entities": [
+			[
+				"SULLIVAN",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	}
+]

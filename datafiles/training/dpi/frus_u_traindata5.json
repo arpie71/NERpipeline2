@@ -1,0 +1,3679 @@
+[
+	{
+		"content": "['MEMORANDUM THE WHITE HOUSE WASHINGTON August 31, 1972 MEMORANDUM FOR THE RECORD Following is a report of a meeting with Mrs. Shih at the Chinese Mission in New York on August 30, 1972.",
+		"entities": [
+			[
+				"August 31, 1972",
+				40,
+				55,
+				"DATE"
+			],
+			[
+				"Mrs. Shih",
+				122,
+				131,
+				"PERSON"
+			],
+			[
+				"Chinese Mission",
+				139,
+				154,
+				"ORG"
+			],
+			[
+				"New York",
+				158,
+				166,
+				"LOC"
+			],
+			[
+				"August 30, 1972",
+				170,
+				185,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I entered the Chinese Mission at 1700 hours, where I was greeted by Mrs. Shih and escorted to a room on the second floor.",
+		"entities": [
+			[
+				"Chinese Mission",
+				14,
+				29,
+				"ORG"
+			],
+			[
+				"Mrs. Shih",
+				68,
+				77,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mrs. Shih served tea and a twenty-minute disucssion on non-substantial matters followed.",
+		"entities": [
+			[
+				"Mrs. Shih",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "After approximately twenty-five minutes, Mrs. Shih mentioned that the Ambassador was unavoidably detained and would not be able to join us.",
+		"entities": [
+			[
+				"Mrs. Shih",
+				41,
+				50,
+				"PERSON"
+			],
+			[
+				"Ambassador",
+				70,
+				80,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I then presented the note (Tab A) to Mrs. Shih, who read it and said she understood it, had no questions and would pass it to the Ambassador as soon as possible.",
+		"entities": [
+			[
+				"Mrs. Shih",
+				37,
+				46,
+				"PERSON"
+			],
+			[
+				"Ambassador",
+				130,
+				140,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mrs. Shih then guided the conversation back to generalities and served a second pot of tea.",
+		"entities": [
+			[
+				"Mrs. Shih",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I departed the Mission at 1755 and telephoned Colonel Kennedy to advise him that the note had been delivered.",
+		"entities": [
+			[
+				"Mission",
+				15,
+				22,
+				"ORG"
+			],
+			[
+				"Colonel Kennedy",
+				46,
+				61,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "V. James Fazio Deputy Director Situation Room Attached for the information of the Chinese side is a copy of the further report, which the U.S. side mentioned on August 28, 1972, concerning the August 22, 1972 incident.",
+		"entities": [
+			[
+				"James Fazio",
+				3,
+				14,
+				"PERSON"
+			],
+			[
+				"Deputy Director Situation Room",
+				15,
+				45,
+				"TITLE"
+			],
+			[
+				"Chinese",
+				82,
+				89,
+				"GPE"
+			],
+			[
+				"U.S.",
+				138,
+				142,
+				"GPE"
+			],
+			[
+				"August 28, 1972",
+				161,
+				176,
+				"DATE"
+			],
+			[
+				"August 22, 1972",
+				193,
+				208,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The U.S. side expresses once again its sincere regret for the loss of life resulting from this matter.",
+		"entities": [
+			[
+				"U.S.",
+				4,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It will do its utmost to prevent recurrence, but wishes to point out that the activities involved run the risk of inadvertent and regrettable incidents.",
+		"entities": []
+	},
+	{
+		"content": "SUBJECT:",
+		"entities": []
+	},
+	{
+		"content": "PRC Protest Over the Sinking of a Small Waterborne Logistic Craft on 22 August 1972",
+		"entities": [
+			[
+				"PRC",
+				0,
+				3,
+				"GPE"
+			],
+			[
+				"22 August 1972",
+				69,
+				83,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "An investigation has been conducted of a PRC protest over the sinking of an alleged PRC lifeboat in the vicinity of Hon Ngu Island on 22 August 1972.",
+		"entities": [
+			[
+				"PRC",
+				41,
+				44,
+				"GPE"
+			],
+			[
+				"PRC",
+				84,
+				87,
+				"GPE"
+			],
+			[
+				"Hon Ngu Island",
+				116,
+				130,
+				"LOC"
+			],
+			[
+				"22 August 1972",
+				134,
+				148,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The investigation included personal interview of the pilots by the Commanding Officer, Oriskany, photos of Hung Chi 151 on 25 August 1972 and comments from Commanding Officer USS Truxton whose ship was controlling the two A-7 aircraft involved.",
+		"entities": [
+			[
+				"Commanding Officer",
+				67,
+				85,
+				"TITLE"
+			],
+			[
+				"Oriskany",
+				87,
+				95,
+				"PERSON"
+			],
+			[
+				"Hung Chi 151",
+				107,
+				119,
+				"FAC"
+			],
+			[
+				"25 August 1972",
+				123,
+				137,
+				"DATE"
+			],
+			[
+				"Commanding Officer",
+				156,
+				174,
+				"TITLE"
+			],
+			[
+				"USS Truxton",
+				175,
+				186,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The principal elements disclosed by this investigation were: a.",
+		"entities": []
+	},
+	{
+		"content": "The movements and nature of the craft attacked coincided with the movements and nature of many other waterborne logistic craft noted in the past.",
+		"entities": []
+	},
+	{
+		"content": "These craft have been attacked and destroyed because they are engaged in transporting supplies from merchant ships at Hon Ngu anchorage into the Democratic Republic of Vietnam.",
+		"entities": [
+			[
+				"Hon Ngu",
+				118,
+				125,
+				"LOC"
+			],
+			[
+				"the Democratic Republic of Vietnam",
+				141,
+				175,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The location of the boat at the time of the bombing Was approximately 1500 feet from the nearest merchant ship.",
+		"entities": []
+	},
+	{
+		"content": "An A-7 flight, requested permission from the USS Truxton to attack the boat.",
+		"entities": [
+			[
+				"USS Truxton",
+				45,
+				56,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Truxton authorized expending ordnance against the boat only after the pilots twice checked for presence of flag and reported back there was no flag.",
+		"entities": [
+			[
+				"Truxton",
+				0,
+				7,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Although the PRC alleges the boat was a \"lifeboat,\" the aircrews report several boxes or crates were observed in the boat.",
+		"entities": [
+			[
+				"PRC",
+				13,
+				16,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Based on this observation, it was concluded that supplies were being carried by the North Vietnamese from the northern merchant ship.",
+		"entities": [
+			[
+				"North Vietnamese",
+				84,
+				100,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The boat was sunk with one 500 lb.",
+		"entities": []
+	},
+	{
+		"content": "bomb dropped from an A-7.",
+		"entities": []
+	},
+	{
+		"content": "25 August photography reveals that Hung Chi is missing one of the two small boats normally carried aft.",
+		"entities": [
+			[
+				"25 August",
+				0,
+				9,
+				"DATE"
+			],
+			[
+				"Hung Chi",
+				35,
+				43,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Photography on 19 August had both boats in place.",
+		"entities": [
+			[
+				"19 August",
+				15,
+				24,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "It may be surmised from this information and from the correlation of boat sizes, that the boat which was sunk could have been from the Hung Chi 151.",
+		"entities": [
+			[
+				"Hung Chi 151",
+				135,
+				147,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "According to the PRC, the boat was sunk at 18deg47'56\"; 105deg45'12\"; the A-7 flight reported the position as 18deg47'45\", 105045'.",
+		"entities": [
+			[
+				"PRC",
+				17,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The two positions differ only 1100' in their north-south orientation.",
+		"entities": []
+	},
+	{
+		"content": "It is noted that this position is approximately one-third of the distance from shore line to Hon Ngu Island--another indication to the aircrew that the boat was carrying supplies.",
+		"entities": [
+			[
+				"Hon Ngu Island",
+				93,
+				107,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "To summarize: The boat appeared to be carrying supplies; it was near shore according to both PRC and aircrew reports; it was not flying a flag; two low level identification passes were made to ascertain the boat's mission.",
+		"entities": [
+			[
+				"PRC",
+				93,
+				96,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The attack was initiated in accordance with the formally proclaimed intention of the United States to prevent the delivery of seaborne supplies to the Democratic Republic of Vietnam.']",
+		"entities": [
+			[
+				"the United States",
+				81,
+				98,
+				"GPE"
+			],
+			[
+				"the Democratic Republic of Vietnam",
+				147,
+				181,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[\"PARTICIPANTS The Secretary Mr. Imhof, WE Ambassador Alphand, French Embassy Minister de Leusse, French Embassy M. Roger Duzer, Counselor, French Embassy Ambassador Alphand said that he now had a message from Couve de Murville in response to a number of points which the Secretary had raised with Alphand on July 1.",
+		"entities": [
+			[
+				"Secretary",
+				19,
+				28,
+				"TITLE"
+			],
+			[
+				"Imhof",
+				33,
+				38,
+				"PERSON"
+			],
+			[
+				"WE Ambassador Alphand",
+				40,
+				61,
+				"PERSON"
+			],
+			[
+				"French Embassy",
+				63,
+				77,
+				"ORG"
+			],
+			[
+				"Minister de Leusse",
+				78,
+				96,
+				"PERSON"
+			],
+			[
+				"French Embassy",
+				98,
+				112,
+				"GPE"
+			],
+			[
+				"M. Roger Duzer",
+				113,
+				127,
+				"PERSON"
+			],
+			[
+				"Counselor",
+				129,
+				138,
+				"TITLE"
+			],
+			[
+				"French Embassy",
+				140,
+				154,
+				"ORG"
+			],
+			[
+				"Ambassador Alphand",
+				155,
+				173,
+				"ORG"
+			],
+			[
+				"Couve de Murville",
+				210,
+				227,
+				"PERSON"
+			],
+			[
+				"the Secretary",
+				268,
+				281,
+				"PERSON"
+			],
+			[
+				"Alphand",
+				298,
+				305,
+				"PERSON"
+			],
+			[
+				"July 1",
+				309,
+				315,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand explained that the delay had been caused by Couve's extremely busy schedule--he had been in Germany, in Sweden and he had chaired the WEU meeting in Paris.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Couve",
+				63,
+				68,
+				"PERSON"
+			],
+			[
+				"Germany",
+				111,
+				118,
+				"LOC"
+			],
+			[
+				"Sweden",
+				123,
+				129,
+				"LOC"
+			],
+			[
+				"WEU",
+				153,
+				156,
+				"ORG"
+			],
+			[
+				"Paris",
+				168,
+				173,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand then proceeded to read from penciled notes.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said he could assure the Secretary the French Government was fully aware that the U.S. had no territorial ambitions in Southeast Asia.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"the Secretary",
+				40,
+				53,
+				"PERSON"
+			],
+			[
+				"French Government",
+				58,
+				75,
+				"GPE"
+			],
+			[
+				"U.S.",
+				101,
+				105,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				138,
+				152,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said that not only do we have no territorial ambitions, we also have no ambition to regard Southeast Asia as our special sphere of influence.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Southeast Asia",
+				105,
+				119,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that the French Government knows that U.S. actions in the area are not in any sense directed against France.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"French Government",
+				33,
+				50,
+				"GPE"
+			],
+			[
+				"U.S.",
+				62,
+				66,
+				"GPE"
+			],
+			[
+				"France",
+				125,
+				131,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To be sure, there had on occasions been some activities by certain U.S. services but the French Government knew that U.S. policy was not directed against France.",
+		"entities": [
+			[
+				"U.S.",
+				67,
+				71,
+				"GPE"
+			],
+			[
+				"French Government",
+				89,
+				106,
+				"GPE"
+			],
+			[
+				"U.S.",
+				117,
+				121,
+				"GPE"
+			],
+			[
+				"France",
+				154,
+				160,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "By the same token, the French Government hoped that no one in the United States Government would consider that French policies were directed in any sense against U.S. interests.",
+		"entities": [
+			[
+				"the French Government",
+				19,
+				40,
+				"GPE"
+			],
+			[
+				"the United States Government",
+				62,
+				90,
+				"GPE"
+			],
+			[
+				"French",
+				111,
+				117,
+				"GPE"
+			],
+			[
+				"U.S.",
+				162,
+				166,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that the fact remained that while we had similar objectives, there were serious differences with regard to Southeast Asia about the ways and means to get there.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Southeast Asia",
+				131,
+				145,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The French Government believed that the best way to stabilize the area was to make certain that there was no outside intervention, neither from the Chinese nor from the U.S. Ambassador Alphand said that he recalled the Secretary's statement on July 1 that we would quickly be back in the area militarily in case the stability of the area were threatened.",
+		"entities": [
+			[
+				"French Government",
+				4,
+				21,
+				"GPE"
+			],
+			[
+				"Chinese",
+				148,
+				155,
+				"GPE"
+			],
+			[
+				"U.S.",
+				169,
+				173,
+				"GPE"
+			],
+			[
+				"Ambassador Alphand",
+				174,
+				192,
+				"PERSON"
+			],
+			[
+				"Secretary",
+				219,
+				228,
+				"PERSON"
+			],
+			[
+				"July 1",
+				244,
+				250,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that it seemed that this statement indicated that we did regard Southeast Asia as our special sphere of influence.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Southeast Asia",
+				88,
+				102,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said that this interpretation was not correct.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We have a commitment to ensure the freedom and the security of the area.",
+		"entities": []
+	},
+	{
+		"content": "We felt the countries had a right to expect outside help in case their security was threatened.",
+		"entities": []
+	},
+	{
+		"content": "Ambassador Alphand asked who would decide whether there was a renewal of aggression.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He noted that in the case of the Austrian State Treaty, there was no provision for a unilateral decision that an aggression had occurred.",
+		"entities": [
+			[
+				"the Austrian State Treaty",
+				29,
+				54,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said that we considered the current situation in Southeast Asia as an aggression.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Southeast Asia",
+				63,
+				77,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "If Hungary were to put armed bands into Austria, we would have to do something about it.",
+		"entities": [
+			[
+				"Hungary",
+				3,
+				10,
+				"GPE"
+			],
+			[
+				"Austria",
+				40,
+				47,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand reverted to the question who would define whether an aggression had occurred.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Secretary pointed out that we have jointly registered our interest in the security of Southeast Asia in SEATO.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Southeast Asia",
+				90,
+				104,
+				"LOC"
+			],
+			[
+				"SEATO",
+				108,
+				113,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand, again reading from his notes, said that France agreed that the Chinese Communist regime had many bad qualities; on the other hand, the Chinese regime was aware of U.S. power and concerned about U.S. bases on the Asian mainland.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"France",
+				60,
+				66,
+				"GPE"
+			],
+			[
+				"Chinese Communist",
+				83,
+				100,
+				"GPE"
+			],
+			[
+				"Chinese",
+				155,
+				162,
+				"GPE"
+			],
+			[
+				"U.S.",
+				183,
+				187,
+				"GPE"
+			],
+			[
+				"U.S.",
+				214,
+				218,
+				"GPE"
+			],
+			[
+				"Asian",
+				232,
+				237,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The Secretary asked whether China understood why we were there.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"China",
+				28,
+				33,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said he felt certain that China did understand.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"China",
+				45,
+				50,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The U.S. had said so directly.",
+		"entities": [
+			[
+				"U.S.",
+				4,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He assumed that we had also made the Chinese aware of our position in our direct discussions with them.",
+		"entities": [
+			[
+				"Chinese",
+				37,
+				44,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He said in this situation the French Ambassador in Peiping could add little.",
+		"entities": [
+			[
+				"French Ambassador",
+				30,
+				47,
+				"PERSON"
+			],
+			[
+				"Peiping",
+				51,
+				58,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Our statements would count far more heavily with the Chinese than anything the French might say.",
+		"entities": [
+			[
+				"Chinese",
+				53,
+				60,
+				"GPE"
+			],
+			[
+				"French",
+				79,
+				85,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand then came to what appears to have been the gist of his instructions.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He said that there should be an understanding between France and the U.S. not only on objectives in Southeast Asia but also on the means to get there.",
+		"entities": [
+			[
+				"France",
+				54,
+				60,
+				"GPE"
+			],
+			[
+				"U.S.",
+				69,
+				73,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				100,
+				114,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Without such an understanding, French possibilities to be of help would be limited.",
+		"entities": [
+			[
+				"French",
+				31,
+				37,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As the French saw it, we had various options.",
+		"entities": [
+			[
+				"French",
+				7,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We could extend the war.",
+		"entities": []
+	},
+	{
+		"content": "In this case, France could not play a useful role.",
+		"entities": [
+			[
+				"France",
+				14,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We could look for a negotiated settlement.",
+		"entities": []
+	},
+	{
+		"content": "In this case, France could be of help.",
+		"entities": [
+			[
+				"France",
+				14,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand referred in this connection to General De Gaulle's recent statement to Mr. Ball that a vast negotiation, including China, the USSR, the UK, France and the U.S., would in itself help to stabilize the situation in Southeast Asia by slowing down Communist military actions.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"General De Gaulle",
+				50,
+				67,
+				"PERSON"
+			],
+			[
+				"Ball",
+				94,
+				98,
+				"PERSON"
+			],
+			[
+				"China",
+				134,
+				139,
+				"GPE"
+			],
+			[
+				"USSR",
+				145,
+				149,
+				"GPE"
+			],
+			[
+				"UK",
+				155,
+				157,
+				"GPE"
+			],
+			[
+				"France",
+				159,
+				165,
+				"GPE"
+			],
+			[
+				"U.S.",
+				174,
+				178,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				231,
+				245,
+				"LOC"
+			],
+			[
+				"Communist",
+				262,
+				271,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "A French demarche to Peiping would be useful only at a later stage when an understanding had been reached on the course which we would adopt.",
+		"entities": [
+			[
+				"French",
+				2,
+				8,
+				"GPE"
+			],
+			[
+				"Peiping",
+				21,
+				28,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An earlier demarche would simply jeopardize the usefulness of a later French intervention.",
+		"entities": [
+			[
+				"French",
+				70,
+				76,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary asked whether Peiping knew that France disapproved of Chinese and North Vietnamese actions in Southeast Asia.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Peiping",
+				28,
+				35,
+				"GPE"
+			],
+			[
+				"France",
+				46,
+				52,
+				"GPE"
+			],
+			[
+				"Chinese",
+				68,
+				75,
+				"GPE"
+			],
+			[
+				"North Vietnamese",
+				80,
+				96,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				108,
+				122,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said Peiping was aware that France was opposed to outside intervention in the area and that it wants an agreement with international guarantees.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Peiping",
+				24,
+				31,
+				"GPE"
+			],
+			[
+				"France",
+				47,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that Chen Yi had given a bad speech on the occasion of Bastille Day, a speech which had not pleased the French at all.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Chen Yi",
+				29,
+				36,
+				"PERSON"
+			],
+			[
+				"Bastille Day",
+				79,
+				91,
+				"EVENT"
+			],
+			[
+				"French",
+				128,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Nevertheless, Ambassador Alphand thought that there was no doubt in Chinese Government circles about French disapproval of outside interference in the area.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				14,
+				32,
+				"PERSON"
+			],
+			[
+				"Chinese Government",
+				68,
+				86,
+				"GPE"
+			],
+			[
+				"French",
+				101,
+				107,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary asked Ambassador Alphand whether the French Government had given any indications as to the kind of agreement they expected to come out of such a conference.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Ambassador Alphand",
+				20,
+				38,
+				"PERSON"
+			],
+			[
+				"French Government",
+				51,
+				68,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that he had nothing specific from Paris on this point but that the hope was that the Chinese will keep out of the area if the U.S. withdraws from Laos and Vietnam.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Paris",
+				58,
+				63,
+				"GPE"
+			],
+			[
+				"Chinese",
+				109,
+				116,
+				"GPE"
+			],
+			[
+				"U.S.",
+				150,
+				154,
+				"GPE"
+			],
+			[
+				"Laos",
+				170,
+				174,
+				"GPE"
+			],
+			[
+				"Vietnam",
+				179,
+				186,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said that if that was what the Chinese desired, they could have it tomorrow if they themselves stopped interfering in the area.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				45,
+				52,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that the Chinese required guarantees.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				33,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It was desirable that others also participated in extending these guarantees.",
+		"entities": []
+	},
+	{
+		"content": "The Secretary said that we had such an agreement in Laos and it had not worked.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Laos",
+				52,
+				56,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said he had repeatedly discussed some of our earlier actions in Laos with the Secretary's predecessors.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Laos",
+				83,
+				87,
+				"LOC"
+			],
+			[
+				"the Secretary",
+				93,
+				106,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said he was specifically referring to the situation after the 1962 agreement.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"1962",
+				76,
+				80,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We had taken 600 men out of Laos.",
+		"entities": [
+			[
+				"Laos",
+				28,
+				32,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The other side had not adhered to the agreement.",
+		"entities": []
+	},
+	{
+		"content": "Ambassador Alphand suggested that the situation in Laos had disintegrated because of the war in Vietnam.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Laos",
+				51,
+				55,
+				"LOC"
+			],
+			[
+				"Vietnam",
+				96,
+				103,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He said it was necessary to solve the problem of the entire area.",
+		"entities": []
+	},
+	{
+		"content": "An attempt to solve Laos alone would be fruitless.",
+		"entities": [
+			[
+				"Laos",
+				20,
+				24,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said that on the contrary, a solution of the Laotian problem could facilitate a solution in Vietnam, relieve pressures on Sihanouk, and lead to a stabilization of the situation in Southeast Asia.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Laotian",
+				59,
+				66,
+				"NORP"
+			],
+			[
+				"Vietnam",
+				106,
+				113,
+				"LOC"
+			],
+			[
+				"Sihanouk",
+				136,
+				144,
+				"PERSON"
+			],
+			[
+				"Southeast Asia",
+				194,
+				208,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary noted that the agreement on Laos was self-contained and not dependent on the situation in South Vietnam.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Laos",
+				42,
+				46,
+				"GPE"
+			],
+			[
+				"South Vietnam",
+				104,
+				117,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that the Secretary was right juridically; he believed, however, that a solution had to be found for the problem of the entire area.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"the Secretary",
+				29,
+				42,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said it seemed to him the question was not so much a new agreement but performance on existing agreements.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand recalled the Secretary's remark to him on July 1 that while the Soviets had come to realize that aggression would involve the most serious risks for them, the Chinese apparently had not as yet come to realize this.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Secretary",
+				32,
+				41,
+				"PERSON"
+			],
+			[
+				"July 1",
+				61,
+				67,
+				"DATE"
+			],
+			[
+				"Soviets",
+				83,
+				90,
+				"GPE"
+			],
+			[
+				"Chinese",
+				178,
+				185,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said once a negotiated settlement had been reached, it ought to be possible to make the Chinese understand that any infraction of the agreement would create the most serious risks for them.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				107,
+				114,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The U.S. could bring into play its overwhelming power in Southeast Asia.",
+		"entities": [
+			[
+				"U.S.",
+				4,
+				8,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				57,
+				71,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The threat of a nuclear war would have a most sobering and deterrent effect on the Chinese.",
+		"entities": [
+			[
+				"Chinese",
+				83,
+				90,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said that the Asians, including even Chiang Kai-shek, were strongly opposed to the employment of nuclear weapons in Asia.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Asians",
+				28,
+				34,
+				"NORP"
+			],
+			[
+				"Chiang Kai-shek",
+				51,
+				66,
+				"PERSON"
+			],
+			[
+				"Asia",
+				130,
+				134,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He wondered to what extent the Chinese Communists really felt themselves threatened.",
+		"entities": [
+			[
+				"Chinese Communists",
+				31,
+				49,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For instance, did they really think that they are facing a threat from South Vietnam?",
+		"entities": [
+			[
+				"South Vietnam",
+				71,
+				84,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said he did not know, but he thought that the Chinese were aware of the power position of the United States.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				65,
+				72,
+				"GPE"
+			],
+			[
+				"the United States",
+				109,
+				126,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that under present circumstances, his government believed that it was better to await a later time for a French demarche in Peiping.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"French",
+				129,
+				135,
+				"GPE"
+			],
+			[
+				"Peiping",
+				148,
+				155,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary asked whether the French Government supported Souvanna Phouma.",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"French Government",
+				32,
+				49,
+				"GPE"
+			],
+			[
+				"Souvanna Phouma",
+				60,
+				75,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Alphand said that the French Government considered him the Prime Minister of Laos but hoped that he would not allow himself to be integrated among the Right.",
+		"entities": [
+			[
+				"Ambassador Alphand",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"French Government",
+				33,
+				50,
+				"GPE"
+			],
+			[
+				"Prime Minister",
+				70,
+				84,
+				"TITLE"
+			],
+			[
+				"Laos",
+				88,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "There should be three factions in Laos.",
+		"entities": [
+			[
+				"Laos",
+				34,
+				38,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary said that he did not wish to go into this in detail at this time but that the three factions were not necessarily a permanent ingredient of the accord on Laos.\"]",
+		"entities": [
+			[
+				"The Secretary",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Laos",
+				168,
+				172,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "['My Dear Mr. Secretary: Enclosed is a page taken from \"The Nation\", October 24, 1923, entitled, \"Mr. Hughes Makes a Secret Alliance\".",
+		"entities": [
+			[
+				"Mr. Secretary",
+				10,
+				23,
+				"PERSON"
+			],
+			[
+				"The Nation",
+				56,
+				66,
+				"ORG"
+			],
+			[
+				"October 24, 1923",
+				69,
+				85,
+				"DATE"
+			],
+			[
+				"Hughes",
+				102,
+				108,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I do not know whether this was sent to all the Senators or not, but in any event it seems to me that what is contained in this article could hardly be correct, at least not the whole story.",
+		"entities": [
+			[
+				"Senators",
+				47,
+				55,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If consistent with your office, could you give me the correct information?",
+		"entities": []
+	},
+	{
+		"content": "If not consistent, will you please say if there is any way by which Congress may be informed later on?",
+		"entities": [
+			[
+				"Congress",
+				68,
+				76,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Yours very truly, James Couzens']",
+		"entities": [
+			[
+				"James Couzens",
+				18,
+				31,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['No. 2924.]",
+		"entities": []
+	},
+	{
+		"content": "Sir: I have the honor to inclose a translation of a communication from the Tsung-li Yamen wherein the princes and ministers inform me that China has declared her neutrality in the existing war between Spain and the United States.",
+		"entities": [
+			[
+				"Tsung-li Yamen",
+				75,
+				89,
+				"ORG"
+			],
+			[
+				"China",
+				139,
+				144,
+				"GPE"
+			],
+			[
+				"Spain",
+				201,
+				206,
+				"GPE"
+			],
+			[
+				"the United States",
+				211,
+				228,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I have, etc, Charles Denby.",
+		"entities": [
+			[
+				"Charles Denby",
+				13,
+				26,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Tsung-li Yamen to Mr. Denby.",
+		"entities": [
+			[
+				"Tsung-li Yamen",
+				4,
+				18,
+				"ORG"
+			],
+			[
+				"Denby",
+				26,
+				31,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Pekin, May 2, 1898.",
+		"entities": [
+			[
+				"Pekin",
+				0,
+				5,
+				"LOC"
+			],
+			[
+				"May 2, 1898",
+				7,
+				18,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Your Excellency: The princes and ministers have had the honor to receive a communication from the minister of the United States, stating that the Congress of the United States passed on the 20th of April a joint resolution directing intervention for the pacification and independence of Cuba.",
+		"entities": [
+			[
+				"Your Excellency",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"minister of the United States",
+				98,
+				127,
+				"PERSON"
+			],
+			[
+				"Congress of the United States",
+				146,
+				175,
+				"ORG"
+			],
+			[
+				"20th of April",
+				190,
+				203,
+				"DATE"
+			],
+			[
+				"Cuba",
+				287,
+				291,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Government of Spain on the 21st instant informed the minister of the United States at Madrid that it considered this resolution equivalent to a declaration of war, and that it had accordingly withdrawn its minister from Washington and terminated all diplomatic relations with the United States.",
+		"entities": [
+			[
+				"The Government of Spain",
+				0,
+				23,
+				"GPE"
+			],
+			[
+				"21st",
+				31,
+				35,
+				"DATE"
+			],
+			[
+				"minister of the United States",
+				57,
+				86,
+				"PERSON"
+			],
+			[
+				"Madrid",
+				90,
+				96,
+				"LOC"
+			],
+			[
+				"Washington",
+				224,
+				234,
+				"LOC"
+			],
+			[
+				"the United States",
+				280,
+				297,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Congress of the United States thereupon, by an act approved the 26th of April, declared that a state of war exists between the two countries since and including the 21st of April.",
+		"entities": [
+			[
+				"Congress of the United States",
+				4,
+				33,
+				"ORG"
+			],
+			[
+				"26th of April",
+				68,
+				81,
+				"DATE"
+			],
+			[
+				"21st of April",
+				169,
+				182,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The minister of the United States is directed by his Government to give this information to the princes and ministers, so that the neutrality of the Empire of China may be assured in the existing war.",
+		"entities": [
+			[
+				"The minister of the United States",
+				0,
+				33,
+				"GPE"
+			],
+			[
+				"Government",
+				53,
+				63,
+				"GPE"
+			],
+			[
+				"Empire of China",
+				149,
+				164,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In reply, the princes and ministers have to observe that the Government of China will duly maintain the laws of neutrality.",
+		"entities": [
+			[
+				"Government of China",
+				61,
+				80,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Yamen have therefore telegraphed the viceroys, governors, and tartar-generals of the yangtze and maritime provinces to issue instructions to their subordinates that they are to observe the laws of neutrality.",
+		"entities": [
+			[
+				"Yamen",
+				4,
+				9,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Further, instructions have been issued to the high authorities of all the provinces and to the inspector-general of customs to issue proclamations for general information.",
+		"entities": []
+	},
+	{
+		"content": "The princes and ministers have the honor to send this reply for the information of the minister of the United States.']",
+		"entities": [
+			[
+				"minister of the United States",
+				87,
+				116,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['No. 713",
+		"entities": []
+	},
+	{
+		"content": "The first tangible result of the Arab Summit meeting in Khartoum is its authorization of a plan proposed by the Government of Sudan to end the Saudi-UAR confrontation over Yemen.",
+		"entities": [
+			[
+				"Arab Summit",
+				33,
+				44,
+				"ORG"
+			],
+			[
+				"Khartoum",
+				56,
+				64,
+				"LOC"
+			],
+			[
+				"Government of Sudan",
+				112,
+				131,
+				"GPE"
+			],
+			[
+				"Saudi-UAR",
+				143,
+				152,
+				"GPE"
+			],
+			[
+				"Yemen",
+				172,
+				177,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This paper examines the latest mediation effort and its chances of success as one aspect of the summit meeting.",
+		"entities": []
+	},
+	{
+		"content": "The results with regard to the Arab-Israeli dispute are not yet clear enough to be analyzed and these aspects will be dealt with later.",
+		"entities": [
+			[
+				"Arab-Israeli",
+				31,
+				43,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The conference-approved device proposed by Sudan does little more than remove the Yemeni dispute from contention at the moment.",
+		"entities": [
+			[
+				"Sudan",
+				43,
+				48,
+				"GPE"
+			],
+			[
+				"Yemeni",
+				82,
+				88,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Deliberately general, the summit-meeting resolution reflects an agreement in principle on the part of the UAR and Saudi Arabia, but neither protagonist has given significant ground on the issues in dispute or on the timing of the proposed disengagement.",
+		"entities": [
+			[
+				"UAR",
+				106,
+				109,
+				"GPE"
+			],
+			[
+				"Saudi Arabia",
+				114,
+				126,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In sum, this new approach only transfers the task at which two earlier mediators had failed to a tripartite committee (Morocco, Iraq, and Sudan); Prime Minister Mahgoub serves as the \"neutral\" chairman.",
+		"entities": [
+			[
+				"Morocco",
+				119,
+				126,
+				"GPE"
+			],
+			[
+				"Iraq",
+				128,
+				132,
+				"GPE"
+			],
+			[
+				"Sudan",
+				138,
+				143,
+				"GPE"
+			],
+			[
+				"Prime Minister Mahgoub",
+				146,
+				168,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Although Mahgoub has stated that he wants to start from the viewpoint of the Yemenis themselves, both the Yemeni republicans and the royalists have denounced the plan before it has even gotten under way.",
+		"entities": [
+			[
+				"Mahgoub",
+				9,
+				16,
+				"PERSON"
+			],
+			[
+				"Yemenis",
+				77,
+				84,
+				"GPE"
+			],
+			[
+				"Yemeni",
+				106,
+				112,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "And the committee has no magic formula for gaining access to the several dissident factions within Yemen.",
+		"entities": [
+			[
+				"Yemen",
+				99,
+				104,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The most optimistic development is a slightly softer attitude on the part of the UAR, to whom the cost of the Yemen occupation must now be doubly burdensome.",
+		"entities": [
+			[
+				"UAR",
+				81,
+				84,
+				"GPE"
+			],
+			[
+				"Yemen",
+				110,
+				115,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Nasser no longer demands the exile of the former Yemeni ruling house, the Hamid al-Dins, as a condition precedent to his withdrawal.",
+		"entities": [
+			[
+				"Nasser",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Yemeni",
+				49,
+				55,
+				"GPE"
+			],
+			[
+				"Hamid al-Dins",
+				74,
+				87,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But there is no sign that he is willing to accept open and humiliating defeat.",
+		"entities": []
+	},
+	{
+		"content": "Furthermore, Nasser's \"reasonableness\" could be merely a tactical device to help create a facade of Arab unity and to secure moderate support against radical pressures from Algeria and Syria.",
+		"entities": [
+			[
+				"Nasser",
+				13,
+				19,
+				"PERSON"
+			],
+			[
+				"Arab",
+				100,
+				104,
+				"NORP"
+			],
+			[
+				"Algeria",
+				173,
+				180,
+				"GPE"
+			],
+			[
+				"Syria",
+				185,
+				190,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Saudi King Faysal, who now feels that he has the upper hand, is in an even less generous mood than before.",
+		"entities": [
+			[
+				"Saudi",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"King Faysal",
+				6,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Another factor also enters into the calculation.",
+		"entities": []
+	},
+	{
+		"content": "According to reports from Khartoum Saudi Arabia will contribute $140 million to a fund of $378 million designed to alleviate the economic difficulties of the UAR and Jordan.",
+		"entities": [
+			[
+				"Khartoum",
+				26,
+				34,
+				"LOC"
+			],
+			[
+				"Saudi Arabia",
+				35,
+				47,
+				"GPE"
+			],
+			[
+				"UAR",
+				158,
+				161,
+				"GPE"
+			],
+			[
+				"Jordan",
+				166,
+				172,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Kuwait ($154 million) and Libya ($84 million) are the other two contributors.",
+		"entities": [
+			[
+				"Kuwait",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Libya",
+				26,
+				31,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is not clear when and how these funds are to be made available and what proportion of the total for the UAR ($266 million) will come from Saudi Arabia.",
+		"entities": [
+			[
+				"UAR",
+				107,
+				110,
+				"GPE"
+			],
+			[
+				"Saudi Arabia",
+				141,
+				153,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In any event, the fact that the UAR needs Saudi money strengthens Faysal's position and may give him a weapon to obtain concessions from the UAR.",
+		"entities": [
+			[
+				"UAR",
+				32,
+				35,
+				"GPE"
+			],
+			[
+				"Saudi",
+				42,
+				47,
+				"GPE"
+			],
+			[
+				"Faysal",
+				66,
+				72,
+				"PERSON"
+			],
+			[
+				"UAR",
+				141,
+				144,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Finally, Sudan's internal politics will affect the performance of the Committee.",
+		"entities": [
+			[
+				"Sudan",
+				9,
+				14,
+				"GPE"
+			],
+			[
+				"Committee",
+				70,
+				79,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Sudanese President al-Azhari desired the original plan as part of an intricate maneuver to expel or neutralize the leftists and Nasserites in his government, and to carry it back to the former moderate coalition.",
+		"entities": [
+			[
+				"Sudanese",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"President al-Azhari",
+				9,
+				28,
+				"PERSON"
+			],
+			[
+				"Nasserites",
+				128,
+				138,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "But the leading role now has been seized by Mahgoub, whose backing includes the more radical nationalists.",
+		"entities": [
+			[
+				"Mahgoub",
+				44,
+				51,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Political maneuverings within the Sudan may thus affect the committee's chances for success.']",
+		"entities": [
+			[
+				"Sudan",
+				34,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "['Sir: I have the honor to acknowledge the receipt of your letter of March 10, 1916, enclosing a copy of a letter dated the 8th instant from the collector of customs at Baltimore with a subenclosure from E. C. Geyer and Company of Baltimore, in reference to a shipment, of tobacco which the latter firm wishes to make.",
+		"entities": [
+			[
+				"March 10, 1916",
+				69,
+				83,
+				"DATE"
+			],
+			[
+				"8th",
+				124,
+				127,
+				"DATE"
+			],
+			[
+				"Baltimore",
+				169,
+				178,
+				"GPE"
+			],
+			[
+				"E. C. Geyer and Company",
+				204,
+				227,
+				"ORG"
+			],
+			[
+				"Baltimore",
+				231,
+				240,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I am informed by Doctor Holder, foreign trade adviser, that the British Embassy is telegraphing the British consul at Baltimore to allow the shipment of Geyer and Company to proceed without inspection.",
+		"entities": [
+			[
+				"Doctor Holder",
+				17,
+				30,
+				"PERSON"
+			],
+			[
+				"foreign trade adviser",
+				32,
+				53,
+				"TITLE"
+			],
+			[
+				"British Embassy",
+				64,
+				79,
+				"ORG"
+			],
+			[
+				"British consul",
+				100,
+				114,
+				"PERSON"
+			],
+			[
+				"Baltimore",
+				118,
+				127,
+				"LOC"
+			],
+			[
+				"Geyer and Company",
+				153,
+				170,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The question of future shipments it is hoped will be arranged for either to-day or Monday when a further communication will be addressed to you on this subject.",
+		"entities": [
+			[
+				"Monday",
+				83,
+				89,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I have [etc.]",
+		"entities": []
+	},
+	{
+		"content": "Frank L. Polk']",
+		"entities": [
+			[
+				"Frank L. Polk",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['[Telegram--Paraphrase.]",
+		"entities": []
+	},
+	{
+		"content": "What is the meaning of the provision affecting Panama, in your March 7, 9 p.m.?",
+		"entities": [
+			[
+				"Panama",
+				47,
+				53,
+				"GPE"
+			],
+			[
+				"March 7",
+				63,
+				70,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Bryan.']",
+		"entities": [
+			[
+				"Bryan",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['888.",
+		"entities": []
+	},
+	{
+		"content": "Ambassador's statement Nov 18 emphatically denying U.S. involvement in resignation Andreas Papandreou (Embtel 875) evoked immediate response from Prime Minister Papandreou, who late last night issued following statement: \"I fully agree with statement of U.S. Ambassador.",
+		"entities": [
+			[
+				"Ambassador",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"Nov 18",
+				23,
+				29,
+				"DATE"
+			],
+			[
+				"U.S.",
+				51,
+				55,
+				"GPE"
+			],
+			[
+				"Andreas Papandreou",
+				83,
+				101,
+				"PERSON"
+			],
+			[
+				"Prime Minister Papandreou",
+				146,
+				171,
+				"PERSON"
+			],
+			[
+				"U.S. Ambassador",
+				254,
+				269,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "In fact, there was no U.S. Embassy intervention in matter of ministerial change.",
+		"entities": [
+			[
+				"U.S. Embassy",
+				22,
+				34,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I, too, express my deep regret that such connection has been made.",
+		"entities": []
+	},
+	{
+		"content": "Besides, there could be no intervention.",
+		"entities": []
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "PriMin's statement seconding Ambassador's categorical rejection of charge of U.S. involvement in resignation was signal for cessation of govt press campaign against U.S.; most pro-govt papers today headline denials of U.S. intervention and except for pro-govt Ethnos, which initiated accusation, pro-govt papers imply denials have clarified situation and removed any doubts of U.S. complicity.",
+		"entities": [
+			[
+				"PriMin",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Ambassador",
+				29,
+				39,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				77,
+				81,
+				"GPE"
+			],
+			[
+				"U.S.",
+				165,
+				169,
+				"GPE"
+			],
+			[
+				"U.S.",
+				218,
+				222,
+				"GPE"
+			],
+			[
+				"Ethnos",
+				260,
+				266,
+				"ORG"
+			],
+			[
+				"U.S.",
+				377,
+				381,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Typical are headlines of sensational afternoon pro-govt papers Ta Nea and Athinaiki, both of which are usually critical of U.S.; Athinaiki headlines: \"No U.S. Intervention in A. Papandreou's Resignation; Mr. Labouisse Expressed His Vivid Astonishment,\" while Ta Nea writes: \"U.S. Not Involved.",
+		"entities": [
+			[
+				"Ta Nea",
+				63,
+				69,
+				"ORG"
+			],
+			[
+				"Athinaiki",
+				74,
+				83,
+				"ORG"
+			],
+			[
+				"U.S.",
+				123,
+				127,
+				"GPE"
+			],
+			[
+				"Athinaiki",
+				129,
+				138,
+				"ORG"
+			],
+			[
+				"U.S.",
+				154,
+				158,
+				"GPE"
+			],
+			[
+				"A. Papandreou",
+				175,
+				188,
+				"PERSON"
+			],
+			[
+				"Labouisse",
+				208,
+				217,
+				"PERSON"
+			],
+			[
+				"Ta Nea",
+				259,
+				265,
+				"ORG"
+			],
+			[
+				"U.S.",
+				275,
+				279,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "Unwilling to reverse itself completely, Ethnos suggests Labouisse denial was only \"partly\" supported by PriMin's statement, since PriMin said \"U.S. Embassy\" not involved in resignation, thus suggesting that other U.S. agencies may have played a part.",
+		"entities": [
+			[
+				"Ethnos",
+				40,
+				46,
+				"ORG"
+			],
+			[
+				"Labouisse",
+				56,
+				65,
+				"PERSON"
+			],
+			[
+				"PriMin",
+				104,
+				110,
+				"PERSON"
+			],
+			[
+				"PriMin",
+				130,
+				136,
+				"PERSON"
+			],
+			[
+				"U.S. Embassy",
+				143,
+				155,
+				"ORG"
+			],
+			[
+				"U.S.",
+				213,
+				217,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Opposition ERE press had field day at government expense on subject, with all ERE papers charging that PriMin was remiss in not rejecting charges earlier and that Ambassador's statement \"forced\" PriMin to denounce charges.",
+		"entities": [
+			[
+				"ERE",
+				11,
+				14,
+				"ORG"
+			],
+			[
+				"ERE",
+				78,
+				81,
+				"ORG"
+			],
+			[
+				"PriMin",
+				103,
+				109,
+				"PERSON"
+			],
+			[
+				"Ambassador",
+				163,
+				173,
+				"TITLE"
+			],
+			[
+				"PriMin",
+				195,
+				201,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Characteristic of ERE press is headline of influential Kathimerini: \"U.S. Ambassador Labouisse amazed that resignation was associated with Cyprus settlement--",
+		"entities": [
+			[
+				"ERE",
+				18,
+				21,
+				"ORG"
+			],
+			[
+				"Kathimerini",
+				55,
+				66,
+				"ORG"
+			],
+			[
+				"U.S.",
+				69,
+				73,
+				"GPE"
+			],
+			[
+				"Ambassador Labouisse",
+				74,
+				94,
+				"PERSON"
+			],
+			[
+				"Cyprus",
+				139,
+				145,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "PriMin was forced to share amazement,\" while conservative Acropolis headlines: \"Severe reply from U.S. Ambassador Labouisse forced PriMin late last night to retract.\"",
+		"entities": [
+			[
+				"PriMin",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Acropolis",
+				58,
+				67,
+				"ORG"
+			],
+			[
+				"U.S.",
+				98,
+				102,
+				"GPE"
+			],
+			[
+				"Ambassador Labouisse",
+				103,
+				123,
+				"PERSON"
+			],
+			[
+				"PriMin",
+				131,
+				137,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Acropolis added: \"U.S. Ambassador's statement was made when PriMin in his statement in Parliament virtually adopted and made official campaign of two Communist newspapers and of certain govt newspapers with personal ties with Andreas Papandreou against the Americans who were point blank accused of having exerted pressure for resignation of PriMin's son.",
+		"entities": [
+			[
+				"Acropolis",
+				0,
+				9,
+				"ORG"
+			],
+			[
+				"U.S. Ambassador",
+				18,
+				33,
+				"PERSON"
+			],
+			[
+				"PriMin",
+				60,
+				66,
+				"PERSON"
+			],
+			[
+				"Parliament",
+				87,
+				97,
+				"ORG"
+			],
+			[
+				"Communist",
+				150,
+				159,
+				"NORP"
+			],
+			[
+				"Andreas Papandreou",
+				226,
+				244,
+				"PERSON"
+			],
+			[
+				"Americans",
+				257,
+				266,
+				"NORP"
+			],
+			[
+				"PriMin",
+				342,
+				348,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "Comment: PriMin's failure during Parliamentary debate to denounce charges of U.S. intervention in his son's resignation--charges which he knew were patently false--is inexplicable.",
+		"entities": [
+			[
+				"PriMin",
+				9,
+				15,
+				"PERSON"
+			],
+			[
+				"Parliamentary",
+				33,
+				46,
+				"ORG"
+			],
+			[
+				"U.S.",
+				77,
+				81,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is possible he was willing to go along with campaign that made his son appear as \"victim\" of foreign pressure, despite damage he knew it would do to U.S. prestige in Greece, in hope it would detract attention from real reasons for resignation.",
+		"entities": [
+			[
+				"U.S.",
+				152,
+				156,
+				"GPE"
+			],
+			[
+				"Greece",
+				169,
+				175,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is also possible that by billing Andreas as staunch defender of Greece's independent policies and as defender of Cyprus, the Papandreous hoped to build up Andreas' political appeal in country as well as within party where he was facing increasing antagonisms.",
+		"entities": [
+			[
+				"Andreas",
+				36,
+				43,
+				"PERSON"
+			],
+			[
+				"Greece",
+				67,
+				73,
+				"GPE"
+			],
+			[
+				"Cyprus",
+				116,
+				122,
+				"GPE"
+			],
+			[
+				"Papandreous",
+				128,
+				139,
+				"PERSON"
+			],
+			[
+				"Andreas",
+				158,
+				165,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "In any event, Ambassador's statement clearly rejecting U.S. involvement forced PriMin to take stand on issue, which he did by issuing categorical, albeit tardy, denial.",
+		"entities": [
+			[
+				"Ambassador",
+				14,
+				24,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				55,
+				59,
+				"GPE"
+			],
+			[
+				"PriMin",
+				79,
+				85,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "His delay in doing so, however, opened him and his govt to opposition charges that he was using charges of U.S. involvement as smokescreen for accusations of scandals involving his son.",
+		"entities": [
+			[
+				"U.S.",
+				107,
+				111,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "While question of U.S. complicity now appears to be laid to rest as far as Greece is concerned, Archbishop Makarios has invited young Papandreou to visit Cyprus tomorrow.",
+		"entities": [
+			[
+				"U.S.",
+				18,
+				22,
+				"GPE"
+			],
+			[
+				"Greece",
+				75,
+				81,
+				"GPE"
+			],
+			[
+				"Archbishop Makarios",
+				96,
+				115,
+				"PERSON"
+			],
+			[
+				"Papandreou",
+				134,
+				144,
+				"PERSON"
+			],
+			[
+				"Cyprus",
+				154,
+				160,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Very probably, Cypriots will attempt to foster myth that Andreas Papandreou fell victim to U.S. \"pressure\" as result his stand on Cyprus question, and undoubtedly Makarios and Cypriot press will play this for all it's worth.",
+		"entities": [
+			[
+				"Cypriots",
+				15,
+				23,
+				"GPE"
+			],
+			[
+				"Andreas Papandreou",
+				57,
+				75,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				91,
+				95,
+				"GPE"
+			],
+			[
+				"Cyprus",
+				130,
+				136,
+				"GPE"
+			],
+			[
+				"Makarios",
+				163,
+				171,
+				"PERSON"
+			],
+			[
+				"Cypriot",
+				176,
+				183,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Labouisse']",
+		"entities": [
+			[
+				"Labouisse",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['Mr. Matthews: Attached are two memoranda prepared respectively in CE and SE presenting opposing views on the problem of the South Tyrol.",
+		"entities": [
+			[
+				"Matthews",
+				6,
+				14,
+				"PERSON"
+			],
+			[
+				"CE",
+				68,
+				70,
+				"ORG"
+			],
+			[
+				"SE",
+				75,
+				77,
+				"ORG"
+			],
+			[
+				"South Tyrol",
+				126,
+				137,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "At a meeting today Mr. Riddleberger, Mr. Reber, Mr. Dowling and Mr. Williamson agreed to the following view concerning the South Tyrol question: \"If the question is reopened in the Council of Foreign Ministers with a view to changing the agreement that the Italo-Austrian frontier 'would be unchanged subject to hearing any case which Austria might present for minor rectification in her favor', it is recommended that we oppose the outright cession of Bolzano to Austria.",
+		"entities": [
+			[
+				"Riddleberger",
+				23,
+				35,
+				"PERSON"
+			],
+			[
+				"Reber",
+				41,
+				46,
+				"PERSON"
+			],
+			[
+				"Dowling",
+				52,
+				59,
+				"PERSON"
+			],
+			[
+				"Williamson",
+				68,
+				78,
+				"PERSON"
+			],
+			[
+				"South Tyrol",
+				123,
+				134,
+				"LOC"
+			],
+			[
+				"Council of Foreign Ministers",
+				181,
+				209,
+				"ORG"
+			],
+			[
+				"Italo-Austrian",
+				257,
+				271,
+				"GPE"
+			],
+			[
+				"Austria",
+				335,
+				342,
+				"GPE"
+			],
+			[
+				"Bolzano",
+				453,
+				460,
+				"LOC"
+			],
+			[
+				"Austria",
+				464,
+				471,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Consideration should be given to a solution of the problem through the holding of a plebiscite to decide the issue.\"",
+		"entities": []
+	},
+	{
+		"content": "Samuel Reber James W. Riddleberger']",
+		"entities": [
+			[
+				"Samuel Reber",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"James W. Riddleberger",
+				13,
+				34,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['2143.",
+		"entities": []
+	},
+	{
+		"content": "In long conversation with Diem 9th on other subjects he brought up following points: Internal situation worsening, which requires him maintain military and security forces maximum efficiency.",
+		"entities": [
+			[
+				"Diem",
+				26,
+				30,
+				"PERSON"
+			],
+			[
+				"9th",
+				31,
+				34,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "It therefore essential he have same amount US contribution military budget as FY 1959.",
+		"entities": [
+			[
+				"US",
+				43,
+				45,
+				"GPE"
+			],
+			[
+				"FY 1959",
+				78,
+				85,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "As Thuan had done 8th, Diem stated if GVN increased its contribution to the military budget while US devoted more aid for economic development this would slow down necessary progress.",
+		"entities": [
+			[
+				"Thuan",
+				3,
+				8,
+				"PERSON"
+			],
+			[
+				"8th",
+				18,
+				21,
+				"DATE"
+			],
+			[
+				"Diem",
+				23,
+				27,
+				"PERSON"
+			],
+			[
+				"GVN",
+				38,
+				41,
+				"GPE"
+			],
+			[
+				"US",
+				98,
+				100,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "He pointed out if GVN did not have to up its contribution to military budget, this money would be used for GVN economic development projects.",
+		"entities": [
+			[
+				"GVN",
+				18,
+				21,
+				"GPE"
+			],
+			[
+				"GVN",
+				107,
+				110,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He claimed that if larger proportion of US aid were used for economic development, over-all progress of country would be slowed down because of survey and other red tape involved all USOM projects.",
+		"entities": [
+			[
+				"US",
+				40,
+				42,
+				"GPE"
+			],
+			[
+				"USOM",
+				183,
+				187,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Hence his plea that we maintain level US contribution military budget for FY 1960.",
+		"entities": [
+			[
+				"US",
+				38,
+				40,
+				"GPE"
+			],
+			[
+				"FY 1960",
+				74,
+				81,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I argued it is interest GVN to contribute more to its military budget and allow US to assist country further toward economic independence by contributing larger proportion to economic development.",
+		"entities": [
+			[
+				"GVN",
+				24,
+				27,
+				"GPE"
+			],
+			[
+				"US",
+				80,
+				82,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In obvious effort preclude our pressuring for devaluation in connection with future aid, he went out of way to say we had not prepared ground properly for Lao devaluation; therefore had permitted corruption to increase above and beyond serious corruption which prevailed before devaluation.",
+		"entities": [
+			[
+				"Lao",
+				155,
+				158,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I replied on contrary I understood monetary reform has worked very well, that while there were some difficulties as anticipated, during early stages of reform, now matters have calmed down, prices have remained stable and Lao economy now on more sound financial basis.",
+		"entities": [
+			[
+				"Lao",
+				222,
+				225,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Diem then dropped subject.",
+		"entities": [
+			[
+				"Diem",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Comment:",
+		"entities": []
+	},
+	{
+		"content": "In this discussion Diem made it even clearer than heretofore that principal reason he wants major proportion of US aid contributed to military budget is that there are less controls on GVN use of military funds and he can then use his own money for his own pet economy projects without any USOM \"interference\".",
+		"entities": [
+			[
+				"Diem",
+				19,
+				23,
+				"PERSON"
+			],
+			[
+				"US",
+				112,
+				114,
+				"GPE"
+			],
+			[
+				"GVN",
+				185,
+				188,
+				"GPE"
+			],
+			[
+				"USOM",
+				290,
+				294,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I believe if GVN required contribute more to military budget and not count on us as they have in the past \"to pick up increase in tab,\" (which must be kept to minimum because of piaster shortage foreseen for 1960) they would draw up more realistic and austere military budget.",
+		"entities": [
+			[
+				"GVN",
+				13,
+				16,
+				"GPE"
+			],
+			[
+				"1960",
+				208,
+				212,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "If we are to help GVN make sound economic progress, we should use as much of our aid as feasible to build solid infrastructure and thus eventually reduce need for US aid.",
+		"entities": [
+			[
+				"GVN",
+				18,
+				21,
+				"GPE"
+			],
+			[
+				"US",
+				163,
+				165,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Durbrow']",
+		"entities": [
+			[
+				"Durbrow",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	}
+]

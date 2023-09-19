@@ -1,0 +1,4840 @@
+[
+	{
+		"content": "['State (Tab A) requests your approval for a U.S. endorsement of (a) a World Bank recommendation that Indonesia receive $640 million in aid from all sources in 1971/72 and (b) a pledge of $215 million as the U.S. share of the total.",
+		"entities": [
+			[
+				"State",
+				2,
+				7,
+				"ORG"
+			],
+			[
+				"U.S.",
+				45,
+				49,
+				"GPE"
+			],
+			[
+				"World Bank",
+				71,
+				81,
+				"ORG"
+			],
+			[
+				"Indonesia",
+				102,
+				111,
+				"GPE"
+			],
+			[
+				"1971/72",
+				160,
+				167,
+				"DATE"
+			],
+			[
+				"U.S.",
+				208,
+				212,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The proposed package would support your general aid strategy of shifting U.S. assistance increasingly into a multilateral framework, and the high priority you place on Indonesia.",
+		"entities": [
+			[
+				"U.S.",
+				73,
+				77,
+				"GPE"
+			],
+			[
+				"Indonesia",
+				168,
+				177,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The FY 71 allocation necessary to support this U.S. pledge would be within expected appropriations and the approved budgetary outlay ceilings.",
+		"entities": [
+			[
+				"FY 71",
+				4,
+				9,
+				"DATE"
+			],
+			[
+				"U.S.",
+				47,
+				51,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Treasury, Agriculture, and OMB (Tab B) concur.",
+		"entities": [
+			[
+				"Treasury",
+				0,
+				8,
+				"ORG"
+			],
+			[
+				"Agriculture",
+				10,
+				21,
+				"ORG"
+			],
+			[
+				"OMB",
+				27,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The $640 million Indonesian aid requirement was calculated by the World Bank, which coordinates the major non-Communist aid donors through the Inter-Governmental Group on Indonesia (IGGI).",
+		"entities": [
+			[
+				"Indonesian",
+				17,
+				27,
+				"GPE"
+			],
+			[
+				"World Bank",
+				66,
+				76,
+				"ORG"
+			],
+			[
+				"Inter-Governmental Group on Indonesia",
+				143,
+				180,
+				"ORG"
+			],
+			[
+				"IGGI",
+				182,
+				186,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The U.S. pledge of $215 million will consist of $90 million in food aid and $125 million of non-food aid.",
+		"entities": [
+			[
+				"U.S.",
+				4,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Both pledges are consistent with the formula used last year, that the United States provide a \"fair share\" of food and one-third of bilateral non-food aid.",
+		"entities": [
+			[
+				"United States",
+				70,
+				83,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It would, however, represent a slight decline from our $230 million contribution this year.",
+		"entities": []
+	},
+	{
+		"content": "Foreign aid has played a key role in stabilizing the Indonesian economy following the disastrous policies of Sukarno.",
+		"entities": [
+			[
+				"Indonesian",
+				53,
+				63,
+				"GPE"
+			],
+			[
+				"Sukarno",
+				109,
+				116,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The rate of inflation in 1970 has been less than 7 percent, compared with 600 percent in 1966.",
+		"entities": [
+			[
+				"1970",
+				25,
+				29,
+				"DATE"
+			],
+			[
+				"1966",
+				89,
+				93,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "An increase in food availability, particularly rice, is the key to the success of the stabilization program.",
+		"entities": []
+	},
+	{
+		"content": "A sound rice policy has been instituted under which domestic procurement of rice by the Government has more than doubled over last year, helping assure an incentive price for farmers while eliminating seasonal fluctuations in urban rice prices.",
+		"entities": []
+	},
+	{
+		"content": "In April 1970, basic reforms were introduced to simplify the foreign exchange system; exports thereby increased in the first ten months of 1970 by about 15 percent, despite falling prices for rubber and tin.",
+		"entities": [
+			[
+				"April 1970",
+				3,
+				13,
+				"DATE"
+			],
+			[
+				"1970",
+				139,
+				143,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Imports are being focused on high priority sectors.",
+		"entities": []
+	},
+	{
+		"content": "Indonesia's net foreign exchange position has improved, and foreign investment continues to be attracted to priority sectors.",
+		"entities": [
+			[
+				"Indonesia",
+				0,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An international formula for rescheduling Indonesian debt has been worked out, and we expect to sign a bilateral agreement which will allow Indonesia to reschedule its debts to the U.S.",
+		"entities": [
+			[
+				"Indonesian",
+				42,
+				52,
+				"GPE"
+			],
+			[
+				"Indonesia",
+				140,
+				149,
+				"GPE"
+			],
+			[
+				"U.S.",
+				181,
+				185,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The problems facing Indonesia are still severe: generating long-term economic growth is difficult in view of the weak economic base; corruption continues to be a major problem; and the country's lack of a strong administrative capacity impairs even the most carefully conceived development plans.",
+		"entities": [
+			[
+				"Indonesia",
+				20,
+				29,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "However, President Suharto, with the assistance of the World Bank and the U.S., is sincerely trying to correct these problems and is showing encouraging success.",
+		"entities": [
+			[
+				"President Suharto",
+				9,
+				26,
+				"PERSON"
+			],
+			[
+				"World Bank",
+				55,
+				65,
+				"ORG"
+			],
+			[
+				"U.S.",
+				74,
+				78,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Recommendation That you approve State's recommendation that the U.S. endorse (a) the $640 million 1971/72 aid requirement for Indonesia from all sources and (b) pledge $215 million as the U.S. contribution to meeting that total.']",
+		"entities": [
+			[
+				"State",
+				32,
+				37,
+				"ORG"
+			],
+			[
+				"U.S.",
+				64,
+				68,
+				"GPE"
+			],
+			[
+				"1971/72",
+				98,
+				105,
+				"DATE"
+			],
+			[
+				"Indonesia",
+				126,
+				135,
+				"GPE"
+			],
+			[
+				"U.S.",
+				188,
+				192,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[\"No. 211",
+		"entities": []
+	},
+	{
+		"content": "Sir: I have the honor to refer to my confidential despatch No. 195 of January 8, 1938, and to report that I have had a further conference with Dr. Concha regarding the possibility of a reciprocal trade agreement with Peru.",
+		"entities": [
+			[
+				"January 8, 1938",
+				70,
+				85,
+				"DATE"
+			],
+			[
+				"Dr. Concha",
+				143,
+				153,
+				"PERSON"
+			],
+			[
+				"Peru",
+				217,
+				221,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Dr. Concha stated that his study of all of Peru's existing trade agreements was continuing and that he hoped to be able to discuss the subject further with me in about a week.",
+		"entities": [
+			[
+				"Dr. Concha",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"Peru",
+				43,
+				47,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Dr. Concha intimated that notwithstanding Peru's previous policy against entering into trade agreements incorporating the unconditional most favored nation principle, he might be prepared to give the informal assurance required by the Department as a preliminary to opening negotiations, provided he was permitted to make a reservation with respect to Chile pending a more intensive and detailed study of the effect upon Peru, under the treaty with Chile, of an agreement with the United States based upon the unconditional most favored nation principle.",
+		"entities": [
+			[
+				"Dr. Concha",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"Peru",
+				42,
+				46,
+				"GPE"
+			],
+			[
+				"Department",
+				235,
+				245,
+				"ORG"
+			],
+			[
+				"Chile",
+				352,
+				357,
+				"GPE"
+			],
+			[
+				"Peru",
+				421,
+				425,
+				"GPE"
+			],
+			[
+				"Chile",
+				449,
+				454,
+				"GPE"
+			],
+			[
+				"United States",
+				481,
+				494,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He added that he was also considering a temporary reservation arising out of the treaty with Great Britain, but after a brief discussion concerning the provisions of this treaty, concluded by saying that although it had been urged upon him by some of his associates, he was by no means convinced that any reservations need or should be made in respect of the treaty with Great Britain on the grounds that he, personally, was opposed to Great Britain having any concessions in the Peruvian market which were not accorded to the United States.",
+		"entities": [
+			[
+				"Great Britain",
+				93,
+				106,
+				"GPE"
+			],
+			[
+				"Great Britain",
+				371,
+				384,
+				"GPE"
+			],
+			[
+				"Great Britain",
+				436,
+				449,
+				"GPE"
+			],
+			[
+				"Peruvian",
+				480,
+				488,
+				"NORP"
+			],
+			[
+				"the United States",
+				523,
+				540,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is my guess, therefore, that when Dr. Concha gives me his reply to the requested informal assurance, it will include a reservation only in respect of the trade agreement with Chile.",
+		"entities": [
+			[
+				"Dr. Concha",
+				37,
+				47,
+				"PERSON"
+			],
+			[
+				"Chile",
+				178,
+				183,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Should this prove to be the case, I take the liberty of recommending,--if consistent with the Department's policies,--that his informal assurance of a willingness to negotiate on the unconditional most favored nation principle, subject only to such specific reservations as he may find it necessary to make arising out of the trade agreement with Chile, be accepted as the basis for opening negotiations.",
+		"entities": [
+			[
+				"Department",
+				94,
+				104,
+				"ORG"
+			],
+			[
+				"Chile",
+				347,
+				352,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I make this suggestion because I am reasonably satisfied that in the course of the negotiations Dr. Concha will abandon any reservation arising out of the trade agreement with Chile that he does not find absolutely essential and which the Department might consider entirely reasonable.",
+		"entities": [
+			[
+				"Dr. Concha",
+				96,
+				106,
+				"PERSON"
+			],
+			[
+				"Chile",
+				176,
+				181,
+				"GPE"
+			],
+			[
+				"Department",
+				239,
+				249,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "My object in endeavoring at this time to anticipate Dr. Concha's reply is to obtain the necessary instructions from the Department so as to be in a position to answer him immediately, should my guess as to his probable position prove to be correct so that no time need be lost in transmitting Dr. Concha's final reply to the Department.",
+		"entities": [
+			[
+				"Dr. Concha",
+				52,
+				62,
+				"PERSON"
+			],
+			[
+				"Department",
+				120,
+				130,
+				"ORG"
+			],
+			[
+				"Dr. Concha",
+				293,
+				303,
+				"PERSON"
+			],
+			[
+				"Department",
+				325,
+				335,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Respectfully yours, Laurence A. Steinhardt\"]",
+		"entities": [
+			[
+				"Laurence A. Steinhardt",
+				20,
+				42,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['secret priority Secto 12.",
+		"entities": []
+	},
+	{
+		"content": "Secretary met with Eden and Schuman twice today.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Eden",
+				19,
+				23,
+				"PERSON"
+			],
+			[
+				"Schuman",
+				28,
+				35,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Schuman briefly explained situation at Paris.",
+		"entities": [
+			[
+				"Schuman",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Paris",
+				39,
+				44,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Draft resolution to be voted on in Assembly Tues.",
+		"entities": [
+			[
+				"Assembly",
+				35,
+				43,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It contains series of recommendations, not binding conditions.",
+		"entities": []
+	},
+	{
+		"content": "Nevertheless, they reveal parliamentary state of mind and French Govt must make every effort to meet them.",
+		"entities": [
+			[
+				"French Govt",
+				58,
+				69,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Chances for ratification EDC treaty will be improved to extent recommendations met.",
+		"entities": [
+			[
+				"EDC treaty",
+				25,
+				35,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Mtgs with Adenauer.",
+		"entities": [
+			[
+				"Adenauer",
+				10,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mins agreed to meet Adenauer Mon morning.",
+		"entities": [
+			[
+				"Mins",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				20,
+				28,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "War criminals, Mins accepted report by subcomite of officials giving text of article proposed for inclusion in Part I of convention on acts and programs (text being telegraphed).",
+		"entities": [
+			[
+				"Mins",
+				15,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This proposed article has subsequently been given to Adenauer and will be discussed with him tomorrow.",
+		"entities": [
+			[
+				"Adenauer",
+				53,
+				61,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Briefly, proposal commits Germans to accept custody and carry out sentence.",
+		"entities": [
+			[
+				"Germans",
+				26,
+				33,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Clemency board of six members wld be created, three Germans and one national from each of powers.",
+		"entities": [
+			[
+				"Germans",
+				52,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Such board wld have advisory power only, except that unanimous recommendations wld be binding upon power which imposed sentence.",
+		"entities": []
+	},
+	{
+		"content": "Members of board wld have free access to prisons and to persons confined.",
+		"entities": []
+	},
+	{
+		"content": "German financial contribution.",
+		"entities": [
+			[
+				"German",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(Reported in separate telegram).",
+		"entities": []
+	},
+	{
+		"content": "Security controls.",
+		"entities": []
+	},
+	{
+		"content": "Mins had before them two drafts of declaration which Germans might make on this subject.",
+		"entities": [
+			[
+				"Mins",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Germans",
+				53,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "US draft based on idea German Fed Govt shld declare itself prepared to accept as nondiscriminatory any decision by EDC commissioners not to allocate for production in Fed Rep items on specified list.",
+		"entities": [
+			[
+				"US",
+				0,
+				2,
+				"GPE"
+			],
+			[
+				"German Fed Govt",
+				23,
+				38,
+				"GPE"
+			],
+			[
+				"EDC",
+				115,
+				118,
+				"ORG"
+			],
+			[
+				"Fed Rep",
+				167,
+				174,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "UK-French draft was in form of declaration by Fed Rep Govt that it wld not permit production of, and scientific research in fields of certain armaments.",
+		"entities": [
+			[
+				"UK-French",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"Fed Rep Govt",
+				46,
+				58,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mins agreed declaration shld be unilateral by Germans; French thus relinquished original demand for contractual agreement.",
+		"entities": [
+			[
+				"Mins",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Germans",
+				46,
+				53,
+				"GPE"
+			],
+			[
+				"French",
+				55,
+				61,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Schuman felt US approach was not satisfactory because EDC method of procedure wld not give sufficient protection as it wld operate by majority action of defense commissioners.",
+		"entities": [
+			[
+				"Schuman",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"US",
+				13,
+				15,
+				"GPE"
+			],
+			[
+				"EDC",
+				54,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Secretary felt we all agreed on objective and only question was which method wld most easily bring German acceptance.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"German",
+				99,
+				105,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He was prepared to try UK-French approach and if Adenauer wld not accept that perhaps US approach based on EDC offered possibility.",
+		"entities": [
+			[
+				"UK-French",
+				23,
+				32,
+				"GPE"
+			],
+			[
+				"Adenauer",
+				49,
+				57,
+				"PERSON"
+			],
+			[
+				"US",
+				86,
+				88,
+				"GPE"
+			],
+			[
+				"EDC",
+				107,
+				110,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Discussion then centered largely on list of prohibited armaments.",
+		"entities": []
+	},
+	{
+		"content": "All agreed on atomic, biological, and chemical weapons, mil aircraft, naval vessels except minor defensive craft, and guided missiles.",
+		"entities": []
+	},
+	{
+		"content": "British and French wished to add civil aircraft and French wished to add propellants and gun barrels over 105 mm.",
+		"entities": [
+			[
+				"British",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"French",
+				12,
+				18,
+				"GPE"
+			],
+			[
+				"French",
+				52,
+				58,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary offered to accept civil aircraft.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He further offered to accept a British-French proposal for German declaration to include commitment to limit police force to scale required or function of maintaining internal law and order, on basis comparable with other EDC countries.",
+		"entities": [
+			[
+				"British-French",
+				31,
+				45,
+				"GPE"
+			],
+			[
+				"German",
+				59,
+				65,
+				"GPE"
+			],
+			[
+				"EDC",
+				222,
+				225,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He made both concessions conditional on dropping of propellants and gun barrels from agreement.",
+		"entities": []
+	},
+	{
+		"content": "He added he did not believe Adenauer wld accept civil aircraft and aid wld make no effort to persuade him to do so.",
+		"entities": [
+			[
+				"Adenauer",
+				28,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Schuman, however, insisted on necessity retaining two items involved on ground we shld not build up German war industry.",
+		"entities": [
+			[
+				"Schuman",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"German",
+				100,
+				106,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary emphasized speed to bring about German production these items, especially gunpowder, and minimized inherent dangerousness of this particular item from security viewpoint.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"German",
+				42,
+				48,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "No agreement reached.",
+		"entities": []
+	},
+	{
+		"content": "Secretary repeatedly stated belief that we must present to Adenauer list we really believe in and will defend.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				59,
+				67,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Otherwise we will begin withdrawing items and will get nowhere with Adenauer.",
+		"entities": [
+			[
+				"Adenauer",
+				68,
+				76,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Schuman refused to concede point but agreed to consider overnight.",
+		"entities": [
+			[
+				"Schuman",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Other points brought out in discussion were statement by Schuman that French inclined to permit scientific research in military items, though he made no specific proposal.",
+		"entities": [
+			[
+				"Schuman",
+				57,
+				64,
+				"PERSON"
+			],
+			[
+				"French",
+				70,
+				76,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary also suggested that if Adenauer refuses declaration in UK-French form, and we fall back upon EDC arrangements, we might propose adding whatever list we agree to EDC treaty as items not to be allocated for production in \"forward zones.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				33,
+				41,
+				"PERSON"
+			],
+			[
+				"UK-French",
+				65,
+				74,
+				"GPE"
+			],
+			[
+				"EDC",
+				103,
+				106,
+				"ORG"
+			],
+			[
+				"EDC treaty",
+				171,
+				181,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "\" EDC-NATO relationships.",
+		"entities": [
+			[
+				"EDC-NATO",
+				2,
+				10,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Eden raised point of unresolved differences in para 9 of deputies report.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Three alternative proposals are to have joint mtgs of EDC and NATO councils (a) when either council wishes, or (b) when both councils wish, or (c) when any member of either organization wishes.",
+		"entities": [
+			[
+				"EDC",
+				54,
+				57,
+				"ORG"
+			],
+			[
+				"NATO",
+				62,
+				66,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Inconclusive discussion followed.",
+		"entities": []
+	},
+	{
+		"content": "Secretary referred to language which US is proposing in CD and indicated US agreement for proposal to permit joint consultation whenever desired by any member of either organization.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"US",
+				37,
+				39,
+				"GPE"
+			],
+			[
+				"CD",
+				56,
+				58,
+				"ORG"
+			],
+			[
+				"US",
+				73,
+				75,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "British indicated agreement.",
+		"entities": [
+			[
+				"British",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Schuman said he wld consider and reply on Mon.",
+		"entities": [
+			[
+				"Schuman",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "US-UK guarantee to EDC.",
+		"entities": [
+			[
+				"US-UK",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"EDC",
+				19,
+				22,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "British circulated draft form which their own guarantee to EDC might take.",
+		"entities": [
+			[
+				"British",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"EDC",
+				59,
+				62,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "French circulated drafts of declarations which cld be made by UK and all three powers as well as comments concerning possible US declaration.",
+		"entities": [
+			[
+				"French",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"UK",
+				62,
+				64,
+				"GPE"
+			],
+			[
+				"US",
+				126,
+				128,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary indicated we are devoting study to this problem and hoped we cld do something useful.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He indicated doubt about possibility of using French text of tripartite declaration which seemed to say US will not change its forces in Europe without agreement by all three powers.",
+		"entities": [
+			[
+				"French",
+				46,
+				52,
+				"GPE"
+			],
+			[
+				"US",
+				104,
+				106,
+				"GPE"
+			],
+			[
+				"Europe",
+				137,
+				143,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Such solution wld be difficult if not impossible for him.",
+		"entities": []
+	},
+	{
+		"content": "Mins agreed that if formal declarations were possible they shld be made when EDC treaty and German agreements were signed.",
+		"entities": [
+			[
+				"Mins",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"EDC treaty",
+				77,
+				87,
+				"LAW"
+			],
+			[
+				"German",
+				92,
+				98,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Eden raised question of what cld be said publicly now by Mins in answer to questions sure to arise since French Assembly already fully aware of question.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Mins",
+				57,
+				61,
+				"PERSON"
+			],
+			[
+				"French Assembly",
+				105,
+				120,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mins agreed to consider what might usefully be said in communique and meanwhile to have experts exchange views on British and French drafts and to tell Adenauer that matter under study.",
+		"entities": [
+			[
+				"Mins",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"British",
+				114,
+				121,
+				"GPE"
+			],
+			[
+				"French",
+				126,
+				132,
+				"GPE"
+			],
+			[
+				"Adenauer",
+				152,
+				160,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Eden commented he did not believe Adenauer wld raise difficulties as he had already indicated acceptance of idea so long as guarantee was in general terms and directed against anybody in EDC rather than Germany specifically.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				34,
+				42,
+				"PERSON"
+			],
+			[
+				"EDC",
+				187,
+				190,
+				"ORG"
+			],
+			[
+				"Germany",
+				203,
+				210,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Deconcentration.",
+		"entities": []
+	},
+	{
+		"content": "Schuman indicated he attached great importance to this subject and had committed himself not to complete negots with Germans unless deconcentration was completed.",
+		"entities": [
+			[
+				"Schuman",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Germans",
+				117,
+				124,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It was agreed after brief discussion that McCloy shld tell Adenauer that Fed Rep must stop equivocating on DKV.",
+		"entities": [
+			[
+				"McCloy",
+				42,
+				48,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				59,
+				67,
+				"PERSON"
+			],
+			[
+				"Fed Rep",
+				73,
+				80,
+				"GPE"
+			],
+			[
+				"DKV",
+				107,
+				110,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Saar.",
+		"entities": [
+			[
+				"Saar",
+				0,
+				4,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Secretary asked if it wld be possible for Schuman and Adenauer to have private words about possibility of removing Saar problem from field of controversy and to announce they had discussed the problem with each other and with Eden and himself and that US-UK anxious to be of help on solving problem.",
+		"entities": [
+			[
+				"Secretary",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Schuman",
+				42,
+				49,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				54,
+				62,
+				"PERSON"
+			],
+			[
+				"Saar",
+				115,
+				119,
+				"LOC"
+			],
+			[
+				"Eden",
+				226,
+				230,
+				"PERSON"
+			],
+			[
+				"US-UK",
+				252,
+				257,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Schuman replied he is ready for conversation with Adenauer as he believes Adenauer is and that he wld keep his colleagues informed.",
+		"entities": [
+			[
+				"Schuman",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				50,
+				58,
+				"PERSON"
+			],
+			[
+				"Adenauer",
+				74,
+				82,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It was agreed to have official-level mtg with Benelux rep Mon.",
+		"entities": [
+			[
+				"Benelux",
+				46,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Acheson']",
+		"entities": [
+			[
+				"Acheson",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['327. 1.",
+		"entities": []
+	},
+	{
+		"content": "While Macapagal letter of July 24 (pouched Manila Aug 18) seems to provide context within which President can make helpful explanation our rice difficulties while thanking Macapagal for his explanation failure meet Phil Task Force commitment, need Emb judgement on possibility Malacanang will interpret combination of two items in single letter as veiled threat to withhold rice if troops not produced.",
+		"entities": [
+			[
+				"Macapagal",
+				6,
+				15,
+				"PERSON"
+			],
+			[
+				"July 24",
+				26,
+				33,
+				"DATE"
+			],
+			[
+				"Manila",
+				43,
+				49,
+				"LOC"
+			],
+			[
+				"Aug 18",
+				50,
+				56,
+				"DATE"
+			],
+			[
+				"President",
+				96,
+				105,
+				"PERSON"
+			],
+			[
+				"Macapagal",
+				172,
+				181,
+				"PERSON"
+			],
+			[
+				"Phil Task Force",
+				215,
+				230,
+				"ORG"
+			],
+			[
+				"Emb",
+				248,
+				251,
+				"ORG"
+			],
+			[
+				"Malacanang",
+				277,
+				287,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Text of proposed Presidential reply would be along following lines: \"I deeply appreciated your thoughtfulness in apprising me personally of the factors underlying your decision to postpone further efforts to gain legislative approval for a Philippine engineer battalion to serve in Viet-Nam.",
+		"entities": [
+			[
+				"Philippine",
+				240,
+				250,
+				"NORP"
+			],
+			[
+				"Viet-Nam",
+				282,
+				290,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I am most heartened by your resolution to again seek authority from the Philippine Congress for the battalion, and your decision that the present contingent will remain.",
+		"entities": [
+			[
+				"Philippine Congress",
+				72,
+				91,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "As I have written in the past, your support of Free World efforts in South Viet-Nam is of signal importance to us and to the Vietnamese people.",
+		"entities": [
+			[
+				"South Viet-Nam",
+				69,
+				83,
+				"LOC"
+			],
+			[
+				"Vietnamese",
+				125,
+				135,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "In respect to our common struggle in Viet-Nam, I hope that you will bear with us in a matter which directly affects our mutual interests.",
+		"entities": [
+			[
+				"Viet-Nam",
+				37,
+				45,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Sudden and urgent need has arisen in Viet-Nam for massive supplies of rice to areas temporarily cut off by enemy action from the growing regions.",
+		"entities": [
+			[
+				"Viet-Nam",
+				37,
+				45,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This emergency, unforeseen and highly critical, complicated by our current shipping difficulties, may result in delayed shipments of PL-480 rice to the Philippines.",
+		"entities": [
+			[
+				"Philippines",
+				152,
+				163,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We will, of course, strive to fulfill our rice commitment with all possible speed.",
+		"entities": []
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "In closing, let me say how moved I was by your personal expressions of support and good wishes.",
+		"entities": []
+	},
+	{
+		"content": "It is my purpose that America's example in the current struggle will prove worthy of your sentiments.\"",
+		"entities": [
+			[
+				"America",
+				22,
+				29,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "If you believe allusion to rice problem in this context undesirable, para 2b above could be omitted.",
+		"entities": []
+	},
+	{
+		"content": "Request reply soonest.",
+		"entities": []
+	},
+	{
+		"content": "Rusk']",
+		"entities": [
+			[
+				"Rusk",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['Intelligence Information Cable 13 December 1971 COUNTRY: INDIA, PAKISTAN, USSR, CHINA DOI: 12 DECEMBER 1971 ACQ: [text not declassified] SOURCE: [text not declassified] HE IS A RELIABLE SOURCE.",
+		"entities": [
+			[
+				"13 December 1971",
+				33,
+				49,
+				"DATE"
+			],
+			[
+				"INDIA",
+				59,
+				64,
+				"GPE"
+			],
+			[
+				"PAKISTAN",
+				66,
+				74,
+				"GPE"
+			],
+			[
+				"USSR",
+				76,
+				80,
+				"GPE"
+			],
+			[
+				"CHINA",
+				82,
+				87,
+				"GPE"
+			],
+			[
+				"12 DECEMBER 1971",
+				93,
+				109,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "[text not declassified] ON 10 DECEMBER 1971 INDIAN PRIME MINISTER INDIRA GANDHI TOLD [text not declassified] THAT ACCEPTANCE OF THE UNITED NATIONS CEASEFIRE RESOLUTION AFTER THE LIBERATION OF BANGLADESH MIGHT MAKE IT POSSIBLE TO AVOID FURTHER COMPLICATIONS WITH THE UNITED STATES AND MIGHT ALSO RULE OUT",
+		"entities": [
+			[
+				"10 DECEMBER 1971",
+				27,
+				43,
+				"DATE"
+			],
+			[
+				"INDIAN",
+				44,
+				50,
+				"GPE"
+			],
+			[
+				"PRIME MINISTER INDIRA GANDHI",
+				51,
+				79,
+				"PERSON"
+			],
+			[
+				"UNITED NATIONS CEASEFIRE RESOLUTION",
+				132,
+				167,
+				"LAW"
+			],
+			[
+				"BANGLADESH",
+				192,
+				202,
+				"GPE"
+			],
+			[
+				"UNITED STATES",
+				266,
+				279,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE CURRENT POSSIBILITY OF CHIENSE INTERVENTION IN LADAKH.",
+		"entities": [
+			[
+				"CHINESE",
+				27,
+				34,
+				"GPE"
+			],
+			[
+				"LADAKH",
+				51,
+				57,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "DEFENCE MINISTER JAGJIVAN RAM AND CERTAIN MILITARY LEADERS, HOWEVER, ARE OPPOSED TO ACCEPTING THE RESOLUTION BEFORE CERTAIN UNSPECIFIED AREAS IN SOUTHERN AZAD KASHMIR ARE LIBERATED AND BEFORE THE WAR MECHANISM OF PAKISTAN IS DESTROYED.",
+		"entities": [
+			[
+				"DEFENCE MINISTER JAGJIVAN RAM",
+				0,
+				29,
+				"PERSON"
+			],
+			[
+				"SOUTHERN AZAD KASHMIR",
+				145,
+				166,
+				"LOC"
+			],
+			[
+				"PAKISTAN",
+				213,
+				221,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MRS.",
+		"entities": []
+	},
+	{
+		"content": "GANDHI ADDED THAT FOR THE MOMENT INDIA WOULD NOT CATEGORICALLY REJECT THE UN CEASEFIRE PROPOSAL; IT WILL ACCEPT THE PROPOSAL AFTER THE AWAMI LEAGUE REGIME IS INSTALLED IN DACCA.",
+		"entities": [
+			[
+				"GANDHI",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"INDIA",
+				33,
+				38,
+				"GPE"
+			],
+			[
+				"UN CEASEFIRE PROPOSAL",
+				74,
+				95,
+				"LAW"
+			],
+			[
+				"AWAMI LEAGUE",
+				135,
+				147,
+				"ORG"
+			],
+			[
+				"DACCA",
+				171,
+				176,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[text not declassified]",
+		"entities": []
+	},
+	{
+		"content": "THE SOVIET UNION IS OF THE VIEW THAT INDIAN SHOULD ACCEPT THE CEASEFIRE AS SOON AS BANGLADESH IS LIBERATED.",
+		"entities": [
+			[
+				"SOVIET UNION",
+				4,
+				16,
+				"GPE"
+			],
+			[
+				"INDIAN",
+				37,
+				43,
+				"GPE"
+			],
+			[
+				"BANGLADESH",
+				83,
+				93,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "ACCORDING TO THE PRIME MINISTER THE SOVIETS ARE CONCERNED ABOUT THE POSSIBILITY OF CHINESE INTERVENTION.",
+		"entities": [
+			[
+				"PRIME MINISTER",
+				17,
+				31,
+				"PERSON"
+			],
+			[
+				"SOVIETS",
+				36,
+				43,
+				"GPE"
+			],
+			[
+				"CHINESE",
+				83,
+				90,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IF THE CHINESE WERE TO BECOME DIRECTLY INVOLVED IN THE CONFLICT, MRS.",
+		"entities": [
+			[
+				"CHINESE",
+				7,
+				14,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "GANDHI SAID, THE CHINESE KNOW THAT THE SOVIET UNION WOULD ACT IN THE SINKIANG REGION.",
+		"entities": [
+			[
+				"GANDHI",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"CHINESE",
+				17,
+				24,
+				"GPE"
+			],
+			[
+				"SOVIET UNION",
+				39,
+				51,
+				"GPE"
+			],
+			[
+				"SINKIANG REGION",
+				69,
+				84,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SOVIET AIR SUPPORT MAY BE MADE AVAILABLE TO INDIA AT THAT TIME.",
+		"entities": [
+			[
+				"SOVIET",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"INDIA",
+				44,
+				49,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MRS.",
+		"entities": []
+	},
+	{
+		"content": "GANDHI NOTED THAT DESPITE PAKISTANI EFFORTS TO EMBROIL THE CHINESE IN THE SUB-CONTINENT, PEKING HAS REFRAINED FROM TAKING PART IN THE CONFLICT TO DATE.",
+		"entities": [
+			[
+				"GANDHI",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"PAKISTANI",
+				26,
+				35,
+				"GPE"
+			],
+			[
+				"CHINESE",
+				59,
+				66,
+				"GPE"
+			],
+			[
+				"PEKING",
+				89,
+				95,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "P.N. DHAR, CHAIRMAN OFTHE POLICY PLANNING COMMISSION, IS CURRENTLY IN MOSCOW TO DISCUSS FUTURE STRATEGY WITH SOVIET LEADERS AND TO ASSURE THE SOVIET UNION THAT INDIA HAS NO PLANS TO ANNEX ANY WEST PAKISTANI TERRITORY.",
+		"entities": [
+			[
+				"P.N. DHAR",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"CHAIRMAN OFTHE POLICY PLANNING COMMISSION",
+				11,
+				52,
+				"TITLE"
+			],
+			[
+				"MOSCOW",
+				70,
+				76,
+				"LOC"
+			],
+			[
+				"SOVIET",
+				109,
+				115,
+				"GPE"
+			],
+			[
+				"SOVIET UNION",
+				142,
+				154,
+				"GPE"
+			],
+			[
+				"INDIA",
+				160,
+				165,
+				"GPE"
+			],
+			[
+				"WEST PAKISTANI TERRITORY",
+				192,
+				216,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "AFTER THE LIBERATION OF BANGLADESH, THE PRIME MINISTER SAID, PAKISTAN MIGHT NOT ACCEPT THE CEASEFIRE RESOLUTION BUT MIGHT DECIDE TO CONTINUE THE WAR IN THE WEST TO AVENGE THE LOSS OF BANGLADESH.",
+		"entities": [
+			[
+				"BANGLADESH",
+				24,
+				34,
+				"GPE"
+			],
+			[
+				"PRIME MINISTER",
+				40,
+				54,
+				"PERSON"
+			],
+			[
+				"PAKISTAN",
+				61,
+				69,
+				"GPE"
+			],
+			[
+				"WEST",
+				156,
+				160,
+				"LOC"
+			],
+			[
+				"BANGLADESH",
+				183,
+				193,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "PAKISTANI STRATEGY MIGHT BE TO BREAK THROUGH THE CHHAMB AREA, WITH CHINESE SUPPORT IN THE LADAKH REGION, IN A BID TO CUT OFF THE KASHMIR VALLEY.",
+		"entities": [
+			[
+				"PAKISTANI",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"CHHAMB",
+				49,
+				55,
+				"LOC"
+			],
+			[
+				"CHINESE",
+				67,
+				74,
+				"GPE"
+			],
+			[
+				"LADAKH REGION",
+				90,
+				103,
+				"LOC"
+			],
+			[
+				"KASHMIR VALLEY",
+				129,
+				143,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MRS.",
+		"entities": []
+	},
+	{
+		"content": "GANDHI SAID THAT IN THAT CASE THE SOVIET UNION WOULD ATTEMPT TO CONVINCE THE UNITED STATES TO ACCEPT BANGLADESH AS A \"FAIT ACCOMPLI\" IN THE HOPE THAT THE UNITED STATES WILL PREVAIL UPON PAKISTAN TO ACCEPT A CEASEFIRE WITH AN INDEPENDENT BANGLADESH.",
+		"entities": [
+			[
+				"GANDHI",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"SOVIET UNION",
+				34,
+				46,
+				"GPE"
+			],
+			[
+				"UNITED STATES",
+				77,
+				90,
+				"GPE"
+			],
+			[
+				"BANGLADESH",
+				101,
+				111,
+				"GPE"
+			],
+			[
+				"UNITED STATES",
+				154,
+				167,
+				"GPE"
+			],
+			[
+				"PAKISTAN",
+				186,
+				194,
+				"GPE"
+			],
+			[
+				"BANGLADESH",
+				237,
+				247,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE PRIME MINISTER ADDED THAT IT IS EVEN POSSIBLE THAT, IN SPITE OF ITS ANTI-INDIA STANCE, CHINA MAY ADVISE PAKISTAN TO ACKNOWLEDGE THE REALITY OF BANGLADESH.",
+		"entities": [
+			[
+				"PRIME MINISTER",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"INDIA",
+				77,
+				82,
+				"GPE"
+			],
+			[
+				"CHINA",
+				91,
+				96,
+				"GPE"
+			],
+			[
+				"PAKISTAN",
+				108,
+				116,
+				"GPE"
+			],
+			[
+				"BANGLADESH",
+				147,
+				157,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE PRIME MINISTER CONCLUDED HER BRIEFING BY SAYING THAT INDIA WILL EMERGE FROMT HE WAR AS TEH DOMINANT POWER IN SOUTH ASIA AND THE INDIAN OCEAN.",
+		"entities": [
+			[
+				"PRIME MINISTER",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"INDIA",
+				57,
+				62,
+				"GPE"
+			],
+			[
+				"SOUTH ASIA",
+				113,
+				123,
+				"LOC"
+			],
+			[
+				"INDIAN OCEAN",
+				132,
+				144,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "CHINA WILL RESPECT INDIA AND MAY EVEN DECIDE TO IMPROVE RELATIONS WITH INDIA.",
+		"entities": [
+			[
+				"CHINA",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"INDIA",
+				19,
+				24,
+				"GPE"
+			],
+			[
+				"INDIA",
+				71,
+				76,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "ON THE OTHER HAND, PAKISTAN WILL LOSE ITS ECONOMIC POWER WITHOUT WHICH IT WILL NOT BE ABLE TO SUPPORT A LARGE MILITARY COMPLEX.",
+		"entities": [
+			[
+				"PAKISTAN",
+				19,
+				27,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE CURRENT PAKISTANI MILITARY LEADERSHIP WILL NOT BE ABLE TO SURVIVE THE MILITARY DEFEAT.",
+		"entities": [
+			[
+				"PAKISTANI",
+				12,
+				21,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "MRS. GANDHI SAID SHE EXPECTS CHINA AND THE UNITED STATES TO LOSE INTEREST IN PAKISTAN.",
+		"entities": [
+			[
+				"MRS. GANDHI",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"CHINA",
+				29,
+				34,
+				"GPE"
+			],
+			[
+				"UNITED STATES",
+				43,
+				56,
+				"GPE"
+			],
+			[
+				"PAKISTAN",
+				77,
+				85,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "SHE ALSO NOTED THAT SHE FORSEES GREATER PRESSURE FOR AUTONOMY IN PAKISTAN'S NORTHWEST FRONTIER, BALUCHISTAN AND SIND.",
+		"entities": [
+			[
+				"PAKISTAN",
+				65,
+				73,
+				"GPE"
+			],
+			[
+				"NORTHWEST FRONTIER",
+				76,
+				94,
+				"LOC"
+			],
+			[
+				"BALUCHISTAN",
+				96,
+				107,
+				"LOC"
+			],
+			[
+				"SIND",
+				112,
+				116,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SHE EXPRESSED THE HOPE THAT A NEW DEMOCRATIC PAKISTAN, BASED ON AUTONOMOUS REPUBLICS, WILL EMERGE AND THAT IT WILL DESIRE TO HAVE FRIENDLY RELATIONS WITH INDIA.",
+		"entities": [
+			[
+				"PAKISTAN",
+				45,
+				53,
+				"GPE"
+			],
+			[
+				"INDIA",
+				154,
+				159,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[text not declassified]']",
+		"entities": []
+	},
+	{
+		"content": "[\"PARTICIPANTS Mr. Mordechai Gazit, Minister, Israeli Embassy Mr. Shimon Moratt, Counselor, Israeli Embassy NE--Mr. Rodger P. Davies NE--",
+		"entities": [
+			[
+				"Mordechai Gazit",
+				19,
+				34,
+				"PERSON"
+			],
+			[
+				"Minister",
+				36,
+				44,
+				"TITLE"
+			],
+			[
+				"Israeli Embassy",
+				46,
+				61,
+				"ORG"
+			],
+			[
+				"Shimon Moratt",
+				66,
+				79,
+				"PERSON"
+			],
+			[
+				"Counselor",
+				81,
+				90,
+				"TITLE"
+			],
+			[
+				"Israeli Embassy",
+				92,
+				107,
+				"ORG"
+			],
+			[
+				"Rodger P. Davies",
+				116,
+				132,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "William D. Wolle Mr. Gazit said that the Foreign Ministry in Jerusalem had reiterated June 7 to Ambassador Barbour that the Israeli Government seriously desires a return to tranquility in the border areas and that it wishes to cooperate with the Jordanian authorities to bring this about.",
+		"entities": [
+			[
+				"William D. Wolle",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"Gazit",
+				21,
+				26,
+				"PERSON"
+			],
+			[
+				"Foreign Ministry",
+				41,
+				57,
+				"ORG"
+			],
+			[
+				"Jerusalem",
+				61,
+				70,
+				"LOC"
+			],
+			[
+				"June 7",
+				86,
+				92,
+				"DATE"
+			],
+			[
+				"Ambassador Barbour",
+				96,
+				114,
+				"PERSON"
+			],
+			[
+				"Israeli Government",
+				124,
+				142,
+				"GPE"
+			],
+			[
+				"Jordanian",
+				246,
+				255,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Barbour in recent days had also been given copies of messages sent by the GOI to the Jordanian and Lebanese governments via the MACs containing lists of individuals suspected of Fatah connections.",
+		"entities": [
+			[
+				"Ambassador Barbour",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"GOI",
+				85,
+				88,
+				"GPE"
+			],
+			[
+				"Jordanian",
+				96,
+				105,
+				"GPE"
+			],
+			[
+				"Lebanese",
+				110,
+				118,
+				"GPE"
+			],
+			[
+				"Fatah",
+				189,
+				194,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "There were 29 names on the list for Jordan and a single name on the list for Lebanon.",
+		"entities": [
+			[
+				"Jordan",
+				36,
+				42,
+				"GPE"
+			],
+			[
+				"Lebanon",
+				77,
+				84,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Gazit said his government hoped the United States Government would go back to King Hussein in a follow-up to his initiative with Ambassador Barnes several days ago and, in addition to stressing to the King the Israeli desire for a return to peace along the border, would raise a number of specific points relating to the recent border events.",
+		"entities": [
+			[
+				"Gazit",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"United States Government",
+				40,
+				64,
+				"GPE"
+			],
+			[
+				"King Hussein",
+				82,
+				94,
+				"PERSON"
+			],
+			[
+				"Ambassador Barnes",
+				133,
+				150,
+				"PERSON"
+			],
+			[
+				"King",
+				205,
+				209,
+				"PERSON"
+			],
+			[
+				"Israeli",
+				214,
+				221,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "These points had been enumerated to Ambassador Barbour, but Mr. Gazit said he would mention some of them as examples.",
+		"entities": [
+			[
+				"Ambassador Barbour",
+				36,
+				54,
+				"PERSON"
+			],
+			[
+				"Gazit",
+				64,
+				69,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "For one thing, the GOI does not understand why the official Jordanian letter to the Security Council concerning the May 31 Jerusalem incident is at odds with what has been learned from the Jordanians themselves to be the real explanation.",
+		"entities": [
+			[
+				"GOI",
+				19,
+				22,
+				"GPE"
+			],
+			[
+				"Jordanian",
+				60,
+				69,
+				"GPE"
+			],
+			[
+				"Security Council",
+				84,
+				100,
+				"ORG"
+			],
+			[
+				"May 31",
+				116,
+				122,
+				"LOC"
+			],
+			[
+				"Jerusalem",
+				123,
+				132,
+				"LOC"
+			],
+			[
+				"Jordanians",
+				189,
+				199,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The GOI wonders what kind of punishment Jordan will impose on the army captain arrested because of that incident, which it considers to have been most serious.",
+		"entities": [
+			[
+				"GOI",
+				4,
+				7,
+				"GPE"
+			],
+			[
+				"Jordan",
+				40,
+				46,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Israel fails to understand Jordan's apparent inability to spot saboteurs moving toward the border, since groups of several persons rather than simply individuals have been involved in some cross-border incidents.",
+		"entities": [
+			[
+				"Israel",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Jordan",
+				27,
+				33,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Israeli Government would continue to supply information concerning Fatah complicity in the sabotage incidents, said Mr. Gazit, though it could hardly supply such a quantity that it became in effect a branch of the Jordan security services.",
+		"entities": [
+			[
+				"Israeli Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"Fatah",
+				71,
+				76,
+				"ORG"
+			],
+			[
+				"Gazit",
+				124,
+				129,
+				"PERSON"
+			],
+			[
+				"Jordan",
+				218,
+				224,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Gazit expressed gratitude on behalf of the Israeli Government for the USG's readiness to transmit such information and more general messages to Jordan on its behalf.",
+		"entities": [
+			[
+				"Gazit",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Israeli Government",
+				47,
+				65,
+				"GPE"
+			],
+			[
+				"USG",
+				74,
+				77,
+				"GPE"
+			],
+			[
+				"Jordan",
+				148,
+				154,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He went on to note that his government believed the onus was now on King Hussein to see that border tranquility was restored.",
+		"entities": [
+			[
+				"King Hussein",
+				68,
+				80,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Davies said that U.S. intelligence confirmed the serious desire and efforts of King Hussein to keep potential saboteurs in check.",
+		"entities": [
+			[
+				"Davies",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				21,
+				25,
+				"GPE"
+			],
+			[
+				"King Hussein",
+				83,
+				95,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He noted that it was a little too much to assert that Jordan had absolute control of such activities.",
+		"entities": [
+			[
+				"Jordan",
+				54,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Nearly 200 Israeli soldiers had, after all, moved almost unnoticed well into Jordan territory during the May 27-28 raids, and even the Israeli security forces could not detect individuals or groups of infiltrators immediately on entry into Israel.",
+		"entities": [
+			[
+				"Israeli",
+				11,
+				18,
+				"NORP"
+			],
+			[
+				"Jordan",
+				77,
+				83,
+				"GPE"
+			],
+			[
+				"May 27-28",
+				105,
+				114,
+				"DATE"
+			],
+			[
+				"Israeli",
+				135,
+				142,
+				"GPE"
+			],
+			[
+				"Israel",
+				240,
+				246,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He stressed that the USG was quite convinced that any further Israeli military raids would push the Jordanians into some sort of military reaction.",
+		"entities": [
+			[
+				"USG",
+				21,
+				24,
+				"GPE"
+			],
+			[
+				"Israeli",
+				62,
+				69,
+				"GPE"
+			],
+			[
+				"Jordanians",
+				100,
+				110,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Gazit referred to PLO efforts to raise a Palestine Liberation Army and stated his government was impressed by the serious steps in process, particularly in Gaza.",
+		"entities": [
+			[
+				"Gazit",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"PLO",
+				22,
+				25,
+				"ORG"
+			],
+			[
+				"Palestine Liberation Army",
+				45,
+				70,
+				"ORG"
+			],
+			[
+				"Gaza",
+				160,
+				164,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He spoke of the seriousness with which the GOI viewed the question of keeping UNRWA ration cards from PLA conscriptees.",
+		"entities": [
+			[
+				"GOI",
+				43,
+				46,
+				"GPE"
+			],
+			[
+				"UNRWA",
+				78,
+				83,
+				"ORG"
+			],
+			[
+				"PLA",
+				102,
+				105,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Davies agreed this was a serious question, reiterated the steps the USG had taken with UNRWA officials regarding it, and expressed again the hope that this issue would be kept out of the press since the glare of publicity would render UNRWA action much more difficult.",
+		"entities": [
+			[
+				"Davies",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"USG",
+				72,
+				75,
+				"GPE"
+			],
+			[
+				"UNRWA",
+				91,
+				96,
+				"ORG"
+			],
+			[
+				"UNRWA",
+				239,
+				244,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Regarding the PLO, Mr. Davies said it seemed clear that the Arab states principally concerned were holding the organization at arm's length.",
+		"entities": [
+			[
+				"PLO",
+				14,
+				17,
+				"ORG"
+			],
+			[
+				"Davies",
+				23,
+				29,
+				"PERSON"
+			],
+			[
+				"Arab",
+				60,
+				64,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "There was a danger, however, in the extent to which the Chinese Communists could make good on Peking's reported promises to Shuqairy of funds, arms and training.",
+		"entities": [
+			[
+				"Chinese Communists",
+				56,
+				74,
+				"GPE"
+			],
+			[
+				"Peking",
+				94,
+				100,
+				"GPE"
+			],
+			[
+				"Shuqairy",
+				124,
+				132,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Gazit read brief passages from a GOI letter to the Security Council regarding the June 1 explosions at Yiftah and Beit Guvrin, and spoke briefly of two more recent border incidents.",
+		"entities": [
+			[
+				"Gazit",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"GOI",
+				37,
+				40,
+				"GPE"
+			],
+			[
+				"Security Council",
+				55,
+				71,
+				"ORG"
+			],
+			[
+				"June 1",
+				86,
+				92,
+				"DATE"
+			],
+			[
+				"Yiftah",
+				107,
+				113,
+				"LOC"
+			],
+			[
+				"Beit Guvrin",
+				118,
+				129,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "At Beit Qama (about 13 miles north of Beersheba and 6 miles from the Jordan border) an Israeli watchman had come upon four intruders cutting the fence around a water tower and had thereby prevented damage to the installation.",
+		"entities": [
+			[
+				"Beit Qama",
+				3,
+				12,
+				"LOC"
+			],
+			[
+				"Beersheba",
+				38,
+				47,
+				"LOC"
+			],
+			[
+				"Jordan",
+				69,
+				75,
+				"GPE"
+			],
+			[
+				"Israeli",
+				87,
+				94,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "At Jisr Shaikh Hussein the Jordanians had fired across the border for 45 minutes with no apparent cause.",
+		"entities": [
+			[
+				"Jisr Shaikh Hussein",
+				3,
+				22,
+				"LOC"
+			],
+			[
+				"Jordanians",
+				27,
+				37,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Moratt commented that the Jordanians now claimed to have repulsed two Israeli attacks, neither of which in fact ever existed.",
+		"entities": [
+			[
+				"Moratt",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"Jordanians",
+				30,
+				40,
+				"GPE"
+			],
+			[
+				"Israeli",
+				74,
+				81,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Davies commented that the Jordanians undoubtedly were apprehensive about possible incursions.",
+		"entities": [
+			[
+				"Davies",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"Jordanians",
+				30,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He emphasized that the USG is counseling restraint on all parties concerned although our leverage in one location (Damascus) is at an extremely low level.\"]",
+		"entities": [
+			[
+				"USG",
+				23,
+				26,
+				"GPE"
+			],
+			[
+				"Damascus",
+				115,
+				123,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[\"It appears to be increasingly likely that no formal ceasefire will be reached in the Middle East in the near future.",
+		"entities": [
+			[
+				"Middle East",
+				87,
+				98,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Instead, fighting on the Syrian front will subside, but not stop entirely, with Israel in control of a line somewhat to the east of the previous ceasefire lines.",
+		"entities": [
+			[
+				"Syrian",
+				25,
+				31,
+				"NORP"
+			],
+			[
+				"Israel",
+				80,
+				86,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Israel would probably be glad to have a ceasefire on the Syrian front in order to turn attention to the more important task of dislodging the Egyptians from Sinai.",
+		"entities": [
+			[
+				"Israel",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Syrian",
+				57,
+				63,
+				"NORP"
+			],
+			[
+				"Egyptians",
+				142,
+				151,
+				"GPE"
+			],
+			[
+				"Sinai",
+				157,
+				162,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "But there are no reasons for the Syrians to accept such terms unless the alternative is total destruction.",
+		"entities": [
+			[
+				"Syrians",
+				33,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Israel might achieve this latter objective, but only at an extraordinarily high price and at a cost in time, which by now is a serious problem for Israel.",
+		"entities": [
+			[
+				"Israel",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Israel",
+				147,
+				153,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Each day the war goes on it costs Israel over $250 million.",
+		"entities": [
+			[
+				"Israel",
+				34,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Within one month, this adds up to Israel's entire annual GNP.",
+		"entities": [
+			[
+				"Israel",
+				34,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Consequently, the prospect is for a standoff on the Syrian front, with Israel in control of additional, but not very valuable, territory.",
+		"entities": [
+			[
+				"Syrian",
+				52,
+				58,
+				"NORP"
+			],
+			[
+				"Israel",
+				71,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Within a few days, Israel will have to consider dealing seriously with the Egyptian front.",
+		"entities": [
+			[
+				"Israel",
+				19,
+				25,
+				"GPE"
+			],
+			[
+				"Egyptian",
+				75,
+				83,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "A massive onslaught might succeed, but at heavy cost.",
+		"entities": []
+	},
+	{
+		"content": "Outflanking tactics will not easily work.",
+		"entities": []
+	},
+	{
+		"content": "Airpower cannot alone do the job, and in any event risks heavy losses.",
+		"entities": []
+	},
+	{
+		"content": "The Egyptians seem determined to fight, but on their own terms, which means they will not easily be drawn from the SAM-protected area they now occupy unless Israel's forces are obviously weakened.",
+		"entities": [
+			[
+				"Egyptians",
+				4,
+				13,
+				"GPE"
+			],
+			[
+				"Israel",
+				157,
+				163,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Soviet supplies to the Egyptians and Syrians assure that fighting will not stop on the Arab side for lack of equipment.",
+		"entities": [
+			[
+				"Soviet",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Egyptians",
+				23,
+				32,
+				"GPE"
+			],
+			[
+				"Syrians",
+				37,
+				44,
+				"GPE"
+			],
+			[
+				"Arab",
+				87,
+				91,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Nor is manpower or financing likely to be a problem.",
+		"entities": []
+	},
+	{
+		"content": "The Arabs are well positioned to fight a prolonged, low-intensity war of attrition that will force the Israelis to remain mobilized and alert.",
+		"entities": [
+			[
+				"Arabs",
+				4,
+				9,
+				"NORP"
+			],
+			[
+				"Israelis",
+				103,
+				111,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The longer the war goes on, the better their chances.",
+		"entities": []
+	},
+	{
+		"content": "If the Israelis do manage to force the Egyptian forces back across the Canal, this will not assure a ceasefire.",
+		"entities": [
+			[
+				"Israelis",
+				7,
+				15,
+				"GPE"
+			],
+			[
+				"Egyptian",
+				39,
+				47,
+				"GPE"
+			],
+			[
+				"Canal",
+				71,
+				76,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Israel will be reluctant to cross to the west bank to destroy the Egyptian army.",
+		"entities": [
+			[
+				"Israel",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Egyptian army",
+				66,
+				79,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Consequently, some form of hostilities, perhaps reminiscent of the first half of 1970, could go on even after Israel gets back to the ceasefire lines.",
+		"entities": [
+			[
+				"1970",
+				81,
+				85,
+				"DATE"
+			],
+			[
+				"Israel",
+				110,
+				116,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Israeli casualties will mount and the costs of such a war will be very great.",
+		"entities": [
+			[
+				"Israeli",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As the war drags on, several important developments could occur: --Greater",
+		"entities": []
+	},
+	{
+		"content": "Soviet involvement, such as flying defensive fighter patrols to protect Damascus and Cairo.",
+		"entities": [
+			[
+				"Soviet",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Damascus",
+				72,
+				80,
+				"GPE"
+			],
+			[
+				"Cairo",
+				85,
+				90,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "--Provision of more advanced Soviet equipment, such as SCUD missiles and TU-22 bombers to the combatants.",
+		"entities": [
+			[
+				"Soviet",
+				29,
+				35,
+				"GPE"
+			],
+			[
+				"SCUD missiles",
+				55,
+				68,
+				"PRODUCT"
+			],
+			[
+				"TU-22 bombers",
+				73,
+				86,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "--A decrease in Arab oil production, causing serious shortages in Europe, Japan and the United States.",
+		"entities": [
+			[
+				"Arab",
+				16,
+				20,
+				"NORP"
+			],
+			[
+				"Europe",
+				66,
+				72,
+				"LOC"
+			],
+			[
+				"Japan",
+				74,
+				79,
+				"LOC"
+			],
+			[
+				"United States",
+				88,
+				101,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "--Attempt to close Bab al-Mandab at the southern entrance of the Red Sea to oil tankers from Iran to Israel.",
+		"entities": [
+			[
+				"Bab al-Mandab",
+				19,
+				32,
+				"LOC"
+			],
+			[
+				"Red Sea",
+				65,
+				72,
+				"LOC"
+			],
+			[
+				"Iran",
+				93,
+				97,
+				"GPE"
+			],
+			[
+				"Israel",
+				101,
+				107,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "--Moroccan closure of our communications facilities, thereby degrading the effectiveness of the Sixth Fleet.",
+		"entities": [
+			[
+				"Moroccan",
+				0,
+				10,
+				"GPE"
+			],
+			[
+				"Sixth Fleet",
+				96,
+				107,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "--Virtual isolation of the United States as the sole supporter of Israel, thereby complicating diplomatic and military resupply efforts.",
+		"entities": [
+			[
+				"United States",
+				27,
+				40,
+				"GPE"
+			],
+			[
+				"Israel",
+				66,
+				72,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "--Jordanian involvement in the hostilities will become inevitable.",
+		"entities": [
+			[
+				"Jordanian",
+				0,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "U.S. Alternatives 1.",
+		"entities": [
+			[
+				"U.S.",
+				0,
+				4,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Continue efforts to build consensus for ceasefire and negotiated peace settlement.",
+		"entities": []
+	},
+	{
+		"content": "Unless the situation on the ground or the costs of the war for both sides change dramatically in the next few days, this alternative seems unlikely to succeed.",
+		"entities": []
+	},
+	{
+		"content": "The Egyptians will resist any proposal requiring them to withdraw from territory they have reoccupied.",
+		"entities": [
+			[
+				"Egyptians",
+				4,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Israelis will not willingly stop fighting until they have at least tried an all-out counter-offensive on the Egyptian forces in Sinai.",
+		"entities": [
+			[
+				"Israelis",
+				4,
+				12,
+				"GPE"
+			],
+			[
+				"Egyptian",
+				113,
+				121,
+				"GPE"
+			],
+			[
+				"Sinai",
+				132,
+				137,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "While this approach may eventually succeed, it is bound to take considerable time during which U.S. interests in the Middle East are likely to suffer and Soviet influence to grow.",
+		"entities": [
+			[
+				"U.S.",
+				95,
+				99,
+				"GPE"
+			],
+			[
+				"Middle East",
+				117,
+				128,
+				"LOC"
+			],
+			[
+				"Soviet",
+				154,
+				160,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Try for a ceasefire in place and agreement on the first stage of an overall settlement.",
+		"entities": []
+	},
+	{
+		"content": "This effort would try to end the fighting as soon as possible by offering something to both sides.",
+		"entities": []
+	},
+	{
+		"content": "The key issues would involve the Egyptian-Israeli front.",
+		"entities": [
+			[
+				"Egyptian-Israeli",
+				33,
+				49,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If fighting were to stop, Egypt would be in control of an area comparable to what they could have expected to regain in the first stage of any peace settlement.",
+		"entities": [
+			[
+				"Egypt",
+				26,
+				31,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They have now acquired this by force, but no one contests that it is Egyptian territory.",
+		"entities": [
+			[
+				"Egyptian",
+				69,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The problem is to get the Israelis to accept this outcome of the fighting and to link it to a more general settlement.",
+		"entities": [
+			[
+				"Israelis",
+				26,
+				34,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This would require strong efforts to persuade the Egyptians and Syrians to accept face-to-face negotiations on a phased settlement, complete with arrangements for demilitarization and separation of forces in key areas.",
+		"entities": [
+			[
+				"Egyptians",
+				50,
+				59,
+				"GPE"
+			],
+			[
+				"Syrians",
+				64,
+				71,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Egypt would have to accept the principle that Israeli withdrawal will not be automatic, but rather will take place over time, as Egypt takes actions consistent with a full peace agreement.",
+		"entities": [
+			[
+				"Egypt",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"Israeli",
+				46,
+				53,
+				"GPE"
+			],
+			[
+				"Egypt",
+				129,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On the Syrian front, no progress would be expected until the Egyptians had begun negotiating.",
+		"entities": [
+			[
+				"Syrian",
+				7,
+				13,
+				"LOC"
+			],
+			[
+				"Egyptians",
+				61,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In short, this formula would favor the Egyptians at the outset by letting them keep recaptured territory, but would set the stage for subsequent peace negotiations on terms acceptable to the Israelis.",
+		"entities": [
+			[
+				"Egyptians",
+				39,
+				48,
+				"GPE"
+			],
+			[
+				"Israelis",
+				191,
+				199,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Considerable European, and perhaps even some moderate Arab, support might be generated for such an alternative.",
+		"entities": [
+			[
+				"European",
+				13,
+				21,
+				"NORP"
+			],
+			[
+				"Arab",
+				54,
+				58,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "3. Take no action for a ceasefire or a peace settlement at present.",
+		"entities": []
+	},
+	{
+		"content": "U.S. efforts would shift from trying to end the fighting immediately to providing Israel with sufficient economic and military support to insure that a war of attrition will not succeed.",
+		"entities": [
+			[
+				"U.S.",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"Israel",
+				82,
+				88,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The objective, as in 1970, would be to demonstrate that force cannot settle the conflict, that Soviet help to their clients will be met by our efforts to help Israel, whatever the costs to our interests in the Arab world.",
+		"entities": [
+			[
+				"1970",
+				21,
+				25,
+				"DATE"
+			],
+			[
+				"Soviet",
+				95,
+				101,
+				"GPE"
+			],
+			[
+				"Israel",
+				159,
+				165,
+				"GPE"
+			],
+			[
+				"Arab",
+				210,
+				214,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In the short term the chances for peace would be dim and US-Arab relations would be seriously weakened, but in time one could hope to work again for a negotiated peace once the balance of power in the area had been restored.",
+		"entities": [
+			[
+				"US-Arab",
+				57,
+				64,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "One would have to anticipate and accept radical changes in the Middle East if we were to adopt this strategy, but vital U.S. interests would probably not suffer excessively.",
+		"entities": [
+			[
+				"Middle East",
+				63,
+				74,
+				"LOC"
+			],
+			[
+				"U.S.",
+				120,
+				124,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It would however, be several years before we could expect to rebuild the regional network of relations we have been fostering in the Middle East in the past few years.\"]",
+		"entities": [
+			[
+				"Middle East",
+				133,
+				144,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "['No. 1.]",
+		"entities": []
+	},
+	{
+		"content": "Hon.",
+		"entities": [
+			[
+				"Hon",
+				0,
+				3,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Sir:",
+		"entities": []
+	},
+	{
+		"content": "In order to be prepared, should an American vessel be under way for this port, which I have reason to believe, I would pray for your kind instructions how to proceed in case the vessel, in passing the sound, should be notified by the Danes that Swinemunde is blockaded, and the captain therefore, perhaps, run into some other port, not included in the so-called blockade, and desire to discharge his cargo there.",
+		"entities": [
+			[
+				"American",
+				35,
+				43,
+				"NORP"
+			],
+			[
+				"Danes",
+				234,
+				239,
+				"GPE"
+			],
+			[
+				"Swinemunde",
+				245,
+				255,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The consignees here would, then, probably, as has been done in like eases already, where vessels of neutrals were concerned, apply to me for instructions to the captain of such vessel to proceed here, to which place he has been chartered, as long as no \"legal blockade\" exists, and up to this evening there has been \"no actual presence of a blockading force\" at Swinemunde.",
+		"entities": [
+			[
+				"Swinemunde",
+				362,
+				372,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "A squadron of Danish vessels-of-war has been in sight for an hour or so at different times--that is all; but the same has not been \"stationary, nor sufficiently near\" at any time, so as to effect a \"valid blockade\" of that port.",
+		"entities": [
+			[
+				"Danish",
+				14,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Should this state continue, I think, myself, no neutral vessel is bound to respect either the notification from the Danish admiral, of which I have had the honor to inform you, and which was sent in by a British merchantman from a place in the open sea about fifty miles distant from Swinemunde, nor the notices of the pretended blockade given by Danish pilots to vessels passing the sound or the belts; but in order to be sure, what to do when applied to, respectfully ask for your instructions on the subject the earliest day possible, and the more so as my opinion thereon is frequently asked by other foreign consuls here, and I am somewhat uncertain as to (my way of reading)",
+		"entities": [
+			[
+				"Danish",
+				116,
+				122,
+				"GPE"
+			],
+			[
+				"British",
+				204,
+				211,
+				"NORP"
+			],
+			[
+				"Swinemunde",
+				284,
+				294,
+				"LOC"
+			],
+			[
+				"Danish",
+				347,
+				353,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Wheaton being right or not.",
+		"entities": [
+			[
+				"Wheaton",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I have the honor to be, sir, yours sincerely obedient servant, CHARLES J. SUNDELL, United States Consul.",
+		"entities": [
+			[
+				"CHARLES J. SUNDELL",
+				63,
+				81,
+				"PERSON"
+			],
+			[
+				"United States Consul",
+				83,
+				103,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Hon. N. B. Judd, Minister Plenipotentiary of the U. S. A., at Berlin, &c., &c.']",
+		"entities": [
+			[
+				"Hon",
+				0,
+				3,
+				"TITLE"
+			],
+			[
+				"N. B. Judd",
+				5,
+				15,
+				"PERSON"
+			],
+			[
+				"Minister Plenipotentiary of the U. S. A.",
+				17,
+				57,
+				"TITLE"
+			],
+			[
+				"Berlin",
+				62,
+				68,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "['It seems increasingly likely to me that the only way educated Jews are going to get out of the Soviet Union will be by paying the education tax.",
+		"entities": [
+			[
+				"Jews",
+				64,
+				68,
+				"NORP"
+			],
+			[
+				"Soviet Union",
+				97,
+				109,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Many Jews in the Soviet Union are beginning to assess their situation in the same way, relating it in large part to the success of the Summit and the bilateral stake in commercial arrangements now under negotiation, but also recognizing that pressure from other Russian nationality groups for increased freedom is affected by the Jewish emigration.",
+		"entities": [
+			[
+				"Jews",
+				5,
+				9,
+				"NORP"
+			],
+			[
+				"Soviet Union",
+				17,
+				29,
+				"GPE"
+			],
+			[
+				"Summit",
+				135,
+				141,
+				"EVENT"
+			],
+			[
+				"Russian",
+				262,
+				269,
+				"NORP"
+			],
+			[
+				"Jewish",
+				330,
+				336,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In the short run (until November)",
+		"entities": [
+			[
+				"November",
+				24,
+				32,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "the leaders of the Soviet Jewish emigres do not want any concession on the issue; they hope that commercial pressures stirred by political protests will force a Soviet backdown.",
+		"entities": [
+			[
+				"Soviet Jewish",
+				19,
+				32,
+				"NORP"
+			],
+			[
+				"Soviet",
+				161,
+				167,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "After that, my information is they will want help, in whatever form possible.",
+		"entities": []
+	},
+	{
+		"content": "My personal view is that the Soviets have an arguable point, in the context of their ideology, in demanding some repayment for the state investment in education.",
+		"entities": [
+			[
+				"Soviets",
+				29,
+				36,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is the size of the tax, and the obvious inability of Russian Jews to raise large sums of money without outside help that makes the procedure so odious, and justifies the characterization of \"ransom.",
+		"entities": [
+			[
+				"Russian Jews",
+				56,
+				68,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "\" I understand that some Russian Jews are beginning to panic, to commit economic crimes (black market operations) in order to raise the tax money, and anxiety is expressed about show trials and other repressive moves.",
+		"entities": [
+			[
+				"Russian Jews",
+				25,
+				37,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In a conversation with Al Haig a few weeks ago, I suggested that thought be given now to stimulating the creation of some nongovernmental and basically non-Jewish apparatus (perhaps a private Commission) to begin to set the basis for the negotiation of reasonable terms of compensation to the Soviets, and then to undertake to raise the funds, preferably from nongovernmental sources.",
+		"entities": [
+			[
+				"Al Haig",
+				23,
+				30,
+				"PERSON"
+			],
+			[
+				"Jewish",
+				156,
+				162,
+				"NORP"
+			],
+			[
+				"Soviets",
+				293,
+				300,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The idea was generated by comments at a private meeting of the USIA Advisory Commission (Stanton[Hobe Lewis, John Shaheen, James Michener), all of whom argued that such a procedure was feasible and even desirable.",
+		"entities": [
+			[
+				"USIA Advisory Commission",
+				63,
+				87,
+				"ORG"
+			],
+			[
+				"Stanton[Hobe Lewis",
+				89,
+				107,
+				"PERSON"
+			],
+			[
+				"John Shaheen",
+				109,
+				121,
+				"PERSON"
+			],
+			[
+				"James Michener",
+				123,
+				137,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Herb Stein, in a private conversation, expressed similar sentiments, as did Jack Javits, who talked generally along these lines when I spoke to him last Friday (a memorandum of my conversation with Javits is attached).",
+		"entities": [
+			[
+				"Herb Stein",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"Jack Javits",
+				76,
+				87,
+				"PERSON"
+			],
+			[
+				"Javits",
+				198,
+				204,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Arthur Burns has suggested that some part of the Soviet Lend-Lease debt might be utilized as a source of funding for the education tax.",
+		"entities": [
+			[
+				"Arthur Burns",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"Soviet Lend-Lease",
+				49,
+				66,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In the short run there will be a great deal of generalizing about the inhumanity of the Soviet decree--and justifiably so.",
+		"entities": [
+			[
+				"Soviet",
+				88,
+				94,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "But we are confronted with escalating political pressure involving potential barriers to important U.S.-Soviet agreements and we must therefore start to deal with the reality of the Soviet situation.",
+		"entities": [
+			[
+				"U.S.-Soviet",
+				99,
+				110,
+				"GPE"
+			],
+			[
+				"Soviet",
+				182,
+				188,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If our information is that they're not going to back down, and if we are to do what is humane and practical, something more substantive than a speech in the UN, a handholding conference with Jewish leaders, or a demarche to Dobrynin will be needed, and fairly soon.",
+		"entities": [
+			[
+				"UN",
+				157,
+				159,
+				"ORG"
+			],
+			[
+				"Jewish",
+				191,
+				197,
+				"NORP"
+			],
+			[
+				"Dobrynin",
+				224,
+				232,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The objective at this point should be, quite simply, to develop some realistic modus operandi which will enable the Jews to emigrate and the Soviets to save face.",
+		"entities": [
+			[
+				"Jews",
+				116,
+				120,
+				"NORP"
+			],
+			[
+				"Soviets",
+				141,
+				148,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Whatever is done should be organized informally, and quietly set in motion before the election.",
+		"entities": []
+	},
+	{
+		"content": "I think some of the people I've mentioned above would be prepared to help organize that effort.",
+		"entities": []
+	},
+	{
+		"content": "I emphasize that the approach should involve a serious and businesslike negotiation, addressed fundamentally to the question of reasonable terms, and based on the premise that there is legitimacy to the Soviet demand for some capital compensation from trained people who decide to leave the country and renounce their citizenship.",
+		"entities": [
+			[
+				"Soviet",
+				203,
+				209,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The major hurdle, at the outset, would be the current Jewish position of opposition to any payment, but there is a reasonable chance, I think, that this can be altered by discussions with responsible Jewish leadership here and abroad.",
+		"entities": [
+			[
+				"Jewish",
+				54,
+				60,
+				"NORP"
+			],
+			[
+				"Jewish",
+				200,
+				206,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Leonard Garment']",
+		"entities": [
+			[
+				"Leonard Garment",
+				0,
+				15,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['The attached table reviews where we stand.",
+		"entities": []
+	},
+	{
+		"content": "Three issues remain.",
+		"entities": []
+	},
+	{
+		"content": "You may want to discuss the APC's with Secretaries Rusk and McNamara Thursday afternoon.",
+		"entities": [
+			[
+				"APC",
+				28,
+				31,
+				"PRODUCT"
+			],
+			[
+				"Secretaries Rusk",
+				39,
+				55,
+				"PERSON"
+			],
+			[
+				"McNamara",
+				60,
+				68,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Whatever you decide, I recommend you hold them until after 28 April when we'll have a report on this weekend's inspection of the Dimona nuclear plant.",
+		"entities": [
+			[
+				"28 April",
+				59,
+				67,
+				"DATE"
+			],
+			[
+				"Dimona nuclear plant",
+				129,
+				149,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "I. Armed Personnel Carriers.",
+		"entities": [
+			[
+				"Armed Personnel Carriers",
+				3,
+				27,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Secretaries McNamara (Tab A) and Katzenbach (Tab B) have reconsidered and still recommend against.",
+		"entities": [
+			[
+				"McNamara",
+				12,
+				20,
+				"PERSON"
+			],
+			[
+				"Katzenbach",
+				33,
+				43,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Their arguments boil down to: Uneasiness about fueling any arms race.",
+		"entities": []
+	},
+	{
+		"content": "Congress is concerned.",
+		"entities": [
+			[
+				"Congress",
+				0,
+				8,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Our India-Pak decision tried to restrain that buildup, and we've kept our Middle East programs to the minimum.",
+		"entities": [
+			[
+				"India-Pak",
+				4,
+				13,
+				"GPE"
+			],
+			[
+				"Middle East",
+				74,
+				85,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "APC's would not seriously affect the arms balance, but no one wants to start another round of sales.",
+		"entities": [
+			[
+				"APC",
+				0,
+				3,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "In the context of the Non-Proliferation talks, we may even try for tacit Soviet agreement to hold down arms shipments to the Middle East.",
+		"entities": [
+			[
+				"Non-Proliferation",
+				22,
+				39,
+				"EVENT"
+			],
+			[
+				"Soviet",
+				73,
+				79,
+				"GPE"
+			],
+			[
+				"Middle East",
+				125,
+				136,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This sale wouldn't upset that effort, but our skirts would be cleaner without it.",
+		"entities": []
+	},
+	{
+		"content": "Concern over too close a military relationship while Israel's nuclear intentions are in doubt.",
+		"entities": [
+			[
+				"Israel",
+				53,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our intelligence people suspect--on uncertain evidence--that Israel may be building a separation plant.",
+		"entities": [
+			[
+				"Israel",
+				61,
+				67,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our inspection team will visit Dimona this weekend for the first time in over a year.",
+		"entities": [
+			[
+				"Dimona",
+				31,
+				37,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "With the NPT ahead of us, we may need a clear expression of Israel's position.",
+		"entities": [
+			[
+				"NPT",
+				9,
+				12,
+				"EVENT"
+			],
+			[
+				"Israel",
+				60,
+				66,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We can't bargain with APC's, but we could hold them until we're sure our inspection team gets full cooperation.",
+		"entities": [
+			[
+				"APC",
+				22,
+				25,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Our dilemma is that foreign policy interests argue against a sale now, but the Israelis will treat a \"no\" as a broken promise.",
+		"entities": [
+			[
+				"Israelis",
+				79,
+				87,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Israel could do without APC's this year, but Eshkol believes that we promised something in return for their keeping quiet on our Jordan package last December.",
+		"entities": [
+			[
+				"Israel",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"APC",
+				24,
+				27,
+				"PRODUCT"
+			],
+			[
+				"Eshkol",
+				45,
+				51,
+				"PERSON"
+			],
+			[
+				"Jordan",
+				129,
+				135,
+				"GPE"
+			],
+			[
+				"December",
+				149,
+				157,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "If we go ahead, Secretary Katzenbach recommends we minimize repercussions by selling only 100.",
+		"entities": [
+			[
+				"Secretary Katzenbach",
+				16,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He suggests stretching delivery through 1970, but after our airlift to Jordan, I'm afraid that won't work.",
+		"entities": [
+			[
+				"1970",
+				40,
+				44,
+				"DATE"
+			],
+			[
+				"Jordan",
+				71,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In any case, we must control publicity and timing.",
+		"entities": []
+	},
+	{
+		"content": "Defense tentatively concludes that Israel could set up an assembly line using some US-supplied parts, but Secretary Katzenbach believes this would make our relationship too close.",
+		"entities": [
+			[
+				"Israel",
+				35,
+				41,
+				"GPE"
+			],
+			[
+				"US",
+				83,
+				85,
+				"NORP"
+			],
+			[
+				"Secretary Katzenbach",
+				106,
+				126,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "You may want to hear argument before deciding.",
+		"entities": []
+	},
+	{
+		"content": "On foreign policy grounds alone, I would recommend telling the Israelis we can't sell APC's now, but would reconsider next year.",
+		"entities": [
+			[
+				"Israelis",
+				63,
+				71,
+				"GPE"
+			],
+			[
+				"APC",
+				86,
+				89,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "But if you want to go ahead, I recommend 75-100 now and promising to discuss assembly in Israel.",
+		"entities": [
+			[
+				"Israel",
+				89,
+				95,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Hold APC's until after 28 April; go ahead with the rest of the package now I want to move on 100 APC's and assembly; ask for a scenario I'm willing to say \"not now\" II.",
+		"entities": [
+			[
+				"APC",
+				5,
+				8,
+				"PRODUCT"
+			],
+			[
+				"28 April",
+				23,
+				31,
+				"DATE"
+			],
+			[
+				"APC",
+				97,
+				100,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Amount and terms of PL 480.",
+		"entities": [
+			[
+				"PL 480",
+				20,
+				26,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Secretary Katzenbach recommended $23.5 million because Agriculture judged that Israel will need less than it asked for.",
+		"entities": [
+			[
+				"Secretary Katzenbach",
+				0,
+				20,
+				"PERSON"
+			],
+			[
+				"Agriculture",
+				55,
+				66,
+				"ORG"
+			],
+			[
+				"Israel",
+				79,
+				85,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Your figure was $28 million--the full Israeli request.",
+		"entities": [
+			[
+				"Israeli",
+				38,
+				45,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "One way to avoid rushing more scarce grain than needed would be to negotiate $23.5 million now but say we'll go up to $28 million if Israel needs more.",
+		"entities": [
+			[
+				"Israel",
+				133,
+				139,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In view of Congressional pressure to tighten terms, Secretary Katzenbach recommended 75% dollar sale at about 4.5% interest (last year 25% at 2.5%).",
+		"entities": [
+			[
+				"Congressional",
+				11,
+				24,
+				"ORG"
+			],
+			[
+				"Secretary Katzenbach",
+				52,
+				72,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Normally, we would figure on moving to 50% dollar sale at maybe 3.5% as an appropriate transitional step.",
+		"entities": []
+	},
+	{
+		"content": "You initially preferred last year's terms, but you may want to consider slight hardening this year to put us on a better footing with Congress.",
+		"entities": [
+			[
+				"Congress",
+				134,
+				142,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "$23.5 million now; will amend up to $28 million Up to $28 million now 25% dollar sale 2.5% interest 50% dollar sale 3.5% interest 75% dollar sale 4.5% interest III.",
+		"entities": []
+	},
+	{
+		"content": "Moving on Bunker's successor might improve the package.",
+		"entities": [
+			[
+				"Bunker",
+				10,
+				16,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Bob Bowie is a good possibility, but we might ask Douglas Dillon again.",
+		"entities": [
+			[
+				"Bob Bowie",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"Douglas Dillon",
+				50,
+				64,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Walt See if Dillon is available Sound out Feinberg on Bowie Give me other names']",
+		"entities": [
+			[
+				"Walt",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Dillon",
+				12,
+				18,
+				"PERSON"
+			],
+			[
+				"Feinberg",
+				42,
+				50,
+				"PERSON"
+			],
+			[
+				"Bowie",
+				54,
+				59,
+				"PERSON"
+			]
+		]
+	}
+]

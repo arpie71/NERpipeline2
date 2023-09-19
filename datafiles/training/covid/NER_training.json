@@ -1,0 +1,1214 @@
+[
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				20,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Cc: Fauci, Anthony (NIH/NIAID) [E)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr. Fauci: I am an ex-alumni ",
+		"entities": [
+			[
+				"Dr. Fauci",
+				5,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "To : Fauci, Anthony   (NIH/NIAID)    -------",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				5,
+				19,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				23,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From:Gordon, Joshua () [El",
+		"entities": [
+			[
+				"Gordon, Joshua",
+				5,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Cc: Tabak, Lawrence [E]",
+		"entities": [
+			[
+				"Tabak, Lawrence",
+				4,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dr. Fauci for ",
+		"entities": [
+			[
+				"Dr. Fauci",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "From: Siegel, Marc <Marc.Siegel@nyulangone.org>",
+		"entities": [
+			[
+				"Siegel, Marc",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"Marc.Siegel@nyulangone.org",
+				20,
+				46,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "From: Berke, Rick <Rick.Berke@statnews .com>",
+		"entities": [
+			[
+				"Berke, Rick",
+				6,
+				17,
+				"PERSON"
+			],
+			[
+				"Rick.Berke@statnews .com",
+				19,
+				43,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "From : Conrad, Patricia  [E)                            (b)(6)>",
+		"entities": [
+			[
+				"Conrad, Patricia",
+				7,
+				23,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Cc: Folkers, Greg (NIH/NIAID) [El                        (b)(6",
+		"entities": [
+			[
+				"Folkers, Greg",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				19,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Szweda, Jakub (Interviews producer) <jakub.szweda2@sky.uk>",
+		"entities": [
+			[
+				"Szweda, Jakub",
+				6,
+				19,
+				"PERSON"
+			],
+			[
+				"Interviews producer",
+				21,
+				40,
+				"TITLE"
+			],
+			[
+				"jakub.szweda2@sky.uk",
+				43,
+				63,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Lane, Cliff  [E]",
+		"entities": [
+			[
+				"Lane, Cliff",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "From: Reddy, Sumathi <sumathi.reddy@wsj.com>",
+		"entities": [
+			[
+				"Reddy, Sumathi",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"sumathi.reddy@wsj.com",
+				22,
+				43,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "From:Silverberg, Kristen <KSilverberg@brt.org>",
+		"entities": [
+			[
+				"Silverberg, Kristen",
+				5,
+				24,
+				"PERSON"
+			],
+			[
+				"KSilverberg@brt.org",
+				26,
+				45,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "From: Lerner, Andrea  [E]",
+		"entities": [
+			[
+				"Lerner, Andrea",
+				6,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Clinton, Hillary Rodham (invite to deliver Baccalaureate address) - October 19, 2012.pdf",
+		"entities": [
+			[
+				"Clinton, Hillary Rodham",
+				0,
+				23,
+				"PERSON"
+			],
+			[
+				"October 19, 2012",
+				68,
+				84,
+				"DATE"
+			]
+			
+		]
+	},
+	{
+		"content": "You may remember when WJC did Class Day",
+		"entities": [
+			[
+				"WJC",
+				22,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "To: Sullivan, Jacob J",
+		"entities": [
+			[
+				"Sullivan, Jacob J",
+				4,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "From: Sanchez, Emily <Emily_Sanchez@americanchemistry .com>",
+		"entities": [
+			[
+				"Sanchez, Emily",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"Emily_Sanchez@americanchemistry .com",
+				22,
+				58,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "best look to WHO for reliable information about the virus",
+		"entities": [
+			[
+				"WHO",
+				13,
+				16,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Kaplan , Edward H",
+		"entities": [
+			[
+				"Kaplan , Edward H",
+				6,
+				23,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr Fauci,",
+		"entities": [
+			[
+				"Dr Fauci",
+				5,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Doctor Fauci",
+		"entities": [
+			[
+				"Doctor Fauci",
+				5,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr Anthony Fauci",
+		"entities": [
+			[
+				"Dr Anthony Fauci",
+				5,
+				21,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Bob",
+		"entities": [
+			[
+				"Bob",
+				5,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Gabrielle",
+		"entities": [
+			[
+				"Gabrielle",
+				5,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Professor Fauci",
+		"entities": [
+			[
+				"Professor Fauci",
+				5,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Dear Patricia",
+		"entities": [
+			[
+				"Patricia",
+				5,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best, Jeremy P.S.",
+		"entities": [
+			[
+				"Jeremy",
+				6,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Hi Jeremy",
+		"entities": [
+			[
+				"Jeremy",
+				3,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best, Brian",
+		"entities": [
+			[
+				"Brian",
+				6,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best, Shawn Shawn O'Neail",
+		"entities": [
+			[
+				"Shawn",
+				6,
+				11,
+				"PERSON"
+			],
+			[
+				"Shawn O'Neail",
+				12,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best, Sriram Ramaswamy",
+		"entities": [
+			[
+				"Sriram Ramaswamy",
+				6,
+				22,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Thanks, Jeremy",
+		"entities": [
+			[
+				"Jeremy",
+				8,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Hello Dr Fauci",
+		"entities": [
+			[
+				"Dr Fauci",
+				6,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Hello Dr Fauci:",
+		"entities": [
+			[
+				"Dr Fauci",
+				6,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It's a snippet of a DNA sequence from the viral pathogen, dubbed 2019 novel coronavirus (2019-nCoV)",
+		"entities": [
+			[
+				"DNA sequence",
+				20,
+				32,
+				"MED"
+			],
+			[
+				"viral pathogen",
+				42,
+				56,
+				"MED"
+			],
+			[
+				"2019 novel coronavirus",
+				65,
+				87,
+				"MED"
+			],
+			[
+				"2019-nCoV",
+				89,
+				98,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "MERS-CoV emerged in Saudi Arabia in 2012.",
+		"entities": [
+			[
+				"MERS-CoV",
+				0,
+				8,
+				"MED"
+			],
+			[
+				"Saudi Arabia",
+				20,
+				32,
+				"LOC"
+			],
+			[
+				"2012",
+				36,
+				40,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "MERS-CoV is closely related to the 2019 novel coronavirus (SARS-CoV-2, previously known as 2019-nCoV)",
+		"entities": [
+			[
+				"MERS-CoV",
+				0,
+				8,
+				"MED"
+			],
+			[
+				"2019 novel coronavirus",
+				35,
+				57,
+				"MED"
+			],
+			[
+				"SARS-CoV-2",
+				59,
+				69,
+				"MED"
+			],
+			[
+				"2019-nCoV",
+				91,
+				101,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "If a person is mildly sick with COVID-19, the CDC now suggests the person",
+		"entities": [
+			[
+				"COVID-19",
+				32,
+				40,
+				"MED"
+			],
+			[
+				"CDC",
+				46,
+				49,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "COVID-19 can really be prevented with 3 key measures",
+		"entities": [
+			[
+				"COVID-19",
+				0,
+				8,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "we have used estimates of COVID-19 age specifc infection fatality rates",
+		"entities": [
+			[
+				"COVID-19",
+				26,
+				34,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "COVID and Chloroquine",
+		"entities": [
+			[
+				"COVID",
+				0,
+				5,
+				"MED"
+			],
+			[
+				"Chloroquine",
+				10,
+				21,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Are we or anyone else doing anything with clinical trials and chloroquine for COVID-19?",
+		"entities": [
+			[
+				"chloroquine",
+				62,
+				73,
+				"MED"
+			],
+			[
+				"COVID-19",
+				78,
+				86,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Here I'd not say that China purposely under-reported COVID-19 cases or deaths",
+		"entities": [
+			[
+				"China",
+				22,
+				27,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				53,
+				61,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "there must be under-reporting of COVID-19 cases and deaths",
+		"entities": [
+			[
+				"COVID-19",
+				33,
+				41,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "some of them must have died without being identified as COVID-19",
+		"entities": [
+			[
+				"COVID-19",
+				56,
+				64,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "with the further spread of the novel coronavirus COVID-19, Stanford is taking precautionary measures",
+		"entities": [
+			[
+				"coronavirus",
+				37,
+				48,
+				"MED"
+			],
+			[
+				"COVID-19",
+				49,
+				57,
+				"MED"
+			],
+			[
+				"Stanford",
+				59,
+				67,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Middle East respiratory syndrome (MERS), another human disease caused by a coronavirus, similarly has a link to bat viruses",
+		"entities": [
+			[
+				"Middle East respiratory syndrome",
+				0,
+				32,
+				"MED"
+			],
+			[
+				"MERS",
+				34,
+				38,
+				"MED"
+			],
+			[
+				"bat viruses",
+				112,
+				123,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Several clinical trials of remdesivir for COVID-19 are under way in China, and other patients with COVID-19 have received the drug under a compassionate use protocol.",
+		"entities": [
+			[
+				"remdesivir",
+				27,
+				37,
+				"MED"
+			],
+			[
+				"COVID-19",
+				42,
+				50,
+				"MED"
+			],
+			[
+				"China",
+				68,
+				73,
+				"LOC"
+			],
+			[
+				"COVID-19",
+				99,
+				107,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "I have been following spread of COVID-19 (Corona Virus) closely because such virus is very contagious and dangerous.",
+		"entities": [
+			[
+				"COVID-19",
+				32,
+				40,
+				"MED"
+			],
+			[
+				"Corona Virus",
+				42,
+				54,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "National Institutes of Health Bethesda, MD",
+		"entities": [
+			[
+				"National Institutes of Health",
+				0,
+				29,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				30,
+				42,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"MD",
+				18,
+				20,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				30,
+				83,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03",
+				84,
+				107,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Remdesivir also has been investigated as a treatment for Ebola virus disease in people.",
+		"entities": [
+			[
+				"Remdesivir",
+				0,
+				10,
+				"MED"
+			],
+			[
+				"Ebola virus disease",
+				57,
+				76,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "the bat coronavirus sequence that Shi Zheng-Li's team highlighted, dubbed RaTG13, differs from 2019-nCoV by nearly 1100 nucleotides.",
+		"entities": [
+			[
+				"bat coronavirus",
+				4,
+				19,
+				"MED"
+			],
+			[
+				"Shi Zheng-Li",
+				34,
+				46,
+				"PERSON"
+			],
+			[
+				"RaTG13",
+				74,
+				80,
+				"MED"
+			],
+			[
+				"2019-nCoV",
+				95,
+				104,
+				"MED"
+			],
+			[
+				"nucleotides",
+				120,
+				131,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Bedford's analyses of RaTG13 and 2019-nCoV suggest that the two viruses shared a common ancestor",
+		"entities": [
+			[
+				"Bedford",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"RaTG13",
+				22,
+				28,
+				"MED"
+			],
+			[
+				"2019-nCoV",
+				33,
+				42,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "can give you the quick cliff notes summary. Best, Bruce",
+		"entities": [
+			[
+				"Bruce",
+				50,
+				55,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Please reach out with any questions. Best, Loretta From: Fine, Amanda (NIH/OD) [E]",
+		"entities": [
+			[
+				"Loretta",
+				43,
+				50,
+				"PERSON"
+			],
+			[
+				"Fine, Amanda",
+				57,
+				69,
+				"PERSON"
+			],
+			[
+				"NIH/OD",
+				71,
+				77,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Cc: Billet, Courtney (NIH/NIAID) [E]",
+		"entities": [
+			[
+				"Billet, Courtney",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				22,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Best, Kathy Kathy Stover Branch Chief News and Science Writing Branch National Institute of Allergy and Infectious Diseases (NIAID)",
+		"entities": [
+			[
+				"Kathy",
+				6,
+				11,
+				"PERSON"
+			],
+			[
+				"Kathy Stover",
+				12,
+				24,
+				"PERSON"
+			],
+			[
+				"Branch Chief",
+				25,
+				37,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				70,
+				123,
+				"ORG"
+			],
+			[
+				"NIAID",
+				125,
+				130,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Stover, Kathy (NIH/NIAID) [E] [me)>",
+		"entities": [
+			[
+				"Stover, Kathy",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				15,
+				24,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Canada https://www.japantimes.co.jp/news/2020/02/18/national/science- health/canada-diamond-princess-covid19/ Global Affairs Canada had confirmed that 32 out of 256 Canadians on the ship had tested positive.",
+		"entities": [
+			[
+				"Canada",
+				0,
+				6,
+				"LOC"
+			],
+			[
+				"https://www.japantimes.co.jp/news/2020/02/18/national/science- health/canada-diamond-princess-covid19/",
+				7,
+				109,
+				"URL"
+			],
+			[
+				"Canada",
+				125,
+				131,
+				"GPE"
+			],
+			[
+				"Canadians",
+				165,
+				174,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "NIH-001500 Australian cruise passengers arrive to Darwin after Diamond Princess virus outbreak ordeal",
+		"entities": [
+			[
+				"Australian",
+				11,
+				21,
+				"NORP"
+			],
+			[
+				"Darwin",
+				50,
+				56,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "completed « Bernie and Sid Radio Show — NYC",
+		"entities": [
+			[
+				"Bernie and Sid Radio Show",
+				13,
+				38,
+				"ORG"
+			],
+			[
+				"NYC",
+				41,
+				44,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "- ey Erbelding, Emily (NIH/NIAID) [E]_>",
+		"entities": [
+			[
+				"Erbelding, Emily",
+				5,
+				21,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				23,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Surfactant Protein-D against coronavirus",
+		"entities": [
+			[
+				"Surfactant Protein-D",
+				0,
+				20,
+				"MED"
+			],
+			[
+				"coronavirus",
+				29,
+				40,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "There are data indicating that SP-D clears coronavirus (https://www .ncbi.nlm.nih.gov/pubmed/19439011 ).",
+		"entities": [
+			[
+				"SP-D",
+				31,
+				35,
+				"MED"
+			],
+			[
+				"coronavirus",
+				43,
+				54,
+				"MED"
+			],
+			[
+				"https://www .ncbi.nlm.nih.gov/pubmed/19439011",
+				56,
+				101,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Best regards, Marc Salzberg Airway Therapeutics, Inc.",
+		"entities": [
+			[
+				"Marc Salzberg",
+				14,
+				27,
+				"PERSON"
+			],
+			[
+				"Airway Therapeutics, Inc.",
+				28,
+				53,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Lane, Cliff (NIH/NIAID) [E100 0 ®®>",
+		"entities": [
+			[
+				"Lane, Cliff",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				13,
+				22,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "have not seen any data where people took sera from patients with nCoV and checked if it neutralized SARS and vice versa. Best, Tony",
+		"entities": [
+			[
+				"nCoV",
+				65,
+				69,
+				"MED"
+			],
+			[
+				"SARS",
+				100,
+				104,
+				"MED"
+			],
+			[
+				"Tony",
+				127,
+				131,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "information concerning this treatment. Best, Michael M. Matin Chairman & CEO HDL Therapeutics, Inc.",
+		"entities": [
+			[
+				"Michael M. Matin",
+				45,
+				61,
+				"PERSON"
+			],
+			[
+				"Chairman",
+				62,
+				70,
+				"TITLE"
+			],
+			[
+				"CEO",
+				73,
+				76,
+				"TITLE"
+			],
+			[
+				"HDL Therapeutics, Inc.",
+				77,
+				99,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Hey Dr Fauci, Am",
+		"entities": [
+			[
+				"Dr Fauci",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	}
+]

@@ -1,0 +1,6083 @@
+[
+	{
+		"content": "['At the 90th meeting of the Council on Foreign Economic Policy on June 5, the Council reached a consensus that \"the Administration should not go forward at this time with a request to the Congress to renew the Sugar Act, but that the matter would be subject to reconsideration by the CFEP within the next 30-60 days if conditions warranted.",
+		"entities": [
+			[
+				"Council on Foreign Economic Policy",
+				29,
+				63,
+				"ORG"
+			],
+			[
+				"June 5",
+				67,
+				73,
+				"DATE"
+			],
+			[
+				"Council",
+				79,
+				86,
+				"ORG"
+			],
+			[
+				"Administration",
+				117,
+				131,
+				"GPE"
+			],
+			[
+				"Congress",
+				189,
+				197,
+				"ORG"
+			],
+			[
+				"Sugar Act",
+				211,
+				220,
+				"LAW"
+			],
+			[
+				"CFEP",
+				285,
+				289,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "\" The meeting, which was presided over by the Council's Chairman, Clarence B. Randall, Special Assistant to the President, was held in the Executive Office Building and was attended by, among others, Under Secretary of State C. Douglas Dillon and Under Secretary of Agriculture True D. Morse.",
+		"entities": [
+			[
+				"Council",
+				46,
+				53,
+				"ORG"
+			],
+			[
+				"Chairman",
+				56,
+				64,
+				"TITLE"
+			],
+			[
+				"Clarence B. Randall",
+				66,
+				85,
+				"PERSON"
+			],
+			[
+				"Special Assistant to the President",
+				87,
+				121,
+				"TITLE"
+			],
+			[
+				"Executive Office Building",
+				139,
+				164,
+				"FAC"
+			],
+			[
+				"Under Secretary of State",
+				200,
+				224,
+				"TITLE"
+			],
+			[
+				"C. Douglas Dillon",
+				225,
+				242,
+				"PERSON"
+			],
+			[
+				"Under Secretary of Agriculture",
+				247,
+				277,
+				"TITLE"
+			],
+			[
+				"True D. Morse",
+				278,
+				291,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "(Minutes of the 90th Meeting; Eisenhower Library, CFEP Records)",
+		"entities": [
+			[
+				"Eisenhower Library",
+				30,
+				48,
+				"FAC"
+			],
+			[
+				"CFEP",
+				50,
+				54,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "A briefing paper prepared by the Department of Agriculture, dated June 3 and designated CFEP 584/1, discussed that Department's recommendation that the Sugar Act should be extended at the current session of the Congress to give the growers sufficient time to plan their operations and also because it would be more difficult to secure passage of an appropriate act during the subsequent election year.",
+		"entities": [
+			[
+				"Department of Agriculture",
+				33,
+				58,
+				"ORG"
+			],
+			[
+				"June 3",
+				66,
+				72,
+				"DATE"
+			],
+			[
+				"CFEP",
+				88,
+				92,
+				"ORG"
+			],
+			[
+				"Department",
+				115,
+				125,
+				"ORG"
+			],
+			[
+				"Sugar Act",
+				152,
+				161,
+				"LAW"
+			],
+			[
+				"Congress",
+				211,
+				219,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(ibid.)",
+		"entities": []
+	},
+	{
+		"content": "In a memorandum to Dillon, June 4, Deputy Assistant Secretary of State for Economic Affairs W.T.M. Beale, Jr., discussed the Department of State's position that the Act should not be considered until the effect of the agrarian reform law on Cuban sugar producers was clarified.",
+		"entities": [
+			[
+				"Dillon",
+				19,
+				25,
+				"PERSON"
+			],
+			[
+				"June 4",
+				27,
+				33,
+				"DATE"
+			],
+			[
+				"Deputy Assistant Secretary of State for Economic Affairs",
+				35,
+				91,
+				"TITLE"
+			],
+			[
+				"W.T.M. Beale, Jr.",
+				92,
+				109,
+				"PERSON"
+			],
+			[
+				"Department of State",
+				125,
+				144,
+				"ORG"
+			],
+			[
+				"Cuban",
+				241,
+				246,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Beale wrote that the following considerations supported postponement of consideration of the Act until early in 1960: \"a) It is still too early to evaluate accurately the impact of all the measures the Castro regime may undertake. \"",
+		"entities": [
+			[
+				"Beale",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"1960",
+				112,
+				116,
+				"DATE"
+			],
+			[
+				"Castro",
+				202,
+				208,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "(i)",
+		"entities": []
+	},
+	{
+		"content": "We should seek to avoid any action which could be interpreted in Cuba and throughout Latin America as indicating United States approval of the steps taken in Cuba. \"",
+		"entities": [
+			[
+				"Cuba",
+				65,
+				69,
+				"LOC"
+			],
+			[
+				"Latin America",
+				85,
+				98,
+				"LOC"
+			],
+			[
+				"United States",
+				113,
+				126,
+				"GPE"
+			],
+			[
+				"Cuba",
+				158,
+				162,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "(ii)",
+		"entities": []
+	},
+	{
+		"content": "We should also seek to avoid the situation in which domestic sugar groups or foreign countries might exploit the present uncertain situation as regards Cuba to push through legislation which would worsen Cuba's present position, or which would contain provisions which Castro would interpret as a threat of U.S. intervention. \"",
+		"entities": [
+			[
+				"Cuba",
+				152,
+				156,
+				"GPE"
+			],
+			[
+				"Cuba",
+				204,
+				208,
+				"GPE"
+			],
+			[
+				"Castro",
+				269,
+				275,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				307,
+				311,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "b)",
+		"entities": []
+	},
+	{
+		"content": "It can be anticipated that there would be a sharp domestic reaction to any action which appeared not to take cognizance of the actions of a Government which had just threatened to expropriate American property in several fields without adequate compensation.",
+		"entities": [
+			[
+				"American",
+				192,
+				200,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The effect on U.S. investors who might be contemplating investment abroad should also be considered.\"",
+		"entities": [
+			[
+				"U.S.",
+				14,
+				18,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "(Department of State, CCA Files: Lot 70 D 149)']",
+		"entities": [
+			[
+				"Department of State",
+				1,
+				20,
+				"ORG"
+			],
+			[
+				"CCA",
+				22,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['I, Nickolas A. Grebnitsky, Russian military chief of the Commander Islands district, with the rank of colonel, make the following statement: I have been residing on the Commander Islands, and have directed all sealing operations there for the last fifteen years, and during this whole period have been absent from the islands but very little.",
+		"entities": [
+			[
+				"Nickolas A. Grebnitsky",
+				5,
+				27,
+				"PERSON"
+			],
+			[
+				"Russian",
+				29,
+				36,
+				"NORP"
+			],
+			[
+				"military chief of the Commander Islands district",
+				37,
+				85,
+				"TITLE"
+			],
+			[
+				"Commander Islands",
+				171,
+				188,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I have carefully observed seal life, the condition of the rookeries, and the method of taking seals at all seasons and under all conditions, with the object of keeping the Russian Government thoroughly informed as to its sealing interests, and the proper management of same.",
+		"entities": [
+			[
+				"Russian Government",
+				172,
+				190,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "While I have never had an opportunity to examine the Pribilof Islands seals, yet I do not hesitate to express the opinion that that herd and the Commander Islands herd are distinct and do not mingle at all.",
+		"entities": [
+			[
+				"Pribilof Islands",
+				53,
+				69,
+				"NORP"
+			],
+			[
+				"Commander Islands",
+				145,
+				162,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "There are some natives on the islands who are familiar with both, and who state that there is a marked difference in the animals.",
+		"entities": []
+	},
+	{
+		"content": "Besides, my studies as a naturalist enable me to state that it would be contrary to all reason to suppose that they mingle with one another.",
+		"entities": []
+	},
+	{
+		"content": "The Commander herd probably approaches very closely to the Robben herd in winter, and yet it does not mingle with it.",
+		"entities": [
+			[
+				"Commander",
+				4,
+				13,
+				"NORP"
+			],
+			[
+				"Robben",
+				59,
+				65,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Of this I am sure, for I have charge of Robben Island as well as of the Commander Islands, and know the skins of the two herds to be different.",
+		"entities": [
+			[
+				"Robben Island",
+				40,
+				53,
+				"LOC"
+			],
+			[
+				"Commander Islands",
+				72,
+				89,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The skin of the Commander seal is thicker, has coarser hair, is of a lighter color, and weighs about 20 per cent more than a Robben skin of the same size.",
+		"entities": [
+			[
+				"Commander",
+				16,
+				25,
+				"NORP"
+			],
+			[
+				"Robben",
+				125,
+				131,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It is wholly improbable that the seals of the Commander herd visit any land other than the Commander Islands.",
+		"entities": [
+			[
+				"Commander",
+				46,
+				55,
+				"NORP"
+			],
+			[
+				"Commander Islands",
+				91,
+				108,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I believe they regard these as their home, these islands being peculiarly adapted to their needs at the period of bringing forth their young, and of breeding.",
+		"entities": []
+	},
+	{
+		"content": "The fact that the Robben Island herd still frequents Robben Island, to the exclusion of any other land, notwithstanding it has been subjected there to the utmost persecution, shows to my mind conclusively that the presence of man will not prevent a seal herd from returning to the same land year after year.",
+		"entities": [
+			[
+				"Robben Island",
+				18,
+				31,
+				"NORP"
+			],
+			[
+				"Robben Island",
+				53,
+				66,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Even if isolated instances have occurred (I know of none) in which, for various causes, a few of the Commander Island seals reached other shores, such exceptions would not disprove the general rule above stated.",
+		"entities": [
+			[
+				"Commander Island",
+				101,
+				117,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I can readily understand that a female which had been wounded in the water might be obliged to seek the nearest land and there give birth to her pup.",
+		"entities": []
+	},
+	{
+		"content": "Annually at almost stated periods they arrive at the islands, and immediately proceed to occupy the same grounds which have been occupied during past years, in a way which makes it impossible to doubt that they are familiar with the locality.",
+		"entities": []
+	},
+	{
+		"content": "I believe that at some time during the year every seal comes ashore.",
+		"entities": []
+	},
+	{
+		"content": "There is no reason to believe that a certain number of any class remain swimming about in the neighborhood of the islands all summer without landing, although there is considerabe difference in the time at which different classes arrive.",
+		"entities": []
+	},
+	{
+		"content": "Soon after landing at the Commander Islands those cows which were fertilized the year previous give birth to their young.",
+		"entities": [
+			[
+				"Commander Islands",
+				26,
+				43,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "A cow does not, except in very rare instances, give birth to more than one pup in a season.",
+		"entities": []
+	},
+	{
+		"content": "The birth of pups can only take place on shore.",
+		"entities": []
+	},
+	{
+		"content": "Cows never arrive at the islands with new-born pups.",
+		"entities": []
+	},
+	{
+		"content": "But the impossibility of birth in the water is best proved by the fact that the pup when first born is purely a land animal in all its habits.",
+		"entities": []
+	},
+	{
+		"content": "It does not voluntarily approach the water till it is several weeks old, and then it is obliged to learn to swim.",
+		"entities": []
+	},
+	{
+		"content": "A surf will sometimes wash the young pups off the rocks, when they are sure to be drowned.",
+		"entities": []
+	},
+	{
+		"content": "The pups can not swim at birth, but must be taught by their mothers.",
+		"entities": []
+	},
+	{
+		"content": "A pup would drown if thrown into the sea before learning to swim.",
+		"entities": []
+	},
+	{
+		"content": "Copulation in the water I believe to be impossible, for the act is violent, of long duration, and in general character similar to that performed by land animals.",
+		"entities": []
+	},
+	{
+		"content": "I believe that the seals leave the vicinity of the islands mainly on account of the severity of the winter.",
+		"entities": []
+	},
+	{
+		"content": "Of course I do not mean to say that they would remain on shore all the year round, as many of them do throughout most of the summer, for they would be obliged to take to the water to obtain food.",
+		"entities": []
+	},
+	{
+		"content": "What I mean is that they would not go so far away as they now do, but would remain around the islands, and thus give additional proof of the unquestionable fact that they regard them as their home.",
+		"entities": []
+	},
+	{
+		"content": "I base this statement upon the fact that during mild winters I have myself seen them in large numbers off the Commander Islands and the Kamchatka coast.",
+		"entities": [
+			[
+				"Commander Islands",
+				110,
+				127,
+				"LOC"
+			],
+			[
+				"Kamchatka",
+				136,
+				145,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This would be in accord with the habits of the seals of the Southern Hemisphere, which, I am informed, are found in the same locality more or less at all seasons.",
+		"entities": [
+			[
+				"Southern Hemisphere",
+				60,
+				79,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The seals generally leave the Commander Islands by the middle of November, by which time it has become cold and stormy; but in mild winters they have been on the islands as late as December.",
+		"entities": [
+			[
+				"Commander Islands",
+				30,
+				47,
+				"LOC"
+			],
+			[
+				"November",
+				65,
+				73,
+				"DATE"
+			],
+			[
+				"December",
+				181,
+				189,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I do not think that fur seals should be classed with wild animals any more than sheep or cattle, when out on large pasturing grounds.",
+		"entities": []
+	},
+	{
+		"content": "Seals, unless needlessly frightened, become more or less accustomed to the sight of man among them on the rookeries, and while on land are at all times under his complete control.",
+		"entities": []
+	},
+	{
+		"content": "A few men can drive a large number of them without difficulty.",
+		"entities": []
+	},
+	{
+		"content": "They are intelligent to very high degree, and can be made to become in a short time pets.",
+		"entities": []
+	},
+	{
+		"content": "The breeding males or bulls are alone aggressive.",
+		"entities": []
+	},
+	{
+		"content": "Seals are polygamous, and the powers of fertilization of the male are very great.",
+		"entities": []
+	},
+	{
+		"content": "Since the births are about equally distributed between males and females, it follows that under natural conditions there would be a great excess of male life over that actually needed for the propagation of the species; and it is, as in the case of so many other animals, for the positive benefit of the herd as a whole that a portion of this excess of male life be killed off before it is of sufficient age to go on the rookeries.",
+		"entities": []
+	},
+	{
+		"content": "If not killed off the competition by the bulls upon the rookeries for females would be destructive of much life.",
+		"entities": []
+	},
+	{
+		"content": "This competition is already fierce enough.",
+		"entities": []
+	},
+	{
+		"content": "During some of the years prior to the time of my arrival on the islands there had been considerable indiscriminate killing of seals, without regard to age or sex.",
+		"entities": []
+	},
+	{
+		"content": "But during the fifteen years of my management of the Commander Islands rookeries all seals which have been killed constituted a portion of the excess of males above referred to, and known as \"bachelors\" or \"hollus-chiechie.",
+		"entities": [
+			[
+				"Commander Islands",
+				53,
+				70,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "This is why the rookeries are to-day in a much better condition than when I first went to the Commander Islands, notwithstanding that until the year 1891 a gradually increasing number of large skins had been taken.",
+		"entities": [
+			[
+				"Commander Islands",
+				94,
+				111,
+				"LOC"
+			],
+			[
+				"1891",
+				149,
+				153,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "From 1886 to 1890 the average annual catch was about 50,000, the skins all being large ones.",
+		"entities": [
+			[
+				"1886",
+				5,
+				9,
+				"DATE"
+			],
+			[
+				"1890",
+				13,
+				17,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The last two years I have reduced the catches, because I now think 50,000 skins somewhat in excess of what the rookeries can yield, and for other causes which I will mention later.",
+		"entities": []
+	},
+	{
+		"content": "I feel very sure that the great cause of this diminution is pelagic sealing.",
+		"entities": []
+	},
+	{
+		"content": "This year I have counted over 3,500 skins seized in poaching vessels, and have found 96 per cent to be skins of females.",
+		"entities": []
+	},
+	{
+		"content": "These were skins taken from Commander Island seals.",
+		"entities": [
+			[
+				"Commander Island",
+				28,
+				44,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "As to skins taken near the Pribilof Islands, I counted the skins seized in the Rosa Olsen and found two-thirds of them were skins of females.",
+		"entities": [
+			[
+				"Pribilof Islands",
+				27,
+				43,
+				"LOC"
+			],
+			[
+				"Rosa Olsen",
+				79,
+				89,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "These were taken, as the log book of the Rosa Olsen shows, over 80 miles from shore.",
+		"entities": [
+			[
+				"Rosa Olsen",
+				41,
+				51,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "I consider it a false argument to say that the killing of a proper number of the excess of male life is bad, merely because it is an interference with the order of nature.",
+		"entities": []
+	},
+	{
+		"content": "If not interfered with, nature will produce an overpopulation of the rookeries, which would of course be a bad thing.",
+		"entities": []
+	},
+	{
+		"content": "By the present mode of killing a certain number of young males, population is regulated.",
+		"entities": []
+	},
+	{
+		"content": "No facts can be brought forward to show that this method is not the right one.",
+		"entities": []
+	},
+	{
+		"content": "Past experience shows that it is right.",
+		"entities": []
+	},
+	{
+		"content": "The method is not proved to be bad by showing that during some years too many males may have been killed and the rookeries have thereby suffered.",
+		"entities": []
+	},
+	{
+		"content": "When such mistakes have been made they can be corrected by reducing the number of males to be killed for a few years, for the most absolute control can be exercised over the herd while it is on land.",
+		"entities": []
+	},
+	{
+		"content": "I claim that the method now pursued, when executed under proper regulation, is in theory and in practice the only one by which sealing can be carried on commercially without injuring the vitality of the herd and its ability to maintain its numbers at the proper limit.",
+		"entities": []
+	},
+	{
+		"content": "It does not cause the seals to change their habits in any way, and I do not believe that even an excessive killing would have the effect of altering the habits of the female seals with regard to landing and cause them to remain about the islands instead of coming ashore.",
+		"entities": []
+	},
+	{
+		"content": "Cows, except perhaps rare cases of accident or for scientific purposes, are never allowed to be killed on the islands, and the reason for this is that all cows are needed for breeding purposes.",
+		"entities": []
+	},
+	{
+		"content": "To kill, therefore, any cow except a barren one (and there are few barren ones except among the very old cows) inflicts a much greater injury on the herd than the loss of a single life.",
+		"entities": []
+	},
+	{
+		"content": "It is not true that because it is proper to kill a certain number of males, it is also proper to kill a certain number of females.",
+		"entities": []
+	},
+	{
+		"content": "But, assuming that it might at some time become desirable to kill some females, it would still be wholly improper to kill them without regard to size or condition, as is the case when they are killed in the water.",
+		"entities": []
+	},
+	{
+		"content": "There is at the present time upon the Commander Islands an abundance of female life for breeding purposes, and there is no fear that any female will not be served through a lack of virile males.",
+		"entities": [
+			[
+				"Commander Islands",
+				38,
+				55,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "On the other hand, it is undoubtedly true that there were in 1892 relatively fewer females than in former years, and I attribute this to two causes: First, to killing of seals in the water; and second, to raids upon the islands.",
+		"entities": [
+			[
+				"1892",
+				61,
+				65,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The first of these causes is by far the most important.",
+		"entities": []
+	},
+	{
+		"content": "These raids upon the islands have, owing to the great amount of foggy weather, taken place to a certain extent, notwithstanding the greatest precautions to guard against them.",
+		"entities": []
+	},
+	{
+		"content": "The raiders kill males, females, and pups without discrimination.",
+		"entities": []
+	},
+	{
+		"content": "But however injuriously the raids have affected the rookeries, still they are of much less importance than the killing of Commander Island seals in the water.",
+		"entities": [
+			[
+				"Commander Island",
+				122,
+				138,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "During the past two summers, and especially during the last one, this killing in the water has become so great that if allowed to continue in future years the herd will be in danger of ultimate extinction.",
+		"entities": []
+	},
+	{
+		"content": "I do riot know exactly how wasteful this method may be, from the fact that all the animals wounded or killed are not captured, though I am told that much loss occurs in that way, and I know that under certain conditions a seal shot dead will sink at once.",
+		"entities": []
+	},
+	{
+		"content": "I can state positively, however, from actual experience and personal examination, that a vast proportion--fully 96 per cent--of the skins taken by this method during the present year are those of female animals.",
+		"entities": []
+	},
+	{
+		"content": "In addition a certain number of the skins are those of very young seals, probably of both sexes, such as are never killed on land.",
+		"entities": []
+	},
+	{
+		"content": "Very few of the females killed are barren, no matter when or where they are killed.",
+		"entities": []
+	},
+	{
+		"content": "Females taken early in the season are generally heavy with young, in which condition they travel slowly as compared with the other seals.",
+		"entities": []
+	},
+	{
+		"content": "The killing of such a female involves, of course, the immediate loss of two lives.",
+		"entities": []
+	},
+	{
+		"content": "But even when the female is taken after she has been on shore and given birth to her young, this same result follows eventually.",
+		"entities": []
+	},
+	{
+		"content": "For a seat will suckle only her own pup, and the pups are for the first three to five months dependent altogether on their mothers for food.",
+		"entities": []
+	},
+	{
+		"content": "Consequently when the mothers, who after the birth of their pups leave the rookeries in search of food (traveling sometimes considerable distances, I do not know exactly how far), fail to return their pups must necessarily die.",
+		"entities": []
+	},
+	{
+		"content": "There are always a few dead pups to be found on the rookeries whose death is not due to that of their mothers; but during the last year or two a greater number of dead pups have been actually noticed than heretofore and have attracted the attention of all persons on the islands who are at all familiar with seal life.",
+		"entities": []
+	},
+	{
+		"content": "It can not be successfully contended that they all died of natural causes.",
+		"entities": []
+	},
+	{
+		"content": "There is no disease among the Commander Island seals, and while a certain number of young pups are always exposed to the danger of being crushed to death (but not as a result of the drives which are made to collect the seals for killing) or of being drowned by the surf, yet these causes of death will not account for the greater mortality of pups which took place during the past summer.",
+		"entities": [
+			[
+				"Commander Island",
+				30,
+				46,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Besides, the bodies of the dead pups I refer to are those of starved animals, being greatly emaciated.",
+		"entities": []
+	},
+	{
+		"content": "It is chiefly during the next few years that the effects of the recent killing of females will become most noticeable, because many of the pups which in those years would have become bachelors or \"holluschiekie\" have never been born, or died soon after birth.",
+		"entities": []
+	},
+	{
+		"content": "With regard to the driving of the seals from the beaches to the places of slaughter, while it does not benefit them, yet I believe that there are very few cases in which it does them any harm, even if they are redriven.",
+		"entities": []
+	},
+	{
+		"content": "I am sure it does not render them impotent.",
+		"entities": []
+	},
+	{
+		"content": "It should be remembered that, unlike the hair seal, they are fairly well adapted to movements on land, as is proved by the fact that they are in some cases actually driven considerable distances over ground that is both rough and steep.",
+		"entities": []
+	},
+	{
+		"content": "Since the killing of seals in the water is wasteful and in every sense contrary to the laws of nature (which require that special protection be afforded to the females and young of all animals), I am of the opinion that it should be entirely forbidden.",
+		"entities": []
+	},
+	{
+		"content": "If it is only partly suppressed or prohibited within a certain distance from the islands the evil would not be cured, although its effects might be less noticeable, for the killing of females, many of them heavy with young, would necessarily continue, since all experience shows that female animals always constitute the chief catch of the open-sea seals.']",
+		"entities": []
+	},
+	{
+		"content": "['62792.",
+		"entities": []
+	},
+	{
+		"content": "Subject: CENTO and Military Supply Policy.",
+		"entities": [
+			[
+				"CENTO",
+				9,
+				14,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Ref: Rawalpindi 3982 (Notal) and 4048.",
+		"entities": [
+			[
+				"Rawalpindi",
+				5,
+				15,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In past several weeks we here have done considerable soul searching over future of CENTO, including helpful discussions with you last month based in part on NEA's \"Contingency Study on Pakistan and the Alliances,\" copy of which had previously been pouched to you.",
+		"entities": [
+			[
+				"CENTO",
+				83,
+				88,
+				"ORG"
+			],
+			[
+				"NEA",
+				157,
+				160,
+				"ORG"
+			],
+			[
+				"Pakistan",
+				185,
+				193,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "At CENTO Ministerial meeting in Tehran we envisage our principal objective as signifying our continuing deep interest in future of our relations with regional countries (and particularly Turkey and Iran).",
+		"entities": [
+			[
+				"CENTO",
+				3,
+				8,
+				"ORG"
+			],
+			[
+				"Tehran",
+				32,
+				38,
+				"LOC"
+			],
+			[
+				"Turkey",
+				187,
+				193,
+				"GPE"
+			],
+			[
+				"Iran",
+				198,
+				202,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Foresee collateral objective as \"holding action\" on CENTO itself while we reassess its future.",
+		"entities": [
+			[
+				"CENTO",
+				52,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We would hope get clearer idea of value that regional members and UK attach to CENTO and what changes (including possibly dismantling) they might desire or be prepared to accept.",
+		"entities": [
+			[
+				"UK",
+				66,
+				68,
+				"GPE"
+			],
+			[
+				"CENTO",
+				79,
+				84,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(Copy of our \"Objectives\" paper for Tehran meeting, as approved by Secretary, being airpouched all addressees.)",
+		"entities": [
+			[
+				"Tehran",
+				36,
+				42,
+				"LOC"
+			],
+			[
+				"Secretary",
+				67,
+				76,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We do not wish our interest to be misinterpreted and wish avoid any action in interim which might prejudice Secretary's private discussions with other Council members at Tehran.",
+		"entities": [
+			[
+				"Secretary",
+				108,
+				117,
+				"PERSON"
+			],
+			[
+				"Council",
+				151,
+				158,
+				"ORG"
+			],
+			[
+				"Tehran",
+				170,
+				176,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Your views on need to reassess CENTO's future (reftels and as expressed during your recent consultation here) are not inconsistent with Dept's current thinking.",
+		"entities": [
+			[
+				"CENTO",
+				31,
+				36,
+				"ORG"
+			],
+			[
+				"Dept",
+				136,
+				140,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We have no illusions about Pakistanis dim view of CENTO.",
+		"entities": [
+			[
+				"Pakistanis",
+				27,
+				37,
+				"GPE"
+			],
+			[
+				"CENTO",
+				50,
+				55,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Basic fact is that decision whether they stay in or get out is up to them.",
+		"entities": []
+	},
+	{
+		"content": "We have not lifted a finger to oppose Pakistan's withdrawal from military exercises, its decision not to be represented by a Minister at annual Council meeting and other actions to downgrade its membership in Pact.",
+		"entities": [
+			[
+				"Pakistan",
+				38,
+				46,
+				"GPE"
+			],
+			[
+				"Minister",
+				125,
+				133,
+				"TITLE"
+			],
+			[
+				"Council",
+				144,
+				151,
+				"ORG"
+			],
+			[
+				"Pact",
+				209,
+				213,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We intend no pressure on Pakistan to maintain even its minimal participation in CENTO.",
+		"entities": [
+			[
+				"Pakistan",
+				25,
+				33,
+				"GPE"
+			],
+			[
+				"CENTO",
+				80,
+				85,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Agree with you that any decision on modifying CENTO will have to be weighed in close consultation with our friends.",
+		"entities": [
+			[
+				"CENTO",
+				46,
+				51,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Views of Turkey and Iran, as well as UK, will have to be taken into careful account.",
+		"entities": [
+			[
+				"Turkey",
+				9,
+				15,
+				"GPE"
+			],
+			[
+				"Iran",
+				20,
+				24,
+				"GPE"
+			],
+			[
+				"UK",
+				37,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Seems to us question of Pakistan's continuing membership in CENTO need not be decisive in terms military sales policy for South Asia.",
+		"entities": [
+			[
+				"Pakistan",
+				24,
+				32,
+				"GPE"
+			],
+			[
+				"CENTO",
+				60,
+				65,
+				"ORG"
+			],
+			[
+				"South Asia",
+				122,
+				132,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "As you know, military sales policy now under review on its own merits in broad context our interest South Asia.",
+		"entities": [
+			[
+				"South Asia",
+				100,
+				110,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We appreciate your views on it as expressed Rawalpindi 3842.",
+		"entities": [
+			[
+				"Rawalpindi",
+				44,
+				54,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Rogers']",
+		"entities": [
+			[
+				"Rogers",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['On July 26, 1956, during a broadcast address delivered from Alexandria, Egyptian President Gamal Abdel Nasser announced that he had signed into law a presidential decree nationalizing the Compagnie Universelle du Canal Maritime de Suez (henceforth referred to as the Suez Canal Company), effective immediately, and that while he spoke, Egyptian officials were taking over the administration and management of the Company.",
+		"entities": [
+			[
+				"July 26, 1956",
+				5,
+				18,
+				"DATE"
+			],
+			[
+				"Alexandria",
+				62,
+				72,
+				"LOC"
+			],
+			[
+				"Egyptian",
+				74,
+				82,
+				"GPE"
+			],
+			[
+				"President Gamal Abdel Nasser",
+				83,
+				111,
+				"PERSON"
+			],
+			[
+				"Compagnie Universelle du Canal Maritime de Suez",
+				190,
+				237,
+				"ORG"
+			],
+			[
+				"Suez Canal Company",
+				269,
+				287,
+				"ORG"
+			],
+			[
+				"Egyptian",
+				338,
+				346,
+				"NORP"
+			],
+			[
+				"Company",
+				415,
+				422,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The decree, which Nasser read, explained that an autonomous Egyptian agency, under the Ministry of Commerce, would operate the Canal, stipulated that all employees, under penalty of imprisonment, must continue to discharge their duties, and promised that all shareholders would be compensated according to the value of shares indicated at the close of business the previous day on the Paris Bourse.",
+		"entities": [
+			[
+				"Nasser",
+				18,
+				24,
+				"PERSON"
+			],
+			[
+				"Egyptian",
+				60,
+				68,
+				"GPE"
+			],
+			[
+				"Ministry of Commerce",
+				87,
+				107,
+				"ORG"
+			],
+			[
+				"Canal",
+				127,
+				132,
+				"FAC"
+			],
+			[
+				"Paris Bourse",
+				385,
+				397,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Nasser led up to this announcement by giving a long review of \"imperialistic efforts [to] thwart Egyptian independence\", and he particularly condemned past British actions and the United States refusal to finance the Aswan High Dam.",
+		"entities": [
+			[
+				"Nasser",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Egyptian",
+				97,
+				105,
+				"GPE"
+			],
+			[
+				"British",
+				156,
+				163,
+				"GPE"
+			],
+			[
+				"United States",
+				180,
+				193,
+				"GPE"
+			],
+			[
+				"Aswan High Dam",
+				217,
+				231,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Revenue gained from the Canal Company nationalization, Nasser explained, would enable Egypt to build the High Dam without American aid.",
+		"entities": [
+			[
+				"Canal Company",
+				24,
+				37,
+				"ORG"
+			],
+			[
+				"Nasser",
+				55,
+				61,
+				"PERSON"
+			],
+			[
+				"Egypt",
+				86,
+				91,
+				"GPE"
+			],
+			[
+				"High Dam",
+				105,
+				113,
+				"FAC"
+			],
+			[
+				"American",
+				122,
+				130,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An English translation of the Nationalization Decree, contained in despatch 188 from Cairo, September 5 (Department of State Central Files, 974.7301/9-556), and an extract from Nasser's speech, taken from an English translation of the complete text contained in despatch 97 from Cairo, July 31 (ibid., 774.00/7-3156) are reprinted in The Suez Canal Problem, July 26-September 22, 1956 (Washington: Government Printing Office, 1956), pages 25-32.",
+		"entities": [
+			[
+				"English",
+				3,
+				10,
+				"NORP"
+			],
+			[
+				"Nationalization Decree",
+				30,
+				52,
+				"LAW"
+			],
+			[
+				"Cairo",
+				85,
+				90,
+				"LOC"
+			],
+			[
+				"September 5",
+				92,
+				103,
+				"DATE"
+			],
+			[
+				"Department of State Central Files",
+				105,
+				138,
+				"WORK_OF_ART"
+			],
+			[
+				"Nasser",
+				177,
+				183,
+				"PERSON"
+			],
+			[
+				"English",
+				208,
+				215,
+				"NORP"
+			],
+			[
+				"Cairo",
+				279,
+				284,
+				"GPE"
+			],
+			[
+				"July 31",
+				286,
+				293,
+				"DATE"
+			],
+			[
+				"The Suez Canal Problem, July 26-September 22, 1956",
+				334,
+				384,
+				"WORK_OF_ART"
+			],
+			[
+				"Washington",
+				386,
+				396,
+				"LOC"
+			],
+			[
+				"Government Printing Office",
+				398,
+				424,
+				"ORG"
+			],
+			[
+				"1956",
+				426,
+				430,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Embassy in Cairo forwarded news of the nationalization to the Department of State on July 26 in telegram 146, printed in volume XV, page 906.",
+		"entities": [
+			[
+				"Embassy",
+				4,
+				11,
+				"ORG"
+			],
+			[
+				"Cairo",
+				15,
+				20,
+				"LOC"
+			],
+			[
+				"Department of State",
+				66,
+				85,
+				"ORG"
+			],
+			[
+				"July 26",
+				89,
+				96,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Arrangements made by the Egyptian Government with French engineer Ferdinand de Lessups during the nineteenth century provided the legal basis for the Company's existence as an Egyptian joint stock company.",
+		"entities": [
+			[
+				"Egyptian Government",
+				25,
+				44,
+				"GPE"
+			],
+			[
+				"French",
+				50,
+				56,
+				"NORP"
+			],
+			[
+				"Ferdinand de Lessups",
+				66,
+				86,
+				"PERSON"
+			],
+			[
+				"Company",
+				150,
+				157,
+				"ORG"
+			],
+			[
+				"Egyptian",
+				176,
+				184,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The original concession for the construction and operation of the Suez Maritime Canal, dated November 30, 1854, and signed by the Viceroy of Egypt, Mohammed Said Pasha, authorized de Lessups to form a financing company for the construction and operation of the Suez Canal.",
+		"entities": [
+			[
+				"Suez Maritime Canal",
+				66,
+				85,
+				"FAC"
+			],
+			[
+				"November 30, 1854",
+				93,
+				110,
+				"DATE"
+			],
+			[
+				"Viceroy of Egypt",
+				130,
+				146,
+				"TITLE"
+			],
+			[
+				"Mohammed Said Pasha",
+				148,
+				167,
+				"PERSON"
+			],
+			[
+				"de Lessups",
+				180,
+				190,
+				"PERSON"
+			],
+			[
+				"Suez Canal",
+				261,
+				271,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "The definitive concession, signed by the Viceroy of Egypt on January 5, 1856 (which superseded the Concession of 1854), authorized the establishment, in the form of a corporation, of the Universal Company of the Suez Maritime Canal, listed the company's obligations and the concessions conferred upon it, authorized the cutting of the Canal, and provided that 15 percent of the profits would revert to the Egyptian Government.",
+		"entities": [
+			[
+				"Viceroy of Egypt",
+				41,
+				57,
+				"PERSON"
+			],
+			[
+				"January 5, 1856",
+				61,
+				76,
+				"DATE"
+			],
+			[
+				"Concession of 1854",
+				113,
+				117,
+				"LAW"
+			],
+			[
+				"Universal Company of the Suez Maritime Canal",
+				187,
+				231,
+				"ORG"
+			],
+			[
+				"Canal",
+				335,
+				340,
+				"FAC"
+			],
+			[
+				"Egyptian Government",
+				406,
+				425,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Article 16 of the definitive concession fixed the life of the company at 99 years, \"counting from the completion of the work and the opening of the maritime canal to large vessels.",
+		"entities": []
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "At the expiration of that period, the Egyptian Government could either resume possession of the Canal with fair value compensation paid to the company or it could extend the company concession for successive periods of 99 years with an increase in the percent of levy.",
+		"entities": [
+			[
+				"Egyptian Government",
+				38,
+				57,
+				"GPE"
+			],
+			[
+				"Canal",
+				96,
+				101,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "(The Canal was eventually opened to traffic in 1869, which set the concession's expiration date for 1968.)",
+		"entities": [
+			[
+				"Canal",
+				5,
+				10,
+				"FAC"
+			],
+			[
+				"1869",
+				47,
+				51,
+				"DATE"
+			],
+			[
+				"1968",
+				100,
+				104,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A subsequent convention between the Egyptian Government and the Suez Canal Company, signed by the Viceroy of Egypt Ismail Pasha and de Lessups on February 22, 1866 and sanctioned by the Imperial Firman on March 19, 1866, incorporated the 1854 and 1856 concessions by reference, delineated the relationship between the Egyptian Government and the Company, and established Egyptian jurisdiction over the Company and the Egyptian nationality of the Company.",
+		"entities": [
+			[
+				"Egyptian Government",
+				36,
+				55,
+				"GPE"
+			],
+			[
+				"Suez Canal Company",
+				64,
+				82,
+				"ORG"
+			],
+			[
+				"Viceroy of Egypt",
+				98,
+				114,
+				"TITLE"
+			],
+			[
+				"Ismail Pasha",
+				115,
+				127,
+				"PERSON"
+			],
+			[
+				"de Lessups",
+				132,
+				142,
+				"PERSON"
+			],
+			[
+				"February 22, 1866",
+				146,
+				163,
+				"DATE"
+			],
+			[
+				"Imperial Firman",
+				186,
+				201,
+				"PERSON"
+			],
+			[
+				"March 19, 1866",
+				205,
+				219,
+				"DATE"
+			],
+			[
+				"1854",
+				238,
+				242,
+				"DATE"
+			],
+			[
+				"1856",
+				247,
+				251,
+				"DATE"
+			],
+			[
+				"Egyptian Government",
+				318,
+				337,
+				"GPE"
+			],
+			[
+				"Company",
+				346,
+				353,
+				"ORG"
+			],
+			[
+				"Egyptian",
+				371,
+				379,
+				"GPE"
+			],
+			[
+				"Company",
+				402,
+				409,
+				"ORG"
+			],
+			[
+				"Egyptian",
+				418,
+				426,
+				"NORP"
+			],
+			[
+				"Company",
+				446,
+				453,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(The texts of these three documents respectively are printed in British and Foreign State Papers, 1864-1865, volume 55 (1870), pages 970-973 and 976-981 and volume 56 (1870), pages 277-283; and in The Suez Canal Problem, July 26-September 22, 1956, pages 1-20.)",
+		"entities": [
+			[
+				"British and Foreign State Papers, 1864-1865",
+				64,
+				107,
+				"WORK_OF_ART"
+			],
+			[
+				"1870",
+				120,
+				124,
+				"DATE"
+			],
+			[
+				"1870",
+				168,
+				172,
+				"DATE"
+			],
+			[
+				"The Suez Canal Problem, July 26-September 22, 1956",
+				197,
+				247,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "As for the Canal itself, the Constantinople Convention of 1888 as well as the definitive concession affirmed its international character.",
+		"entities": [
+			[
+				"Canal",
+				11,
+				16,
+				"FAC"
+			],
+			[
+				"Constantinople Convention of 1888",
+				29,
+				62,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The definitive concession guaranteed that the Canal and its ports \"shall be open forever, as neutral passages, to every merchant vessel crossing from one sea to the other\".",
+		"entities": [
+			[
+				"Canal",
+				46,
+				51,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Infringements of that guarantee, the desire to regulate the passage of warships, and other historical circumstances, caused the Governments of Great Britain, Austria-Hungary, France, Germany, Italy, the Netherlands, Russia, Spain and Turkey (Egypt being legally part of the Ottoman Empire) to sign a Convention at Constantinople on October 29, 1888 respecting the free navigation of the Suez Maritime Canal.",
+		"entities": [
+			[
+				"Great Britain",
+				143,
+				156,
+				"GPE"
+			],
+			[
+				"Austria-Hungary",
+				158,
+				173,
+				"GPE"
+			],
+			[
+				"France",
+				175,
+				181,
+				"GPE"
+			],
+			[
+				"Germany",
+				183,
+				190,
+				"GPE"
+			],
+			[
+				"Italy",
+				192,
+				197,
+				"GPE"
+			],
+			[
+				"Netherlands",
+				203,
+				214,
+				"GPE"
+			],
+			[
+				"Russia",
+				216,
+				222,
+				"GPE"
+			],
+			[
+				"Spain",
+				224,
+				229,
+				"GPE"
+			],
+			[
+				"Turkey",
+				234,
+				240,
+				"GPE"
+			],
+			[
+				"Egypt",
+				242,
+				247,
+				"GPE"
+			],
+			[
+				"Ottoman Empire",
+				274,
+				288,
+				"GPE"
+			],
+			[
+				"Constantinople",
+				314,
+				328,
+				"LOC"
+			],
+			[
+				"October 29, 1888",
+				332,
+				348,
+				"DATE"
+			],
+			[
+				"Suez Maritime Canal",
+				387,
+				406,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Article I of that Convention provided: \"The Suez Maritime Canal shall always be free and open, in time of war as in time of peace, to every vessel of commerce or of war, without distinction of flag.",
+		"entities": [
+			[
+				"Convention",
+				18,
+				28,
+				"LAW"
+			],
+			[
+				"Suez Maritime Canal",
+				44,
+				63,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "The Canal shall never be subject to the exercise of the right of blockade.\"",
+		"entities": [
+			[
+				"Canal",
+				4,
+				9,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "(The text of the Constantinople Convention of 1888 is printed in British and Foreign State Papers, 1887-1888, volume 79, pages 18-22, and in The Suez Canal Problem, July 26-September 22, 1956, pages 16-20.)']",
+		"entities": [
+			[
+				"Constantinople Convention of 1888",
+				17,
+				50,
+				"LAW"
+			],
+			[
+				"British and Foreign State Papers, 1887-1888",
+				65,
+				108,
+				"WORK_OF_ART"
+			],
+			[
+				"The Suez Canal Problem, July 26-September 22, 1956",
+				145,
+				191,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "[\"We have no very good idea of who is doing what to whom and why in Zaire.",
+		"entities": [
+			[
+				"Zaire",
+				68,
+				73,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We may be facing a major Cuban-Soviet-inspired test of wills designed to overthrow Mobutu and discredit us.",
+		"entities": [
+			[
+				"Cuban-Soviet",
+				25,
+				37,
+				"GPE"
+			],
+			[
+				"Mobutu",
+				83,
+				89,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "More likely, Neto is stoking the Katangan insurgency to discourage further Zairean support to Angolan insurgents and is playing by ear to see if even this small push might cause Mobutu's downfall.",
+		"entities": [
+			[
+				"Neto",
+				13,
+				17,
+				"PERSON"
+			],
+			[
+				"Katangan",
+				33,
+				41,
+				"NORP"
+			],
+			[
+				"Zairean",
+				75,
+				82,
+				"GPE"
+			],
+			[
+				"Angolan",
+				94,
+				101,
+				"NORP"
+			],
+			[
+				"Mobutu",
+				178,
+				184,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I cannot see that it is in our interest to prop Mobutu up beyond routine military re-supply if he is confronting a prolonged Katangan insurgency with limited outside support.",
+		"entities": [
+			[
+				"Mobutu",
+				48,
+				54,
+				"PERSON"
+			],
+			[
+				"Katangan",
+				125,
+				133,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "If he cannot handle it himself, he probably is not worth saving.",
+		"entities": []
+	},
+	{
+		"content": "If there is a large Angolan/Cuban involvement, we are in for a difficult time and will have to rethink much of our African policy.",
+		"entities": [
+			[
+				"Angolan/Cuban",
+				20,
+				33,
+				"GPE"
+			],
+			[
+				"African",
+				115,
+				122,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It seems unlikely, though, that Angola would get heavily involved, given their own insurgency problems.",
+		"entities": [
+			[
+				"Angola",
+				32,
+				38,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They know that we (not to mention the South Africans) could turn that pressure up considerably.",
+		"entities": [
+			[
+				"South Africans",
+				38,
+				52,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Even if there turns out to be a modest Cuban involvement, we are dealing here with an African problem that should be handled through African channels--the OAU if possible.",
+		"entities": [
+			[
+				"Cuban",
+				39,
+				44,
+				"GPE"
+			],
+			[
+				"African",
+				86,
+				93,
+				"NORP"
+			],
+			[
+				"African",
+				133,
+				140,
+				"NORP"
+			],
+			[
+				"OAU",
+				155,
+				158,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Our principal interest is to see that the Soviets--and we--play as minor a role as possible.",
+		"entities": [
+			[
+				"Soviets",
+				42,
+				49,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Most Africans share this perspective.",
+		"entities": [
+			[
+				"Africans",
+				5,
+				13,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "We have a long-term interest in the stability of Zaire and perhaps a short-term interest in supporting Mobutu.",
+		"entities": [
+			[
+				"Zaire",
+				49,
+				54,
+				"GPE"
+			],
+			[
+				"Mobutu",
+				103,
+				109,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Our credibility is not at stake, however.",
+		"entities": []
+	},
+	{
+		"content": "We bear no responsibility for whatever trouble Mobutu has gotten himself into.",
+		"entities": [
+			[
+				"Mobutu",
+				47,
+				53,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Short of major Cuban/Soviet involvement, there is no issue of principle involved for us.",
+		"entities": [
+			[
+				"Cuban/Soviet",
+				15,
+				27,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Our policy approach should therefore be along these lines: --Actions and statements should be very low key, playing down the idea of Soviet/Cuban involvement unless it becomes clear that they are deeply involved and present a serious threat.",
+		"entities": [
+			[
+				"Soviet/Cuban",
+				133,
+				145,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "--In talking to the Soviets and Cubans we should not throw down any gauntlets.",
+		"entities": [
+			[
+				"Soviets",
+				20,
+				27,
+				"GPE"
+			],
+			[
+				"Cubans",
+				32,
+				38,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We are on spongy ground with Mobutu and may not have the capability to win an all-out shoving match.",
+		"entities": [
+			[
+				"Mobutu",
+				29,
+				35,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "--We should encourage African mediation, recognizing that such an effort may not come out wholly to the liking of Mobutu.",
+		"entities": [
+			[
+				"African",
+				22,
+				29,
+				"NORP"
+			],
+			[
+				"Mobutu",
+				114,
+				120,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "That is his problem, not ours.",
+		"entities": []
+	},
+	{
+		"content": "--We should get these points across to Mobutu and support at the present level of threat should be limited to modest resupply.",
+		"entities": [
+			[
+				"Mobutu",
+				39,
+				45,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The actions we have taken thus far seem to be moving in the right direction.",
+		"entities": []
+	},
+	{
+		"content": "They should be strengthened, however, with a more explicit rationale, and monitored closely to ensure that they do not gain an independent momentum.\"]",
+		"entities": []
+	},
+	{
+		"content": "['top secretSCEM MIN-2, Part One Participants: France:",
+		"entities": [
+			[
+				"France",
+				47,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "M. Pinay M. Queuille M. Robert Schuman M. Pleven M. Letourneau M. Maurice Schumann M. Parodi M. de la Tournelle M. Gaillard M. Sauvagnargues U.K.: Mr. Eden Sir Oliver Harvey Sir Pierson Dixon Mr. Hayter Mr. Roberts Mr. Shuckburgh U.S.:",
+		"entities": [
+			[
+				"M. Pinay",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"M. Queuille",
+				9,
+				20,
+				"PERSON"
+			],
+			[
+				"M. Robert Schuman",
+				21,
+				38,
+				"PERSON"
+			],
+			[
+				"M. Pleven",
+				39,
+				48,
+				"PERSON"
+			],
+			[
+				"M. Letourneau",
+				49,
+				62,
+				"PERSON"
+			],
+			[
+				"M. Maurice Schumann",
+				63,
+				82,
+				"PERSON"
+			],
+			[
+				"M. Parodi",
+				83,
+				92,
+				"PERSON"
+			],
+			[
+				"M. de la Tournelle",
+				93,
+				111,
+				"PERSON"
+			],
+			[
+				"M. Gaillard",
+				112,
+				123,
+				"PERSON"
+			],
+			[
+				"M. Sauvagnargues",
+				124,
+				140,
+				"PERSON"
+			],
+			[
+				"U.K.",
+				141,
+				145,
+				"GPE"
+			],
+			[
+				"Eden",
+				151,
+				155,
+				"PERSON"
+			],
+			[
+				"Sir Oliver Harvey",
+				156,
+				173,
+				"PERSON"
+			],
+			[
+				"Sir Pierson Dixon",
+				174,
+				191,
+				"PERSON"
+			],
+			[
+				"Hayter",
+				196,
+				202,
+				"PERSON"
+			],
+			[
+				"Roberts",
+				207,
+				214,
+				"PERSON"
+			],
+			[
+				"Shuckburgh",
+				219,
+				229,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				230,
+				234,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Secretary Ambassador Dunn Ambassador Gifford Ambassador Jessup Mr. Perkins Mr. Achilles Mr. Knight Mr. Sprouse Miss Kirkpatrick Mr. Pinay: We welcome the foreign representatives and the French Government is happy to have an opportunity to study with them the problems under consideration.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Ambassador Dunn",
+				14,
+				29,
+				"PERSON"
+			],
+			[
+				"Ambassador Gifford",
+				30,
+				48,
+				"PERSON"
+			],
+			[
+				"Ambassador Jessup",
+				49,
+				66,
+				"PERSON"
+			],
+			[
+				"Perkins",
+				71,
+				78,
+				"PERSON"
+			],
+			[
+				"Achilles",
+				83,
+				91,
+				"PERSON"
+			],
+			[
+				"Knight",
+				96,
+				102,
+				"PERSON"
+			],
+			[
+				"Sprouse",
+				107,
+				114,
+				"PERSON"
+			],
+			[
+				"Miss Kirkpatrick",
+				115,
+				131,
+				"PERSON"
+			],
+			[
+				"Pinay",
+				136,
+				141,
+				"PERSON"
+			],
+			[
+				"French Government",
+				190,
+				207,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Schuman: It has been agreed to begin with the discussions of Indochinese and Far Eastern matters.",
+		"entities": [
+			[
+				"Schuman",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"Indochinese",
+				65,
+				76,
+				"NORP"
+			],
+			[
+				"Far Eastern",
+				81,
+				92,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "There are two problems relating to Indochina: (1) military and financial aid, which has been gone into previously, and (2) the general strategic problem, which should be examined now.",
+		"entities": [
+			[
+				"Indochina",
+				35,
+				44,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pinay: Former Prime Minister Faure raised at Lisbon the question: Do our Allies consider Indochina a specific French problem or an international problem?",
+		"entities": [
+			[
+				"Pinay",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Prime Minister Faure",
+				18,
+				38,
+				"PERSON"
+			],
+			[
+				"Lisbon",
+				49,
+				55,
+				"LOC"
+			],
+			[
+				"Indochina",
+				93,
+				102,
+				"LOC"
+			],
+			[
+				"French",
+				114,
+				120,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pleven: The policy expressed yesterday in the EDC treaty calls for a rapid increase of French military power.",
+		"entities": [
+			[
+				"Pleven",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"EDC treaty",
+				50,
+				60,
+				"LAW"
+			],
+			[
+				"French",
+				91,
+				97,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "What are the obstacles?",
+		"entities": []
+	},
+	{
+		"content": "The first is the size of the French effort in Indochina, which is not just for the protection of French interests but for the protection of a point of strategic importance in Southeast Asia.",
+		"entities": [
+			[
+				"French",
+				29,
+				35,
+				"GPE"
+			],
+			[
+				"Indochina",
+				46,
+				55,
+				"LOC"
+			],
+			[
+				"French",
+				97,
+				103,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				175,
+				189,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "A rapid increase in French military power also faces financial obstacles.",
+		"entities": [
+			[
+				"French",
+				20,
+				26,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "France can use only 2/3 of its military expenditures for European defense.",
+		"entities": [
+			[
+				"France",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"European",
+				57,
+				65,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "447 billion francs will be used this year in Indochina, leaving only 830 billion francs for Europe and North Africa.",
+		"entities": [
+			[
+				"Indochina",
+				45,
+				54,
+				"LOC"
+			],
+			[
+				"Europe",
+				92,
+				98,
+				"LOC"
+			],
+			[
+				"North Africa",
+				103,
+				115,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "France must build up more divisions.",
+		"entities": [
+			[
+				"France",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Manpower is no problem but there is the problem of cadres.",
+		"entities": []
+	},
+	{
+		"content": "8209 of our regular officers and more than 40,000 of our regular NCO's are in Indochina, thus immobilizing in Indochina 26% of our regular officers and 37% of our NCO's.",
+		"entities": [
+			[
+				"Indochina",
+				78,
+				87,
+				"LOC"
+			],
+			[
+				"Indochina",
+				110,
+				119,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "If Indochina were defended purely for French interests, it would not be worth the effort.",
+		"entities": [
+			[
+				"Indochina",
+				3,
+				12,
+				"LOC"
+			],
+			[
+				"French",
+				38,
+				44,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As is true of Korea, we are, however, defending an area of interest to the free world.",
+		"entities": [
+			[
+				"Korea",
+				14,
+				19,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "France has tried to find solutions.",
+		"entities": [
+			[
+				"France",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I discussed these matters with President Truman when I was in Washington and Marshal de Lattre also discussed them during his visit to Washington.",
+		"entities": [
+			[
+				"President Truman",
+				31,
+				47,
+				"PERSON"
+			],
+			[
+				"Washington",
+				62,
+				72,
+				"LOC"
+			],
+			[
+				"Marshal de Lattre",
+				77,
+				94,
+				"PERSON"
+			],
+			[
+				"Washington",
+				135,
+				145,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "If it is not possible to find a total solution, we have tried to find at least a partial solution by the creation of Vietnamese, Laotian and Cambodian national armies, with, of course, the help of the French army.",
+		"entities": [
+			[
+				"Vietnamese",
+				117,
+				127,
+				"NORP"
+			],
+			[
+				"Laotian",
+				129,
+				136,
+				"NORP"
+			],
+			[
+				"Cambodian",
+				141,
+				150,
+				"NORP"
+			],
+			[
+				"French army",
+				201,
+				212,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Our object is to build up national armies which would total 174,000 for Vietnam, 16,000 for Cambodia and 17,000 for Laos.",
+		"entities": [
+			[
+				"Vietnam",
+				72,
+				79,
+				"GPE"
+			],
+			[
+				"Cambodia",
+				92,
+				100,
+				"GPE"
+			],
+			[
+				"Laos",
+				116,
+				120,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "There would be approximately 200,000 men in these armies.",
+		"entities": []
+	},
+	{
+		"content": "Progress has been made in this regard.",
+		"entities": []
+	},
+	{
+		"content": "However, almost the whole of the burden has been borne by France.",
+		"entities": [
+			[
+				"France",
+				58,
+				64,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "United States aid has been greatly appreciated.",
+		"entities": [
+			[
+				"United States",
+				0,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Up to April 1952 US aid of an estimated value of 124 billion francs has been delivered to Indochina, but if this aid remains within these limits France cannot do more.",
+		"entities": [
+			[
+				"April 1952",
+				6,
+				16,
+				"DATE"
+			],
+			[
+				"US",
+				17,
+				19,
+				"GPE"
+			],
+			[
+				"Indochina",
+				90,
+				99,
+				"LOC"
+			],
+			[
+				"France",
+				145,
+				151,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The military situation is now comparatively satisfactory and Mr. Letourneau will give more details.",
+		"entities": [
+			[
+				"Letourneau",
+				65,
+				75,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Indochina problem is intimately linked to the European problem and this raises the EDC question.",
+		"entities": [
+			[
+				"Indochina",
+				4,
+				13,
+				"LOC"
+			],
+			[
+				"European",
+				50,
+				58,
+				"NORP"
+			],
+			[
+				"EDC",
+				87,
+				90,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "French military strength must be increased and French forces must be equal to or greater than German forces.",
+		"entities": [
+			[
+				"French",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"French",
+				47,
+				53,
+				"GPE"
+			],
+			[
+				"German",
+				94,
+				100,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Therefore, Indochina is at the heart of the problem of European defense.",
+		"entities": [
+			[
+				"Indochina",
+				11,
+				20,
+				"LOC"
+			],
+			[
+				"European",
+				55,
+				63,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Mr. Letourneau: During the 18 months since the French have with Bao Dai worked on building up the Indochinese national armies, 40 Vietnamese battalions have been created.",
+		"entities": [
+			[
+				"Letourneau",
+				4,
+				14,
+				"PERSON"
+			],
+			[
+				"French",
+				47,
+				53,
+				"GPE"
+			],
+			[
+				"Bao Dai",
+				64,
+				71,
+				"PERSON"
+			],
+			[
+				"Indochinese",
+				98,
+				109,
+				"NORP"
+			],
+			[
+				"Vietnamese",
+				130,
+				140,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "At present 20 of these battalions have more or less no French officers; 24 battalions have territorial responsibilities; and 11 battalions have engaged in combat operations.",
+		"entities": [
+			[
+				"French",
+				55,
+				61,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Their performance has been very satisfactory, including those battalions with only Vietnamese officers.",
+		"entities": [
+			[
+				"Vietnamese",
+				83,
+				93,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Since the end of last year the Vietnamese General Staff has been formed with a Vietnamese General named as Chief of Staff.",
+		"entities": [
+			[
+				"Vietnamese General Staff",
+				31,
+				55,
+				"ORG"
+			],
+			[
+				"Vietnamese General",
+				79,
+				97,
+				"PERSON"
+			],
+			[
+				"Chief of Staff",
+				107,
+				121,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "The following are the limits on French action in this connection: Financial--The Vietnamese army in 1952 received only 17 billion francs from the Vietnamese Government and France must make up the difference between that and the 100 billion francs called for in the Vietnamese budget.",
+		"entities": [
+			[
+				"French",
+				32,
+				38,
+				"GPE"
+			],
+			[
+				"Vietnamese army",
+				81,
+				96,
+				"ORG"
+			],
+			[
+				"1952",
+				100,
+				104,
+				"DATE"
+			],
+			[
+				"Vietnamese Government",
+				146,
+				167,
+				"GPE"
+			],
+			[
+				"France",
+				172,
+				178,
+				"GPE"
+			],
+			[
+				"Vietnamese",
+				265,
+				275,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Cadres--The Vietnamese national army has 1449 officers and 6181 NCO's.",
+		"entities": [
+			[
+				"Vietnamese national army",
+				12,
+				36,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It is calling up certain categories of students for reserve officer training.",
+		"entities": []
+	},
+	{
+		"content": "Vietnamese Government cooperation has been good and it has now extended this training period from four months to 12 months.",
+		"entities": [
+			[
+				"Vietnamese Government",
+				0,
+				21,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Arming and equipping the Vietnamese army--We are very grateful for United States aid, without which the Vietnamese army could not have achieved its present development.",
+		"entities": [
+			[
+				"Vietnamese army",
+				25,
+				40,
+				"ORG"
+			],
+			[
+				"United States",
+				67,
+				80,
+				"GPE"
+			],
+			[
+				"Vietnamese army",
+				104,
+				119,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The 150th ship delivering United States aid recently arrived at Saigon and the amount of aid now delivered is above the figures given by Mr. Pleven.",
+		"entities": [
+			[
+				"United States",
+				26,
+				39,
+				"GPE"
+			],
+			[
+				"Saigon",
+				64,
+				70,
+				"LOC"
+			],
+			[
+				"Pleven",
+				141,
+				147,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "France still has, however, the major military responsibility.",
+		"entities": [
+			[
+				"France",
+				0,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We are pleased with the cooperation of the Associated States.",
+		"entities": [
+			[
+				"Associated States",
+				43,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The decision by Marshal de Lattre to build up these national armies caused some concern here but the risks have been overcome, at least for the present.",
+		"entities": [
+			[
+				"Marshal de Lattre",
+				16,
+				33,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Cambodia now has an army of 10,500 men including 90 officers and 850 NCO's, consisting of 6 battalions and one parachute unit.",
+		"entities": [
+			[
+				"Cambodia",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Laos has an army of 9,650 men, including 85 officers and 500 NCO's, consisting of 5 battalions and one parachute battalion.",
+		"entities": [
+			[
+				"Laos",
+				0,
+				4,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The chief problem is that of training higher officers; it is much easier to train the subordinate officers.",
+		"entities": []
+	},
+	{
+		"content": "With respect to the military situation, in January and February the situation in the north was a cause for concern.",
+		"entities": [
+			[
+				"January",
+				43,
+				50,
+				"DATE"
+			],
+			[
+				"February",
+				55,
+				63,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Hoa Binh evacuation was not understood in the international press.",
+		"entities": [
+			[
+				"Hoa Binh",
+				4,
+				12,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "French Union troops there were immobilized and the Vietminh were able to infiltrate the Delta.",
+		"entities": [
+			[
+				"French Union",
+				0,
+				12,
+				"NORP"
+			],
+			[
+				"Vietminh",
+				51,
+				59,
+				"GPE"
+			],
+			[
+				"Delta",
+				88,
+				93,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The purpose of the evacuation was to permit the use of these previously immobilized troops.",
+		"entities": []
+	},
+	{
+		"content": "At that time there were 25,000 regular Vietminh Troops in the Delta.",
+		"entities": [
+			[
+				"Vietminh",
+				39,
+				47,
+				"NORP"
+			],
+			[
+				"Delta",
+				62,
+				67,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "All the Vietminh regulars in the Delta have now been more or less cleared up and the \"Bataille du Riz\" is turning in favor of the French Union forces.",
+		"entities": [
+			[
+				"Vietminh",
+				8,
+				16,
+				"NORP"
+			],
+			[
+				"Delta",
+				33,
+				38,
+				"LOC"
+			],
+			[
+				"Bataille du Riz",
+				86,
+				101,
+				"EVENT"
+			],
+			[
+				"French Union",
+				130,
+				142,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In central and south Vietnam and in Laos and Cambodia the situation is less disquieting and there are no Vietminh regular units of any size.",
+		"entities": [
+			[
+				"Vietnam",
+				21,
+				28,
+				"LOC"
+			],
+			[
+				"Laos",
+				36,
+				40,
+				"LOC"
+			],
+			[
+				"Cambodia",
+				45,
+				53,
+				"LOC"
+			],
+			[
+				"Vietminh",
+				105,
+				113,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "With respect to Communist China considerable aid is still coming to the Vietminh and the Vietminh are unable to recuperate in Chinese territory.",
+		"entities": [
+			[
+				"Communist China",
+				16,
+				31,
+				"GPE"
+			],
+			[
+				"Vietminh",
+				72,
+				80,
+				"GPE"
+			],
+			[
+				"Vietminh",
+				89,
+				97,
+				"GPE"
+			],
+			[
+				"Chinese",
+				126,
+				133,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Vietminh cadres have been trained by Chinese Communists.",
+		"entities": [
+			[
+				"Vietminh",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"Chinese Communists",
+				37,
+				55,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Vietminh forces now show signs of weariness.",
+		"entities": [
+			[
+				"Vietminh",
+				4,
+				12,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They are finding it difficult to replace their losses and their troops are now of an inferior quality and include many new young soldiers.",
+		"entities": []
+	},
+	{
+		"content": "The French command feels that the present situation is favorable to inflicting further losses on the Vietminh but with Communist China in the background we cannot foresee the possibility of any decisive military action in the near future.",
+		"entities": [
+			[
+				"French",
+				4,
+				10,
+				"GPE"
+			],
+			[
+				"Vietminh",
+				101,
+				109,
+				"GPE"
+			],
+			[
+				"Communist China",
+				119,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pleven:",
+		"entities": [
+			[
+				"Pleven",
+				4,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There are two points in the Indochina problem which I wish to raise.",
+		"entities": [
+			[
+				"Indochina",
+				28,
+				37,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Do our Allies regard the French effort as one for French national considerations or for Allied interests?",
+		"entities": [
+			[
+				"French",
+				25,
+				31,
+				"GPE"
+			],
+			[
+				"French",
+				50,
+				56,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Do our friends feel that the French sacrifices for the defense of this area are justified by the political and strategic importance of that part of the world?",
+		"entities": [
+			[
+				"French",
+				29,
+				35,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We have obtained no clear reply to these questions although they have been previously brought up, for example, by General Juin at Washington.",
+		"entities": [
+			[
+				"General Juin",
+				114,
+				126,
+				"PERSON"
+			],
+			[
+				"Washington",
+				130,
+				140,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "If it is felt that the global strategic effort should continue, France cannot continue to bear alone such a considerable share of this burden.",
+		"entities": [
+			[
+				"France",
+				64,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Schuman: It is not a question so much of how much aid and support France might receive.",
+		"entities": [
+			[
+				"Schuman",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"France",
+				70,
+				76,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is now not just a matter of aid but of cooperation and association in a common cause, a distribution of the burden and of strategic responsibility.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Pinay: Could we have a reply to Mr. Pleven's questions?",
+		"entities": [
+			[
+				"Pinay",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Pleven",
+				40,
+				46,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Secretary: To repeat Mr. Pleven's question: Do France's Allies regard the French effort in Indochina as purely in French interests or in general Allied interests and What is the strategic importance of Indochina.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Pleven",
+				29,
+				35,
+				"PERSON"
+			],
+			[
+				"France",
+				51,
+				57,
+				"GPE"
+			],
+			[
+				"French",
+				78,
+				84,
+				"GPE"
+			],
+			[
+				"Indochina",
+				95,
+				104,
+				"LOC"
+			],
+			[
+				"French",
+				118,
+				124,
+				"GPE"
+			],
+			[
+				"Indochina",
+				206,
+				215,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I can say for the United States that there is no question in our minds.",
+		"entities": [
+			[
+				"United States",
+				18,
+				31,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The French effort is not made in purely French interest but in the general international interest.",
+		"entities": [
+			[
+				"French",
+				4,
+				10,
+				"GPE"
+			],
+			[
+				"French",
+				40,
+				46,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The same is true of the United States effort in Korea and the British effort in Malaya and Suez, which has caused difficulties with Egypt.",
+		"entities": [
+			[
+				"United States",
+				24,
+				37,
+				"GPE"
+			],
+			[
+				"Korea",
+				48,
+				53,
+				"GPE"
+			],
+			[
+				"British",
+				62,
+				69,
+				"GPE"
+			],
+			[
+				"Malaya",
+				80,
+				86,
+				"LOC"
+			],
+			[
+				"Suez",
+				91,
+				95,
+				"LOC"
+			],
+			[
+				"Egypt",
+				132,
+				137,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They are all made in a common interest and all have great consequences in international terms, all intimately affect the efforts of each in other parts of the world.",
+		"entities": []
+	},
+	{
+		"content": "In each situation the initial responsibility lies with the United States in Korea, with France in Indochina and with the United Kingdom in Malaya and the function of the Allies is to aid and support in all possible ways. \"",
+		"entities": [
+			[
+				"United States",
+				59,
+				72,
+				"GPE"
+			],
+			[
+				"Korea",
+				76,
+				81,
+				"LOC"
+			],
+			[
+				"France",
+				88,
+				94,
+				"GPE"
+			],
+			[
+				"Indochina",
+				98,
+				107,
+				"LOC"
+			],
+			[
+				"United Kingdom",
+				121,
+				135,
+				"GPE"
+			],
+			[
+				"Malaya",
+				139,
+				145,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Does the United States regard the French effort as of great strategic importance?",
+		"entities": [
+			[
+				"United States",
+				9,
+				22,
+				"GPE"
+			],
+			[
+				"French",
+				34,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "The answer is \"Yes\".",
+		"entities": []
+	},
+	{
+		"content": "It is essential for our security not just in the Far East but also in the Middle East and Europe.",
+		"entities": [
+			[
+				"Far East",
+				49,
+				57,
+				"LOC"
+			],
+			[
+				"Middle East",
+				74,
+				85,
+				"LOC"
+			],
+			[
+				"Europe",
+				90,
+				96,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Failure would have important repercussions in Japan, Korea, Indonesia, India and perhaps in the Middle East.",
+		"entities": [
+			[
+				"Japan",
+				46,
+				51,
+				"GPE"
+			],
+			[
+				"Korea",
+				53,
+				58,
+				"GPE"
+			],
+			[
+				"Indonesia",
+				60,
+				69,
+				"GPE"
+			],
+			[
+				"India",
+				71,
+				76,
+				"GPE"
+			],
+			[
+				"the Middle East",
+				92,
+				107,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Mr. Eden: I am impressed by the French efforts to create the Vietnamese national army.",
+		"entities": [
+			[
+				"Eden",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"French",
+				32,
+				38,
+				"GPE"
+			],
+			[
+				"Vietnamese national army",
+				61,
+				85,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "There is a close relation between, the United Kingdom situation in Malay and the French problem in Indochina and I am pleased that Mr. Malcolm MacDonald has had close contacts with Mr. Letourneau.",
+		"entities": [
+			[
+				"United Kingdom",
+				39,
+				53,
+				"GPE"
+			],
+			[
+				"Malay",
+				67,
+				72,
+				"LOC"
+			],
+			[
+				"French",
+				81,
+				87,
+				"GPE"
+			],
+			[
+				"Indochina",
+				99,
+				108,
+				"LOC"
+			],
+			[
+				"Malcolm MacDonald",
+				135,
+				152,
+				"PERSON"
+			],
+			[
+				"Letourneau",
+				185,
+				195,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "These are parts of the world-wide struggle and the United Kingdom must also keep open lines of communication as of vital importance to all these efforts.",
+		"entities": [
+			[
+				"United Kingdom",
+				51,
+				65,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Malayan problem is essentially a Chinese problem.",
+		"entities": [
+			[
+				"Malayan",
+				4,
+				11,
+				"NORP"
+			],
+			[
+				"Chinese",
+				37,
+				44,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The United Kingdom accepts the importance of Asia.",
+		"entities": [
+			[
+				"United Kingdom",
+				4,
+				18,
+				"GPE"
+			],
+			[
+				"Asia",
+				45,
+				49,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Each of us must carry some burden in addition to our European burden--the United States in Korea, the French in Indochina and the United Kingdom in Malaya and Suez--and each must aid the other to the extent possible.",
+		"entities": [
+			[
+				"European",
+				53,
+				61,
+				"NORP"
+			],
+			[
+				"United States",
+				74,
+				87,
+				"GPE"
+			],
+			[
+				"Korea",
+				91,
+				96,
+				"LOC"
+			],
+			[
+				"French",
+				102,
+				108,
+				"GPE"
+			],
+			[
+				"Indochina",
+				112,
+				121,
+				"LOC"
+			],
+			[
+				"United Kingdom",
+				130,
+				144,
+				"GPE"
+			],
+			[
+				"Malaya",
+				148,
+				154,
+				"LOC"
+			],
+			[
+				"Suez",
+				159,
+				163,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary: The United States thought it a wise decision when it was decided to create the Vietnamese national army and we have in the past given vigorous support.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"United States",
+				19,
+				32,
+				"GPE"
+			],
+			[
+				"Vietnamese national army",
+				94,
+				118,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We would be happy to go into the question of increasing our aid to the Associated States armies.",
+		"entities": [
+			[
+				"Associated States armies",
+				71,
+				88,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(Discussion at this point indicated that the French objective was to create 8 Vietnamese divisions and that the Vietnamese now have six divisions.)",
+		"entities": [
+			[
+				"French",
+				45,
+				51,
+				"GPE"
+			],
+			[
+				"Vietnamese",
+				78,
+				88,
+				"NORP"
+			],
+			[
+				"Vietnamese",
+				112,
+				122,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "These armies are not an immediate solution but they point to the road to follow, the creation of forces to maintain their independence and to relieve the French forces in Indochina.",
+		"entities": [
+			[
+				"French",
+				154,
+				160,
+				"GPE"
+			],
+			[
+				"Indochina",
+				171,
+				180,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We are impressed with the importance of the Associated States national armies and will be willing to go into the question of increasing our aid with Mr. Letourneau in Washington.",
+		"entities": [
+			[
+				"Associated States",
+				44,
+				61,
+				"GPE"
+			],
+			[
+				"Letourneau",
+				153,
+				163,
+				"PERSON"
+			],
+			[
+				"Washington",
+				167,
+				177,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It should be noted that deliveries of aid are already constantly increasing.",
+		"entities": []
+	},
+	{
+		"content": "I am not able today, because Congress is now considering the bill for aid, to discuss figures.",
+		"entities": [
+			[
+				"Congress",
+				29,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If the bill gets through Congress--although it may be reduced in amount, we will use every effort to hold down the reductions.",
+		"entities": [
+			[
+				"Congress",
+				25,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I believe it will permit an increase in this aid.",
+		"entities": []
+	},
+	{
+		"content": "There are two matters for discussion: (1) What will be the nature of the aid--that is what is to be furnished.",
+		"entities": []
+	},
+	{
+		"content": "and (2) the amount.",
+		"entities": []
+	},
+	{
+		"content": "We can talk in Mid-June better than now and should have some figure to deal with, although it may not be final.",
+		"entities": [
+			[
+				"Mid-June",
+				15,
+				23,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Another matter we might discuss with Mr. Letourneau is whether our MAAG is effective and how it can be improved.",
+		"entities": [
+			[
+				"Letourneau",
+				41,
+				51,
+				"PERSON"
+			],
+			[
+				"MAAG",
+				67,
+				71,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Heath and General Brink will be in Washington during Mr. Letourneau's visit and we would be interested in having Mr. Letourneau's suggestions in this regard.",
+		"entities": [
+			[
+				"Heath",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"General Brink",
+				14,
+				27,
+				"PERSON"
+			],
+			[
+				"Washington",
+				39,
+				49,
+				"LOC"
+			],
+			[
+				"Letourneau",
+				61,
+				71,
+				"PERSON"
+			],
+			[
+				"Letourneau",
+				121,
+				131,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pleven:",
+		"entities": [
+			[
+				"Pleven",
+				4,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This raises the question of legislative flexibility and of the form of the bill in Congress and whether the American administration can increase the aid.",
+		"entities": [
+			[
+				"Congress",
+				83,
+				91,
+				"ORG"
+			],
+			[
+				"American",
+				108,
+				116,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It seems that in the past one hindrance to aid to the national armies has been the legislative restrictions.",
+		"entities": []
+	},
+	{
+		"content": "It is impossible for France to increase its effort in Indo-China and the French Government desires to free the appropriations for Indo-China for use in Europe.",
+		"entities": [
+			[
+				"France",
+				21,
+				27,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				54,
+				64,
+				"LOC"
+			],
+			[
+				"French Government",
+				73,
+				90,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				130,
+				140,
+				"LOC"
+			],
+			[
+				"Europe",
+				152,
+				158,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary: Mr. Nash says that he believes that the present bill has increased flexibility and that we can move in that direction, away from purely military items.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Nash",
+				19,
+				23,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Petroleum products, for example, might be possible.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Letourneau: Before I proceed to Washington and in order that may be prepared for discussion, can the American Embassy at Paris keep me informed regarding the measure of legislative flexibility and regarding what items we can discuss in Washington?",
+		"entities": [
+			[
+				"Letourneau",
+				4,
+				14,
+				"PERSON"
+			],
+			[
+				"Washington",
+				36,
+				46,
+				"LOC"
+			],
+			[
+				"American Embassy",
+				105,
+				121,
+				"ORG"
+			],
+			[
+				"Paris",
+				125,
+				130,
+				"LOC"
+			],
+			[
+				"Washington",
+				240,
+				250,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Secretary: That can be done.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I suggest that Mr. Letourneau tell us what items the French Government has in mind.",
+		"entities": [
+			[
+				"Letourneau",
+				19,
+				29,
+				"PERSON"
+			],
+			[
+				"French Government",
+				53,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The next question is what should be the attitude of the three powers if the situation becomes worse and the Chinese Communists take a more active part in the IC conflict.",
+		"entities": [
+			[
+				"Chinese Communists",
+				108,
+				126,
+				"GPE"
+			],
+			[
+				"IC",
+				158,
+				160,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "As I said to Mr. Schuman and Mr. Eden at Lisbon, the United States Government would work to clarify in its own mind its position preparatory to discussion with the UK and France.",
+		"entities": [
+			[
+				"Schuman",
+				17,
+				24,
+				"PERSON"
+			],
+			[
+				"Eden",
+				33,
+				37,
+				"PERSON"
+			],
+			[
+				"Lisbon",
+				41,
+				47,
+				"LOC"
+			],
+			[
+				"United States Government",
+				53,
+				77,
+				"GPE"
+			],
+			[
+				"UK",
+				164,
+				166,
+				"GPE"
+			],
+			[
+				"France",
+				171,
+				177,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We are now prepared to go forward with discussions, politically, militarily or in any other way, for working out a joint position.",
+		"entities": []
+	},
+	{
+		"content": "Tentatively, it is the U.S. position--and we agree with the French and the British that the important thing is to prevent rather than act afterwards--to issue a joint warning to the Chinese Communists.",
+		"entities": [
+			[
+				"U.S.",
+				23,
+				27,
+				"GPE"
+			],
+			[
+				"French",
+				60,
+				66,
+				"GPE"
+			],
+			[
+				"British",
+				75,
+				82,
+				"GPE"
+			],
+			[
+				"Chinese Communists",
+				182,
+				200,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We can later discuss whether it should be public or private.",
+		"entities": []
+	},
+	{
+		"content": "We think it important to talk about what we should do if the warning is disregarded and that it is dangerous to issue a warning without knowing what we would do if it were disregarded.",
+		"entities": []
+	},
+	{
+		"content": "We would agree that whatever conclusions are reached they should be kept secret in order to leave the enemy in doubt.",
+		"entities": []
+	},
+	{
+		"content": "I suggest in a preliminary way that what we do not be limited to resisting, for example, in Indo-China a Chinese Communist attack.",
+		"entities": [
+			[
+				"Indo-China",
+				92,
+				102,
+				"LOC"
+			],
+			[
+				"Chinese Communist",
+				105,
+				122,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Action should be taken against the Chinese Communists.",
+		"entities": [
+			[
+				"Chinese Communists",
+				35,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We cannot necessarily agree on all action in all eventualities but initial action at the outset should be considered.",
+		"entities": []
+	},
+	{
+		"content": "For example, attacks on lines of communications contributing to the attack on Indo-China and naval action.",
+		"entities": [
+			[
+				"Indo-China",
+				78,
+				88,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We should first discuss these matters in political talks and then in military talks, perhaps at Paris.",
+		"entities": [
+			[
+				"Paris",
+				96,
+				101,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "While not wishing to anticipate the military talks, the United States would not be able to contribute ground forces for Southeast Asia but would expect to bear a considerable share of the air and naval effort.",
+		"entities": [
+			[
+				"United States",
+				56,
+				69,
+				"GPE"
+			],
+			[
+				"Southeast Asia",
+				120,
+				134,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It is essential that no leaks occur regarding the fact that we are considering such a warning.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Eden: As I stated at Columbia University, Chinese Communist aggression in Indo-China should be considered as comparable to that in Korea and the United Nations would take measures in that event.",
+		"entities": [
+			[
+				"Eden",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"Columbia University",
+				25,
+				44,
+				"ORG"
+			],
+			[
+				"Chinese Communist",
+				46,
+				63,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				78,
+				88,
+				"LOC"
+			],
+			[
+				"Korea",
+				135,
+				140,
+				"LOC"
+			],
+			[
+				"United Nations",
+				149,
+				163,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We could not be committed now regarding military action to be taken by the United Nations.",
+		"entities": [
+			[
+				"United Nations",
+				75,
+				89,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I hope that no such aggression takes place and the question of issuing the warning needs further discussions.",
+		"entities": []
+	},
+	{
+		"content": "I reserve my position and would wish to discuss this matter with my colleagues.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Schuman: I thank Mr. Acheson for what he envisages in this connection and agree in the main.",
+		"entities": [
+			[
+				"Schuman",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"Acheson",
+				25,
+				32,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This problem is independent of things we have discussed in the past.",
+		"entities": []
+	},
+	{
+		"content": "Like Mr. Eden, I hope that no such aggression will occur but sudden aggression is not impossible.",
+		"entities": [
+			[
+				"Eden",
+				9,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Ad Hoc Military Committee at Washington studied this question but the other Governments' views are not known to us.",
+		"entities": [
+			[
+				"Ad Hoc Military Committee",
+				4,
+				29,
+				"ORG"
+			],
+			[
+				"Washington",
+				33,
+				43,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is very wise to prevent action but the timing and form of the warning should be discussed as it might provoke an attack.",
+		"entities": []
+	},
+	{
+		"content": "It should not enable the enemy to use such a warning as a pretext to extend the conflict.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Letourneau: The French Government approved the conclusions of the Ad Hoc Committee about one month ago but we do not know the political views of the US and the UK.",
+		"entities": [
+			[
+				"Letourneau",
+				4,
+				14,
+				"PERSON"
+			],
+			[
+				"French Government",
+				20,
+				37,
+				"GPE"
+			],
+			[
+				"Ad Hoc Committee",
+				70,
+				86,
+				"ORG"
+			],
+			[
+				"US",
+				153,
+				155,
+				"GPE"
+			],
+			[
+				"UK",
+				164,
+				166,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If the US and the UK could examine these conclusions and tell us, it would be useful to know their political conclusions.",
+		"entities": [
+			[
+				"US",
+				7,
+				9,
+				"GPE"
+			],
+			[
+				"UK",
+				18,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Eden referred to United Nations action, but as the Minister responsible for Indo-China I would like to note the permanent danger we face there--although not immediately probable.",
+		"entities": [
+			[
+				"Eden",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"United Nations",
+				21,
+				35,
+				"ORG"
+			],
+			[
+				"Minister",
+				55,
+				63,
+				"TITLE"
+			],
+			[
+				"Indo-China",
+				80,
+				90,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We must prepare our defense in the event of aggression.",
+		"entities": []
+	},
+	{
+		"content": "The United Nations procedure is lengthy and in the meantime we would face mortal danger to our troops and civilians.",
+		"entities": [
+			[
+				"United Nations",
+				4,
+				18,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Therefore, the political and military talks should include immediate measures along the lines of the Ad Hoc Committee recommendations.",
+		"entities": [
+			[
+				"Ad Hoc Committee",
+				101,
+				117,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Eden: As I said at New York, United Nations action is envisaged.",
+		"entities": [
+			[
+				"Eden",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"New York",
+				23,
+				31,
+				"LOC"
+			],
+			[
+				"United Nations",
+				33,
+				47,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I cannot personally commit my Government now.",
+		"entities": []
+	},
+	{
+		"content": "But Mr. Acheson has suggested that all these matters be included in the talks.",
+		"entities": [
+			[
+				"Acheson",
+				8,
+				15,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pinay: With respect to the principles set forth by Mr. Acheson, I am in agreement.",
+		"entities": [
+			[
+				"Pinay",
+				4,
+				9,
+				"PERSON"
+			],
+			[
+				"Acheson",
+				59,
+				66,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Each of us--the United States in Korea, the UK in Malaya and France in Indo-China--has its individual problems and responsibilities but each is part of the overall and we must note the disparity of our means.",
+		"entities": [
+			[
+				"the United States",
+				12,
+				29,
+				"GPE"
+			],
+			[
+				"Korea",
+				33,
+				38,
+				"LOC"
+			],
+			[
+				"UK",
+				44,
+				46,
+				"GPE"
+			],
+			[
+				"Malaya",
+				50,
+				56,
+				"LOC"
+			],
+			[
+				"France",
+				61,
+				67,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				71,
+				81,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "France has fought in Indo-China for six years and we feel that we are justified in asking for aid.",
+		"entities": [
+			[
+				"France",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				21,
+				31,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The proposed warning to the Chinese Communists might start or extend the war.",
+		"entities": [
+			[
+				"Chinese Communists",
+				28,
+				46,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "China is a huge country with hundreds of millions of people.",
+		"entities": [
+			[
+				"China",
+				0,
+				5,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As in the last war bombing did not end the conflict but only a massive landing rid us of the Germans.",
+		"entities": [
+			[
+				"Germans",
+				93,
+				100,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Air action is not enough and there seems no possibility of ending the war.",
+		"entities": []
+	},
+	{
+		"content": "Korea proves this.",
+		"entities": [
+			[
+				"Korea",
+				0,
+				5,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I should like to ask if the US and the UK have considered whether negotiations might possibly end the war.",
+		"entities": [
+			[
+				"US",
+				28,
+				30,
+				"GPE"
+			],
+			[
+				"UK",
+				39,
+				41,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Eden: I agree regarding the desirability of being ready to negotiate, but the example given by Korea is not promising.",
+		"entities": [
+			[
+				"Eden",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"Korea",
+				99,
+				104,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The US has been very patient and the concessions have all been made on the United Nations side.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"United Nations",
+				75,
+				89,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Acheson suggested the issuance of a warning for consideration and it is worth considering and examining the possibility.",
+		"entities": [
+			[
+				"Acheson",
+				4,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Secretary: Sudden large scale intervention is probably not likely, but increased US aid may be followed by increased Chinese Communist aid.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"US",
+				85,
+				87,
+				"GPE"
+			],
+			[
+				"Chinese Communist",
+				121,
+				138,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It might, therefore, be advisable at some point to say to the Chinese Communists that this must stop.",
+		"entities": [
+			[
+				"Chinese Communists",
+				62,
+				80,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pleven: I wish to ask again regarding the US and UK views regarding the conclusions of the Ad Hoc Committee.",
+		"entities": [
+			[
+				"Pleven",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"UK",
+				53,
+				55,
+				"GPE"
+			],
+			[
+				"US",
+				46,
+				48,
+				"GPE"
+			],
+			[
+				"Ad Hoc Committee",
+				95,
+				111,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "These are extremely important if sudden aggression should take place.",
+		"entities": []
+	},
+	{
+		"content": "We have the problem of evacuation of civilians.",
+		"entities": []
+	},
+	{
+		"content": "There has been no Vietminh air force to date but an armistice in Korea might free the Chinese Communist air force.",
+		"entities": [
+			[
+				"Vietminh air force",
+				18,
+				36,
+				"ORG"
+			],
+			[
+				"Korea",
+				65,
+				70,
+				"LOC"
+			],
+			[
+				"Chinese Communist air force",
+				86,
+				113,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Creation of the national armies decreased the chances of Chinese aggression by lessening the propaganda value to them of having white Europeans to attack.",
+		"entities": [
+			[
+				"Chinese",
+				57,
+				64,
+				"GPE"
+			],
+			[
+				"Europeans",
+				134,
+				143,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It removes a weapon from them in terms of propaganda.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Eden: I cannot comment on the Ad Hoc Committee conclusions except to say that they have been examined.",
+		"entities": [
+			[
+				"Eden",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"Ad Hoc Committee",
+				34,
+				50,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Secretary: The Ad Hoc Committee actually presented no recommendations but reached different conclusions.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Ad Hoc Committee",
+				19,
+				35,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "No political guidance was given to the military members of this Committee.",
+		"entities": [
+			[
+				"Committee",
+				64,
+				73,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We might give tentative guidance or suggestions under certain hypotheses to the Committee and then the Ministers could later examine these problems in their ensemble.",
+		"entities": [
+			[
+				"Committee",
+				80,
+				89,
+				"ORG"
+			],
+			[
+				"Ministers",
+				103,
+				112,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Schuman:",
+		"entities": [
+			[
+				"Schuman",
+				4,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The psychological point is very important--aid could be foreseen if aggression occurred--but it is important to know plans are being made.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Pleven: The constant preoccupation of the military in Tonkin is the possibility of a flood of Chinese across the border.",
+		"entities": [
+			[
+				"Pleven",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"Tonkin",
+				58,
+				64,
+				"LOC"
+			],
+			[
+				"Chinese",
+				98,
+				105,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The means of transportation and the evacuation of civilians are important and there are points in the Ad Hoc Committee's conclusions regarding the use of ports useful in organization of evacuation.",
+		"entities": [
+			[
+				"Ad Hoc Committee",
+				102,
+				118,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Letourneau: I suggest that we reach agreement on these conclusions of the Ad Hoc Committee, which did not give rise to differences of opinion, and for further progress political guidance should be given and an exchange of views should take place to that end.",
+		"entities": [
+			[
+				"Letourneau",
+				4,
+				14,
+				"PERSON"
+			],
+			[
+				"Ad Hoc Committee",
+				78,
+				94,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Secretary: It is best to examine the Ad Hoc Committee conclusions again.",
+		"entities": [
+			[
+				"Secretary",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Ad Hoc Committee",
+				41,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We can pick out certain points and say proceed with these and on other parts we could prepare tentative guidance for the military and thus clear up the difficulties.",
+		"entities": []
+	},
+	{
+		"content": "We will get up something and submit it to London and Paris to serve as guidance for the military.",
+		"entities": [
+			[
+				"London",
+				42,
+				48,
+				"GPE"
+			],
+			[
+				"Paris",
+				53,
+				58,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pleven:",
+		"entities": [
+			[
+				"Pleven",
+				4,
+				10,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We have the responsibility of defending the EDC Treaty before the National Assembly and, if we are not able to show increased French participation, we will have difficulty in obtaining ratification, in obtaining approval for the military budget and for continuation of the effort in Indo-China.",
+		"entities": [
+			[
+				"EDC Treaty",
+				44,
+				54,
+				"LAW"
+			],
+			[
+				"National Assembly",
+				66,
+				83,
+				"ORG"
+			],
+			[
+				"French",
+				126,
+				132,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				283,
+				293,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It is essential that our friends know that we must have a reply with respect to increased aid for the National Armies as quickly and as generously as possible.",
+		"entities": []
+	},
+	{
+		"content": "Mr. Pinay:",
+		"entities": [
+			[
+				"Pinay",
+				4,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The French Government is unanimously behind Mr. Pleven in this statement.",
+		"entities": [
+			[
+				"French Government",
+				4,
+				21,
+				"GPE"
+			],
+			[
+				"Pleven",
+				48,
+				54,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "You must realize that the French public is weary and tired of the Indo-China war.",
+		"entities": [
+			[
+				"French",
+				26,
+				32,
+				"NORP"
+			],
+			[
+				"Indo-China",
+				66,
+				76,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Mr. Schuman: There is considerable apprehension regarding the EDC in France and Germany does not have the Indo-China burden, thus establishing a disequilibrium.",
+		"entities": [
+			[
+				"Schuman",
+				4,
+				11,
+				"PERSON"
+			],
+			[
+				"EDC",
+				62,
+				65,
+				"ORG"
+			],
+			[
+				"France",
+				69,
+				75,
+				"GPE"
+			],
+			[
+				"Germany",
+				80,
+				87,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				106,
+				116,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Germany will receive US aid without having to apply it to Indo-China.",
+		"entities": [
+			[
+				"Germany",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"US",
+				21,
+				23,
+				"GPE"
+			],
+			[
+				"Indo-China",
+				58,
+				68,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "These are questions which will be raised in the National Assembly.",
+		"entities": [
+			[
+				"National Assembly",
+				48,
+				65,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Mr. Pinay: We have exposed our views very frankly and have explained our concern.",
+		"entities": [
+			[
+				"Pinay",
+				4,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Letourneau will be able to proceed further with these questions in Washington.",
+		"entities": [
+			[
+				"Letourneau",
+				4,
+				14,
+				"PERSON"
+			],
+			[
+				"Washington",
+				71,
+				81,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I ask that you take into account the political difficulties that Messrs. Pleven and Schuman will have to face in the National Assembly.']",
+		"entities": [
+			[
+				"Pleven",
+				73,
+				79,
+				"PERSON"
+			],
+			[
+				"Schuman",
+				84,
+				91,
+				"PERSON"
+			],
+			[
+				"National Assembly",
+				117,
+				134,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['60.",
+		"entities": []
+	},
+	{
+		"content": "Reuter from Canton, 17th, reports that Southwest Political Council sent strong telegram to National Government and Kuomin-tang urging positive action to deal with Japanese invasion: \"In case the National Government still does not realize danger of situation thereby bringing disaster to the nation and people the southwest will be compelled to unite the comrades of the various provinces and people of entire country in order to take over the task of resisting Japanese aggression.",
+		"entities": [
+			[
+				"Reuter",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Canton",
+				12,
+				18,
+				"LOC"
+			],
+			[
+				"17th",
+				20,
+				24,
+				"DATE"
+			],
+			[
+				"Southwest Political Council",
+				39,
+				66,
+				"ORG"
+			],
+			[
+				"National Government",
+				91,
+				110,
+				"GPE"
+			],
+			[
+				"Japanese",
+				163,
+				171,
+				"GPE"
+			],
+			[
+				"National Government",
+				195,
+				214,
+				"ORG"
+			],
+			[
+				"Japanese",
+				461,
+				469,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "When Shanhaikwan incident broke out we telegraphed to you exj pressing our views and urging resistance.",
+		"entities": [
+			[
+				"Shanhaikwan",
+				5,
+				16,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Although we have received a reply we have not been informed as to whether Central Government has adopted definite resistance plans.",
+		"entities": [
+			[
+				"Central Government",
+				74,
+				92,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Since fall of Shan-haikwan Japanese troops have been pushing their aggression with increasing vigor hence the nation-wide plan for resistance to invasion.",
+		"entities": [
+			[
+				"Shan-haikwan",
+				14,
+				26,
+				"LOC"
+			],
+			[
+				"Japanese",
+				27,
+				35,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Dr. W. W. Yen, Dr. Wellington Koo and Mr. Quo Tai-chi also have telegraphically urged armed resistance.",
+		"entities": [
+			[
+				"W. W. Yen",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Wellington Koo",
+				19,
+				33,
+				"PERSON"
+			],
+			[
+				"Quo Tai-chi",
+				42,
+				53,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Consequently it is clear that both within the country and abroad there is strong determination to deal with Japanese invasion by force.",
+		"entities": [
+			[
+				"Japanese",
+				108,
+				116,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Judging by present League situation resistance is only method to preserve national existence.",
+		"entities": [
+			[
+				"League",
+				19,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Now Jehol is threatened with invasion and Peiping and Tientsin are in a critical position.",
+		"entities": [
+			[
+				"Jehol",
+				4,
+				9,
+				"LOC"
+			],
+			[
+				"Peiping",
+				42,
+				49,
+				"LOC"
+			],
+			[
+				"Tientsin",
+				54,
+				62,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "If North China is involved in military operations entire country will be in peril.",
+		"entities": [
+			[
+				"North China",
+				3,
+				14,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It is imperative that you quickly declare definite policy of resistance and also rush pay, food and ammunition to troops at the front now facing the enemy in order to allay anxiety of the people and the righteous opinion of the world.\"",
+		"entities": []
+	},
+	{
+		"content": "Johnson']",
+		"entities": [
+			[
+				"Johnson",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "British Ambassador's Assessment on Falklands.",
+		"entities": [
+			[
+				"British Ambassador",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Falklands",
+				35,
+				44,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I had a long talk with UK Ambassador Henderson today.",
+		"entities": [
+			[
+				"UK",
+				23,
+				25,
+				"GPE"
+			],
+			[
+				"Ambassador Henderson",
+				26,
+				46,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He expects the Argentinians will not accept the latest UK proposals, but will come back tomorrow with suggested changes.",
+		"entities": [
+			[
+				"Argentinians",
+				15,
+				27,
+				"GPE"
+			],
+			[
+				"UK",
+				55,
+				57,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Henderson anticipates that these in turn will be unacceptable to the British and that the UN Secretary General will thereupon declare his mediation mission at an end.",
+		"entities": [
+			[
+				"Henderson",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"British",
+				69,
+				76,
+				"GPE"
+			],
+			[
+				"UN Secretary General",
+				90,
+				110,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Henderson intimated that a major UK assault on the main island would ensue on the heels of the SYG's declaration; he predicted with confidence that the operation would be successful and that the battle--while possibly involving high casualties on both sides--would be over \"sooner rather than later.\"",
+		"entities": [
+			[
+				"Henderson",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"UK",
+				33,
+				35,
+				"GPE"
+			],
+			[
+				"SYG",
+				95,
+				98,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Henderson thought that when the assault takes place there will be pressure in the UN Security Council for a simple ceasefire without withdrawal (which would be unacceptable to the UK) and that--in his \"personal view\"--the time would then be appropriate for the US again to come forward as the only power capable of bringing about a settlement.",
+		"entities": [
+			[
+				"Henderson",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"UN Security Council",
+				82,
+				101,
+				"ORG"
+			],
+			[
+				"UK",
+				180,
+				182,
+				"GPE"
+			],
+			[
+				"US",
+				261,
+				263,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "[Omitted here is material unrelated to the conflict in the South Atlantic.]']",
+		"entities": [
+			[
+				"South Atlantic",
+				59,
+				73,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "['[Translation.]",
+		"entities": []
+	},
+	{
+		"content": "Mr. Secretary of State: In continuation of the communication I had the honor to address to your excellency on March 26 last, respecting the proposed convention relative to collisions and assistance at sea, I am instructed to inform you that Brazil, the Dominican Republic, and Roumania have notified their adhesion to the draft.",
+		"entities": [
+			[
+				"Mr. Secretary of State",
+				0,
+				22,
+				"PERSON"
+			],
+			[
+				"March 26",
+				110,
+				118,
+				"DATE"
+			],
+			[
+				"Brazil",
+				241,
+				247,
+				"GPE"
+			],
+			[
+				"Dominican Republic",
+				253,
+				271,
+				"GPE"
+			],
+			[
+				"Roumania",
+				277,
+				285,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I gladly embrace this opportunity, etc., Bn.",
+		"entities": []
+	},
+	{
+		"content": "Moncheur.']",
+		"entities": [
+			[
+				"Moncheur",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['[Extracts] confidential No. 2020",
+		"entities": []
+	},
+	{
+		"content": "Sir: I have the honor to refer to numerous telegrams and despatches concerning the riot of August 14, which took place when a number of university and secondary school students and others, including persons affiliated with the Febrerista Party, attempted to interfere with the progress of the Liberal Party parade which was taking place in down-town Asuncion in honor of the President and members of the Board of Directors of the Liberal Party who were returning to Asuncion from Buenos Aires following the political amnesty recently granted by the Paraguayan Government.",
+		"entities": [
+			[
+				"August 14",
+				91,
+				100,
+				"DATE"
+			],
+			[
+				"Febrerista Party",
+				227,
+				243,
+				"ORG"
+			],
+			[
+				"Liberal Party",
+				293,
+				306,
+				"ORG"
+			],
+			[
+				"Asuncion",
+				350,
+				358,
+				"LOC"
+			],
+			[
+				"President",
+				375,
+				384,
+				"PERSON"
+			],
+			[
+				"Board of Directors",
+				404,
+				422,
+				"ORG"
+			],
+			[
+				"Liberal Party",
+				430,
+				443,
+				"ORG"
+			],
+			[
+				"Asuncion",
+				466,
+				474,
+				"LOC"
+			],
+			[
+				"Buenos Aires",
+				480,
+				492,
+				"LOC"
+			],
+			[
+				"Paraguayan Government",
+				549,
+				570,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As already reported, the Embassy considers that the Paraguayan Government showed partiality in its communique concerning the riot, which placed all the blame on the Liberal Party.",
+		"entities": [
+			[
+				"Embassy",
+				25,
+				32,
+				"ORG"
+			],
+			[
+				"Paraguayan Government",
+				52,
+				73,
+				"GPE"
+			],
+			[
+				"Liberal Party",
+				165,
+				178,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I have expressed this opinion in friendly conversations with the Minister of Public Works, the Minister of Finance, and President Morinigo.",
+		"entities": [
+			[
+				"Minister of Public Works",
+				65,
+				89,
+				"PERSON"
+			],
+			[
+				"Minister of Finance",
+				95,
+				114,
+				"PERSON"
+			],
+			[
+				"President Morinigo",
+				120,
+				138,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "All of them maintained that the Liberals were the aggressors in the sense that \"they threw the first stone\".",
+		"entities": [
+			[
+				"Liberals",
+				32,
+				40,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In justice to the official view, the Legal Attache's Office reported that the actual fighting started when shots were fired from the Liberal ranks. . . . . . . . . . . . . . .",
+		"entities": [
+			[
+				"Legal Attache's Office",
+				37,
+				59,
+				"ORG"
+			],
+			[
+				"Liberal",
+				133,
+				140,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Nevertheless, I have thought it desirable to let the Government know, in a friendly way, that I did not share its published view that the Liberals were entirely to blame for the events of August 14.",
+		"entities": [
+			[
+				"Liberals",
+				138,
+				146,
+				"ORG"
+			],
+			[
+				"August 14",
+				188,
+				197,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In this connection, I asked the President this morning whether the Government might not lift the one-month period of suspension imposed on the Liberal Party.",
+		"entities": [
+			[
+				"President",
+				32,
+				41,
+				"PERSON"
+			],
+			[
+				"Government",
+				67,
+				77,
+				"GPE"
+			],
+			[
+				"Liberal Party",
+				143,
+				156,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He declined to say that the Government might do this.",
+		"entities": []
+	},
+	{
+		"content": "He did say, however, that the suspension was solely for the record and that the Liberals were free to carry on their political activities and were, in fact, carrying them on.",
+		"entities": [
+			[
+				"Liberals",
+				80,
+				88,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He said that the Government was continuing to give thought to means of restoring the legal position of the Liberal Party.",
+		"entities": [
+			[
+				"Liberal Party",
+				107,
+				120,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Liberals are taking their suspension very calmly.",
+		"entities": [
+			[
+				"Liberals",
+				4,
+				12,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Embassy has been informed, without confirmation, that Guggiari, who was described to me by the head of the Colorado Party recently, as a \"good but unfortunate man\" would shortly resign from the Presidency of the Party and would be replaced by Geronimo Zubizarreta who has great prestige among all classes and political parties in Paraguay.",
+		"entities": [
+			[
+				"Embassy",
+				4,
+				11,
+				"ORG"
+			],
+			[
+				"Guggiari",
+				58,
+				66,
+				"PERSON"
+			],
+			[
+				"Colorado Party",
+				111,
+				125,
+				"ORG"
+			],
+			[
+				"Geronimo Zubizarreta",
+				247,
+				267,
+				"PERSON"
+			],
+			[
+				"Paraguay",
+				334,
+				342,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Guggiari will then return to Buenos Aires.",
+		"entities": [
+			[
+				"Guggiari",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"Buenos Aires",
+				29,
+				41,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Respectfully yours, Willard L. Beaulac']",
+		"entities": [
+			[
+				"Willard L. Beaulac'",
+				20,
+				38,
+				"PERSON"
+			]
+		]
+	}
+]

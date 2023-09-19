@@ -1,0 +1,4682 @@
+WikidataID,itemLabel,sitelinks
+Q501542,Department of Agriculture,42
+Q501542,USDA,42
+Q501542,U.S. Department of Agriculture,42
+Q501542,U. S. Department of Agriculture,42
+Q501542,Agriculture Department,42
+Q742787,DON,20
+Q742787,Navy Department,20
+Q742787,Department of the Navy,20
+Q742787,United States Navy Department,20
+Q938783,NM Corrections Department,2
+Q938783,NMCD,2
+Q942326,HHS,35
+Q942326,Department of Health and Human Services,35
+Q942326,DHHS,35
+Q942326,U.S. Department of Health and Human Services,35
+Q942326,US Department of Health and Human Services,35
+Q1519761,HEW,6
+Q1519761,"Department of Health, Education, and Welfare",6
+Q1519761,"US Department of Health, Education, and Welfare",6
+Q1519761,US H.E.W.,6
+Q1553390,Department of Justice,48
+Q1553390,DOJ,48
+Q1553390,Justice Department,48
+Q1553390,U.S. Department of Justice,48
+Q1553390,U.S. DOJ,48
+Q1553390,United States Justice Department,48
+Q1553390,USDOJ,48
+Q1553390,justice.gov,48
+Q1754777,USIA,17
+Q1754777,United States Information Service,17
+Q2963308,Chicago FD,5
+Q2963308,Fire Department of the City of Chicago,5
+Q3708607,Departamento de Transportación y Obras Públicas de Puerto Rico,3
+Q3708607,Puerto Rico Departamento de Transportación y Obras Públicas,3
+Q3819598,TDCJ,4
+Q4705244,ADOC,2
+Q4708525,ADOC,2
+Q4791291,ADC,2
+Q4791291,ADCRR,2
+Q4791291,"Arizona Department of Corrections, Rehabilitation & Reentry",2
+Q5020425,California Department of Agriculture,4
+Q5020425,CDFA,4
+Q5020429,CA DOJ,1
+Q5020429,CAL DOJ,1
+Q5283416,D.C. FEMS,4
+Q5283416,D.C. Fire,4
+Q5283416,D.C. Fire & EMS,4
+Q5283416,D.C. Fire and EMS,4
+Q5283416,DC FEMS,4
+Q5283416,DC Fire,4
+Q5283416,DC Fire & EMS,4
+Q5283416,DC Fire and EMS,4
+Q5283416,DCFD,4
+Q5461316,Department of Corrections Florida,3
+Q5987349,IDOC,1
+Q5999423,IDOC,1
+Q6158155,Consulate-General of Japan in Houston,4
+Q6377960,DOCCS,4
+Q15229227,Consulate-General of Japan in Detroit,2
+Q15733936,San José Fire Department,2
+Q15733936,SJFD,2
+Q16247094,"Canadian Consulate-General, Chicago",1
+Q16247094,Canadian Consulate General in Chicago,1
+Q16247094,"Canadian Consulate General, Chicago",1
+Q16247094,Consulate General of Canada in Chicago,1
+Q16252987,HFD,1
+Q16953633,BMFD,2
+Q16987386,CFD,1
+Q16987386,Cincinnati Division of Fire,1
+Q19854368,Chinese Consulate General in Chicago,2
+Q19854368,"Chinese Consulate General, Chicago",2
+Q19854368,Consulate General of China in Chicago,2
+Q19854368,"Consulate General of the People's Republic of China, Chicago",2
+Q20050604,SCCFD,2
+Q20688008,"Consulate-General of China, San Francisco",2
+Q24060908,Maryland Department of Health and Mental Hygiene,1
+Q28447583,Toledo Fire Department,1
+Q28719616,Norwegian Consulate General in San Francisco,1
+Q30283743,WSDA,1
+Q49166337,Norwegian Consulate General in Houston,2
+Q49166337,"Norwegian Consulate General, Houston",2
+Q49167127,Norwegian Consulate General in New York,0
+Q56042493,Consulate-General of Japan in Agana,2
+Q56042493,Consulate-General of Japan in Hagatna,2
+Q56042493,"Consulate-General of Japan, Agana",2
+Q56337517,Consulate General of the Republic of Poland in Houston,1
+Q59290382,British consulate in Miami,0
+Q59290382,"British consulate, Miami",0
+Q59290384,British consulate in New York City,0
+Q59290384,"British consulate, New York City",0
+Q67223790,Consulate of El Salvador in San Francisco,0
+Q100701177,SFHD,0
+Q109938842,San Jose Department of Public Works,0
+Q109938842,San José Department of Public Works,0
+Q109938842,San José Public Works Department,0
+Q110252269,DOTE,0
+Q110252269,CDOTE,0
+Q110252269,Department of Transportation and Engineering,0
+Q6682079,LA Public Health,2
+Q6682079,Los Angeles County Public Health,2
+Q6682079,Los Angeles Public Health,2
+Q6781312,DPSCS,1
+Q6781312,Maryland Department of Public Safety & Correctional Services,1
+Q6879129,MDOC,2
+Q6879551,MODOC,2
+Q6905696,MCFRS,2
+Q6905696,"Montgomery Co., Md. Dept. of Fire & Rescue Services",2
+Q6905696,Montgomery County (Md.). Department of Fire & Rescue Services,2
+Q6905696,Montgomery County (Md.). Dept. of Fire & Rescue Services,2
+Q6905696,Montgomery County Department of Fire and Rescue Services,2
+Q6905696,Montgomery County Fire & Rescue Services,2
+Q6905696,Montgomery County Fire and Rescue Service,2
+Q7003434,Nevada Gaming Commission and State Gaming Control Board,3
+Q7003434,Nevada State Gaming Control Board,3
+Q7010176,New Mexico Health Department,1
+Q7010176,NMDOH,1
+Q7014077,NYS DOH,1
+Q7014077,NYSDOH,1
+Q7054475,North Carolina Department of Human Resources,2
+Q7082191,DOC,1
+Q7082191,ODOC,1
+Q7163705,PADOC,2
+Q7209893,"Polish Consulate General, Chicago",3
+Q7209893,Consulate General of the Republic of Poland in Chicago,3
+Q7209895,"Polish Consulate General, New York",4
+Q7244001,PGFD,1
+Q7413670,SDFD,3
+Q7414030,SFFD,4
+Q7589619,STLFD,1
+Q7884928,UFA,2
+Q7902343,DOC,2
+Q7986844,West Virginia Division of Corrections and Rehabilitation,1
+Q137245,"Ambassade du Canada aux États-Unis à Washington, D.C.",9
+Q137245,"Canadian Chancery, Washington, D.C.",9
+Q137245,"Canadian Embassy, Washington, D.C.",9
+Q137245,"Embassy of Canada in Washington, D.C",9
+Q137245,Embassy of Canada to the United States,9
+Q137245,"Embassy of Canada to the United States, in Washington, D.C.",9
+Q137245,"Embassy of Canada, Washington",9
+Q427818,NRO,29
+Q431120,OICI,7
+Q612276,DIA,28
+Q622899,DEA,41
+Q622899,"Drug Enforcement Administration, Department of Justice",41
+Q643524,DIS,5
+Q643524,DCSA,5
+Q643524,Defense Investigative Service,5
+Q643524,Defense Security Service,5
+Q643524,DSS,5
+Q646899,SMDC,7
+Q646899,U.S. Army Space and Missile Defense Command,7
+Q646899,USASMDC,7
+Q658626,O.S.S.,31
+Q658626,OSS,31
+Q674113,Fish and Wildlife Service,29
+Q674113,U.S. Fish & Wildlife Service,29
+Q674113,U.S. Fish and Wildlife Service,29
+Q674113,USFWS,29
+Q746186,OSHA,15
+Q746186,United States Occupational Safety and Health Administration,15
+Q749381,"Defence Threat Reduction Agency, DTRA",7
+Q749381,DTRA,7
+Q834166,NNSA,10
+Q834166,Nuclear Security Administration,10
+Q843327,DLA,8
+Q852211,Department of Transportation,31
+Q852211,DOT,31
+Q852211,U.S. Department of Transportation,31
+Q852211,USDOT,31
+Q861855,NASS,5
+Q867686,New Jersey Highway Authority,2
+Q900525,OPIC,6
+Q908666,Port Authority,22
+Q908666,PANY,22
+Q908666,PANYNJ,22
+Q908666,Port of New York Authority,22
+Q908666,The Port Authority,22
+Q908666,The Port Authority of New York and New Jersey,22
+Q918528,ECA,6
+Q967276,LPC,9
+Q967276,Landmarks Preservation Commission (New York City),9
+Q967276,NYC Landmarks Preservation Commission,9
+Q1010540,"Bureau of Ocean Energy Management, Regulation and Enforcement",6
+Q1010540,MMS,6
+Q1010548,Bureau of Reclamation,8
+Q1010548,U.S. Bureau of Reclamation,8
+Q1010548,United States Reclamation Service,8
+Q1010548,USBR,8
+Q1010549,BuShips,4
+Q1026794,ARB,5
+Q1026794,CARB,5
+Q1034699,United States Capitol Police Board,3
+Q1057860,NYSP,7
+Q1058767,DOT,10
+Q1058767,NYC DOT,10
+Q1058767,NYCDOT,10
+Q1063818,ONR,8
+Q1092234,CSR,1
+Q1092234,Cincinnati Southern Railroad,1
+Q1137023,CEA,20
+Q1137023,United States Council of Economic Advisers,20
+Q1137023,USCEA,20
+Q1137074,CIC,10
+Q1137074,Counter Intelligence Corps,10
+Q1153779,NCC,13
+Q1153779,NCTC,13
+Q1153779,Counterterrorism Center,13
+Q1182613,DeCA,7
+Q1182613,United States Defense Commissary Agency,7
+Q1266735,NEIC,2
+Q1267104,Bureau of Prohibition,6
+Q1267104,Prohibition unit,6
+Q1284039,NIEHS,3
+Q1284039,The National Institute of Environmental Health Sciences (NIEHS),3
+Q1296491,NGA,20
+Q1296491,NIMA,20
+Q1296491,National Imagery and Mapping Agency,20
+Q1321035,USSC,3
+Q1321035,Sanitary Commission (U.S.),3
+Q1321035,Sanitary Commission of the United States Army,3
+Q1321035,Sanitary Committee (U.S.),3
+Q1321035,Sanitation Commission (U.S.),3
+Q1321035,U.S. Sanitary Commission,3
+Q1322743,MDA,17
+Q1355327,EOP,29
+Q1355327,White House,29
+Q1355327,The White House,29
+Q1355327,EOPOTUS,29
+Q1355327,Executive Office of the President,29
+Q1456861,SCVTA,6
+Q1456861,Valley Transportation Authority,6
+Q1456861,VTA,6
+Q1467508,Wisconsin DNR,2
+Q1498457,Army Security Agency,2
+Q1498457,USASA,2
+Q1536750,United States War Production Board,11
+Q1574977,Office of the Special Trade Representative,17
+Q1574977,United States Trade Representative,17
+Q1574977,USTR,17
+Q1574977,ustr.gov,17
+Q1630740,OWI,14
+Q1772201,C.A.A.F.,4
+Q1772201,USCAAF,4
+Q1894232,New York (N.Y.). Department of Parks and Recreation,11
+Q1894232,New York City Department of Parks & Recreation,11
+Q1894232,New York City Parks and Recreation Department,11
+Q1894232,New York City Parks Department,11
+Q1894232,NYC Parks,11
+Q1967022,NCD,3
+Q1967350,NHTSA,12
+Q2015755,New York City Emergency Management,2
+Q2015755,NYCEM,2
+Q2015771,OST,2
+Q2015771,National Nuclear Security Administration Office of Secure Transportation,2
+Q2015771,NNSA OST,2
+Q2015776,"Department of Energy, Office of Scientific and Technical Information",4
+Q2015776,OSTI,4
+Q2015776,"United States Department of Energy, Office of Scientific and Technical Information",4
+Q2015776,"US Department of Energy, Office of Scientific and Technical Information",4
+Q2015783,OSI,3
+Q2019506,EAP,6
+Q2061000,APF,14
+Q2232634,National Economic Council,14
+Q2232634,NEC,14
+Q2249117,CHP,13
+Q3268182,NTP,5
+Q3316848,French Mission to the United Nations,3
+Q7700029,TBI,3
+Q7890865,USPC,1
+Q7890865,Parole Commission,1
+Q7890865,U.S. Parole Commission,1
+Q7890865,United States Board of Parole,1
+Q13426940,CIA Station in South Korea,1
+Q13426940,CIA Station Seoul,1
+Q16986841,Freedom Transit,1
+Q18151151,Santa Clara County Parks,1
+Q18151151,Santa Clara County Parks Department,1
+Q18619728,Webb County - Laredo RMA,1
+Q19601572,CTIIC,1
+Q19863721,Great Parks,2
+Q19863721,Hamilton County Park District,2
+Q22222677,ODNI,2
+Q46750735,MPRB,1
+Q46750735,Minneapolis Park & Recreation Board,1
+Q46750735,Minneapolis Park Board,1
+Q56326903,Russian Mission to the United Nations,4
+Q58810871,NCSC,0
+Q58810871,National Counter Intelligence and Security Center,0
+Q58810871,The National Counterintelligence and Security Center,0
+Q66118475,Hamilton County EMA,0
+Q66118475,Hamilton County EMHSA,0
+Q73460158,Consulate of El Salvador in Los Angeles,0
+Q73460158,Salvadoran Consulate General in Los Angeles,0
+Q84689744,Consulate-General of Japan in Los Angeles,2
+Q84732422,SLCFD,1
+Q84760380,Consulate-General of Japan in New York,1
+Q90137866,"Consulate General of Japan, Miami",1
+Q90137866,Consulate-General of Japan in Miami,1
+Q96210973,Magnolia Fire Deparment,0
+Q97592714,Consulate General of the People's Republic of China in Houston,6
+Q97592714,Consulate-General of China in Houston,6
+Q97592714,Consulate-General of the People's Republic of China in Houston,6
+Q98520098,Columbia Hose Volunteer Fire Company,0
+Q98843963,Swiss Consulate San Francisco,0
+Q98844005,Swiss Consulate Atlanta,0
+Q100817565,California State Department of Health Services,0
+Q100817565,State Department of Health Services,0
+Q103899794,Permanent Mission of the Democratic People's Republic of Korea to the United Nations,1
+Q106760911,IDB,0
+Q106760911,IDBCNO,0
+Q106760911,Industrial Development Board of New Orleans,0
+Q106760911,"Industrial Development Board of the City of New Orleans, LA, Inc.",0
+Q108756175,Consulate General of Hungary in Chicago,0
+Q108756175,Hungarian consulate in Chicago,0
+Q108872078,NCPRD,0
+Q108872078,North Clackamas Parks and Recreation District,0
+Q110064391,Jackson CCB,0
+Q3331518,U.S. Customs,6
+Q3331518,U.S. Customs Service,6
+Q3331518,United States Customs,6
+Q3331518,US Customs,6
+Q3331518,US Customs Service,6
+Q3336854,NCHS,4
+Q3337217,NAVOCEANO,2
+Q3367987,Office of Policy Planning,7
+Q3367987,Policy Planning Council,7
+Q3367987,S/P,7
+Q3370543,ONDCP,6
+Q3370543,U.S. Office of National Drug Control Policy,6
+Q3370543,United States Office of National Drug Control Policy,6
+Q3370543,White House Office of National Drug Control Policy,6
+Q3374782,PHMC,2
+Q3402412,PEPFAR,6
+Q3423544,RTA,2
+Q3448657,NASA OIG,2
+Q3448657,"Office of Inspector General, National Aeronautics and Space Administration",2
+Q3480437,U.S. Foreign Service,4
+Q3480437,Foreign Service,4
+Q3480437,US Foreign Service,4
+Q3492612,SPAWAR,3
+Q3562735,VDAP,2
+Q4116375,EBRPD,3
+Q4754143,Anderson Township Park District,1
+Q4998368,ECA,3
+Q4998368,BECA,3
+Q4998368,United States Bureau of Educational and Cultural Affairs,3
+Q4998368,United States Bureau of Educational & Cultural Affairs,3
+Q4998368,U.S. Department of State's Bureau of Educational and Cultural Affairs,3
+Q4998368,US Department of State's Bureau of Educational and Cultural Affairs,3
+Q4998408,Office of Foreign Building Operations,1
+Q4998415,PRD,1
+Q4998415,Bureau of Population Refugees and Migration,1
+Q4998415,"Bureau of Population, Refugees and Migration",1
+Q5020421,California Department of Fish and Game,3
+Q5020422,CDF,8
+Q5020422,CA Department of Fire Protection,8
+Q5020422,CA Department of Forestry and Fire Protection,8
+Q5020422,CAL FIRE,8
+Q5020422,CALFIRE,8
+Q5020422,California Department of Fire Protection,8
+Q5020422,California Department of Forestry,8
+Q5020424,California Department of Health Services,3
+Q5020424,California Dept. of Health Services,3
+Q5020424,California Health Care Services,3
+Q5020424,California Health Services,3
+Q5020426,HCD,2
+Q5020426,Department of Housing and Community Development,2
+Q5020436,DOR,2
+Q5020436,California DOR,2
+Q5020436,D O R,2
+Q5020471,Energy Resources Conservation and Development Commission,2
+Q5020471,State of California Energy Commission,2
+Q5020478,Cal Expo,1
+Q5061268,CIA Office of Inspector General,2
+Q5061268,CIA OIG,2
+Q5061268,"Office of Inspector General, Central Intelligence Agency",2
+Q5120284,Cincinnati Board of Park Commissioners,1
+Q5260339,DHS OIG,1
+Q5260339,"Office of Inspector General, Department of Homeland Security",1
+Q5260339,United States Department of Homeland Security Office of Inspector General,1
+Q5351778,EPIC,1
+Q5388326,Erie County Metropolitan Park District,1
+Q5547471,GEMA,1
+Q5547471,GEMA/HS,1
+Q5547471,Georgia Emergency Management Agency,1
+Q6806274,MBC,1
+Q6806274,California Medical Board,1
+Q6824663,Columbus and Franklin County Metro Parks,2
+Q6824663,Columbus Metro Parks,2
+Q6824663,Franklin County Metropolitan Park District,2
+Q6824663,Metro Parks,2
+Q6824877,Metroparks of the Toledo Area,1
+Q7338468,RivCoParks,1
+Q110064391,Jackson County Conservation Board,0
+Q110072482,Maryland State Parks,0
+Q110220393,MPB,0
+Q110853416,General Consulate of Spain in New York,0
+Q110880381,State Board of Healing Arts,0
+Q111040768,Ukrainian Mission to the United Nations,0
+Q111040768,Permanent Mission of Ukraine to the United Nations in New York,0
+Q5102479,CCTA,1
+Q5154898,CT,4
+Q5154898,Comm Trans,4
+Q5154898,SCPTBA Transit,4
+Q5154898,Snohomish County Public Transportation Benefit Area Corporation,4
+Q5177880,COLTS,1
+Q5259601,DCTA,1
+Q5316462,DATA,2
+Q5316462,Durham Area Transit Authority,2
+Q5369567,"Embassy of Belarus, Washington",4
+Q5369567,"Embassy of Belarus, Washington DC",4
+Q5369567,"Embassy of Belarus, Washington, D.C.",4
+Q5369579,"Embassy of Botswana in Washington, D.C.",6
+Q5369602,Embassy of Cape Verde in the United States,3
+Q5369602,"Embassy of Cape Verde in Washington, D.C.",3
+Q5369674,Embassy of El Salvador in the United States of America,5
+Q5369674,Embassy of El Salvador in Washington D.C.,5
+Q5369674,Salvadoran Embassy in the United States of America,5
+Q5369674,Salvadoran Embassy in Washington D.C.,5
+Q5376177,Endless Mountains Transportation Authority,1
+Q5388327,EMTA,2
+Q5522428,Gardena Municipal Bus Lines,1
+Q5547691,GRTA,1
+Q5600523,RTA,2
+Q5600523,GDRTA,2
+Q5600523,Greater Dayton RTA,2
+Q5600523,Miami Valley Regional Transit Authority,2
+Q5600523,Miami Valley RTA,2
+Q5604466,GTA,1
+Q5646293,HRT,1
+Q5665214,Harrisburg Authority,1
+Q5763656,Hillsborough Transit Authority,1
+Q5763656,Hillsborough Area Regional Transit Authority,1
+Q5916094,HACLA,1
+Q6023124,IndiGO,1
+Q6143108,MATA,6
+Q6317384,Miami Dade Transit,6
+Q6364652,KCATA,1
+Q6411393,Metro,3
+Q6411393,King County Metro Transit Department,3
+Q6518871,LANTA,2
+Q6724881,MTA,1
+Q6824746,Kalamazoo Metro Transit,1
+Q6824746,Kmetro,1
+Q6824747,Metro Transit,2
+Q6840978,MMVTA,1
+Q6966980,Nashville Metropolitan Transit Authority,2
+Q6966980,Nashville MTA,2
+Q6966980,WeGo,2
+Q7414072,San Francisco MTA,4
+Q7414072,SFMTA,4
+Q7419232,MTD,2
+Q7419232,SB MTD,2
+Q7571329,SORTA,3
+Q7587568,SCCTD,1
+Q7814150,TARTA,1
+Q7834339,TANK,3
+Q7889737,Department of Justice Office of the Inspector General,1
+Q7889737,DOJ OIG,1
+Q7889737,Justice OIG,1
+Q7889737,"Office of the Inspector General, Department of Justice Office of the Inspector General",1
+Q7889737,"Office of the Inspector General, United States Department of Justice Office of the Inspector General",1
+Q7889743,DOL OIG,1
+Q7889743,"U.S. Department of Labor, Office of Inspector General",1
+Q7891188,USPS OIG,1
+Q16845157,HACM,1
+Q16845157,Milwaukee Housing Authority,1
+Q16986373,Defense OIG,1
+Q16986373,DoD OIG,1
+Q16986373,DoDIG,1
+Q16986373,"Office of Inspector General, Department of Defense",1
+Q16986373,"Office of Inspector General, U.S. Department of Defense",1
+Q16986373,"Office of the Inspector General, Department of Defense",1
+Q16986373,"Office of the Inspector General, United States Department of Defense",1
+Q16986373,U.S. Department of Defense Office of the Inspector General,1
+Q16986373,"U.S. Department of Defense, Office of the Inspector General",1
+Q30267155,OIG,0
+Q30267155,NSF OIG,0
+Q30288426,PGC,0
+Q30288426,PGC Health Department,0
+Q33121302,OIG,1
+Q33121302,"U.S. Department of Energy, Office of Inspector General",1
+Q33121302,Energy OIG,1
+Q42205885,Board of Health of Philadelphia,0
+Q49330957,Mt. Baker Ranger District,1
+Q60172298,Department of the Treasury Office of Inspector General,1
+Q60172298,"U.S. Department of the Treasury, Office of Inspector General",1
+Q60172308,Department of the Interior Office of Inspector General,1
+Q60172308,DOI OIG,1
+Q60172308,"U.S. Department of the Interior, Office of Inspector General",1
+Q60172315,Department of Agriculture Office of Inspector General,1
+Q60172315,"Office of Inspector General, Department of Agriculture",1
+Q60172315,"U.S. Department of Agriculture, Office of Inspector General",1
+Q60172315,United States Department of Agriculture Office of Inspector General,1
+Q60172315,USDA OIG,1
+Q64245707,Lake MHA,0
+Q97499658,HACA,0
+Q103414713,HACE,0
+Q107358719,WPFD,0
+Q109389004,Ckackamas Fire,0
+Q110420787,JHA,0
+Q680822,AFSA,2
+Q811595,HUD,29
+Q811595,Department of Housing and Urban Development,29
+Q811595,Housing and Urban Development Department,29
+Q811595,U.S. Department of Housing and Urban Development,29
+Q1683269,"Embassy of Japan in Washington, D.C.",9
+Q1770892,Embassy of Algeria in Washington,7
+Q1770926,Embassy of the United Arab Emirates to the United States of America,4
+Q1770926,"UAE Embassy, Washington",4
+Q2037863,SEPTA,17
+Q2326941,MARCOM,6
+Q2495435,Sentencing Commission,5
+Q2495435,U.S. Sentencing Commission,5
+Q2495435,USSC,5
+Q2579238,The Institute of Heraldry,7
+Q2579238,"The Institute of Heraldry, U.S. Army",7
+Q2579238,TIOH,7
+Q2579238,U.S. Army Institute of Heraldry,7
+Q2579238,United States Army Institute of Heraldry,7
+Q2579238,USAIOH,7
+Q2671637,UN DESA,16
+Q2822407,Quantico,11
+Q2841817,"Embassy of Monaco in Washington, D.C.",4
+Q2928358,GPO,12
+Q2928358,United States Government Printing Office,12
+Q2928358,Government Printing Office (U.S.),12
+Q2928358,Government Publishing Office,12
+Q2928358,U. S. G. P. O.,12
+Q2928358,U. S. Government Printing Office,12
+Q2928358,U.S. Government Printing Office,12
+Q2928358,U.S. Government Publishing Office,12
+Q2928358,US Government Printing Office,12
+Q2928358,US GPO,12
+Q2928358,USGPO,12
+Q2928428,BLS,11
+Q2928428,U.S. Bureau of Labor Statistics,11
+Q2933412,California Public Employees' Retirement System,5
+Q2933976,California State Parks,5
+Q2974880,CCRB,2
+Q3044723,Department of Ecology (Washington State),2
+Q3044723,Washington State Department of Ecology,2
+Q3055447,ESSA,3
+Q3067861,FWP,10
+Q3067861,WPA Federal Art Project,10
+Q3120094,DCPS,6
+Q3120094,D.C. Public Schools,6
+Q3120094,DC Public Schools,6
+Q3120094,Public Schools of the District of Columbia,6
+Q3259702,Metro,11
+Q3259702,MTA,11
+Q3259702,LA Metro,11
+Q3259702,LACMTA,11
+Q3471406,MTS,4
+Q3471406,SDMTS,4
+Q3537637,TARC,3
+Q3553869,Valley Metro Regional Public Transportation Authority,2
+Q3673184,EEOC,7
+Q3673184,United States Equal Employment Opportunity Commission,7
+Q3704710,Defense Security Assistance Agency,8
+Q7079243,Inspector General of the U.S. Agency for International Development,1
+Q7079243,"Office of Inspector General, Agency for International Development",1
+Q7079243,USAID OIG,1
+Q7079244,DHHS OIG,1
+Q7079244,HHS OIG,1
+Q7079372,State OIG,1
+Q7099595,OCTA,2
+Q7230500,PAT,1
+Q7230500,PAAC,1
+Q7230500,PATransit,1
+Q7235095,OmniRide,2
+Q7304963,RRTA,3
+Q7309183,RTD,5
+Q7320944,RIPTA,1
+Q7339865,RFTA,2
+Q7407040,San Mateo County Transit District,4
+Q3916717,"Embassy of Republic of Korea, Washington",6
+Q3916717,"Embassy of Republic of Korea, Washington, D.C.",6
+Q3916717,"Embassy of South Korea in Washington, D.C.",6
+Q3916717,"Embassy of South Korea, Washington",6
+Q3916717,"Embassy of South Korea, Washington, D.C.",6
+Q3916717,Embassy of the Republic of Korea in Washington,6
+Q3916717,"Embassy of the Republic of Korea in Washington, D.C.",6
+Q3965367,ST,8
+Q3965367,Central Puget Sound Regional Transit Authority,8
+Q3965367,SoundTransit,8
+Q4353850,Alameda-Contra Costa Transit District,5
+Q4373983,"British Embassy, Washington",7
+Q4373983,"Embassy of the United Kingdom in Washington, D.C.",7
+Q4373983,British Embassy Washington,7
+Q4731297,ALCOSAN,2
+Q4742476,VISTA,3
+Q4742476,Volunteers in Service to America,3
+Q4771209,AVTA,2
+Q4791292,DES,1
+Q4791292,Arizona DES,1
+Q4791773,DHS,2
+Q4791773,Girls Industrial School,2
+Q4793847,ACDA,5
+Q4793847,U.S. Arms Control and Disarmament Agency,5
+Q4793847,United States Arms Control and Disarmament Agency,5
+Q4809647,ABAG,1
+Q4816087,Housing Authority of the City of Atlanta,1
+Q4828668,ASRS,2
+Q4828668,ASRS Database Online,2
+Q4873900,BAAQMD,1
+Q4877457,BJWSA,1
+Q4892231,BARTA,2
+Q5005924,C-TRAN,3
+Q5005924,Clark County Public Transit Benefit Area Authority,3
+Q5024799,Cambria County Transit Authority,1
+Q5035468,CAT,1
+Q5035468,Cumberland-Dauphin-Harrisburg Transit Authority,1
+Q5035474,CATA,3
+Q5061543,COTA,1
+Q5062227,CATA,1
+Q5086235,Charlottesville Transit Service,1
+Q8333,FBI,101
+Q8333,F.B.I.,101
+Q204711,FDA,51
+Q204711,U.S. Food and Drug Administration,51
+Q204711,United States Food and Drug Administration,51
+Q204711,US Food and Drug Administration,51
+Q204711,USFDA,51
+Q194984,INS,11
+Q194984,Immigration & Naturalization Service,11
+Q194984,U.S. Immigration and Naturalization Service,11
+Q194984,United States Immigration and Naturalization Service,11
+Q194984,USINS,11
+Q11224,United States Coast Guard,46
+Q11224,USCG,46
+Q11224,U.S. Coast Guard,46
+Q11224,"United States Coast Guard, USCG",46
+Q11224,US Coast Guard,46
+Q117309,CTA,11
+Q187954,Border Patrol,10
+Q187954,U.S. Border Patrol,10
+Q187954,USBP,10
+Q193755,U.S. Geological Survey,48
+Q193755,US Geological Survey,48
+Q193755,Geological Survey,48
+Q193755,USGS,48
+Q193755,U. S. G. S.,48
+Q193755,United States. Department of the Interior. Geological Survey,48
+Q193755,United States. Dept. of the Interior. Geological Survey,48
+Q214700,NOAA,42
+Q434371,ATF,32
+Q434371,ATFE,32
+Q434371,"Bureau of Alcohol, Tobacco and Firearms",32
+Q434371,"Alcohol, Tobacco, Firearms and Explosives Bureau",32
+Q455289,BIS,7
+Q455289,USBIS,7
+Q474305,US Federal Housing Administration,6
+Q476322,PHS,13
+Q476322,Public Health Service,13
+Q476322,U.S. Public Health Service,13
+Q476322,U.S. PHS,13
+Q476322,US Public Health Service,13
+Q503010,FEMA,32
+Q214700,National Oceanic & Atmospheric Administration,42
+Q214700,United States National Oceanic and Atmospheric Administration,42
+Q261788,NMFS,11
+Q261788,NOAA Fisheries,11
+Q261788,NOAA National Marine Fisheries Service,11
+Q287331,Alhurra TV,13
+Q308439,NPS,42
+Q308439,National Park Service of the United States,42
+Q308439,"National Park Service, NPS",42
+Q308439,National Parks Service,42
+Q308439,United States National Park Service,42
+Q308439,United States Parks Service,42
+Q335357,FAA,44
+Q335357,Federal Aviation Administration USA,44
+Q335357,U.S. Federal Aviation Administration,44
+Q335357,United States Federal Aviation Administration,44
+Q335357,US Federal Aviation Administration,44
+Q368804,CBP,22
+Q368804,U.S. Customs,22
+Q368804,United States Customs,22
+Q368804,United States Customs and Border Protection,22
+Q368804,USCBP,22
+Q390551,NIH,39
+Q390551,National Institutes of Health (U.S.),39
+Q390551,U.S. National Institutes of Health,39
+Q390551,US National Institutes of Health,39
+Q503010,U.S. FEMA,32
+Q503010,United States Federal Emergency Management Agency,32
+Q503224,USSS,38
+Q503224,US Secret Service,38
+Q511243,CNCS,6
+Q511243,Corporation for National and Community Service,6
+Q525895,GGT,4
+Q583725,CDC,44
+Q583725,CDC Organization,44
+Q583725,Center for Disease Control,44
+Q583725,Centers for Disease Control,44
+Q583725,Centers for Disease Control and Prevention (CDC),44
+Q583725,"Centers for Disease Control and Prevention, U.S.",44
+Q583725,The CDC,44
+Q583725,The Centers for Disease Control and Prevention,44
+Q583725,U.S. Centers for Disease Control and Prevention,44
+Q637413,Census Bureau,60
+Q637413,U.S. Census Bureau,60
+Q637413,US Census Bureau,60
+Q841737,FRC,8
+Q934866,U.S. Marshals,32
+Q934866,U.S. Marshals Service,32
+Q934866,USMS,32
+Q943091,ICE,22
+Q943091,BICE,22
+Q943091,Bureau of Immigration and Customs Enforcement,22
+Q943091,Immigration and Customs Enforcement,22
+Q943091,United States Immigration & Customs Enforcement,22
+Q943091,US Immigration & Customs Enforcement,22
+Q943091,US Immigration and Customs Enforcement,22
+Q943091,USICE,22
+Q1140138,Muni,17
+Q1140138,San Francisco Muni,17
+Q1140138,SF Muni,17
+Q1146109,MTA,20
+Q1325591,MTA New York City Transit,16
+Q1325591,NYCTA,16
+Q1325591,The New York City Transit Authority,16
+Q1325591,The TA,16
+Q1400015,BOP,16
+Q1400015,FBOP,16
+Q1400015,United States Bureau of Prisons,16
+Q1400015,USBOP,16
+Q605702,ORI,4
+Q605702,Office of Research Integrity,4
+Q628807,DOL,31
+Q628807,Department of Labor,31
+Q628807,U.S. Department of Labor,31
+Q628807,US Department of Labor,31
+Q635012,AOC,10
+Q1400066,U.S. Federal Reserve Police,4
+Q1400066,United States Federal Reserve Police,4
+Q1423792,MARTA,21
+Q1431587,USACIDC,11
+Q1433563,PFPA,11
+Q1694727,ssrc.org,6
+Q1694727,ssrc.org/,6
+Q1776176,DSS,11
+Q2097315,BCIS,13
+Q2097315,Bureau of Citizenship and Immigration Services,13
+Q2097315,Citizenship and Immigration Services,13
+Q2097315,U.S. Citizenship & Immigration Services,13
+Q2097315,U.S. Citizenship and Immigration Services,13
+Q2097315,USCIS,13
+Q2138272,RTA,2
+Q2138272,NORTA,2
+Q2196924,Indianapolis Public Transportation Corporation,4
+Q2495322,Department of Veterans Affairs Police,3
+Q2495322,U.S. Department of Veterans Affairs Police,3
+Q2495411,USPIS,5
+Q2495411,U.S. Postal Inspection Service,5
+Q1789541,Capitol Police,17
+Q1789541,U.S. Capitol Police,17
+Q1789541,USCP,17
+Q1891156,Forest Service,23
+Q1891156,U.S. Forest Service,23
+Q1891156,US Forest Service,23
+Q1891156,USDA Forest Service,23
+Q1891156,USFS,23
+Q1935975,MCTS,2
+Q2005254,The United States Park Police,10
+Q5449587,FCEN,15
+Q5449587,FinCEN,15
+Q5973599,Internal Revenue Service Criminal Investigation Division,2
+Q5973599,IRS-CI,2
+Q5973599,IRS Criminal Investigation Division,2
+Q6974617,National Oceanic and Atmospheric Administration Fisheries Office for Law Enforcement,1
+Q6974617,National Oceanic and Atmospheric Administration Fisheries Office of Law Enforcement,1
+Q6974617,NOAA Office of Law Enforcement,1
+Q6974617,NOAA OLE,1
+Q16932143,AmeriCorps NCCC,2
+Q16932143,NCCC,2
+Q16966072,United States Office of Tax Policy,1
+Q16966797,WIB,5
+Q16985074,HHFA,1
+Q16985074,United States Housing and Home Finance Agency,1
+Q17072404,OWH,2
+Q17984993,Greater Washington National Parks,3
+Q17984993,National Capital Parks,3
+Q17984993,National Capital Regional Office,3
+Q17984993,NPS National Capital Region,3
+Q17984993,Region 1: National Capital Area,3
+Q17984993,U.S. NPS National Capital Region,3
+Q17984993,United States National Park Service National Capital Region,3
+Q17984993,US NPS National Capital Region,3
+Q20895097,NESDIS,4
+Q20895097,NOAA Satellite and Information Service,4
+Q20895097,N.E.S.D.I.S.,4
+Q20895097,"National Earth Satellite, Data, and Information Service",4
+Q20895097,"National Environmental Satellite, Data, & Information Service",4
+Q20895097,NOAA Satellite & Information Service,4
+Q20895097,"United States National Environmental Satellite, Data, and Information Service",4
+Q20895097,"NOAA National Environmental Satellite, Data, and Information Service",4
+Q21015842,National Climatic Data Center,4
+Q21015842,NCEI,4
+Q21015842,NOAA National Centers for Environmental Information,4
+Q21015842,NOAA NCEI,4
+Q22907212,NVC,1
+Q22907212,CA/VO/DO/NVC,1
+Q25047995,PTAB,1
+Q25047995,United States Patent Trial and Appeal Board,1
+Q25047995,Patent Trial & Appeal Board,1
+Q29381045,LL,0
+Q30264160,CDC Office of Public Health Preparedness and Response,0
+Q30264160,OPHPR,0
+Q30264160,PHPR,0
+Q30296718,CDC’s National Center on Birth Defects and Developmental Disabilities,0
+Q30296718,NCBDDD,0
+Q33122150,CSELS,0
+Q43895490,PSC,0
+Q43896279,HHS Secretary,0
+Q43896279,"Office of Secretary, Department of Health and Human Services",0
+Q43896279,United States Department of Health and Human Services Office of the Secretary,0
+Q48964920,NVC,1
+Q48964920,United States National Vetting Center,1
+Q56736570,HAER,1
+Q56736606,HALS,0
+Q60041258,EOIR OCAHO,0
+Q60041258,EOIR Office of the Chief Administrative Hearing Officer,0
+Q60041258,OCAHO,0
+Q60041356,EOIR OCIJ,0
+Q60041356,EOIR Office of the Chief Immigration Judge,0
+Q60041356,OCIJ,0
+Q60172390,Department of Veterans Affairs Office of Inspector General,1
+Q60172390,"Department of Veterans Affairs, Office of Inspector General",1
+Q60172390,"U.S. Department of Veterans Affairs, Office of Inspector General",1
+Q60172390,VA OIG,1
+Q60172481,Amtrak Office of Inspector General,0
+Q60172481,Amtrak OIG,0
+Q60172481,NRPC OIG,0
+Q60172481,"Office of Inspector General, Amtrak",0
+Q60172494,Appalachian Regional Commission Office of Inspector General,0
+Q60172494,ARC OIG,0
+Q60172506,Architect of the Capitol Office of Inspector General ,0
+Q60527158,NARA OIG,0
+Q60527158,National Archives and Records Administration Office of Inspector General,0
+Q60527158,National Archives and Records Administration OIG,0
+Q60527158,National Archives OIG,0
+Q60527158,"Office of Inspector General, National Archives and Records Administration",0
+Q60527326,EXIM OIG,0
+Q60527326,Export-Import Bank of the United States Office of Inspector General,0
+Q60527465,Library of Congress Office of the Inspector General,0
+Q60527465,LOC OIG,0
+Q60528389,CFPB OIG,0
+Q60528389,Federal Reserve OIG,0
+Q60528389,FRS OIG,0
+Q60528389,"Office of Inspector General, Consumer Financial Protection Bureau",0
+Q60528389,"Office of Inspector General, Federal Reserve Board of Governors",0
+Q60528556,AbilityOne Office of Inspector General,0
+Q60528592,CFTC OIG,0
+Q60528592,Commodity Futures Trading Commission Office of Inspector General,0
+Q60528592,"Office of Inspector General, U.S. Commodity Futures Trading Commission",0
+Q60528665,Consumer Product Safety Commission Office of Inspector General,0
+Q60528665,CPSC OIG,0
+Q60528665,"Office of Inspector General, Consumer Product Safety Commission",0
+Q60528665,"Office of Inspector General, United States Consumer Product Safety Commission",0
+Q60528721,AmeriCorps OIG,0
+Q60528721,CNCS OIG,0
+Q60528721,Corporation for National and Community Service Office of Inspector General,0
+Q60650218,GSA OIG,0
+Q60650218,"Office of Inspector General, General Services Administration",0
+Q60650218,"Office of the Inspector General, General Services Administration",0
+Q60650218,"Office of the Inspector General, U.S. General Services Administration",0
+Q60650218,General Services Administration Office of Inspector General,0
+Q60650218,U.S. General Services Administration Office of Inspector General,0
+Q62073210,PHA,0
+Q62073210,Federal Public Housing Administration,0
+Q62073210,U.S. Public Housing Administration,0
+Q62073210,United States Public Housing Administration,0
+Q62602269,Emergency Administration of Public Works,0
+Q62602269,U.S. Emergency Administration of Public Works,0
+Q62602269,United States Emergency Administration of Public Works,0
+Q64816718,FEMA OIG,0
+Q64816718,"Office of Inspector General, Federal Emergency Management Agency",0
+Q64864563,KCC,0
+Q64864563,CA/VO/DO/KCC,0
+Q64864563,Department of State Kentucky Consular Center,0
+Q65044112,ICIG,1
+Q65044112,Office of the Inspector General of the Intelligence Community,1
+Q67004301,ROCR,0
+Q67004301,NPS unit Rock Creek Park,0
+Q67004301,Rock Creek Park (US agency),0
+Q67004301,Rock Creek Park administrative unit,0
+Q67004301,Rock Creek Park NPS unit,0
+Q67004301,"Rock Creek Park, National Park Service Unit",0
+Q68213640,National Geospatial Program Office,1
+Q68213640,NGP,1
+Q68213640,NGPO,1
+Q68213640,USGS National Geospatial Program,1
+Q72803481,White River National Forest (Agency),0
+Q85785330,MEBN,2
+Q89805767,PRAC,1
+Q98404967,NCA,0
+Q98461250,NBRC,0
+Q99308318,Cooperative Research Units Program (U.S.),0
+Q99308318,"Cooperative Research Units Program, U.S. Geological Survey",0
+Q99308340,"Pacific Region, U.S. Fish & Wildlife Service",0
+Q99308340,"Pacific Region, United State Fish and Wildlife Service",0
+Q99308340,"Region 1, U.S. Fish & Wildlife Service",0
+Q99308340,"Region 1, U.S. Fish and Wildlife Service",0
+Q99308340,"Region 1, United States Fish and Wildlife Service",0
+Q99308340,U.S Fish and Wildlife Service Region 1,0
+Q99308340,U.S. Fish & Wildlife Service Pacific Region,0
+Q99308340,U.S. Fish & Wildlife Service Region 1,0
+Q99308340,U.S. Fish and Wildlife Service Region 1,0
+Q99308340,U.S. Fish and Wildlife Service Western Region,0
+Q99308340,United States Fish and Wildlife Service Pacific Region,0
+Q99308340,United States Fish and Wildlife Service Western Region,0
+Q99308340,"Western Region, U.S. Fish and Wildlife Service",0
+Q99308340,"Western Region, United States Fish and Wildlife Service",0
+Q100175382,The National Quantum Coordination Office,0
+Q100742530,NCEE,0
+Q100742530,NCEERA,0
+Q2896579,FPS,8
+Q2896579,United States Federal Protective Service,8
+Q2981111,CGIS,9
+Q3374594,FPU,5
+Q3374594,FBI Police,5
+Q4201511,FSI,7
+Q4201511,Foreign Service Institute of the United States,7
+Q4201511,U.S. Foreign Service Institute,7
+Q4201511,United States Foreign Service Institute,7
+Q4234215,CNCS,5
+Q4234215,Corporation for National & Community Service,5
+Q4476399,OJP,3
+Q4476399,United States Office of Justice Programs,3
+Q4653936,Advanced Regional Traffic Interactive Management and Information System,1
+Q4653936,SmarTraveler,1
+Q4682988,APA,2
+Q4689748,ADF,3
+Q4689748,African Development Foundation,3
+Q4689748,USADF,3
+Q4689842,ALMA,3
+Q4705239,Alabama Department of Agriculture and Industries (AGI),1
+Q4707642,MassHighway,1
+Q4708526,Alaska Department of Education and Early Development,1
+Q4726456,Office of Alien Property Custodian,2
+Q4731287,ACDPW,1
+Q4731287,Allegheny County Public Works,1
+Q5020659,CLRC,1
+Q5020666,LAO,1
+Q5020668,California Legislative Counsel,1
+Q5020727,OEHHA,3
+Q5153148,CEA,1
+Q5153148,U.S. Commodity Exchange Authority,1
+Q5153148,United States Commodity Exchange Authority,1
+Q5154722,CDFI Fund,1
+Q5154722,CDFIF,1
+Q5154836,Community Oriented Policing Services Program,1
+Q5154836,COPS Office,1
+Q5154836,COPS Program,1
+Q5154836,Office of Community Oriented Policing Services,1
+Q5154852,CRS,1
+Q5154852,DOJ CRS,1
+Q5167909,CSREES,1
+Q5169222,CARP,1
+Q5178266,CSOSA,2
+Q5369885,"Embassy of Syria in Washington, D.C.",4
+Q5369886,"Embassy of Tajikistan in Washington, D.C.",3
+Q5369939,Embassy of the Philippines to the United States,5
+Q104815278,United States Department of Commerce Civil Aeronautics Administration,0
+Q105255471,RSPA,0
+Q106171735,United States Naval Audit Service,0
+Q106615826,United States Defense Digital Service,0
+Q107343285,NAC,0
+Q107343285,National Agroforestry Center (U.S.),0
+Q107343285,U.S. National Agroforestry Center,0
+Q107343285,United States Department of Agriculture National Agroforestry Center,0
+Q107343285,United States National Agroforestry Center,0
+Q107343285,US National Agroforestry Center,0
+Q107343285,USDA National Agroforestry Center,0
+Q107343285,USDA-NAC,0
+Q107553914,Mount Adams Ranger District,0
+Q107553914,Mt Adams Ranger District,0
+Q108547864,NESC,0
+Q108734254,Mount Hood National Forest (Agency),0
+Q108886683,DHS Office of the General Counsel,0
+Q108886683,"Office of the General Counsel, Department of Homeland Security",0
+Q108886683,Department of Homeland Security Office of General Counsel,0
+Q108886683,DHS Office of General Counsel,0
+Q108886683,"Office of General Counsel, Department of Homeland Security",0
+Q110315135,National Center for Emerging and Zoonotic Infectious Diseases Division of Foodborne Waterborne and Environmental Diseases,0
+Q110315135,DFWED,0
+Q110435062,CCB,0
+Q110435062,United States Copyright Claims Board,0
+Q110967426,FPISC,0
+Q104760654,CDC Center for Preparedness and Response,0
+Q104760654,CDC Emergency Preparedness and Response,0
+Q104815278,CAA,0
+Q104815278,United States Civil Aeronautics Administration,0
+Q104815278,U.S. Department of Commerce Civil Aeronautics Administration,0
+Q37230,C.I.A.,123
+Q11209,Pentagon,52
+Q11209,DOD,52
+Q11209,DoD,52
+Q11209,Department of Defense,52
+Q11209,Defense Department,52
+Q11209,U.S. Department of Defense,52
+Q11209,US Department of Defense,52
+Q11209,US DOD,52
+Q11209,USDOD,52
+Q11209,defense.gov,52
+Q11700,U.S. Naval Observatory,24
+Q11700,US Naval Observatory,24
+Q11700,USNO,24
+Q37230,CIA,123
+Q60346,NIOSH,19
+Q121194,NSA,72
+Q121194,N.S.A.,72
+Q121194,National Security Agency： NSA,72
+Q121194,United States National Security Agency,72
+Q407064,AETC,12
+Q407064,The First Command,12
+Q407064,USAF AETC,12
+Q408230,NYCDOE,22
+Q181052,ARC,30
+Q181052,NASA Ames,30
+Q207361,ARPA,47
+Q207361,Advanced Research Projects Agency,47
+Q207361,Defense Advanced Research Projects Agency,47
+Q257399,DO,9
+Q257399,Clandestine Service,9
+Q283207,FDNY,24
+Q283207,Fire Department of the City of New York,24
+Q283207,The New York City Fire Department,24
+Q284392,OMB,21
+Q284392,Bureau of the Budget,21
+Q131454,LC,93
+Q131454,LOC,93
+Q131454,Congressional Library,93
+Q131454,LoC,93
+Q131454,loc.gov,93
+Q131454,United States. Library of Congress,93
+Q131454,US Library of Congress,93
+Q664743,AFRICOM,22
+Q664743,USAFRICOM,22
+Q664743,Africa Command,22
+Q664743,U.S. Africa Command,22
+Q679743,MARAD,8
+Q679743,U.S. Maritime Administration,8
+Q749118,GAO,15
+Q749118,General Accounting Office,15
+Q749118,U.S. Government Accountability Office,15
+Q749118,United States General Accountability Office,15
+Q749118,United States General Accounting Office,15
+Q749118,USGAO,15
+Q800112,FHWA,9
+Q1049334,U. S. Army Corps of Engineers,24
+Q1049334,U.S. Army Corps of Engineers,24
+Q1049334,US Army Corps of Engineers,24
+Q1049334,USACE,24
+Q1066823,NWS,22
+Q1066823,United States National Weather Service,22
+Q1125991,CBO,10
+Q612121,OSP,5
+Q612121,LSP,5
+Q612121,Louisiana Office of State Police,5
+Q612121,Office of State Police,5
+Q618604,NACA,34
+Q639738,Cabinet of the United States,43
+Q639738,US Cabinet,43
+Q939090,U.S. Atomic Energy Commission,32
+Q972414,CRS,11
+Q972414,U.S. Congressional Research Service,11
+Q972414,United States Congressional Research Service,11
+Q972414,US Congressional Research Service,11
+Q973587,IRS,27
+Q973587,Agenzia delle Entrate – Ministero dell’Economia e delle Finanze,27
+Q973587,Agenzia delle Entrate Ministero dell'Economia e delle Finanze,27
+Q1010519,Money Factory,13
+Q1010519,Moneyfactory,13
+Q1010519,U.S. Bureau of Engraving and Printing,13
+Q1010519,United States Bureau of Engraving and Printing,13
+Q1010519,US Bureau of Engraving and Printing,13
+Q1010556,BLM,13
+Q1010556,U.S. BLM,13
+Q1010556,U.S. Bureau of Land Management,13
+Q1010556,US BLM,13
+Q1010556,US Bureau of Land Management,13
+Q1010563,Office of Indian Affairs,26
+Q1010563,United States Bureau of Indian Affairs,26
+Q1049334,Army Corps of Engineers,24
+Q1049334,CoE,24
+Q493183,FBIS,7
+Q503577,DOC,41
+Q503577,Commerce,41
+Q503577,Department of Commerce,41
+Q503577,Commerce Department,41
+Q503577,U.S Department of Commerce,41
+Q503577,US Department of Commerce,41
+Q607374,Naval Ice Center,5
+Q611833,NLM,37
+Q611833,National Library of Medicine,37
+Q611833,U.S. National Library of Medicine,37
+Q611833,USNLM,37
+Q1133499,EIA,14
+Q1133499,U.S. Energy Information Administration,14
+Q1133499,USEIA,14
+Q1148422,BGN,17
+Q1148422,Board on Geographic Names,17
+Q1148422,U. S. B. G. N.,17
+Q1148422,U.S. Board on Geographic Names,17
+Q1148422,US BGN,17
+Q1148422,US Board on Geographic Names,17
+Q1148422,USBGN,17
+Q1443033,BEA,10
+Q1443033,U.S. BEA,10
+Q1443033,U.S. Bureau of Economic Analysis,10
+Q1443033,United States Bureau of Economic Analysis,10
+Q1443033,USBEA,10
+Q1459541,PTO,22
+Q1459541,U.S. Patent Office,22
+Q1459541,USPTO,22
+Q1465252,DAF,16
+Q1465252,Department of the Air Force,16
+Q1465252,U.S. Department of the Air Force,16
+Q1465252,US Department of the Air Force,16
+Q861556,ED,35
+Q861556,Department of Education,35
+Q861556,Dept. of Ed.,35
+Q861556,DoED,35
+Q861556,U. S. Department of Education,35
+Q861556,U.S. Department of Education,35
+Q861556,US Department of Education,35
+Q861556,USDOE,35
+Q913956,HDP,3
+Q913956,Heritage Documentation Programs of the National Park Service,3
+Q939090,AEC,32
+Q939090,Atomic Energy Commission of the United States,32
+Q4693909,AMS,1
+Q4693909,United States Agricultural Marketing Service,1
+Q4693909,USDA AMS,1
+Q4764929,Wildlife Services,5
+Q4764929,Animal and Plant Health Service,5
+Q4764929,APHIS,5
+Q4793007,AFRH,2
+Q4914965,Biological Resources Discipline,1
+Q4914965,Geological Survey Biological Resources Division,1
+Q4914965,U.S. Geological Survey Biological Resource Discipline,1
+Q4914965,U.S. Geological Survey Biological Resources Discipline,1
+Q4914965,United States Geological Survey Biological Resources Division,1
+Q4914965,USGS Biological Resources Discipline,1
+Q4914965,USGS Biological Resources Division,1
+Q4914965,USGS-BRD,1
+Q4915100,BARDA,9
+Q4915100,Office of the Biomedical Advanced Research and Development Authority,9
+Q4931336,BIA,1
+Q4931336,United States Board of Immigration Appeals,1
+Q4931336,USBIA,1
+Q4948055,BRA,2
+Q4948055,Boston Planning and Development Agency,2
+Q4948055,Boston Redevelopment Authority,2
+Q4948055,BPDA,2
+Q4998358,Department of State Bureau of Consular Affairs,2
+Q4998358,DoS CA,2
+Q4998358,DOS/CA,2
+Q4998358,United States Bureau of Consular Affairs,2
+Q4998358,"U.S. Department of State, Consular Affairs",2
+Q4998361,Bureau of Counterterrorism and Countering Violent Extremism,3
+Q4998369,U.S. Bureau of Entomology,2
+Q4998369,United States Bureau of Entomology,2
+Q4998417,BPHC,1
+Q5020762,CPEC,1
+Q5020892,CPUC,2
+Q5021111,CSWRCB,1
+Q5021111,SWRCB,1
+Q5031412,cancer.gov,1
+Q5031412,1-800-4-CANCER,1
+Q5031412,National Cancer Institute Contact Center,1
+Q5031412,NCI Contact Center,1
+Q5031412,www.cancer.gov,1
+Q5034793,Wave,1
+Q5034793,Wave Transit,1
+Q5059585,CDRH,1
+Q5059599,EROS,3
+Q5059599,EROS Data Center,3
+Q5059800,CNPP,1
+Q5060058,CMS,6
+Q5060058,Centers for Medicare & Medicaid Services,6
+Q5060058,"Centers for Medicare & Medicaid Services (CMS), HHS",6
+Q5060058,Health Care Financing Administration,6
+Q6954837,United States National Oceanic and Atmospheric Administration Central Library,3
+Q6954837,US-mdssnoaa,3
+Q6971258,NACE,2
+Q6971258,National Capital Parks - East,2
+Q6973606,NIAMS,2
+Q6973606,"National Institute of Arthritis, Musculoskeletal and Skin Diseases",2
+Q7058204,NCPA,1
+Q7079194,FAA AST,1
+Q7079213,Office of Energy Efficiency & Renewable Energy,4
+Q7079213,EERE,4
+Q7079213,United States Department of Energy Office of Energy Efficiency and Renewable Energy,4
+Q7079213,U.S. Department of Energy Office of Energy Efficiency and Renewable Energy,4
+Q7079227,Department of the Treasury Fiscal Service,1
+Q7079227,Department of the Treasury Office of Fiscal Service,1
+Q7079227,Fiscal Service,1
+Q7079227,United States Department of the Treasury Fiscal Service,1
+Q7079239,OIS,1
+Q7079239,United States Office of Immigration Statistics,1
+Q7079289,U.S. Office of Price Administration,3
+Q7079289,United States Office of Price Administration,3
+Q7258743,National Library of Puerto Rico,6
+Q7401634,Saint Lawrence Seaway Development Corporation,3
+Q7401634,SLSDC,3
+Q7413593,Comprehensive Planning Organization,1
+Q7413593,SANDAG,1
+Q7413987,SFCTA,1
+Q7444838,Secure Communities and administrative immigration policies,1
+Q7444838,Secure Communities Program,1
+Q7692553,Department of Technology Administration,3
+Q7692553,Department of Commerce Technology Administration,3
+Q7692553,United States Department of Commerce Technology Administration,3
+Q7692553,United States Technology Administration,3
+Q7692553,United States Dept. of Commerce Technology Administration,3
+Q7832129,TTAB,1
+Q7832129,United States Trademark Trial and Appeal Board,1
+Q7883173,Under Secretary for Arms Control and International Security Affairs,3
+Q7883173,Arms Control and International Security,3
+Q7890766,U.S. Mission to the United Nations,5
+Q7890766,United States Delegation to the United Nations,5
+Q7890766,USUN,5
+Q7994918,White House Visitor Center,1
+Q12406834,NAL,8
+Q12406834,"U.S. Department of Agriculture, National Agricultural Library",8
+Q12406834,National Agricultural Library,8
+Q12406834,Abraham Lincoln Building,8
+Q12406834,US National Agricultural Library,8
+Q12406834,National Library of Agriculture,8
+Q16930315,Weather Bureau,0
+Q43895552,UNESCO,1
+Q43895552,"United Nations Educational, Scientific and Cultural Organization",1
+Q60172342,Department of Commerce Office of Inspector General,1
+Q60172342,"U.S. Department of Commerce, Office of Inspector General",1
+Q60172352,Department of Housing and Urban Development Office of Inspector General,1
+Q60172352,HUD OIG,1
+Q60172352,"U.S. Department of Housing and Urban Development, Office of Inspector General",1
+Q60172373,Department of Education Office of Inspector General,1
+Q60172373,ED OIG,1
+Q60172373,Education OIG,1
+Q60172373,"U.S. Department of Education, Office of Inspector General",1
+Q63419660,"forest service library, nfsl",0
+Q79335943,"Office of Personnel Management, Office of Inspector General ",0
+Q79335943,OPM OIG,0
+Q81329174,ITC OIG,0
+Q81329174,"Office of Inspector General, International Trade Commission",0
+Q81329174,USITC OIG,0
+Q81357932,LSC Office of Inspector General,0
+Q81357932,LSC OIG,0
+Q84382679,SBA-OIG,0
+Q84382679,Small Business Administration OIG,0
+Q94572665,Federal Housing Finance Agency Office of Inspector General,0
+Q94572665,FHFA OIG,0
+Q104837732,FDIC OIG,0
+Q104837732,"Office of Inspector General, Federal Deposit Insurance Corporation",0
+Q104837747,EPA OIG,0
+Q104837747,"Office of the Inspector General, Environmental Protection Agency",0
+Q105185317,Capitol Police Office of Inspector General ,0
+Q105185317,USCP OIG,0
+Q105185686,House of Representatives Office of Inspector General,0
+Q105185686,House OIG,0
+Q105185686,Office of the House of Representatives Inspector General,0
+Q105185686,House Office of Inspector General,0
+Q105185686,Inspector General of the House,0
+Q105185992,CPB OIG,0
+Q105186653,FEA OIG,0
+Q105236077,FCC OIG,0
+Q105236077,Federal Communications Commission Office of the Inspector General,0
+Q106214533,Lido Beach Separation Center,0
+Q106548110,CABS,2
+Q106816269,San Jose Cultural Affairs Office,0
+Q106816269,San José Cultural Affairs Office,0
+Q106816269,San José Office of Cultural Affairs,0
+Q107126073,Caltrain Board of Directors,0
+Q107126073,PCJPB,0
+Q107710675,BCRTA,0
+Q107710675,Butler County RTA,0
+Q108082891,Agreement between San Jose and Santa Clara Respecting Sewage Treatment Plant,0
+Q108402613,California Office of State Landscape Architecture,0
+Q108402613,Caltrans LAP,0
+Q110252366,"Cincinnati Division of Development, Permits & Urban Design",0
+Q110252366,DPUD,0
+Q110688194,OCTD,0
+Q1574823,U.S. Department of Commerce and Labor,12
+Q1574823,US Department of Commerce and Labor,12
+Q1620015,OFAC,12
+Q1725724,National Capital Parks - Central,4
+Q1725724,National Capital Parks-Central,4
+Q1725724,National Mall & Memorial Parks,4
+Q1784058,USCO,11
+Q1784058,Copyright Office,11
+Q1784058,Library of Congress Copyright Office,11
+Q1784058,U.S. Copyright Office,11
+Q1848855,U.S. Bontanic Garden,15
+Q1848855,US Botanic Garden,15
+Q1848855,USBG,15
+Q1966994,NCES,4
+Q1966999,NCEP,3
+Q1966999,United States National Centers for Environmental Prediction,3
+Q1966999,NOAA NWS National Centers for Environmental Prediction,3
+Q1967252,United States Coast and Geodetic Survey,9
+Q1967252,United States Survey of the Coast,9
+Q1967252,U.S. National Geodetic Survey,9
+Q1967252,United States Coast Survey,9
+Q2304163,TSA,17
+Q2304163,United States Transportation Security Administration,17
+Q2402343,OFR,2
+Q2402343,U.S. Office of the Federal Register,2
+Q2402343,United States Office of the Federal Register,2
+Q2478827,TTB,6
+Q2478827,Tax and Trade Bureau,6
+Q2478827,Bureau of Alcohol and Tobacco Tax and Trade,6
+Q2827151,ARS,7
+Q2827151,USDA Agricultural Research Service,7
+Q2827151,USDA-ARS,7
+Q2910288,BPA,3
+Q3177134,PWA,11
+Q3177134,U S Public Works Administration,11
+Q3177134,U.S. Public Works Administration,11
+Q3177134,United States Public Works Administration,11
+Q3550737,Federal Public Housing Authority,3
+Q3550737,FPHA,3
+Q3550737,USHA,3
+Q3718734,ERS,4
+Q3718734,U.S. Department of Agriculture Economic Research Service,4
+Q3718734,USDA Economic Research Service,4
+Q3740857,Bureau of Narcotics,5
+Q3740857,United States Bureau of Narcotics,5
+Q3740862,FFIEC,3
+Q3774670,Cuban Interests Section,7
+Q3791513,BJS,6
+Q3791513,Bureau of Justice Statistics,6
+Q3869731,NYCTV,3
+Q3881026,OCC,6
+Q4476410,TFI,8
+Q4476410,Department of the Treasury Office of Terrorism and Financial Intelligence,8
+Q4476410,U.S. Department of the Treasury Office of Terrorism and Financial Intelligence,8
+Q4476410,United States Department of the Treasury Office of Terrorism and Financial Intelligence,8
+Q4476410,US Department of the Treasury Office of Terrorism and Financial Intelligence,8
+Q4591458,CHAMPUS,4
+Q4591458,Civilian Health and Medical Program of the Uniformed Services,4
+Q4591458,Office of Civilian Health and Medical Program of the Uniformed Services,4
+Q4683424,ACF,2
+Q4683424,Administration for Children and Families,2
+Q4683424,Administration for Children & Families,2
+Q4683424,United States Administration for Children and Families,2
+Q4683474,Administrative Office of the U.S. Courts,5
+Q4683474,AOUSC,5
+Q4683474,US Courts,5
+Q4683474,United States Courts,5
+Q4692008,Agency for Healthcare Research and Quality,4
+Q4692008,AHRQ,4
+Q4692008,U. S. Agency for Healthcare Research and Quality,4
+Q4692008,U.S. Agency for Healthcare Research and Quality,4
+Q4692008,United States Agency for Healthcare Research and Quality,4
+Q4692008,US Agency for Healthcare Research and Quality,4
+Q4692008,USAHRQ,4
+Q4692019,ATSDR,5
+Q5061557,COID,2
+Q5133443,NOAA NWS Climate Prediction Center,4
+Q5133443,United States Climate Prediction Center,4
+Q5133443,National Weather Service Climate Prediction Center,4
+Q5133443,NOAA Climate Prediction Center,4
+Q5205063,Department of Homeland Security Science and Technology Directorate,2
+Q5205063,DHS Directorate for Science and Technology,2
+Q5205063,DHS Science and Technology Directorate,2
+Q5205063,Science and Technology Directorate,2
+Q5253609,Delegation of the European Union to the United States of America,5
+Q5280642,DDTC,1
+Q5333366,EDA,3
+Q5333366,Economic Development Administration,3
+Q5333366,United States Economic Development Administration,3
+Q5333366,US Economic Development Administration,3
+Q5369730,"Embassy of Indonesia, Washington, DC",6
+Q5369730,"Indonesian Embassy, Washington, D.C.",6
+Q5369730,"Indonesian Embassy, Washington, DC",6
+Q5369730,Walsh-McLean Mansion,6
+Q5369735,Embassy of Iraq,4
+Q5369735,Iraqi Embassy in Washington D.C.,4
+Q5369770,"Embassy of Lebanon, Washington, D.C.",4
+Q5369802,Embassy of Mozambique in the United States,3
+Q5369818,"Embassy of China in Washington, D.C.",8
+Q5369848,"Embassy of Rwanda in Washington, D.C.",2
+Q5419844,DOJ EOIR,2
+Q5419844,EOIR,2
+Q5440305,FMCSA,3
+Q5440312,FOH,1
+Q5440355,FRA,7
+Q5440506,FWA,2
+Q5440506,U.S. Federal Works Agency,2
+Q5440506,United States Federal Works Agency,2
+Q5889522,HSAC,2
+Q5889522,President's Homeland Security Advisory Council,2
+Q6040253,IES,1
+Q6054002,ITA,7
+Q6054002,United States International Trade Administration,7
+Q6302925,JPML,1
+Q6302925,MDL Panel,1
+Q6302925,U.S. Judicial Panel on Multidistrict Litigation,1
+Q6302925,United States Judicial Panel on Multidistrict Litigation,1
+Q6764148,United States Marine Hospital Service,2
+Q6852042,MHS,3
+Q6954837,National Oceanic and Atmospheric Administration Central Library,3
+Q6954837,NOAA Libraries,3
+Q7009190,New Jersey Division of Parks & Forestry,1
+Q7009190,NJ Division of Parks & Forest,1
+Q7009474,NJSD,1
+Q7010160,New Mexico Children Youth and Families Department,2
+Q7010169,DCA,1
+Q7010172,EMNRD,1
+Q7010172,"New Mexico Energy, Minerals, and Natural Resources Department",1
+Q7010174,NMDGF,1
+Q7010190,HPD,1
+Q7010190,NM HPD,1
+Q7010190,NM SHPO,1
+Q7010212,NMMP,1
+Q7054564,North Carolina Guard,3
+Q7055034,PSC,1
+Q7055060,NDSL,3
+Q7055060,ND State Library,3
+Q7079180,CBP AMO,2
+Q7079180,CBP Office of Air and Marine,2
+Q7079180,Office of Air and Marine,2
+Q7079223,CBP Office of Field Operations,2
+Q7079223,CBP OFO,2
+Q7080799,ODNR,1
+Q7080799,Ohio DNR,1
+Q7082175,CLEET,1
+Q7127602,PIPC,2
+Q7394787,Safe Tables Our Priority,1
+Q7889636,Watkins Commission,1
+Q7902494,UTA,5
+Q7902494,Transit District of Utah,5
+Q7906973,VIA,3
+Q7972051,"Metro (Washington, DC)",3
+Q7972051,"Washington, D.C. Metro",3
+Q7972051,"Washington, D.C. Metropolitan Area Transit Authority",3
+Q7972051,WMATA,3
+Q7972332,WSSC,2
+Q8060099,Yuba-Sutter Transit Authority,1
+Q12057110,"Embassy of Haiti, Washington, D.C.",4
+Q5265906,DDOT,3
+Q5283415,D.C. Department of Parks and Recreation,2
+Q5283415,DC Department of Parks and Recreation,2
+Q5283415,DCDPR,2
+Q5283435,D.C. Water,2
+Q5283435,DC WASA,2
+Q5283435,DC Water,2
+Q5283435,DC Water and Sewer Authority,2
+Q5283435,District of Columbia Water & Sewer Authority,2
+Q5284524,DFW,1
+Q5284524,MassWildlife,1
+Q5290162,DNDO,1
+Q5321473,E-Verify Program,2
+Q5321473,EVerify,2
+Q5369554,"Australian Embassy, United States of America",5
+Q5374139,New York State Department of Economic Development,2
+Q5374139,New York State Urban Development Corporation,2
+Q5374305,ECAB,1
+Q5374310,ERS,1
+Q5374334,EDD,1
+Q5374360,ESA,1
+Q5465387,Food Safety & Inspection Service,6
+Q5465387,Food Safety Inspection Service,6
+Q5465387,FSIS,6
+Q5468233,FCSC,1
+Q5468233,Foreign Claims Settlement Commission of the U.S.,1
+Q5468233,Foreign Claims Settlement Commission of the United States,1
+Q5468233,United States Foreign Claims Settlement Commission,1
+Q5570947,Globcal,1
+Q5570947,Non-State Network,1
+Q5898786,Bureau of Reclamation Police,3
+Q6302865,Conference of Senior Circuit Judges,4
+Q6302865,JCUS,4
+Q6392207,CPE,1
+Q6392207,Council on Postsecondary Education,1
+Q6781326,Maryland Department of Natural Resources Forest Service,1
+Q6781326,Maryland DNR Forest Service,1
+Q6781326,MD DNR Forest Service,1
+Q6781338,MHT,2
+Q6781338,MD Historical Trust,2
+Q6781407,Maryland Comptroller's Office,1
+Q6781521,MdTA,2
+Q6868223,Minnesota DNR,1
+Q6868223,MN DNR,1
+Q6868223,MNDNR,1
+Q6879127,MDAH,2
+Q6879127,Mississippi Department of Archives & History,2
+Q6879141,MDWFP,1
+Q6879239,Mississippi Guard,2
+Q6879598,Missouri Guard,4
+Q6904271,MHS,2
+Q6984784,Nebraska State Historical Society,2
+Q6984787,Nebraska state police,1
+Q7003407,Nevada DCNR,1
+Q7003407,NV DCNR,1
+Q12057117,Alice Pike Barney Studio House,5
+Q12057117,Studio House,5
+Q15114900,NFTA,1
+Q15647948,IFT,1
+Q16959119,CGPD,3
+Q16959119,Coast Guard Police Department,3
+Q16969547,IFAS,1
+Q17006005,Fish and Wildlife Service Office of Law Enforcement,1
+Q17006005,U.S. Fish and Wildlife Service Office of Law Enforcement,1
+Q23058592,NBIB,2
+Q23058592,United States National Background Investigations Bureau,2
+Q23430908,Michigan State Highway Commission,1
+Q23430908,Michigan Transportation Commission,1
+Q28901255,Baltimore Department of Transportation,0
+Q28901255,Baltimore DOT,0
+Q53648790,Chief Information Officers Council,0
+Q53648790,CIO Council,0
+Q53648790,COIC,0
+Q53648790,Federal CIO Council,0
+Q53648790,U.S. Chief Information Officers Council,0
+Q53648790,United States CIO Council,0
+Q61021291,SJRRC,0
+Q84510722,Government Printing Office Police,0
+Q84510722,GPO Police,0
+Q100332026,MTA,0
+Q104999100,SCCOE,0
+Q104999100,County of Santa Clara Office of Education,0
+Q107183634,Maine Dept of Labor,0
+Q107183634,MDOL,0
+Q510865,Texas Rangers,29
+Q510865,The Texas Ranger,29
+Q559229,NMMA,5
+Q559229,Art Gallery of the Museum of New Mexico,5
+Q559229,"Museum of Fine Arts, Museum of New Mexico",5
+Q559229,AGMNM,5
+Q559229,MFAMNM,5
+Q611748,CFTC,12
+Q611748,U.S. Commodity Futures Trading Commission,12
+Q611748,United States Commodity Futures Trading Commission,12
+Q648666,Department of the Treasury,42
+Q648666,Treasury Department,42
+Q648666,U.S. Deparment of the Treasury,42
+Q648666,U.S. Treasury Department,42
+Q648666,United States Treasury Department,42
+Q648666,US Treasury Department,42
+Q949761,NCUA,4
+Q953944,SEC,33
+Q953944,Securities and Exchange Commission,33
+Q953944,US Securities and Exchange Commission,33
+Q953944,United States Securities and Exchange Commission,33
+Q953944,USSEC,33
+Q1091543,BCFP,10
+Q1091543,Bureau of Consumer Finance Protection,10
+Q1091543,CFPB,10
+Q1115603,Commission on New Technological Uses of Copyrighted Works,2
+Q1115603,National Commission on New Technological Uses of Copyrighted Works,2
+Q1115603,NCONTU,2
+Q1250400,9-11 Commission,18
+Q1250400,National Commission on Terrorist Attacks upon the United States,18
+Q1331280,Air Force,24
+Q1331280,Air Force Academy,24
+Q1331280,USAFA,24
+Q1863801,Maryland Department of Transportation Maryland Transit Administration,4
+Q1863801,MDOT Maryland Transit Administration,4
+Q1863801,MTA,4
+Q1863801,MTA Maryland,4
+Q2250917,NMDOT,3
+Q2397965,THC,6
+Q2397965,Texas State Historical Survey Committee,6
+Q2886428,BRAC,2
+Q2886428,Base Realignment and Closure,2
+Q2886428,Base Realignment and Closure Commission,2
+Q2886428,Commission on Base Closure and Realignment,2
+Q2886428,Commission on Defense Base Closure and Realignment,2
+Q3349673,OSTP,10
+Q3349673,ostp.gov,10
+Q3349673,White House Office of Science and Technology Policy,10
+Q4683456,ACUS,2
+Q4683456,Administrative Conference,2
+Q4683456,United States Administrative Conference,2
+Q4688441,ADC,1
+Q4688441,United States Air Force Aerospace Defense Center,1
+Q4697897,AFDW,6
+Q4697897,District of Washington USAF,6
+Q4697897,United States Air Force District of Washington,6
+Q4697934,AFOTEC,2
+Q4697934,Operational Test and Evaluation Center USAF,2
+Q4697934,United States Air Force Operational Test and Evaluation Center,2
+Q4697934,USAF Operational Test and Evaluation Center,2
+Q4705265,AHC,1
+Q4708609,Alaska State Library and Historical Collections and Talking Book Center,2
+Q4708609,State Library of Alaska,2
+Q4791771,ADPHT,1
+Q4791771,"Ark. Dept. of Parks, Heritage, and Tourism",1
+Q4791771,"Department of Parks, Heritage, and Tourism",1
+Q4791829,Arkansas Guard,2
+Q4791870,ASL,1
+Q4794076,AS,1
+Q4794076,1 Bomber Command USAAF,1
+Q4794076,1BC,1
+Q4794076,USAAF Bomber Command 1,1
+Q4794076,Army Air Forces Antisubmarine Command,1
+Q4794076,USAAF Antisubmarine Command,1
+Q5020290,Bureau of Firearms,1
+Q5020479,CalEPA,3
+Q5020545,CHSRA,1
+Q5124386,CAMI,2
+Q5138755,"Cobb County Parks, Recreation and Cultural Affairs",1
+Q5148787,DHE,1
+Q5148793,CDOR,1
+Q5148799,Colorado Division of Youth Corrections,1
+Q5148942,CSFS,1
+Q5152508,WEA,3
+Q5152508,CMAS,3
+Q5152508,PLAN,3
+Q5152508,Commercial Mobile Alert System,3
+Q5152508,Personal Localized Alerting Network,3
+Q5152721,Kestnbaum Commission,1
+Q5152743,Bradley Commission,1
+Q23548,NASA,163
+Q5195524,FL Lottery,3
+Q5195524,FL Lotto,3
+Q5195524,Florida Lotto,3
+Q5195524,Lotto Florida,3
+Q5203575,Maryland Department of Transportation State Highway Administration,2
+Q5203575,Maryland SHA,2
+Q5203575,MD SHA,2
+Q5203575,MDOT SHA,2
+Q5203575,MDOT State Highway Administration,2
+Q5253281,Delaware Children’s Department,1
+Q5253281,DSCYF,1
+Q5253301,DGS,1
+Q5409765,National Institute of Child Health and Human Development,3
+Q5409765,NICHD,3
+Q5424584,Federal Bureau of Investigation Laboratory,3
+Q5429779,Committee on Fair Employment Practice,1
+Q5429779,Fair Employment Practices Commission,1
+Q5429779,President's Committee on Fair Employment Practice,1
+Q5435482,FCA,2
+Q5435788,FmHA,1
+Q5438728,MDHS,2
+Q5440206,FEA,2
+Q5440206,United States Federal Energy Administration,2
+Q5440211,Federal Executive Board Network,1
+Q5440211,Federal Executive Boards,1
+Q5440255,FHFA,4
+Q5440255,fhfa.gov,4
+Q5440255,US Federal Housing Finance Agency,4
+Q5440270,FJC,4
+Q5440308,FMP,7
+Q5440308,Federal Music Project of the WPA,7
+Q5440308,W.P.A. Federal Music Project,7
+Q5440308,WPA Federal Music Project,7
+Q5440350,FPI,3
+Q5440350,"Federal Prison Industries, Inc.",3
+Q5440350,UNICOR,3
+Q5440366,FRD,4
+Q5440366,Federal Research Division of the Library of Congress,4
+Q5440366,"Federal Research Division, Library of Congress",4
+Q5440366,Library of Congress Federal Research Division,4
+Q5440450,Office of Federal Student Aid,2
+Q5449664,FSOC,1
+Q5461309,Florida Department of Agriculture,2
+Q5461319,FDLE,3
+Q5465436,FNS,3
+Q5465436,Food & Nutrition Service,3
+Q5465436,USDA FNS,3
+Q5469080,Cook County Forest Preserve District,1
+Q5664855,HCTRA,1
+Q5684183,Department of Land and Natural Resources,2
+Q5684183,DLNR,2
+Q5684183,Hawai'i Department of Natural Resources,2
+Q5684183,Hawaii Department of Land and Natural Resources,2
+Q5690644,Health Resources & Services Administration,1
+Q5690644,HRSA,1
+Q5690644,United States Health Resources and Services Administration,1
+Q5774674,Colorado Historical Society,1
+Q5987333,ICFL,1
+Q5987333,Idaho State Library,1
+Q5987462,Liquor store,1
+Q5987465,ISHS,1
+Q5999447,IDOR,1
+Q6020429,IHS,7
+Q6023438,ISP,2
+Q6039695,ITS,1
+Q6039695,ITSA,1
+Q6039695,Central Radio Propagation Laboratory,1
+Q6039695,CRPL,1
+Q6039695,Institute for Telecommunication Services and Aeronomy,1
+Q6039695,Inter-Service Radio Propagation Laboratory,1
+Q6039695,Interservice Radio Propagation Laboratory,1
+Q6039695,IRPL,1
+Q6043864,IARPA,7
+Q6072791,IRRRB,1
+Q6135106,Byrd prison,2
+Q6135106,TDCJ Byrd,2
+Q6188880,JPL Science Division,2
+Q6303093,Colorado Judicial Branch,1
+Q6364967,KDOR,1
+Q6824972,MAC,1
+Q6824972,Minneapolis-Saint Paul Metropolitan Airports Commission,1
+Q6825291,MTC,1
+Q6825291,California Metropolitan Transportation Commission,1
+Q6825322,Illinois Metropolitan Water Reclamation District,2
+Q6825322,"Metropolitan Water Reclamation District, Illinois",2
+Q6825322,MWRD,2
+Q6825323,MWD,2
+Q6837520,Michigan Department of Agriculture,1
+Q6837525,Michigan DEQ,1
+Q6837530,Department of Commerce,1
+Q6837532,Michigan DNR,1
+Q6837604,MI Lottery,1
+Q6837604,MI Lotto,1
+Q6837604,Michigan Lotto,1
+Q6869248,MBDA,3
+Q17032890,TECO-Denver,1
+Q17032898,TECO-Honolulu,1
+Q17032909,TECO-Boston,1
+Q17032919,TECO-Los Angeles,1
+Q105683417,Delaware DOR,0
+Q105710662,Commission on the Naming of Items of the Department of Defense that Commemorate the Confederate States of America or Any Person Who Served Voluntarily with the Confederate States of America,1
+Q105710662,Confederate naming commission,1
+Q105710662,Confederate renaming commission,1
+Q106595602,Commission on Indian Trust Administration and Reform,0
+Q106595602,Secretarial Commission on Indian Trust Administration and Reform,0
+Q109300620,Jefferson County (Ala.). County Commission,0
+Q109300620,"Jefferson Co., Ala. County Commission",0
+Q109803554,Dayton City Commission Office,0
+Q110252391,CRC,0
+Q110585945,DCIHC,0
+Q17032936,TECO-San Francisco,1
+Q17032945,TECO-Chicago,1
+Q17032954,TECO-Seattle,1
+Q17032961,TECO_Miami,1
+Q17063385,TECO-New York,2
+Q30268468,WVLC,1
+Q30283801,NM Human Services Department,0
+Q30289627,State Library of Illinois,1
+Q33121975,Governor’s Office of Maryland,0
+Q33121975,Maryland Office of the Governor,0
+Q33121975,Maryland State Office of the Governor,0
+Q33121975,Office of the Maryland Governor,0
+Q33121975,State of Maryland Office of the Governor,0
+Q41240748,Minnesota DOR,1
+Q41240748,MN DOR,1
+Q41240748,MNDOR,1
+Q50040852,DAH,1
+Q50040852,Department of Arkansas Heritage,1
+Q50040852,Department of Arkansas Natural and Cultural Heritage,1
+Q50356290,DHHS,0
+Q50356290,Maine Department of Health & Human Services,0
+Q50356290,Maine Dept. of Health & Human Services,0
+Q50356290,Maine Dept. of Health and Human Services,0
+Q50356290,Maine DHHS,0
+Q50356290,State of Maine Department of Health and Human Services,0
+Q58012844,NH DNCR,0
+Q59420786,CFO Council,0
+Q59420786,CFOC,0
+Q59420786,Chief Financial Officers Council,0
+Q59420930,CAO Council,0
+Q59420930,CAOC,0
+Q59420930,Chief Acquisition Officers Council,0
+Q59535847,DFS,1
+Q59827763,Upper Montgomery County Volunteer Fire Department - Station 14,0
+Q59827763,Upper Montgomery County Volunteer Fire Department Fire Station 14,0
+Q59827763,Upper Montgomery County Volunteer Fire Department Station 14 Beallsville,0
+Q60191890,MVFD,1
+Q62026223,SDSL,1
+Q65072691,Virginia Space,3
+Q65659313,Portland Planning Commission,0
+Q65766974,NM Film Office,0
+Q65766974,NMFO,0
+Q72926688,Georgia State Parks and Historic Sites,0
+Q84506111,SCIRP,0
+Q84506111,Select Commission On Immigration And Refugee Policy,0
+Q84506111,U.S. Select Commission On Immigration And Refugee Policy,0
+Q84506111,USSCIRP,0
+Q85740494,Alaska Department of Revenue - Tax Division,1
+Q85740494,Alaska Department of Revenue Tax Division,1
+Q85769010,INPC,1
+Q94201954,COC,1
+Q95690764,"Department of General Services, Hall of Records Commission",0
+Q95690764,"Maryland Department of General Services, Hall of Records Commission",0
+Q95690764,Maryland Hall of Records,0
+Q96067104,Senate Committee on the District of Columbia on the Improvement of the Park System of the District of Columbia,0
+Q96067104,Senate Park Commission,0
+Q96067104,United States Congress Senate Park Commission,0
+Q96067104,United States Senate Committee on the District of Columbia on the Improvement of the Park System of the District of Columbia,0
+Q96067104,United States Senate Park Commission,0
+Q96153067,Attorney General's Committee on Administrative Procedures,0
+Q96666298,Mountain Lakes Fire Department,0
+Q97174908,OSE,1
+Q97928899,Tennessee Department of Economic and Community Development,0
+Q97928899,TNECD,0
+Q98358573,ASA,1
+Q98665910,"Henry County Commission, Alabama",0
+Q98665910,Henry County Commissioners,0
+Q98690925,CSAC,0
+Q101208291,CCC,0
+Q102226687,IGB,2
+Q102289054,WUC,0
+Q102289054,"New Mexico Office of the State Engineer, Water Use and Conservation Bureau",0
+Q102289054,New Mexico Office of the State Engineer's Water Use and Conservation Bureau,0
+Q102289054,Office of the State Engineer's Water Use and Conservation Bureau,0
+Q102289054,Water Use and Conservation,0
+Q103174336,U.S. Cyberspace Solarium Commission,0
+Q103174336,United States Cyberspace Solarium Commission,0
+Q103499666,APD,0
+Q104904343,AML,0
+Q104905154,NM Acequia Commission,0
+Q104905157,New Mexico Acupuncture Board,0
+Q104905159,NMDA,0
+Q104905161,OAAA,0
+Q104905163,ALTSD,0
+Q105627422,January 6 commission,3
+Q105682604,Vermont Tax Department,0
+Q105683014,Alaska DOR,0
+Q105683200,Arizona DOR,0
+Q105683325,ADFA,0
+Q105683389,CA Department of Tax and Fee Administration,0
+Q105683389,CDTFA,0
+Q105683411,DRS,0
+Q105683411,CDRS,0
+Q105683411,Connecticut State Department of Revenue Services,0
+Q6981810,NAVFAC,3
+Q7009175,State of New Jersey Department of Community Affairs,1
+Q7009281,NJN,1
+Q7013135,New York City Panel for Educational Policy,1
+Q7054474,NC DCR,1
+Q7054474,"North Carolina Department of Art, Culture, and History",1
+Q7054474,North Carolina Department of Cultural Resources,1
+Q7054474,NC DNCR,1
+Q7054646,N.C. Wildlife Resources Commission,1
+Q7054646,N.C. Wildlife,1
+Q7055007,Department of Labor and Human Rights,1
+Q7055007,North Dakota Department of Labor,1
+Q7059126,NOVA Parks,1
+Q7079164,Office of Mental Retardation and Developmental Disabilities,1
+Q7079166,OVC,2
+Q7079166,DOJ OVC,2
+Q7079166,United States Office for Victims of Crime,2
+Q7079217,FHEO,2
+Q7079217,OFHEO,2
+Q7079220,OFCCP,2
+Q7079253,Juvenile Justice and Delinquency Prevention Office,2
+Q7079253,OJJDP,2
+Q7079258,OLC,2
+Q7079258,Department of Justice Office of Legal Counsel,2
+Q7079258,DOJ OLC,2
+Q7079259,OLP,1
+Q7079259,Department of Justice Office of Legal Policy,1
+Q7079259,DOJ OLP,1
+Q7079288,White House Office of Presidential Correspondence,1
+Q7079291,DOJ Office of Professional Responsibility,4
+Q7079291,DOJ OPR,4
+Q7079291,Office of Professional Responsibility,4
+Q7079296,Office of Public Health and Science,2
+Q7079302,DOE Office of Science,4
+Q7079302,Office of Energy Research,4
+Q7079302,United States Department of Energy Office of Science,4
+Q7079309,IER,1
+Q7079309,Office of Special Counsel for Immigration-Related Unfair Employment Practices,1
+Q7079310,OSEP,1
+Q7079316,Office of Surface Mining,2
+Q7079316,"Office of Surface Mining, Reclamation, and Enforcement",2
+Q7079316,OSMRE,2
+Q7079318,OTP,1
+Q7079318,White House Office of Telecommunications Policy,1
+Q7079320,TFFC,2
+Q7079327,DOL OWCP,1
+Q7079327,OWCP,1
+Q7079327,Office of Workers Compensation Programs,1
+Q7079331,OAA,1
+Q7079368,Department of State Office of the Historian,2
+Q7079368,"Office of the Historian, Department of State",2
+Q7079368,United States Department of State Office of the Historian,2
+Q7079379,Law Revision Counsel,1
+Q6392396,KSP,1
+Q6394141,Kern Regional Transit,1
+Q6456199,L.A. Care,1
+Q6456199,Local Initiative Health Authority of Los Angeles County,1
+Q6542699,Virginia State Library,1
+Q6542699,Virginia State Library and Archives,1
+Q6682075,DMH,1
+Q6682075,LACDMH,1
+Q6682078,Los Angeles County Parks,1
+Q6682081,LACDPW,1
+Q6682328,LA School Police,2
+Q6682328,LASPD,2
+Q6682328,Los Angeles Unified School District Police Department,2
+Q6689077,BESE,1
+Q6724509,Mackinac State Historic Parks,1
+Q6724509,MSHP,1
+Q6781255,M-N.C.P.P.C.,2
+Q6781255,M-NCPPC,2
+Q6781255,Maryland National Capital Park and Planning Commission,2
+Q6781255,Maryland-National Capital Park & Planning Commission,2
+Q6781255,MNCPPC,2
+Q6781273,MAA,2
+Q6781273,MDOT MAA,2
+Q6781307,"Maryland Department of Labor, Licensing and Regulation",1
+Q6781307,MD Department of Labor,1
+Q6781308,Maryland DNR,1
+Q6781308,MD Department of Natural Resources,1
+Q6781308,MD DNR,1
+Q6781309,Maryland Department of Natural Resources Police,1
+Q6781309,Maryland DNR Natural Resources Police,1
+Q6781309,Maryland Natural Resources Police Force,1
+Q6784198,MBTA Police,1
+Q6784204,Massachusetts Free Public Library Commission,2
+Q6784204,MBLC,2
+Q6978360,NSOC,5
+Q6978856,NTIS,4
+Q6978888,NTIA,3
+Q6979287,NVPO,1
+Q6980595,NRCS,13
+Q6980595,Soil Conservation Service,13
+Q6981647,Navajo Nation Rangers,1
+Q16203841,Nebraska Department of Health & Human Services,1
+Q16850598,CalSTA,2
+Q16934403,OKOHS,1
+Q16943647,New Mexico Department of Tourism,1
+Q16943647,NMTD,1
+Q16982577,MVD,1
+Q16982577,Motor Vehicle Department,1
+Q16982577,Motor Vehicle Division,1
+Q16984257,MHC,1
+Q17012313,DHHS,1
+Q17012313,New Hampshire Department of Health and Human Services,1
+Q17012313,Nh State Department of Health and Human Sers,1
+Q17019742,FWP,1
+Q17019742,"Montana Department of Fish, Wildlife, and Parks",1
+Q17019742,Montana Department of FWP,1
+Q17019742,"Montana Fish, Wildlife & Parks",1
+Q17019742,"Montana Fish, Wildlife and Parks",1
+Q17019742,"Montana Fish, Wildlife, and Parks",1
+Q17019742,Montana FWP,1
+Q17060266,ODFW,1
+Q17063613,State of New Jersey Department of Law and Public Safety,1
+Q17091547,NJ Department of Environmental Protection,2
+Q17091547,NJDEP,2
+Q17108012,NMED,1
+Q7079379,Office of the Law Revision Counsel of the House of Representatives,1
+Q7079379,OLRC,1
+Q7079383,HealthIT,1
+Q7079383,Office of the National Coordinator for Health IT,1
+Q7079383,ONC,1
+Q7079393,Department of Justice ffice of the Pardon Attorney,1
+Q7079421,Taxpayer Advocate Service,1
+Q7079431,OVW,3
+Q7079431,Department of Justice Office on Violence Against Women,3
+Q7079431,DOJ OVW,3
+Q7079431,Violence Against Women Office,3
+Q7101363,Oregon Library Commission,2
+Q7163716,Pennsylvania Department of Public Welfare,1
+Q7163731,PGC,1
+Q7163731,PA Game Commission,1
+Q7164000,PLCB,1
+Q7257657,PUCT,1
+Q7257657,Texas Public Utility Commission,1
+Q7320922,RIHPHC,1
+Q7566604,SCHP,1
+Q7603401,MA State Library,2
+Q7603401,Mass. State Library,2
+Q7603403,North Carolina State Library,2
+Q7700092,THC,1
+Q7700244,TWRA,1
+Q7902414,Utah Division of State History,1
+Q7921673,ACCD,1
+Q7921673,Vermont ACCD,1
+Q7921778,VSP,1
+Q7934396,Virginia Fish Commission,1
+Q7986845,WVDJS,1
+Q12062400,"National Hispanic Cultural Center (Albuquerque, N.M.)",4
+Q14681677,California State Teachers' Retirement System,3
+Q14688462,Indiana State Library,2
+Q7890752,USMB,4
+Q7890752,Metric Board,4
+Q7890752,U. S. Metric Board,4
+Q7890754,مطور فكرة امريكية تعالج من المرض النفسي خلال٢٤ساعة فقط,1
+Q7890847,OPM,6
+Q7890847,Office of Personal Management,6
+Q7890847,USOPM,6
+Q7890849,OSC,2
+Q7890849,Office of Special Counsel,2
+Q7890849,U. S. Office of Special Counsel,2
+Q7890849,U.S. Office of Special Counsel,2
+Q7890849,US Office of Special Counsel,2
+Q7891195,PCAST,2
+Q7891195,President's Committee of Advisors on Science and Technology,2
+Q7891195,President's Council of Advisors on Science and Technology,2
+Q7892247,UST,1
+Q7892247,U.S. Trustee Program,1
+Q7892247,USTP,1
+Q7895202,police departments at the University of California,1
+Q7895202,UC Police Department,1
+Q7895202,UCPD,1
+Q7895202,University of California Police,1
+Q7895202,University of California police departments,1
+Q7895202,University of California System Police Department,1
+Q12177622,MWAA,1
+Q15679789,NJ State Police,4
+Q15679789,State Police of New Jersey,4
+Q17108062,New Mexico Tax and Rev,1
+Q17108062,NM Taxation and Revenue Department,1
+Q17152659,WAB,1
+Q108897890,VHRC,0
+Q7082412,OTA,1
+Q7082412,Oklahoma Transportation Authority,1
+Q7097793,ORS Office,2
+Q7101169,ODE,1
+Q7101169,Oregon State Department of Education,1
+Q7101287,Department of Parks and Recreation,2
+Q7101287,OPRD,2
+Q7101287,Oregon State Parks and Recreation Department,2
+Q7101287,State Parks and Recreation Department,2
+Q7101355,OSBHE,1
+Q722319,Commission on the Assassination of President John F. Kennedy,29
+Q722319,Commission on the Assassination of President Kennedy,29
+Q722319,President's Commission on the Assassination of President Kennedy,29
+Q722319,United States Warren Commission,29
+Q1666603,OutRight Action International,10
+Q2933971,BI,5
+Q2933971,CBI,5
+Q2933971,Bureau of Investigation,5
+Q2986366,NACCD,2
+Q2986366,National Advisory Commission on Civil Disorders,2
+Q3296292,MSP,4
+Q3296292,MDSP,4
+Q3296292,Maryland Department of State Police,4
+Q3560687,VSP,3
+Q4669381,Abram S Hewitt State Forest,4
+Q4669381,Hewitt State Forest,4
+Q4708614,Alaska Highway Patrol,6
+Q4708614,Alaska State Police,6
+Q4708614,Alaska Territorial Police,6
+Q4708614,AST,6
+Q4708614,Division of Alaska State Troopers,6
+Q5127178,Board Of County Commissioners of Clark County,1
+Q6784223,MCAD,1
+Q7164001,PA Lottery,2
+Q7164001,PA Lotto,2
+Q7164001,Pennsylvania Lotto,2
+Q7164019,PNRRA,1
+Q7164035,PA PUC,1
+Q7197274,PHMSA,4
+Q7201230,PDS,5
+Q7231911,Portland Development Commission,1
+Q7241171,PMC,1
+Q7241171,Presidential Management Council,1
+Q7246019,PCLOB,1
+Q7258708,PREPA,1
+Q7258708,AEEPR,1
+Q7302993,recovery.gov,1
+Q7336244,RMA,2
+Q7338467,RCOE,1
+Q7355913,RML,2
+Q7355913,Rocky Mountain Laboratory,2
+Q7397015,RT,2
+Q7397015,Sac RT,2
+Q7397015,SacRT,2
+Q7413923,SFAC,1
+Q7433602,EPA SAB,1
+Q7433602,EPA Science Advisory Board,1
+Q7433602,SAB,1
+Q7442080,City Light,1
+Q7562178,SCWA,1
+Q7566949,SDAC,1
+Q7567246,SFRTA,3
+Q7601948,SARTA,1
+Q7674010,Tacoma City Public Utilities,1
+Q7681664,THEA,1
+Q7681664,Tampa Hillsborough Expressway Authority,1
+Q7707626,DADS,2
+Q7708214,TWC,2
+Q7850598,Tualatin Hills Park and Recreation District,1
+Q7850598,THPRD,1
+Q7863137,Commission for the Preservation of America's Heritage Abroad,1
+Q7863137,United States Commission for the Preservation of America's Heritage Abroad,1
+Q7863163,Office of Legislative Affairs,1
+Q7863163,Department of Justice Office of Legislative Affairs,1
+Q7863163,DOJ OLA,1
+Q7863164,Office of Special Counsel,2
+Q7863164,Office of the Special Counsel,2
+Q7863164,U.S. Department of Justice Office of the Special Counsel,2
+Q7863164,United States Department of Justice Office of Special Counsel,2
+Q7863164,United States Department of Justice Office of the Special Counsel,2
+Q7866380,United States Department of Agriculture's Office of Rural Development,1
+Q7889184,USCC,3
+Q7889184,US-China Commission,3
+Q7889456,Army Industrial Hygiene Laboratory,3
+Q7889456,United States Army Public Health Center,3
+Q7889459,CMA,1
+Q7889463,CMH,10
+Q7889463,"Center of Military History, United States Army",10
+Q7889567,SDNY,4
+Q7889567,S.D.N.Y,4
+Q7889567,U.S.A.O. S.D.N.Y.,4
+Q7889567,USAO SDNY,4
+Q7889588,U.S. Bureau of Mines,2
+Q7889635,USCIRF,8
+Q7889655,OCWR,1
+Q7889655,Office of Congressional Workplace Rights,1
+Q7889655,United States Congress Office of Congressional Workplace Rights,1
+Q7889731,Civil Division,1
+Q7889732,Civil Rights Division,1
+Q7889732,Department of Justice Civil Rights Division,1
+Q7889733,Department of Justice Environment and Natural Resources Division,1
+Q7889733,ENRD,1
+Q7889733,Environment and Natural Resources Division,1
+Q7889734,JMD,1
+Q7889734,Department of Justice Justice Management Division,1
+Q7889734,DOJ JMD,1
+Q7889734,Justice Management Division,1
+Q7889734,Office of Management and Finance,1
+Q7889735,NSD,1
+Q7889735,National Security Division,1
+Q7889735,DOJ NSD,1
+Q7889738,DOJ Tax Division,1
+Q7889738,Tax Division,1
+Q7889741,Criminal Division,2
+Q7889741,DOJ Criminal Division,2
+Q7889886,USFA,4
+Q7889886,U.S. Fire Administration,4
+Q7889888,United States Bureau of Fisheries,2
+Q7889888,United States Commission of Fish and Fisheries,2
+Q7889925,Homeland Security Council,9
+Q7889925,U.S. Homeland Security Council,9
+Q7890686,U.S. Hydrographic Office,3
+Q7890686,U.S.H.O.,3
+Q7890747,Merit Systems Protection Board,1
+Q7890747,MSPB,1
+Q7890747,USMSPB,1
+Q5251378,DFAS,2
+Q5251381,DHRA,2
+Q5251388,DCA,8
+Q5251388,DISA,8
+Q5251388,Defense Communications Agency,8
+Q5253341,DRJTBC,1
+Q5283409,D.C. Court of Appeals,4
+Q5283409,DC Court of Appeals,4
+Q5461315,Florida Health,1
+Q5613447,GDOE,2
+Q5613447,Guam Department of Education,2
+Q5647122,South Dakota Historical Society,2
+Q5788429,New Jersey Department of Health and Senior Services,2
+Q5788429,State of New Jersey Department of Health,2
+Q5803328,Texas Department of Protective and Regulatory Services,2
+Q5987440,Idaho Department of Education,1
+Q5999444,IDPH,2
+Q5999462,Illinois EPA,1
+Q5999508,Illinois Historic Preservation Agency,1
+Q6781499,Maryland State Superintendent of Schools,4
+Q6781499,MSDE,4
+Q6781499,Maryland Department of Education,4
+Q6781499,Maryland State Department of Education,4
+Q6781499,"Maryland, Education",4
+Q6781499,MDK12,4
+Q6837524,Michigan Department of Public Instruction,3
+Q6868216,MDE,1
+Q6879553,MDC,2
+Q6966951,Metro Parks and Recreation,1
+Q6966951,Metro Parks Nashville,1
+Q6966951,Nashville Board of Parks and Recreation,1
+Q6966951,Nashville Metro Parks and Recreation,1
+Q6966951,Nashville Park Board,1
+Q6966951,Nashville Parks and Recreation,1
+Q6971343,NCIPC,1
+Q6971388,NCAVC,3
+Q6972009,NCJRS,2
+Q6972009,ncjrs.gov,2
+Q6972114,NOAA Data Buoy Office,2
+Q6972672,United States Department of Agriculture National Finance Center,2
+Q6972672,USDA National Finance Center,2
+Q6972672,USDA NFC,2
+Q6973519,NISP,1
+Q6973612,NIBIB,3
+Q6973630,NIC,1
+Q6973630,NICIC,1
+Q6973751,NIDA,6
+Q6973755,NIMHD,1
+Q6974287,NMB,1
+Q7014093,New York State Education Dept.,2
+Q7080796,ODE,2
+Q7889730,Antitrust Division,2
+Q7889730,DOJ Antitrust Division,2
+Q7902367,Utah Geological and Mineralogical Survey,1
+Q7923605,SEN Defense Congress Commander,1
+Q7923618,VA Office of Research and Development,1
+Q7923618,VA Research and Development,1
+Q7926418,VVTA,1
+Q7933164,ViCAP,3
+Q7933164,VICAP,3
+Q7934242,DBHDS,1
+Q7934242,Department of Behavioral Health and Development Services,1
+Q7934242,Virginia Department of Behavioral Health and Development Services,1
+Q7934242,"Virginia Department of Mental Health, Mental Retardation, and Substance Abuse",1
+Q7934259,VEC,1
+Q7959495,Department of Labor Wage and Hour DIvision,1
+Q7959495,DOL WHD,1
+Q7959495,WHD,1
+Q7971840,Washington Department of Natural Resources,1
+Q7971840,Washington State Department of Natural Resources,1
+Q7971840,Washington State DNR,1
+Q7972237,DAHP,1
+Q7972237,Department of Archaeology & Historic Preservation,1
+Q7972237,WA DAHP,1
+Q7972237,Washington Department of Archaeology & Historic Preservation,1
+Q7972238,DEL,1
+Q7972252,WSIPP,1
+Q7972264,Office of Superintendent of Public Instruction,1
+Q7972264,OSPI,1
+Q7972264,Washington Office of Superintendent of Public Instruction,1
+Q7972264,Washington State Office of Superintendent of Public Instruction,1
+Q7972267,Parks and Recreation Commission,0
+Q7972267,State Parks and Recreation Commission,0
+Q7984847,NTWC,1
+Q7984847,West Coast and Alaska Tsunami Warning Center,1
+Q8001322,WS,2
+Q8035341,WAOB,1
+Q8354833,DSNY,5
+Q16849153,United States Bureau of the Fiscal Service,2
+Q16909451,New York Department of Labor,1
+Q16909451,NYDOL,1
+Q16909451,NYSDOL,1
+Q17020938,VA DHR,1
+Q57600280,OHP,0
+Q57600280,California OHP,0
+Q57600280,California State Office of Historic Preservation,0
+Q57600280,Office of Historic Preservation,0
+Q57786143,Office of History and Archaeology,0
+Q57786205,ASHPO,0
+Q57786272,Arizona SHPO,0
+Q57835098,AHPP,0
+Q57835454,Office of Archaeology and Historic Preservation,0
+Q57835454,OAHP,0
+Q57835454,Colorado OAHP,0
+Q57835711,State Historic Preservation Office,0
+Q57835711,Connecticut SHPO,0
+Q57907382,HPD,0
+Q57907382,Georgia HPD,0
+Q57907382,Historic Preservation Division,0
+Q57907985,DC SHPO,0
+Q57908653,Wyoming SHPO,0
+Q57908968,WV SHPO,0
+Q57911566,PA SHPO,0
+Q57982924,Oregon SHPO,0
+Q57983289,Ohio SHPO,0
+Q100996191,"County Commission (Covington County, Alabama)",0
+Q105683471,Idaho Tax Commission,0
+Q105683543,Maine DAFS,0
+Q105683553,MRS,0
+Q105684168,Mass DOR,0
+Q106690768,District of Columbia Office of Public Records,1
+Q260239,House Committee on Ways and Means,6
+Q260239,House Ways and Means Committee,6
+Q321717,State Historical Society of Wisconsin,3
+Q1053145,NTSB,30
+Q1053145,United States National Transportation Safety Board,30
+Q1501657,GSA,11
+Q1501657,U.S. General Services Administration,11
+Q1501657,United States General Services Administration,11
+Q1501657,USGSA,11
+Q1540462,St. Croix River State Forest,4
+Q1647529,TEA,5
+Q4170975,MVD Texas,2
+Q4170975,Texas DMV,2
+Q4170975,TxDMV,2
+Q4791767,ADE,1
+Q5020431,CA DMV,1
+Q5020431,California DMV,1
+Q5020431,DMV CA,1
+Q5205058,NPPD,10
+Q5205058,CISA,10
+Q5205058,Cybersecurity & Infrastructure Security Agency,10
+Q5205058,DHS CISA,10
+Q5205058,DHS National Protection and Programs Directorate,10
+Q5205058,National Protection and Programs Directorate,10
+Q5205058,United States Cybersecurity and Infrastructure Security Agency,10
+Q5205529,DRMS,1
+Q5205529,DPDS,1
+Q5205529,Defense Logistics Agency Disposition Services,1
+Q5205529,Defense Property Disposal Service,1
+Q5205529,Defense Reutilization and Marketing Service,1
+Q5205529,Defense Reutilization Marketing Office,1
+Q5205529,Disposition Services,1
+Q5205529,DRMO,1
+Q5251350,DAITC,1
+Q5251367,DCAA,3
+Q5251368,"Defence Contract Management Agency, DCMA",4
+Q106690768,District of Columbia Office of Public Records and Archives,1
+Q106690768,"District of Columbia Office of Public Records Management, Archival Administration, and Library of Governmental Information",1
+Q106690768,"Office of Public Records Management, Archival Administration and Library of Government Information",1
+Q107117870,Maryland Resource Assessment Administration Geological Survey,1
+Q107117870,Maryland State Geological and Economic Survey,1
+Q107156771,CCD,0
+Q107167077,"Baldwin County, AL Commission",0
+Q107167077,BaldwinCoCommission,0
+Q107169500,OAS,0
+Q107172362,Division of Law Enforcement,0
+Q107181244,MMD,0
+Q107181535,MMD,0
+Q107182800,ECECD,0
+Q107192952,ORD,0
+Q107193409,New Mexico Broadband Program,0
+Q107210008,Texas First Court of Appeals,0
+Q107280060,NM Technology Assistance Program,0
+Q107280060,NMTAP,0
+Q107331861,MPA,1
+Q107331861,Maryland Dept. of Transportation Port Administration,1
+Q107331861,MDOT MPA,1
+Q107331861,MDOT-MPA,1
+Q107331861,Port Administration Maryland,1
+Q107457317,Division of Wildlife (Ohio),0
+Q107457317,ODNR Division of Wildlife,0
+Q107457317,"Ohio Department of Natural Resources, Division of Wildlife",0
+Q109328420,Kentucky State Parks,0
+Q109328420,Ky Parks,0
+Q110063587,New York State Bureau of Occupational Therapy,0
+Q110395227,"Board of County Commissioners of Hamilton County, Ohio",1
+Q110395227,"commissioners of Hamilton County, Ohio",1
+Q2400783,DOTD,3
+Q2400783,LaDOTD,3
+Q2483364,MassDOT,6
+Q2506783,UDOT,3
+Q3074270,FDOT,5
+Q3297972,DelDOT,3
+Q3315550,Mn/DOT,4
+Q3315550,MnDOT,4
+Q3438398,NCDOT,4
+Q4413096,ODOT,4
+Q4413096,Oregon State Highway Division,4
+Q4708536,Alaska DOT&PF,3
+Q4923420,ConnDOT,4
+Q4923837,DDOT,3
+Q4923837,District of Columbia Department of Transportation,3
+Q4925016,ITD,2
+Q4925114,IDOT,2
+Q4925393,INDOT,2
+Q4925916,KDOT,4
+Q4926022,KYTC,2
+Q4926312,MaineDOT,2
+Q4955209,ODOT,3
+Q4955209,Ohio Department of Highways,3
+Q5557977,MoDOT,3
+Q5558259,MDT,2
+Q5558445,NDOR,2
+Q5559073,NHDOT,2
+Q5569030,NDDOT,2
+Q5569650,PADOT,3
+Q5569650,PennDOT,3
+Q5569993,SCDOT,2
+Q5570193,SDDOT,2
+Q5570193,South Dakota Department of Highways,2
+Q5570193,South Dakota DOT,2
+Q6057037,ICPRB,1
+Q12061679,MATA,2
+Q16827582,U.S. Bureau of Corporations,2
+Q16827582,United States Bureau of Corporations,2
+Q16932123,NCATS,2
+Q16932602,Maryland National Guard,2
+Q16932981,State of New Jersey Economic Development Authority,1
+Q16959648,New York State of Health,1
+Q16973147,CMHA,1
+Q16988491,Public Utilities Commission of the State of Colorado,1
+Q16993089,FSA,5
+Q16995038,New York City Department of Health,2
+Q16995038,DOHMH,2
+Q16995038,New York City Board of Health,2
+Q16995038,NYC Board of Health,2
+Q16995038,NYC Department of Health and Mental Hygiene,2
+Q16995038,NYC DOHMH,2
+Q16995038,NYC Health,2
+Q16995038,NYCDOHMH,2
+Q16996934,OIRA,1
+Q16996934,Office of Information & Regulatory Affairs,1
+Q16996934,OMB OIRA,1
+Q17004386,DOJ Office of Attorney Recruitment and Management,1
+Q17004386,OARM,1
+Q17004386,Office of Attorney Recruitment & Management,1
+Q17017852,OKDHS,1
+Q17017852,Oklahoma Department of Human Service,1
+Q17093987,New York State Department of Health Office of Professional Medical Conduct,1
+Q17093987,NYSDOH OPMC,1
+Q17093987,OPMC,1
+Q17108046,NMPRC,1
+Q17108046,PRC (NM),1
+Q17108046,Public Regulation Commission of New Mexico,1
+Q17109616,NYSDMV,1
+Q17109867,New York State Law Revision Commission,1
+Q17109949,VA Lottery,1
+Q17109949,VA Lotto,1
+Q17109949,VALottery,1
+Q17109949,VALotto,1
+Q17109949,Virginia Lottery,1
+Q17109949,Virginia Lotto,1
+Q17109949,Virginia State Lotto,1
+Q17126008,MHEC,1
+Q17126008,Midwestern Higher Education Commission,1
+Q17144610,Indian Law & Order Commission,1
+Q17675706,CAB,7
+Q22060891,NJ Division of Fish and Wildlife,1
+Q22060891,NJ Fish and Wildlife,1
+Q22060891,NJDEP Division of Fish & Wildlife,1
+Q127743,Bureau of Highways,6
+Q127743,Cal Trans,6
+Q127743,Caltrans,6
+Q527769,NYSDOT,6
+Q568743,TxDOT,5
+Q617638,MP,9
+Q807704,ADOT,2
+Q824351,RIDOT,3
+Q834834,WSDOT,4
+Q867675,NJDOT,5
+Q872788,ALDOT,3
+Q886390,NDOT,4
+Q886390,Nevada DOT,4
+Q944993,GDOT,2
+Q944993,Georgia DOT,2
+Q2112717,CDOT,3
+Q2171739,ODOT,2
+Q2239479,HDOT,2
+Q2350930,MDOT,3
+Q7054956,NCTC,2
+Q7054956,NCTD,2
+Q7082397,OK Tax Commission,1
+Q7257654,PUCO,1
+Q7603363,SHPO,2
+Q7605402,United States Steamboat Inspection Service,2
+Q7627809,SEVP,1
+Q7627809,Study in the States,1
+Q7632057,ADAMHA,3
+Q7632057,"Alcohol, Drug Abuse, and Mental Health Administration",3
+Q7632057,SAMHSA,3
+Q7700070,TDOT,3
+Q7700136,Tennessee Railroad and Public Utilities Commission,1
+Q7921755,Vermont Public Service Board,1
+Q7934247,VDOT,2
+Q7986842,WVDOT,2
+Q8027162,WisDOT,2
+Q8040331,WYDOT,2
+Q8469802,MDOT,3
+Q8469802,Maryland DOT,3
+Q8469802,MD DOT,3
+Q8469802,Maryland State Department of Transportation,3
+Q8469802,State of Maryland Department of Transportation,3
+Q10752171,Office of Government Ethics,4
+Q10793118,Metro (Oregon regional government),4
+Q10793118,Metro Service District,4
+Q10793118,"Metro, Oregon",4
+Q10793118,Metropolitan Service District,4
+Q10793118,Oregon Metro,4
+Q11054570,NIJ,3
+Q11054570,NIJ Standard,3
+Q11054570,NIJ Standards,3
+Q11054570,U.S. National Institute of Justice,3
+Q11054570,United States National Institute of Justice,3
+Q11054570,US-NIJ standards,3
+Q11054570,USNIJ,3
+Q11325525,Nevada State Athletic Commission,2
+Q11327028,OHA,2
+Q11683311,NIFA,2
+Q23008806,MGCB,2
+Q23497869,Michigan State Liquor Control Commission,1
+Q24192534,DoIT,1
+Q24258894,Embassy of Vietnam in the United States,1
+Q28599702,LACOE,0
+Q30258912,RCO,0
+Q30258925,CRMC,0
+Q30258926,MAFMC,0
+Q30258948,SAFMC,0
+Q30258975,NEFM,0
+Q30258996,NMC,0
+Q30258996,Coast Guard National Maritime Center,0
+Q30258996,USCG NMC,0
+Q30266656,EDD,0
+Q30266656,NMEDD,0
+Q30267925,DDL,1
+Q30268112,GPLS,1
+Q30268362,NMSL,1
+Q30268423,WSL,1
+Q70523852,ASHD,0
+Q81340257,CCRPC,0
+Q81340257,Chittenden County RPC,0
+Q82510889,Maryland MVA,0
+Q82510889,Motor Vehicle Administration of Maryland,0
+Q82510889,MVA,0
+Q105635541,RCA,0
+Q105635604,RI Public Utilities Commission,0
+Q105635604,RIPUC,0
+Q105636632,Legation of El Salvador in Washington D. C.,0
+Q105636632,Salvadoran Legation in the United States of America,0
+Q105636632,Salvadoran Legation in Washington D. C.,0
+Q106576466,ORSANCO,0
+Q30259239,NSF OISE,0
+Q30259242,NSF OIRM,0
+Q30259242,Office of Information and Resource Management,0
+Q30259246,NSF DIS,0
+Q30259249,"Directorate for Social, Behavioral & Economic Sciences",0
+Q30259249,"NSF Directorate for Social, Behavioral & Economic Sciences",0
+Q30259249,NSF SBE,0
+Q30259253,NSF BCS,0
+Q30259254,NSF NCSE,1
+Q30259255,NSF SES,0
+Q30259256,NSF SLC-CC,0
+Q30259257,NSF SMA,0
+Q30259282,MRI,0
+Q30259282,NSF MRI,0
+Q30259285,NSF IGERT,0
+Q30259578,DOEA,1
+Q30264152,AIL,0
+Q30264154,PESH,0
+Q30264155,DACS,0
+Q30264156,National Science Foundation Office of Legislative & Public Affairs,0
+Q30264156,Office of Legislative & Public Affairs,0
+Q30264156,OLPA,0
+Q30264157,DIAS,0
+Q30264162,OSTLTS,0
+Q30264164,OMA,0
+Q30264169,DOE-SR,0
+Q30264237,Connecticut Department of Economic and Community Development,0
+Q30264237,DECD,0
+Q30264242,VEDP,0
+Q30264245,TCA,0
+Q30264246,OPM,0
+Q30264247,OEMA,0
+Q30264248,CCG,0
+Q30264249,TCDD,0
+Q30264250,New Jersey Commission-Science,0
+Q30264250,NJCST,0
+Q30264251,eTech Ohio,0
+Q30264251,OETC,0
+Q30264256,DCF,1
+Q30264258,TGPC,0
+Q30264259,AAC,0
+Q30264260,NHSCA,1
+Q30264261,BON,0
+Q30264265,TWDB,0
+Q30264267,Attorney General of New York,0
+Q30264269,MCSC,0
+Q30264272,NYSEDC,0
+Q30264273,GTSC,0
+Q30264273,NYS Governor's Traffic Safety Committee,0
+Q30264274,NYS Developmental Disabilities Planning Council,0
+Q30264274,NYSDDPC,0
+Q30264277,Office of Temporary and Disability Assistance,0
+Q30264277,OTDA,0
+Q30264280,DSS,0
+Q30264281,OHE,1
+Q30264282,EOHED,0
+Q30264284,DOH,0
+Q30264285,MSAC,0
+Q30264287,DAR,0
+Q30264287,Department of Agricultural Resources,0
+Q30264287,MDAR,0
+Q30264289,CZM,0
+Q30264290,NYS COGME,0
+Q30264293,VDSS,0
+Q30264306,AEDC,0
+Q30264438,NBREC,0
+Q30264585,PARC,0
+Q30264630,ODI,0
+Q30265349,ITCA,0
+Q30265630,DEQ,0
+Q30265630,Montana Department of Health and Environmental Sciences,0
+Q30265969,BRS,0
+Q30265972,MoAT,0
+Q30266561,CFRPC,0
+Q30266562,CMCOG,0
+Q30266574,ADO,0
+Q30266574,Alabama Development Office,0
+Q30266580,IODD,0
+Q30266583,FHRC,0
+Q30266585,KBRPC,0
+Q30266587,KCMA,0
+Q30266590,RIC,0
+Q30266590,Riverbank Industrial Complex,0
+Q30266590,Riverbank LRA,0
+Q30266592,McPherson Implementing Local Redevelopment Authority,0
+Q30266592,MILRA,0
+Q30266593,FMERA,0
+Q30266594,FMA,0
+Q30266620,DANC,1
+Q30266624,GRPC,0
+Q30266630,East Central RPC,0
+Q30266630,ECWPRC,0
+Q30266636,HSTCC,0
+Q30266639,LCOG,0
+Q30266650,DRED,0
+Q30266658,Commerce RI,0
+Q30266678,PADD,0
+Q30266684,TCCSMD,0
+Q11231,Department of Homeland Security,43
+Q11231,DHS,43
+Q11231,Homeland Security,43
+Q11231,Homeland Security Department,43
+Q11231,U.S. Department of Homeland Security,43
+Q11231,US Department of Homeland Security,43
+Q11231,USDHS,43
+Q608427,Interior,36
+Q608427,DOI,36
+Q608427,Department of the Interior,36
+Q608427,Interior Department,36
+Q608427,U.S. Department of the Interior,36
+Q608427,US Department of the Interior,36
+Q6825147,MNPD,1
+Q7055921,NLVPD,3
+Q7902493,UTA PD,2
+Q30259016,VITEMA,0
+Q30259017,LIBC,0
+Q30259020,OWEB,0
+Q30259021,Virginia DEQ,0
+Q30259029,WDFW,0
+Q30259043,PRFC,0
+Q30259230,NSF DMR,0
+Q30259231,NSF DMS,0
+Q30259232,NSF PHY,0
+Q30259234,Office of the Director,0
+Q30259234,NSF OD,0
+Q30259236,NSF OIA,0
+Q30259237,NSF EPSCoR,0
+Q30266686,DEW,0
+Q30267173,STAR,0
+Q30267491,AFSC,0
+Q30267498,OMAO,0
+Q30267830,ADHE,0
+Q30267982,NYCOSS,0
+Q30268231,PESB,0
+Q30268329,SCOE,0
+Q30268367,SCCOE,0
+Q30268404,UMUT,0
+Q30268406,SIHB,0
+Q30270119,NCHD,0
+Q30270147,OAR,0
+Q30270513,OAH,0
+Q30270619,WCHD,0
+Q30270944,Field Operating Agency,0
+Q30270944,Biometrics Identity Management Agency,0
+Q30271129,INSS,0
+Q30271321,DTSA,0
+Q30271690,DCHS,0
+Q30271937,WSAC,0
+Q30272500,JUSFC,0
+Q30272843,OSIG,0
+Q30272852,LM,0
+Q30274428,SERDP,0
+Q30279661,DPH,0
+Q30279669,CEAH,0
+Q30279797,AFHSC,0
+Q30280865,NCPH,0
+Q30280969,SCDHS,0
+Q30281009,NCEH,0
+Q30281236,TCHD,0
+Q30282504,DCH,0
+Q30282508,DPH,0
+Q30282509,DBHDD,0
+Q30282559,GLITC,0
+Q30282654,HHC,0
+Q30282718,WVHEPC,0
+Q30282857,ICO,0
+Q30282951,Marin HHS,0
+Q30283062,MDC,0
+Q30283149,CSCU,0
+Q30283149,ct.edu,0
+Q30283192,RBHA,0
+Q30283275,CCBH,0
+Q30283694,DAODAS,0
+Q30283695,NDOH,0
+Q30283724,DSS,0
+Q30283733,SNHD,0
+Q30283790,DHS,1
+Q30283797,DPBH,0
+Q30283797,Nevada State Health Division,0
+Q30283804,NNCC,0
+Q30283821,OASAS,0
+Q30283917,DHS,0
+Q30283917,ND Department of Human Services,0
+Q30284756,DHWP,0
+Q30284761,HHSA,0
+Q30285622,KBA,0
+Q30285664,DACF,0
+Q30285664,Maine DACF,0
+Q30296761,ODS,0
+Q30296816,MMC,0
+Q30296924,OLEC,0
+Q30296951,ODP,0
+Q30296965,GTO,0
+Q30296972,HISC,0
+Q30297216,ADRS,0
+Q30297245,ACE,0
+Q30297246,IDB,0
+Q30297246,Iowa Commission for the Blind,0
+Q30297249,IFA,0
+Q30297251,MDOD,0
+Q30297278,MRC,0
+Q30297289,DHS,0
+Q30297293,MDRS,0
+Q30297298,MO Department of Labor and Industrial Relations,0
+Q30297298,MO Dept of Labor,0
+Q30297311,DAIL,0
+Q30297312,DARS,0
+Q30297361,EVOSTC,0
+Q43895571,NAESC,0
+Q43895571,Northcentral Arkansas Education Cooperative,0
+Q51780264,DMESC,0
+Q51780278,NEA Education Cooperative,0
+Q51780287,NWAESC,0
+Q51780330,WDMESC,0
+Q51780343,Western Arkansas Education Cooperative,0
+Q110252343,Cincinnati Aviation Division,0
+Q13358874,NYC Buildings,3
+Q13358874,NYC Department of Buildings,3
+Q13416600,NTTA,2
+Q13416600,TollTag,2
+Q14683176,"Chief Executive of Los Angeles, California",1
+Q14683176,"County Executive of Los Angeles, California",1
+Q14683176,"Executive of Los Angeles, California",1
+Q14683176,Los Angeles County Chief Executive Office,1
+Q14683875,San Francisco Recreation & Parks,1
+Q14683875,San Francisco Recreation and Park Department,1
+Q14683875,San Francisco Recreation and Parks,1
+Q14683875,San Francisco Recreation and Parks Department,1
+Q15265911,Pennsylvania DEP,1
+Q15961203,National Institute on Disability and Rehabilitation Research,1
+Q15961203,NIDILRR,1
+Q15984844,Office of 18F,3
+Q20007572,LESA,1
+Q20639509,MCESA,1
+Q21189682,Department of Drug and Alcohol Programs,1
+Q21774060,Landmarks Preservation Board,1
+Q22024366,OHECC,1
+Q22024425,OCEO,1
+Q22073514,WEDC,1
+Q22907447,E-Gov,1
+Q22907447,Office of Electronic Government and Information Technology,1
+Q22907447,OMB E-Gov,1
+Q22959610,NWRS,0
+Q23134660,State Board of Education,1
+Q23134660,DC State Board of Education,1
+Q23134660,SBOE,1
+Q24883234,SAVE Program,1
+Q24883234,USCIS SAVE,1
+Q24965516,DIU,2
+Q24965516,Defense Innovation Unit Experimental,2
+Q24965516,DIUx,2
+Q27957605,PPR,1
+Q28023199,South Dakota Department of Audits and Accounts,0
+Q28024467,South Dakota Office of Tribal Relations,0
+Q28129963,ETA,1
+Q28129963,Department of Labor Employment and Training Administration,1
+Q28129963,DOLETA,1
+Q28129963,Employment & Training Administration,1
+Q28134593,San Francisco Office of the Public Defender,1
+Q28368907,Tennessee Department of Public Health,2
+Q28407281,AAO,1
+Q28407281,USCIS AAO,1
+Q28407281,USCIS Administrative Appeals Office,1
+Q28464894,Department of School and Public Lands,0
+Q28464894,S&PL,0
+Q28464894,South Dakota Department of School and Public Lands,0
+Q28464894,South Dakota Office of the Commissioner of School and Public Lands,0
+Q29001851,Department of Natural Resources,0
+Q29001851,Louisiana DNR,0
+Q29002137,SD Visit,0
+Q29002137,South Dakota Division of Tourism,0
+Q29002137,South Dakota Office of Tourism,0
+Q29002137,South Dakota Visit,0
+Q29002137,Travel SD,0
+Q29002137,Travel South Dakota,0
+Q29002137,Visit SD,0
+Q29002137,Visit South Dakota,0
+Q29098326,The White House Office of American Innovation,6
+Q29098326,White House Office of American Innovation,6
+Q30253337,MDH,1
+Q30253339,IDPH,0
+Q30253340,DPH,0
+Q30253342,DHHR,0
+Q30253343,OhioMHAS,0
+Q30253344,DHSS,1
+Q30253345,CHFS,0
+Q30253347,MSDH,1
+Q30253351,KDHE,2
+Q30253353,NDDoH,0
+Q30299826,NSF ECCS,0
+Q30299830,NSF EEC,0
+Q30299836,NSF EFMA,0
+Q30299839,NSF IIP,0
+Q30299842,NSF GEO,0
+Q30299845,NSF AGS,0
+Q30299848,NSF EAR,0
+Q30299851,NSF OCE,0
+Q30299852,NSF PLR,0
+Q30299863,NSF ANT,0
+Q30299866,NSF ARC,0
+Q30299874,NSF MPS,0
+Q43895269,BOCES,0
+Q43895269,Broome-Delaware-Tioga Board of Cooperative Educational Services,0
+Q43895269,Broome-Delaware-Tioga BOCES,0
+Q43895269,Broome-Tioga Board of Cooperative Educational Services,0
+Q43895275,BOCES 2,0
+Q43895275,Monroe 2 BOCES,0
+Q43895275,Monroe 2-Orleans Board of Cooperative Educational Services,0
+Q50040814,Board of Cooperative Educational Services of Nassau County,0
+Q50040814,Nassau Board of Cooperative Educational Services,0
+Q52844649,W-FL BOCES,0
+Q52844649,Wayne-Finger Lakes Board of Cooperative Educational Services,0
+Q59290374,British consulate in Atlanta,0
+Q59290374,"British consulate, Atlanta",0
+Q59290376,British consulate in Cambridge,0
+Q59290376,"British consulate, Cambridge",0
+Q59290377,British Consulate in Chicago,0
+Q59290377,Consulate General of the UK in Chicago,0
+Q59290377,"Consulate General of the UK, Chicago",0
+Q59290377,Consulate General of the United Kingdom in Chicago,0
+Q59290377,"Consulate General of the United Kingdom, Chicago",0
+Q59290379,British consulate in Houston,0
+Q59290379,"British consulate, Houston",0
+Q59290380,British consulate in Los Angeles,0
+Q59290380,"British consulate, Los Angeles",0
+Q59290385,British consulate in San Francisco,0
+Q59290385,"British consulate, San Francisco",0
+Q74534833,Salvadoran Consulate in Los Angeles,0
+Q107642747,permanent mission of San Marino to the United Nations,0
+Q109678136,SSD,0
+Q109678136,Stationary Scales Division,0
+Q109678136,Weights and Standards Unit,0
+Q109936242,Randolph Police Department,0
+Q109936257,Canton Police Department,0
+Q110415234,Embassy of South Vietnam in the United States,1
+Q110415234,"Embassy of South Vietnam in Washington, D.C.",1
+Q110415234,Embassy of the Republic of Vietnam in the United States of America,1
+Q30253357,SDDOH,0
+Q30253358,DMH,0
+Q30253360,DHS,0
+Q30253363,DMHAS,0
+Q30253381,DHS,0
+Q30253389,BHDDH,0
+Q30253394,DCF,1
+Q30253395,OMH,0
+Q30253401,SCDMH,0
+Q30253461,FSSA,0
+Q30253629,DOH,0
+Q30253630,DHS,0
+Q30253638,SFDPH,1
+Q30253643,DHSS,0
+Q30253644,HDHHS,0
+Q30253655,DPHHS,0
+Q30254935,ASTA,0
+Q30254935,Arkansas Economic Development Commission Science and Technology,0
+Q30255833,Austin/Travis County Health and Human Services Department,0
+Q30255833,HHSD,0
+Q30255939,CSSS,0
+Q30257847,ACHS,0
+Q30257958,CSM,0
+Q30257992,VIHFA,0
+Q30258265,ICDA,0
+Q30258895,DES,0
+Q30285870,DBEDT,0
+Q30285933,DCO,0
+Q30286150,Tompkins-Seneca-Tioga Board of Cooperative Educational Services,0
+Q30286150,Tompkins-Seneca-Tioga BOCES,0
+Q30286965,CCCOE,0
+Q30287617,ISDH,0
+Q30287683,HEC,0
+Q30287959,KCHD,0
+Q30288567,County of Santa Clara Behavioral Health Services,0
+Q30288567,County of Santa Clara Behavioral Health Services Department,0
+Q30288567,Santa Clara County Behavioral Health Services,0
+Q30288567,Santa Clara County Mental Health Department,0
+Q30288567,SCCBHSD,0
+Q30290166,Kansas Department of Aging and Disability Services,1
+Q30290498,JCDH,0
+Q30290641,NYSTAR,0
+Q30290678,OER,0
+Q30290692,NPTEC,0
+Q30290754,MCDPH,0
+Q30291015,SDC,0
+Q30291118,OSTA,0
+Q30291118,OSTA Washington,0
+Q30291331,ODSA,0
+Q30291467,PHC,0
+Q30291862,SCAOG,0
+Q30295105,DBH,0
+Q30296312,MCMC,0
+Q30296525,BES,0
+Q30296540,FES,0
+Q30296554,ASCR,0
+Q30296567,CPO,0
+Q30296587,SERC,0
+Q30296594,CTSI,0
+Q30296594,Indiana CTSI,0
+Q30296618,FE,0
+Q30296674,Office of the General Counsel,0
+Q30297389,JFSP,0
+Q30297403,EPSCoR,0
+Q30299261,ACPHD,0
+Q30299516,EM,0
+Q30299775,NSF BFA,0
+Q30299779,NSF DGA,0
+Q30299783,Directorate for Biological Sciences,0
+Q30299783,NSF BIO,0
+Q30299783,NSF Directorate for Biological Sciences,0
+Q30299785,NSF DBI,0
+Q30299787,NSF DEB,0
+Q30299788,NSF EF,0
+Q30299792,NSF IOS,0
+Q30299796,NSF MCB,0
+Q30299797,CISE,0
+Q30299797,Directorate for Computer & Information Science & Engineering,0
+Q30299797,National Science Foundation Directorate for Computer & Information Science & Engineering,0
+Q30299797,National Science Foundation Directorate of Computer and Information Science and Engineering,0
+Q30299797,NSF CISE,0
+Q30299800,NSF ACI,0
+Q30299803,NSF CCF,0
+Q30299804,NSF CNS,0
+Q30299807,NSF IIS,0
+Q30299809,Directorate for Education & Human Resources,0
+Q30299809,National Science Foundation Directorate for Education & Human Resources,0
+Q30299809,NSF Directorate for Education & Human Resources,0
+Q30299809,NSF Directorate for Education and Human Resources,0
+Q30299809,NSF EHR,0
+Q30299811,NSF DGE,0
+Q30299812,NSF DRL,0
+Q30299813,NSF DUE,0
+Q30299814,NSF HRD,0
+Q30299818,Directorate for Engineering,0
+Q30299818,NSF Directorate for Engineering,0
+Q30299818,NSF ENG,0
+Q30299821,NSF CBET,0
+Q30299822,NSF CMMI,0
+Q4753520,ACS,1
+Q4754015,Anderson-Shiro Jr./Sr. High School,1
+Q4768130,AACPS,3
+Q4769532,ACSS,1
+Q4769532,Anniston City School System,1
+Q4769880,Anoka Middle School for the Arts,1
+Q4781388,AASD,1
+Q4783162,ACS,1
+Q4791760,ACS,1
+Q4791760,ADCSD,1
+Q4791760,Arkansas Correctional Schools,1
+Q4791760,Arkansas Department of Correction School District,1
+Q4792391,APS,2
+Q4792391,Arlington County Public Schools,2
+Q4804783,Ashdown Public School District,1
+Q4804783,Ashdown Public Schools,1
+Q4813471,ACS,1
+Q4959089,Brea-Olinda Unified School District,1
+Q4992429,Oakland USD,3
+Q4992429,Oakland Unified,3
+Q16255816,WY Lottery,1
+Q16255816,WY Lotto,1
+Q16255816,Wyoming Lotto,1
+Q18157440,"Pima County Natural Resources, Parks & Recreation",1
+Q18379633,APHIS National Veterinary Services Laboratory,1
+Q18379633,APHIS NVSL,1
+Q18379633,National Veterinary Services Laboratories,1
+Q18379633,NVSL,1
+Q18379633,USDA NVSL,1
+Q18965383,DPAA,4
+Q19898124,USDS,3
+Q19898124,U.S. Digital Service,3
+Q19898124,US Digital Service,3
+Q20657421,ACS,1
+Q20657421,Administration for Children's Services,1
+Q20711037,LRC,1
+Q20829648,SD GFP,0
+Q20829648,SDGFP,0
+Q20829648,"South Dakota Department of Game, Fish and Parks",0
+Q20829648,South Dakota Department of Natural Resources,0
+Q20829648,South Dakota DNR,0
+Q20829648,South Dakota GFP,0
+Q22684010,Utah Office of Education,0
+Q30299877,NSF AST,0
+Q30299880,NSF CHE,0
+Q54954343,Connecticut Metropolitan Council of Governments,1
+Q54954343,Greater Bridgeport and Valley Metropolitan Planning Organization,1
+Q54954343,Metropolitan Connecticut,1
+Q56736533,American Buildings Survey,2
+Q56736533,HABS,2
+Q56760755,SBN,0
+Q11201,Supreme Court,76
+Q11201,Article 3 Court,76
+Q11201,Article III Court,76
+Q11201,Article Three Court,76
+Q11201,SCOTUS,76
+Q11201,Supreme Court of the U.S.,76
+Q11201,U.S. Supreme Court,76
+Q11201,United States Supreme Court,76
+Q11201,US Supreme Court,76
+Q789915,DoS,73
+Q789915,State Department,73
+Q789915,state.gov,73
+Q789915,U.S. Department of State,73
+Q789915,U.S. State Department,73
+Q789915,United States State Department,73
+Q789915,USDoS,73
+Q80568896,"Consulate General of the United Arab Emirates to the United States of America, Los Angeles",0
+Q80568896,"UAE Consulate, LA",0
+Q84921893,Consulate-General of Japan in San Francisco,1
+Q107053861,H. B. Hollins Residence,3
+Q107053861,Harry B. and Evalina Hollins Residence,3
+Q107053861,Harry B. Hollins Residence,3
+Q56760755,NASA PDS Small Bodies Node,0
+Q56760755,PDS Small Bodies Node,0
+Q56760755,Planetary Data System Small Body Node,0
+Q57593010,DACA,0
+Q57593010,NCCA,0
+Q57593010,Defense Academy for Credibility Assessment,0
+Q57593010,Department of Defense Academy for Credibility Assessment,0
+Q57593010,Department of Defense Polygraph Institute,0
+Q57593010,DODPI,0
+Q57593010,United States Army Polygraph School,0
+Q57983575,NC SHPO,0
+Q57983685,NJ HPO,0
+Q58012789,NH DHR,0
+Q58013302,Nevada SHPO,0
+Q58013302,NV SHPO,0
+Q58015044,Montana Historic Sites Program,0
+Q58015044,Montana SHPO,0
+Q58015044,MT SHPO,0
+Q58015760,Missouri SHPO,0
+Q58015760,MO SHPO,0
+Q58016435,Hawaii SHPD,0
+Q58016435,HI SHPD,0
+Q58019767,ID SHPO,0
+Q58019767,Idaho SHPO,0
+Q58020564,IN DHPA,0
+Q58020564,Indiana DHPA,0
+Q58021270,IA SHPO,0
+Q58021270,Iowa SHPO,0
+Q58021270,Iowa State Historic Preservation Office,0
+Q58046881,Kansas SHPO,0
+Q58046881,KS SHPO,0
+Q58047125,LA DHP,0
+Q58047125,Louisiana DHP,0
+Q58047449,Maine HPC,0
+Q58047449,ME HPC,0
+Q58047449,MHPC,0
+Q58048208,Minnesota SHPO,0
+Q58048208,MN SHPO,0
+Q58048296,Mississippi HPD,0
+Q58048296,Mississippi SHPO,0
+Q58048296,Mississippi State Historic Preservation Office,0
+Q58048296,MS HPD,0
+Q58048296,MS SHPO,0
+Q58717829,ORES,0
+Q58717829,SSA ORES,0
+Q58992914,CHCO Council,0
+Q58992914,CHCOC,0
+Q58992914,Chief Human Capital Officers Council,0
+Q59253137,ERO,0
+Q59253137,DRO,0
+Q59253137,Detention and Removal Operations,0
+Q59253137,ICE ERO,0
+Q59253137,Immigration and Customs Enforcement Enforcement and Removal Operations,0
+Q59253137,Office of Detention and Removal Operations,0
+Q59253137,U.S. Immigration and Customs Enforcement Enforcement and Removal Operations,0
+Q59339337,Idaho Bureau of Mines and Geology,0
+Q59421062,Performance Improvement Council,0
+Q59535850,DFS,0
+Q59535875,NCJFCJ,0
+Q59535876,HFSC,0
+Q59535883,ICJI,0
+Q59535902,ICFPR,0
+Q59535923,PSA,0
+Q59535923,D.C. Pretrial Services Agency,0
+Q59535939,DMAPS,0
+Q59773607,Federal Service Impass Panel,0
+Q59773607,FSIP,0
+Q59914041,OES,1
+Q59914041,United States Office of Experiment Stations,1
+Q60059359,DOJ OIL,0
+Q70117925,United States Office of Public Buildings and Public Parks of the National Capital,0
+Q70118281,United States Office of Public Buildings and Grounds,0
+Q72204156,CRCL,0
+Q72204156,DHS CRCL,0
+Q72204156,DHS Office for Civil Rights and Civil Liberties,0
+Q80566127,"Consulate General of the United Arab Emirates to the United States of America, New York",0
+Q80566127,"UAE Consulate, NY",0
+Q80567922,"Consulate General of the United Arab Emirates to the United States of America, Boston",0
+Q80567922,"UAE Consulate, Boston",0
+Q80568436,"Consulate General of the United Arab Emirates to the United States of America, Houston",0
+Q80568436,"UAE Consulate, Houston",0
+Q33121735,FCTO,0
+Q33121868,NE CSC,0
+Q33121972,LDI,0
+Q33121983,APD,0
+Q33121988,CDHD,0
+Q33121989,NMAHC,0
+Q33121993,DMAS,0
+Q33122073,PCS,0
+Q33122148,ORS,0
+Q33122152,OASH,0
+Q33171637,Governor's Office of Motion Picture and Television Development,0
+Q33171637,New York State Office of Motion Picture and Television Development,0
+Q36874946,OWDA,0
+Q36875000,PCCD,0
+Q36875022,ADSS,0
+Q36875022,Alabama Commission on Aging,0
+Q38808347,US Army Research Office,0
+Q41160554,Vice President's Ceremonial Office,2
+Q41568385,OEDIT,0
+Q41568470,ALCDC,0
+Q41568499,EEC,0
+Q42296664,Bureau of Equipment and Recruiting,0
+Q43449967,NCCIC,1
+Q43895260,CSG,0
+Q43895399,IDALS,0
+Q43895498,NCDOA,1
+Q43895514,SCOE,0
+Q47451802,"Office of Japanese Affairs, Bureau of East Asian and Pacific Affairs",0
+Q60775595,Advance Office,1
+Q60775595,Office of Advance,1
+Q60775595,Office of Presidential Advance,1
+Q60775595,Scheduling and Advance Office,1
+Q60775595,White House Advance Office,1
+Q60775595,White House Office of Advance,1
+Q60775595,White House Office of Presidential Advance,1
+Q60775595,White House Office of Scheduling and Advance,1
+Q60775595,White House Presidential Advance Office,1
+Q60775595,White House Scheduling and Advance Office,1
+Q61359691,M-NCPPC Montgomery Parks,2
+Q61359691,Maryland National Capital Park and Planning Commission Montgomery County,2
+Q61359691,Maryland-National Capital Park and Planning Commission. Montgomery County Department of Park and Planning,2
+Q61359691,Montgomery County (Md.). Department of Parks,2
+Q61359691,"Montgomery County (Md.). Parks, Department of",2
+Q61359691,Montgomery County Department of Parks,2
+Q61359691,Montgomery County Parks,2
+Q61459306,M-NCPPC Montgomery County Planning Department,1
+Q61459306,Maryland-National Capital Park and Planning Commission Montgomery County Planning Department,1
+Q61459306,Maryland-National Capital Park and Planning Commission. Montgomery County Planning Department,1
+Q61459306,Maryland-National Capital Park and Planning Commission. Montgomery County Planning Dept.,1
+Q61459306,Montgomery County Planning,1
+Q61459306,"Montgomery County Planning Department (Montgomery County, Md.)",1
+Q61459306,"Montgomery County Planning Dept. (Montgomery County, Md.)",1
+Q61748193,Restore the Gulf,0
+Q61748193,restorethegulf.gov,0
+Q61931172,AID,0
+Q61931175,Office of Governor Phil Scott,0
+Q61931175,Vermont Governor's Office,0
+Q61931348,City of Austin Office of Homeland Security and Emergency Management,0
+Q61931348,HSEM,0
+Q61931387,CSAVR,0
+Q61931977,UN Refugee Agency,0
+Q61931977,UNHCR,0
+Q62029847,"Department of Parks & Recreation, Prince George's County",1
+Q62029847,M-NCPPC PG Parks and Recreation,1
+Q62029847,M-NCPPC Prince George's County Department of Parks and Recreation,1
+Q62029847,PG Parks and Recreation,1
+Q62029847,Prince George's County Department of Parks & Recreation,1
+Q62065593,Kentucky Board of Elections,0
+Q62065593,Kentucky Elections Board,0
+Q64143318,NHI,0
+Q64143329,TSI,0
+Q64313614,"Department of Job and Family Services (Lake County, Ohio)",0
+Q64313614,Lake County JFS,0
+Q64728111,HAP,1
+Q64728111,Housing Authority of Portland,1
+Q65115206,Portland Dock Commission,1
+Q72668329,New Hampshire State Archives,0
+Q408109,FCPS,9
+Q531871,Biloxi Public Schools,2
+Q539692,NHPS,2
+Q961713,Travis Ranch Middle School,2
+Q1029560,H.I.S.D.,12
+Q1029560,HISD,12
+Q1029560,Houston I.S.D.,12
+Q1029560,Houston ISD,12
+Q4261591,CCSD,3
+Q4667766,Abilene ISD,1
+Q5002604,Butler County School District,1
+Q1085749,Sacramento City Unified,5
+Q1085749,Sacramento City USD,5
+Q1085749,SCUSD,5
+Q1143596,War Department,23
+Q1320340,L.A.U.S.D.,12
+Q1320340,LAUSD,12
+Q2215021,BPS,6
+Q2497108,DPS,6
+Q2497108,Detroit Public Schools Community District,6
+Q2497108,DPSCD,6
+Q2919833,U-46,2
+Q2963340,CPS,9
+Q2963340,City of Chicago School District #299,9
+Q3023385,DPS,4
+Q3023385,Denver County School District No. 1,4
+Q3065651,CPS,4
+Q3907585,Polk County Schools,1
+Q5152068,Commack High school,1
+Q5154903,St. Charles Community Unit School District 303,1
+Q5158785,Concord  Community School District,1
+Q5168809,Copperas Cove ISD,1
+Q5174700,Cossatot River Public Schools,1
+Q5179341,CCS,1
+Q5179341,Covington County Board of Education,1
+Q5179342,CCSD,2
+Q5179342,"Collins, MS",2
+Q5179342,Covington County School District,2
+Q5179342,Covington County School District Location,2
+Q6781254,M-NC Park Police,2
+Q6781254,M-NCPPC Park Police,2
+Q6781254,M-NCPPC Park Police Montgomery County,2
+Q6781254,Maryland Park Police,2
+Q6781254,"Maryland-National Capital Park Police, Montgomery County Division",2
+Q6781254,MNCPPC Park Police,2
+Q6781254,MNCPPC Park Police Montgomery County,2
+Q6781254,Montgomery County Department of Parks Police,2
+Q7645007,Navajo Nation Courts,3
+Q33121059,SBIR,0
+Q33121059,Small Business Innovation Research and Small Business Technology Transfer,0
+Q33121059,STTR,0
+Q33121406,NADO,0
+Q33121531,OID,0
+Q33121630,ARI,0
+Q72668329,NH Division of Archives & Records Management,0
+Q73515055,Department of Homeland Security Office of Policy,1
+Q73515055,DHS Office of Policy,1
+Q73515055,"DHS Office of Strategy, Policy, and Plans",1
+Q73515055,DHS Policy Office,1
+Q73515055,"Office of Strategy, Policy, and Plans",1
+Q73517761,Shipping Board Bureau,0
+Q73517761,U.S. Shipping Board Bureau,0
+Q73935543,Office of Government-wide Policy,0
+Q75746123,SDA,2
+Q76484149,Defender General of Vermont,0
+Q76484149,Vermont Defender General,0
+Q77082906,DVS,0
+Q77590903,NJLRC,0
+Q78362860,ECA/EC/ECC,0
+Q78362860,Office of Exchange Coordination,0
+Q106211936,"Department of Natural Resources, Samish Indian Nation",0
+Q106211936,"Natural Resources Department, Samish Indian Nation",0
+Q106211936,Samish Department of Natural Resources,0
+Q106211936,Samish Indian Nation Dept. of Natural Resources,0
+Q106211936,Samish Indian Nation Natural Resources Department,0
+Q106248091,CSSD,0
+Q106248091,Child Support Enforcement Division,0
+Q106248091,CSED,0
+Q106300325,Limestone County Circuit Clerk,0
+Q106300325,Limestone County Office of the Circuit Court Clerk,0
+Q106351832,Chicago Historic Preservation Division,0
+Q106351832,Historic Preservation Division (Chicago),0
+Q4680332,Westminster Public Schools,1
+Q4822594,Adams-Arapahoe 28J School District,1
+Q4850535,Baldwin County Board of Education,2
+Q4850535,Baldwin County Schools,2
+Q4850535,Baldwin Schools,2
+Q5016306,Caddo Hills Public Schools,1
+Q5019774,Calhoun County School District,1
+Q5028046,CCSD,1
+Q5028161,CUHSD,1
+Q5028163,Campbell Union Elementary School District,1
+Q5033168,Canon-Mac,1
+Q5043265,Carmel Clay School District,1
+Q79243164,DLSA,0
+Q79243164,U.S. Defense Legal Services Agency,0
+Q79243164,United States Defense Legal Services Agency,0
+Q79251141,Department of Defense Office of the General Counsel,0
+Q79251141,Office of General Counsel of Department of Defense,0
+Q79251141,Office of General Counsel of the Department of Defense,0
+Q79251141,Office of the General Counsel of the Department of Defense,0
+Q79369076,Privacy Protection Study Commission,0
+Q79460859,CWMD,0
+Q79460859,Office of Countering Weapons of Mass Destruction,0
+Q79664779,AFP,0
+Q79664779,Asset Forfeiture Program,0
+Q79664779,United States Department of Jutice Asset Forfeiture Program,0
+Q79672175,OCDETF,0
+Q79672175,Department of Justice Executive Office for Organized Crime Drug Enforcement Task Forces,0
+Q79672175,DOJ OCDETF,0
+Q79672175,United States Department of Justice Executive Office for Organized Crime Drug Enforcement Task Forces,0
+Q79679028,Department of Justice Executive Office for U.S. Trustees,0
+Q79679028,Department of Justice Executive Office for United States Trustees,0
+Q79679028,Executive Office for United States Trustees,0
+Q79681932,Department of Justice Financial Fraud Enforcement Task Force,0
+Q79681932,Department of Justice Task Force on Market Integrity and Consumer Fraud,0
+Q79681932,Financial Fraud Enforcement Task Force,0
+Q79681932,United States Department of Justice Financial Fraud Enforcement Task Force,0
+Q79681932,United States Department of Justice Task Force on Market Integrity and Consumer Fraud,0
+Q79685037,U.S. National Central Bureau,0
+Q79685037,United States National Central Bureau,0
+Q79690951,OIP,0
+Q79690951,DOJ OIP,0
+Q79690951,Office of Information and Privacy,0
+Q79690951,Office of Information Policy,0
+Q79690951,United States Department of Justice Office of Information Policy,0
+Q79695290,OPCL,0
+Q79695290,Department of Justice  Privacy and Civil Liberties Office ,0
+Q79695290,DOJ OPCL,0
+Q79695290,Office of Privacy and Civil Liberties,0
+Q79695290,United States Department of Justice  Privacy and Civil Liberties Office ,0
+Q79695290,United States Department of Justice Office of Privacy and Civil Liberties,0
+Q79696557,Office of Public Affairs,0
+Q79696557,United States Department of Justice Office of Public Affairs,0
+Q79697678,SMART,0
+Q79697678,"Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking Office",0
+Q79700853,DOJ OSG,0
+Q79700853,Office of the Solicitor General,0
+Q79700853,United States Department of Justice Office of the Solicitor General,0
+Q79701839,OTJ,0
+Q79701839,Department of Justice Office of Tribal Justice,0
+Q79701839,DOJ OTJ,0
+Q79701839,United States Department of Justice Office of Tribal Justice,0
+Q81654768,HEP,0
+Q81654776,WDTS,0
+Q81937742,Vermont Public Records Division,0
+Q81937742,Vermont State Archives,0
+Q81937742,Vermont State Archives & Records Administration,0
+Q81937742,VSARA,0
+Q84956527,OAR,0
+Q84956527,EPA OAR,0
+Q84956527,EPA Office of Air and Radiation,0
+Q85348133,GSA FAS,0
+Q85348133,GSA Federal Acquisition Service,0
+Q85846833,Fine Arts Committee,1
+Q97446655,Armed Forces Special Weapons Project,0
+Q97446655,Defense Atomic Support Agency,0
+Q97446655,Defense Special Weapons Agency,0
+Q97446901,Office of the Adjutant General of Michigan,0
+Q98139143,NCDOL,0
+Q98230213,CRT,0
+Q98649212,FAI,0
+Q98665760,Henry County Circuit Clerk,0
+Q98665760,"Henry County, Alabama, Circuit Clerk's Office",0
+Q99194430,CCPW,0
+Q99194430,Clark County Department of Public Works,0
+Q99306309,SCU,0
+Q99306333,CZU,0
+Q99306394,LNU,0
+Q99658552,Hamilton County Engineer,0
+Q99658552,Hamilton County Office of the County Engineer,0
+Q99767678,"Landmarks Commission (Kirkwood, Missouri)",0
+Q99824166,AOA,0
+Q99824166,Vermont AOA,0
+Q100252437,VLRB,0
+Q100996635,"Circuit Clerk of Covington County, Alabama",0
+Q102431808,New York State Ethics Commission for the Unified Court System,0
+Q103086146,Calhoun County Office of Judge of Probate,0
+Q103086146,Calhoun County Probate Clerk Office,0
+Q103439667,USCGS,0
+Q103439667,U.S. Coast & Geodetic Survey,0
+Q103439667,U.S. Coast and Geodetic Survey,0
+Q103439667,U.S.C.&G.S.,0
+Q103445699,Survey of the Coast of the United States,0
+Q103447274,U.S. Coast Survey,0
+Q69340819,Paramus CDDC,1
+Q69340819,Paramus Civil Defense - Disaster Control,1
+Q69340819,Paramus civil defense disaster control,1
+Q4705888,AUSD,2
+Q4709498,ACPS,1
+Q4712303,ACS,1
+Q4712303,Albertville City School System,1
+Q4712830,APS,2
+Q4718608,ACS,1
+Q4718608,Alexander City Board of Education,1
+Q4718608,Alexander City School District,1
+Q4737342,ARUSD,1
+Q4737342,Alum Rock Union Elementary School District,1
+Q4879134,Bedford Co Pblc Schs,1
+Q5250806,Deer Park Community City Schools,1
+Q5250806,Deer Park Community School District,1
+Q5250806,Deer Park Community Schools,1
+Q5259616,Denton ISD,1
+Q5274988,Dierks Public Schools,1
+Q5283367,Collier County Public Schools,3
+Q65469206,PBS,0
+Q65469206,GSA Public Buildings Service,0
+Q65469206,United States. General Services Administration. Public Buildings Service,0
+Q65469206,United States. Public Buildings Service,0
+Q65470057,FLA,0
+Q65470057,United States  Federal Loan Agency,0
+Q65682203,Natural Resources Division of Calvert County,0
+Q66023260,MIA,0
+Q66092269,AMS PVPO,0
+Q66092269,PVPO,0
+Q67154878,NIFL,0
+Q67154899,ACSFA,0
+Q68248701,Maryland-National Capital Park and Planning Commission Montgomery County Department of Park and Planning,0
+Q69340819,Paramus C.D. - D.C.,1
+Q69340819,Paramus CD - DC,1
+Q106991739,Santa Clara County Tax and Collections Department,0
+Q106991756,CTD,0
+Q106991783,Santa Clara County Clerk-Recorder,0
+Q106991783,Santa Clara County Office of the Clerk-Recorder,0
+Q106991981,Santa Clara County DA,0
+Q106991981,Santa Clara County District Attorney,0
+Q106991981,Santa Clara County Office of the District Attorney,0
+Q106992022,Santa Clara County Reentry Resource Center,0
+Q106992052,Santa Clara County FAF,0
+Q107166871,Baldwin County Archives and History Department,0
+Q107166871,Baldwin County Department of Archives and History,0
+Q107171679,IFWIS,0
+Q107335594,County of Santa Clara Social Services Agency,0
+Q107449411,Public Building Commission,0
+Q107518667,ERIC,0
+Q107519899,DPH,0
+Q5060649,CCSD,1
+Q5060649,Central Consolidated School District,1
+Q5061320,Central Kitsap School District 401,1
+Q5061886,Central Susquehanna Intermediate Unit #16,1
+Q5073008,Chapel Hill Carrboro City Schools,1
+Q5073008,CHCCS,1
+Q5087640,Chatham County Schools,1
+Q5193724,CCUSD,1
+Q5193878,CCS,2
+Q5194452,CUSD,1
+Q5211353,Dallas ISD,2
+Q5211353,DISD,2
+Q5468649,Foreman Public Schools,1
+Q5470652,FCS,1
+Q5470808,FBISD,3
+Q5471498,Fort Leavenworth USD #207,1
+Q5471498,USD 207,1
+Q5472276,FWCS,2
+Q5494632,PISD,2
+Q104480046,BHNRC,0
+Q104480048,CNRC,0
+Q104480056,WHNRC,0
+Q104532113,VCIC,0
+Q104720561,OSBA,0
+Q104720561,CalOSBA,0
+Q104907537,NARA Office of Government Information Services,0
+Q104907537,NARA OGIS,0
+Q104907537,OGIS,0
+Q104907537,The Office of Government Information Services,0
+Q105047476,Disability Employment Policy Office,0
+Q105047476,ODEP,0
+Q105077192,U.S. Office of Indian Energy Policy and Programs,0
+Q105077192,United States Office of Indian Energy Policy and Programs,0
+Q105087692,OIDO,0
+Q105087692,Immigration Detention Ombudsman,0
+Q105089983,King County Department of Natural Resources and Parks,0
+Q105089983,King County Department of Parks and Recreation,0
+Q105089983,King County Parks and Cultural Resources Department,0
+Q105089983,"King County Parks, Planning, and Resources Department",0
+Q105089983,DNRP,0
+Q106437397,SBSD,0
+Q106437397,Small Business and Supplier Diversity,0
+Q106911531,Campbell Recreation & Community Services,0
+Q106911531,Campbell Recreation and Community Services Department,0
+Q106991739,DTAC,0
+Q108737630,Hamilton County Office of the County Coroner,0
+Q108737728,AR,0
+Q108747165,King County Parks Division,0
+Q108747165,King County Parks and Recreation Division,0
+Q108747165,"Parks and Recreation Division, King County",0
+Q108756290,ODOD,0
+Q4894862,BUSD,1
+Q4905833,"School District 38 (Lake County, Illinois)",1
+Q4916659,Birmingham　City School District,1
+Q4916665,Birmingham City School District,2
+Q5101101,CUSD,1
+Q5101101,Chinle Unified School,1
+Q5101101,Chinle Unified School District No. 24,1
+Q5101101,Chinle Unified Schools,1
+Q5101223,CVUSD,1
+Q5101223,Chino Valley Unified School District #51,1
+Q5101225,CVUSD,2
+Q5129859,Clay County School District,1
+Q5129859,Clay County Board of Education,1
+Q5130316,Clayton Middle School,1
+Q5132193,Cleveland Municipal School District,2
+Q5328222,East Detroit Public Schools,1
+Q5328971,Equity Alliance MN,1
+Q5329133,East Peoria Community High School District 309,1
+Q5329133,East Peoria High School,1
+Q5329133,EPCHS,1
+Q5329394,ESUHSD,1
+Q87222433,United States. Bureau of Biological Survey,0
+Q87482082,Army Reserve Office of History,0
+Q87489924,Saint Marys Historic Preservation Commission,0
+Q87489924,St Marys Historic Preservation Commission,0
+Q87489924,St. Mary's Historic Preservation Commission,0
+Q87653654,161st Military History Detachment,0
+Q87653654,Georgia National Guard Historical Society,0
+Q87653654,Georgia National Guard Museum,0
+Q87653654,Historical Society of the Georgia National Guard,0
+Q88977839,Census Monitoring Board,0
+Q88977839,United States Census Monitoring Board,0
+Q89618839,Columbus Recreation and Parks,1
+Q90571191,NHP,0
+Q91127833,Howard County Department of Recreation and Parks,0
+Q105652082,NC DMF,0
+Q105652082,NCDMF,0
+Q105683481,Indiana Department of State Revenue,0
+Q108513963,Lummi Nation Natural Resources,0
+Q108513963,Lummi Nation Natural Resources Department,0
+Q108513963,Lummi Natural Resources,0
+Q108513963,"Lummi Tribe of the Lummi Reservation, Washington Natural Resources Department",0
+Q108513963,"Natural Resources Department, Lummi Nation",0
+Q108513963,"Natural Resources Department, Lummi Tribe of the Lummi Reservation, Washington",0
+Q108513963,"Natural Resources, Lummi Nation",0
+Q108737596,VTRC,0
+Q5137669,CCSD,1
+Q5148934,D-11,2
+Q5148934,District 11,2
+Q5150021,Columbus Public Schools,1
+Q5519225,McKinley County Schools,1
+Q5522576,Gardner-Edgerton USD 231,1
+Q5555108,Saint Paul Schools,3
+Q5555108,St. Paul Public School District,3
+Q5555108,St. Paul Public Schools,3
+Q5555108,St. Paul Schools,3
+Q5561160,Gilbert Unified School District,1
+Q5568159,Glenbard District 87,1
+Q5568159,Glenbard High School District 87,1
+Q5569395,"Community Consolidated School District 34, Cook County, Illinois",1
+Q5569395,Glenview CCSD 34,1
+Q5569395,Glenview School District 34,1
+Q5592566,SDG,1
+Q5592566,GSD,1
+Q5592566,Grafton Public Schools,1
+Q5592566,School District of Grafton,1
+Q6505724,LUSD,1
+Q6511066,Lebanon City Schools,1
+Q6515929,Leeds City School District,1
+Q6536206,LPSD,2
+Q6537764,Lex-Rich Five,1
+Q7229779,PEP,1
+Q7229779,Population Estimates,1
+Q4929751,Blue Ridge Unified School,1
+Q4929985,Blue Valley School District,2
+Q4929985,Blue Valley USD 229,2
+Q4949604,Boulder Valley School District No. Re2,2
+Q4949604,Boulder Valley School District No.2,2
+Q5330728,Eastland ISD,1
+Q5334310,ECISD,2
+Q5334310,Ector County ISD,2
+Q5358887,ESD 159,2
+Q5358887,School District 159,2
+Q5675230,HJHS,1
+Q6549320,Limestone County Schools,1
+Q94297370,Board of Riparian Commissioners,0
+Q94297370,Riparian Commissioner of the State of New Jersey,0
+Q94417360,City of Valdez City Clerk,0
+Q94417360,Valdez City Clerk,0
+Q94417360,Valdez Clerk's Office,0
+Q96359410,NPD,0
+Q96359410,FEMA National Preparedness Directorate,0
+Q96359410,FEMA NPD,0
+Q96375067,Department of Recreation and Parks of the City of Los Angeles,2
+Q96966408,Chicago Department of Planning and Development,0
+Q97013232,Fulton Arts,0
+Q97013232,Fulton County Arts,0
+Q97040310,MML,0
+Q97040314,PML,0
+Q97040318,"CNST, NanoFab",0
+Q97040322,CTL,0
+Q97040326,EL,0
+Q97040332,ITL,0
+Q97040848,CCDPH,0
+Q109319662,Ohio State Parks,0
+Q109319662,Ohio Division of Parks & Watercraft,0
+Q109328393,Alaska State Parks,0
+Q109328503,SCPRT,0
+Q6964850,NCUSD,1
+Q6966759,Coopers Elementary School,1
+Q6966998,Nashville Public Schools,1
+Q7005722,Consolidated School District of New Britain,1
+Q7010769,New Orleans Public Schools,2
+Q7051080,Norfolk City Public Schools,1
+Q109328529,NCDPR,0
+Q109500480,Mississippi State Commission for Educational Television,0
+Q109500480,State Commission for Educational Television,0
+Q109803818,City of Dayton Department of Aviation,0
+Q109803818,Dayton Aviation Department,0
+Q576872,MCSO,2
+Q1350854,District of Columbia Police Department,8
+Q1350854,Metropolitan Police Department,8
+Q1350854,MPD,8
+Q1350854,MPDC,8
+Q2403469,New York City Transit Police Department,3
+Q3259709,County of Los Angeles Sheriff's Department,10
+Q3259709,LASD,10
+Q4654315,ASPCA Law Enforcement,1
+Q4712825,APD,1
+Q4731233,ACSO,1
+Q4731298,Allegheny County Sheriff's Office,1
+Q4768129,AACOPD,1
+Q5641677,HHHCSD,2
+Q6686038,LCPS,2
+Q6689531,Cass County District 32,1
+Q6693356,LCMR,2
+Q6964850,203,1
+Q6964850,Naperville 203,1
+Q5645151,Riverside School,1
+Q5758993,Highland Park Middle School,2
+Q5836140,Lincoln Middle School,2
+Q5837272,NLMUSD,3
+Q5837272,Norwalk-La Mirada Unified School District,3
+Q5902777,Horatio Public Schools,1
+Q6017142,Rosemount-Apple Valley-Eagan School District,1
+Q6017151,Independent School District 861,1
+Q6175439,Jefferson Public Schools,2
+Q6175551,Jefferson Parish Public School System,2
+Q6705515,Luther Burbank School,1
+Q6709549,LUSD,1
+Q6747018,Manassas Park City Public Schools,1
+Q6747018,Manassas Park City School District,1
+Q7127984,Palm Beach County Sheriff,2
+Q7199371,Pittsburgh Bureau of Police,1
+Q7244288,PWCPD,1
+Q7289007,Ramapo Central School District,1
+Q7306488,RCSD,2
+Q7309143,RSU 57,1
+Q7315008,Rescue Union Elementary School District,2
+Q16199639,BORSTAR,2
+Q48796399,173rd Infantry Regiment,1
+Q50039297,NLR,0
+Q50040795,BCDCOG,0
+Q50040795,Regional Planning Commission,0
+Q50040804,ADECA,0
+Q50040836,Delaware American Revolution Bicentennial Commission,0
+Q50040871,DEO,0
+Q50040892,CSB,0
+Q50040913,DHSS,0
+Q50040933,CVAG,0
+Q50040955,CCG,0
+Q50040969,DMD,0
+Q50040971,MCAAHC,0
+Q50041015,ISDA,0
+Q50041024,INCOG,0
+Q50041027,PLA,0
+Q50041038,KIRC,0
+Q50041044,KCHR,0
+Q50041055,MDIFW,0
+Q51726668,CIS Ombudsman,0
+Q51726668,CISOMB,0
+Q51726668,Citizenship and Immigration Services Ombudsman,0
+Q51726668,Department of Homeland Security Citizenship and Immigration Services Ombudsman,0
+Q51726668,"Department of Homeland Security, Citizenship and Immigration Services Ombudsman",0
+Q51726668,Office of the Citizenship and Immigration Services Ombudsman,0
+Q52842794,NCTBH,0
+Q52844312,Ohio State Board of Pharmacy,0
+Q52844688,Office of Public and Intergovernmental Affairs,0
+Q52844688,VOIA,0
+Q53144495,NYSTA,1
+Q53645761,"Department of Culture, Recreation and Tourism",0
+Q54514175,United States Civil Aeronautics Authority,0
+Q55379549,Kentucky Division of Behavioral Health,0
+Q55454306,SRS,0
+Q55454306,U.S. Forest Service Southern Research Station,0
+Q55454308,PNW,0
+Q55454308,USDA Forest Service Pacific Northwest Research Station,0
+Q55454308,Forest Service Pacific Northwest Research Station,0
+Q55454308,U.S. Forest Service Pacific Northwest Research Station,0
+Q55454308,United States Department of Agriculture Forest Service Pacific Northwest Research Station,0
+Q55454308,United States Forest Service Pacific Northwest Research Station,0
+Q55454309,PSW,0
+Q55641031,MOIA,1
+Q55740630,FSLRB,0
+Q56026087,Utah Reclamation Mitigation & Conservation Commission,0
+Q56026087,Utah Reclamation Mitigation Conservation Commission,0
+Q56230176,OCX,0
+Q56245561,City of Minneapolis Public Works Department,0
+Q56275381,PPO,1
+Q56275381,Office of Presidential Personnel,1
+Q56275381,Presidential Personnel Office,1
+Q56275381,White House Office of Presidential Personnel,1
+Q56275381,White House Personnel Office,1
+Q56275381,WHPO,1
+Q107303908,City of San José Department of Transportation,0
+Q107303908,San José Department of Transportation,0
+Q107303908,San Jose DOT,0
+Q107303908,San Jose Transportation Department,0
+Q107337932,MCDOT,0
+Q109678111,WEU,0
+Q109678111,Louisiana State Police Mobile Weights and Standards Unit,0
+Q109678111,Mobile Weights and Standards Unit,0
+Q109678111,Weight Enforcement Unit,0
+Q217810,Department of Energy,34
+Q217810,DOE,34
+Q217810,US Department of Energy,34
+Q217810,USDOE,34
+Q217810,U.S. Department of Energy,34
+Q217810,energy.gov,34
+Q786878,IC,27
+Q4038512,F.B.I SWAT team,6
+Q6905708,MCP,2
+Q6905708,MCDP,2
+Q6905708,MCPD,2
+Q6905708,Montgomery County (Md.) Department of Police,2
+Q6905708,Montgomery County Department of Police,2
+Q6905708,Montgomery County P.D.,2
+Q6905708,Montgomery County PD,2
+Q6905708,Montgomery County Police,2
+Q6905717,MCSO,1
+Q6905717,Montgomery County Maryland Sheriff's Office,1
+Q7013170,NYC DHS Police,1
+Q7056712,District 112,3
+Q7075973,Ocean County Sheriff's Office,1
+Q7082149,OKC PD,1
+Q7099592,Orange County Sheriff's Department,2
+Q110955247,National Bureau of Standards Center for Materials Science,0
+Q110955247,United States National Bureau of Standards Center for Materials Science,0
+Q4746008,Amherst Pelham Regional School District,1
+Q4768131,AASO,1
+Q4820912,ACSO,1
+Q4869479,BRPD,2
+Q5056026,CCSO,1
+Q5123624,CPD,1
+Q5123624,Charleston Police Department,1
+Q5132122,CDP,2
+Q5148931,CSPD,2
+Q5149799,CPD,1
+Q5242666,Dawson School,1
+Q5242666,Dawson High School Welch,1
+Q5242667,"Dawson ISD - Dawson, TX",1
+Q5242667,Dawson ISD (ESC 12),1
+Q5244053,DeQueen Public Schools,1
+Q5370960,Emerson–Taylor School District,1
+Q5390382,Berwyn Cicero Stickney High School District No. 201,2
+Q5390382,Berwyn-Stickney High School District No. 201,2
+Q5390382,Cicero-Stickney Township High School District No. 201,2
+Q5390382,Cook County Township High School District No. 201 J. Sterling Morton,2
+Q5390382,J. Sterling Morton Township High School District No. 201,2
+Q5399857,Essexville-Hampton School District,1
+Q5407736,Eugene Public Schools,1
+Q5407736,Eugene School District 4J,1
+Q5407736,Lane County School District 4J,1
+Q5417198,Evergreen School District,1
+Q5417198,EESD,1
+Q5430303,Fairfield ISD,1
+Q5646443,Hamtramck Public School District,7
+Q7059402,Glenbrook High School District 225,1
+Q7059402,Glenbrook High Schools,1
+Q7059402,"Township High School District 225, Cook County, Illinois",1
+Q108055644,San José Environmental Services Department,0
+Q108129298,DPW,0
+Q108129298,Baltimore DPW,0
+Q108156268,Alaska Division of Geologic and Geophysical Surveys,0
+Q108156268,Alaska Division of Geological & Geophysical Surveys,0
+Q108156268,Alaska Geological & Geophysical Surveys,0
+Q108156268,Alaska Geological and Geophysical Surveys,0
+Q108156268,DGGS,0
+Q108156268,Division of Geologic and Geophysical Surveys,0
+Q108156268,"Division of Geologic and Geophysical Surveys, Alaska",0
+Q108156268,Division of Geological & Geophysical Surveys,0
+Q108156268,"Division of Geological & Geophysical Surveys, Alaska",0
+Q108156268,Division of Geological and Geophysical Surveys,0
+Q108156268,"Division of Geological and Geophysical Surveys, Alaska",0
+Q110702326,SFDEM,0
+Q110732754,"Oregon/Washington State Office, Bureau of Land Management",0
+Q110732754,U.S. Bureau of Land Management Oregon/Washington State Office,0
+Q110732754,US Bureau of Land Management Oregon/Washington State Office,0
+Q110732754,BLM Oregon/Washington State Office,0
+Q110732754,"Oregon/Washington State Office, BLM",0
+Q110732754,"Oregon/Washington State Office, U.S. Bureau of Land Management",0
+Q110732754,"Oregon/Washington State Office, US Bureau of Land Management",0
+Q110822878,DC Homeland Security & Emergency Management Agency,0
+Q110822878,DC Homeland Security and Emergency Management Agency,0
+Q110822878,Homeland Security & Emergency Management Agency,0
+Q110822878,HSEMA,0
+Q110955247,Center for Materials Science at Los Alamos National Laboratory,0
+Q110955247,"Center for Materials Science, Los Alamos National Laboratory",0
+Q110955247,Centre for Materials Science,0
+Q110955247,Los Alamos National Laboratory Center for Materials Science,0
+Q110955247,Los Alamos National Laboratory: Center for Materials Science,0
+Q5243604,DBPD,1
+Q6392077,The Kenton County School District,1
+Q6407407,Killeen ISD,1
+Q6414508,Ki-Be School District,1
+Q6802137,McLean County Community Unit School District 5,1
+Q6802137,McLean County Unit 5,1
+Q6802137,McLean Unit 5,1
+Q6802137,Normal Community Unit School District 5,1
+Q6802137,Normal Unit 5,1
+Q6802137,Unit 5,1
+Q6816332,Mena Public Schools,1
+Q7330621,Richland Two,2
+Q7396971,SSO,2
+Q7397012,SPD,1
+Q7413430,SBSD,1
+Q7413633,San Diego County Sheriff,2
+Q7413633,San Diego Sheriff,2
+Q7413633,San Diego Sheriff’s Department,2
+Q7414475,San José Police Department,1
+Q7414475,SJPD,1
+Q7419316,SCCDPS,1
+Q5424594,NSB,4
+Q5424594,National Security Branch,4
+Q5613439,Guam PD,3
+Q5613439,Police Department of Guam,3
+Q6821077,Mesa Unified School District,2
+Q7073597,Oak Hills School District,1
+Q7073597,OHLSD,1
+Q7589671,"Metropolitan Police Department, City of St. Louis",2
+Q7640021,Sunflower County School District,1
+Q7640939,SESD,1
+Q7640939,Sunnyvale Elementary School District,1
+Q7675045,TPD,1
+Q7690444,TCSO,1
+Q24060966,HCSO,1
+Q94982511,Jefferson Parish Sheriff,0
+Q95983033,NBPD,0
+Q98550900,JCSO,1
+Q6468735,Lackland ISD,1
+Q6843320,Midway USD 433,1
+Q6860712,MUSD,2
+Q6864322,MSSD,1
+Q6864322,Mineral Springs Public Schools,1
+Q6864322,Mineral Springs Saratoga School District,1
+Q6901080,MCVSD,1
+Q7110149,ORSD,1
+Q7110149,Ouachita River Public Schools,1
+Q7114734,Owens Whitney School District 6,1
+Q7128512,PAUSD,2
+Q7163137,Penn Harris Madison Schools,1
+Q7341072,Robbinsdale School District,1
+Q7359336,Rogers School District,1
+Q7359336,Rogers Public School District #30,1
+Q7366436,Roosevelt School District #66,2
+Q7368725,Independent School District 623,2
+Q7368725,ISD 623,2
+Q7368725,Roseville School District,2
+Q7796553,Cook County School District 154,1
+Q7796553,Wolcott School,1
+Q7808872,Klondike Middle School,1
+Q7814158,TPS,2
+Q7814158,Toledo Public Schools,2
+Q7824816,Topeka Board of Education,2
+Q7830251,"D211, District 211",2
+Q7852348,Tulsa PD,1
+Q7852372,Tulsa Tech,1
+Q7852372,Tulsa Vo-Tech,1
+Q7884943,UPD,2
+Q98550911,SCSO,1
+Q98551628,WCSO,1
+Q98551633,MCSO,1
+Q105085080,Marin County Sheriff,0
+Q105682964,DC Office of Tax & Revenue,0
+Q105682964,DC OTR,0
+Q105682964,District of Columbia Office of Tax and Revenue ,0
+Q105682964,"Washington, D.C. Office of Tax and Revenue",0
+Q105682964,"Washington, DC Office of Tax and Revenue",0
+Q110395542,HCSO,0
+Q110395542,Hamilton County Sheriff's Patrol,0
+Q6457078,Metro,3
+Q6457078,Los Angeles Police Department Metropolitan Division,3
+Q6464333,LPCSO,1
+Q6911698,MHUSD,1
+Q6913661,Morris County School of Technology,1
+Q6919155,MVPS,1
+Q6921395,Mount Ida Public Schools,1
+Q6925318,Mountain View-Whisman School District,1
+Q6925318,Mountain View–Whisman School District,1
+Q6925318,MVWSD,1
+Q6925614,MSD,1
+Q7401115,Saint Clair County Board Of Education,1
+Q7401115,St. Clair County Board Of Education,1
+Q7401115,St. Clair County School District,1
+Q7413758,San Diego USD,3
+Q7414927,SMUHSD,2
+Q7415400,San Ysidro School District,2
+Q7419336,SCUSD,1
+Q7419552,SFPS,2
+Q7423228,Sarasota County School Board,1
+Q7423228,Sarasota County School District,1
+Q7886011,Union Elementary School District,1
+Q7886011,"Union School District, San Jose",1
+Q7887868,Antonio Gonzalez Middle School,2
+Q7902337,UCSO,2
+Q7934138,VBPD,1
+Q16998100,Kansas City Police Department,1
+Q16998100,KCKPD,1
+Q17004939,EPPD,1
+Q7166160,Peoria Unified School District 11,2
+Q7166160,PUSD,2
+Q7170969,Peru Public Schools,1
+Q7199373,PPS,2
+Q7430538,Scarsdale Public School District,5
+Q19771645,Carrollton School District,1
+Q19771692,Birch Run Area School District,1
+Q20711246,NAFCS,1
+Q22059487,ABRSD,1
+Q7206294,Pocatello/Chubbuck School District #25,1
+Q7244948,Princeton City Schools,1
+Q7244998,Princeton High School,1
+Q7252784,Provo School District,2
+Q7450294,Seneca Falls CSD,1
+Q7492613,Sheffield City School District,1
+Q7536173,Skokie/Morton Grove School District 69,1
+Q8563593,FUSD,2
+Q8768802,WSD,2
+Q8778311,SDHC,2
+Q8778311,HCPS,2
+Q8778311,Charlie Walker Middle School,2
+Q8778311,School District of Hillsborough County,2
+Q10464597,Central Islip School District,2
+Q10464597,Central Islip Union Free School District,2
+Q13415268,CPS,4
+Q13415268,Cambridge Public School District,4
+Q17020544,MIT Campus Patrol,1
+Q17020544,MIT Police,1
+Q17035148,Pinches maricones,1
+Q17108212,TPD,2
+Q2705072,FEC,18
+Q2705072,Federal Election Commission of the United States,18
+Q2705072,United States Federal Election Commission,18
+Q2705072,USFEC,18
+Q7775752,SSA,2
+Q7775752,Steamship Authority,2
+Q7775752,The Steamship Authority,2
+Q7960902,WCPSS,2
+Q7963012,Walled Lake Consolidated School District,4
+Q7966876,Walworth Elementary School,1
+Q7966876,Walworth Grade School,1
+Q7968239,Wapato School District 207,1
+Q7971741,Washington Community High School District 308,1
+Q7971741,WCHS,1
+Q7971795,Washington Court House City Schools,1
+Q14688616,Perry Township Schools,2
+Q14691864,Zachary Community School Board,1
+Q14691864,ZCSD,1
+Q14692658,Forest Lake Area School District,1
+Q14704308,"Hickman Mills, Kansas City",1
+Q14715231,Maine School Administrative District 22,1
+Q14715231,MSAD 22,1
+Q14715231,RSU 22,1
+Q14716393,CLSD,2
+Q16984683,U.S. Office of Education,3
+Q16984683,United States Office of Education,3
+Q16984683,US Office of Education,3
+Q28122504,NHCS,2
+Q28122504,NHC Schools,2
+Q7567965,Rivercrest Public Schools,1
+Q7567965,South Mississippi County School District,1
+Q7567965,Southern Mississippi County School District,1
+Q7568374,SSFUSD,1
+Q7984495,West Bolivar School District,1
+Q7984745,WCSD,1
+Q7984745,WCLSD,1
+Q7984745,West Clermont Local Schools,1
+Q7984745,West Clermont School District,1
+Q15260151,MTLSD,1
+Q16810774,Lake Hamilton School District 5,1
+Q16821474,Bessemer City School District,1
+Q16833600,AUESD,1
+Q29641617,Grinnell Newburg Community School District,1
+Q30093016,Kayenta Unified School District No. 27,1
+Q30266673,WCSD,1
+Q30673176,San Juan County School District,2
+Q30694339,Bloomingdale District 13,1
+Q5020484,CFPPC,1
+Q5020484,FPPC,1
+Q7587300,St. Bernard Parish School District,1
+Q7591812,Mandeville Middle School,2
+Q7591812,St. Tammany Parish Public School System,2
+Q7987799,WD,1
+Q7990716,Wharton ISD,1
+Q8001584,Wildwood Public School District,1
+Q16844410,Bonsall Unified School District,1
+Q16849843,butte.edu,1
+Q16890412,Cleveland Middle School,1
+Q8026620,Winton Woods City Schools,1
+Q8029001,Woden ISD,1
+Q8034212,WPS,1
+Q8049401,Yarmouth Schools,1
+Q8055428,Clover School District,1
+Q16959009,CCSD15,1
+Q16965362,FMSD,1
+Q16966205,Madison Public Schools,1
+Q16966205,MSAD 59,1
+Q16966205,MSAD59,1
+Q16992798,Community Consolidated School District 65,1
+Q16992798,Evanston CCSD 65,1
+Q16992798,Evanston Community Consolidated School District 65,1
+Q16992798,Evanston-Skokie CCSD 65,1
+Q16992798,Evanston-Skokie Community Consolidated School District 65,1
+Q16994732,HCDE,1
+Q16994732,Hamilton County Department of Education,1
+Q16995301,Hewlett-Woodmere Public School District,1
+Q16996818,Lakeville School District,1
+Q17064662,P429,1
+Q17064662,Pontiac CCSD 429,1
+Q17064662,Pontiac Elementary School District 429,1
+Q17082034,MPESD,1
+Q17082034,Mt. Pleasant Elementary School District,1
+Q17084812,PVUSD,1
+Q29096951,Proctor-Piper State Forest,2
+Q33395543,Richard J Dorer Memorial Hardwood State Forest,1
+Q33395554,Richard J Dorer Memorial Hardwood State Forest,1
+Q47322156,Skokie School District 73 1/2,1
+Q47322156,Skokie School District 73-1/2,1
+Q47322156,Skokie School District 73-5,1
+Q47322156,Skokie School District 73.5,1
+Q48969688,Springfield R-12 School District,1
+Q51095212,Evanston Twp Hsd 202,0
+Q51097185,SCC,0
+Q51097185,Saint Croix Central School District,0
+Q51097354,Bureau Valley Community Unit School District #340,0
+Q51480823,San Rafael City Elementary,0
+Q51481140,San Rafael City High,0
+Q51765330,CRSD,1
+Q56214481,FBUSD,1
+Q56214481,Fort Bragg School District,1
+Q56214481,Fort Bragg Unified,1
+Q56678684,AVCS,0
+Q56678684,AVCSD,0
+Q63108626,Mason City School District,1
+Q63108626,Mason Comets,1
+Q63865660,Charles City County Public Schools,0
+Q66737902,AVUSD,1
+Q92228755,County of Santa Clara Public Health Department,2
+Q92228755,Santa Clara County Public Health,2
+Q92228755,SCCPHD,2
+Q92803011,Marsh Valley School District,0
+Q97670170,KCHD,0
+Q97670170,City of Kansas City Health Department,0
+Q106088195,New York City Geographic District #22,0
+Q106393992,TLG,0
+Q106393992,Tha Lights,0
+Q106482894,Mountain View Elementary School District,0
+Q106482894,MVESD,0
+Q106482894,MVSD,0
+Q250456,5th Circuit,7
+Q250456,Fifth Circuit,7
+Q286918,Tenth Circuit,8
+Q518155,National Archives,39
+Q518155,NARA,39
+Q518155,archives.gov,39
+Q518155,U.S. National Archives,39
+Q518155,US NARA,39
+Q1763845,CAFC,8
+Q1763845,Court of Appeals for the Federal Circuit,8
+Q1763845,Federal Circui,8
+Q1763845,U.S. Court of Appeals for the Federal Circuit,8
+Q2918178,D.C. Cir.,12
+Q2918178,D.C. Circuit,12
+Q3728407,Piñones Forest,3
+Q3728423,Río Abajo Forest,2
+Q3728709,Guánica Forest,5
+Q3728732,Toro Negro Forest,3
+Q3728783,Aguirre Forest,3
+Q3728791,Cambalache Forest,4
+Q3728791,Cambalache Forest Reserve,4
+Q3728983,Maricao Forest,3
+Q5035930,Capitol Forest,5
+Q5203348,D A R Memorial State Forest,2
+Q5531747,General C C Andrews State Forest,2
+Q6492699,LVUSD,1
+Q6682095,Los Angeles County Police,1
+Q6689515,LMPD,1
+Q17107552,NTPS,1
+Q17107552,"North Thurston Public Schools, District No. 3",1
+Q17107766,Toppenish School District No. 202,1
+Q17107971,Meridian School District,1
+Q17109507,Mexico Academy & Central School District,1
+Q17109948,RPD,2
+Q17110393,Triborough Bridge and Tunnel Authority,2
+Q18158737,RCSO,1
+Q18391996,New Public School District 8,1
+Q106888651,CU Boulder VMA,0
+Q106890207,OIE,0
+Q106890311,Arts & Sciences Support of Education Through Technology,0
+Q106890311,ASSETT,0
+Q107083936,Alumni Relations and Development,0
+Q107083936,Office of Alumni Relations and Development,0
+Q107170793,Global Marketing and Communications,0
+Q107170793,Office of Global Marketing and Communications,0
+Q107383072,HR Office,0
+Q107383072,Office Human Resources,0
+Q6042061,Lake Insula State Forest,2
+Q6476302,Isabella Lake State Forest,2
+Q7235031,Potomac State Forest,2
+Q7326719,Minnesota Memorial Hardwood State Forest,2
+Q7427768,Savage River SF,3
+Q7698949,TECOA,1
+Q7698949,U.S. Temporary Emergency Court of Appeals,1
+Q7698949,United States Temporary Emergency Court of Appeals,1
+Q14217008,Green Ridge SF,3
+Q14715489,Georgetown-Rowley State Forest,3
+Q23919425,Montana State University Office of the Executive Vice President for Academic Affairs and Provost,0
+Q30268036,ESD,0
+Q30268036,ESD 105,0
+Q30268039,ESD,0
+Q30268039,ESD 113,0
+Q30268041,ESD,0
+Q30268041,ESD 123,0
+Q30282806,ESD,0
+Q30282806,ESD 112,0
+Q38945047,Archives II,2
+Q38945047,Archives at College Park,2
+Q38945047,NARA College Park,2
+Q38945047,National Archives II,2
+Q38945047,US National Archives II,2
+Q60785277,Goddard Public Schools,1
+Q60785277,USD 265 Goddard Public Schools,1
+Q60785277,Goddard school district,1
+Q60785277,Goddard School District,1
+Q63858644,DPS,1
+Q63858644,Decatur Public Schools,1
+Q63858644,Decatur Public Schools 61,1
+Q63858644,Decatur School District 61,1
+Q91890327,SDJ,1
+Q91890327,Janesville School District,1
+Q93877703,"Roslyn Public Schools (Roslyn, N.Y.)",2
+Q105925543,Office of Research and Sponsored Programs of Northwestern University,0
+Q105925547,Office of Student Guidance and Counseling of Northwestern University,0
+Q105925550,Office of the Associate Dean of Graduate Medical Education of Northwestern University,0
+Q105925553,Office of the President of Northwestern University,0
+Q105925555,Office of the Provost of Northwestern University,0
+Q105925559,Office of the Registrar of Northwestern University,0
+Q105925561,Office of the University Attorney of Northwestern University,0
+Q105925563,Office of the University Chaplains of Northwestern University,0
+Q105925565,Office of the Vice President and Business Manager of Northwestern University,0
+Q105925568,Office of the Vice President for Research of Northwestern University,0
+Q105990706,AASA,0
+Q105990706,"African-American Student Affairs, Northwestern University",0
+Q105990706,Department of African American Student Affairs of Northwestern University,0
+Q105990706,Northwestern University Office of African American Student Affairs,0
+Q105990738,Department of Minority Student Affairs of Northwestern University,0
+Q105990738,"Department of Minority Student Affairs, Northwestern University",0
+Q105990738,"Dept. of Minority Student Affairs, Northwestern University",0
+Q105990738,"Minority Student Affairs, Northwestern University",0
+Q105990781,Department of University Relations of Northwestern University,0
+Q106032052,Executive Committee of Board of Trustees of Northwestern University,0
+Q106032053,Investments Committee of Board of Trustees of Northwestern University,0
+Q106032056,Budget and Resources Advisory Committee of Northwestern University,0
+Q106032057,Campus Commission of Northwestern University,0
+Q106032058,Committee for the Centennial Conference on the Arts of Northwestern University,0
+Q106032059,Committee on Educational Policy of Northwestern University,0
+Q106032067,Athletic Media Services of Northwestern University,0
+Q106032070,Board of Personnel Administration of Northwestern University,0
+Q106032075,Board of Supervision of Student Activities of Northwestern University,0
+Q106032076,Investment Department of Northwestern University,0
+Q106032078,Personnel Office of Northwestern University,0
+Q106032081,Physical Plant Department of Northwestern University,0
+Q106032087,Radio Department of Northwestern University,0
+Q106032089,Treasurer of Northwestern University,0
+Q106032090,University Architect of Northwestern University,0
+Q106032091,Vice President and Dean of Faculties of Northwestern University,0
+Q106032093,Office of Special Events of Northwestern University of Vice President for Planning and Development,0
+Q106316010,SASC,0
+Q106376754,University of Colorado Boulder Academic Affairs,0
+Q106376860,ODA,0
+Q106376860,University of Colorado Boulder Data Analytics,0
+Q106377064,University of Colorado Boulder Student Affairs,0
+Q106381172,University of Colorado Boulder Department of Human Resources,0
+Q106381172,University of Colorado Boulder HR,0
+Q106381175,University of Colorado Boulder Research and Innovation Office,0
+Q106381175,University of Colorado Boulder RIO,0
+Q106381927,University of Colorado Boulder OCG,0
+Q106381928,ODECE,0
+Q106381928,University of Colorado Boulder ODECE,0
+Q106381928,"University of Colorado Boulder Office of Diversity, Equity and Community Engagement",0
+Q106381933,OIT,0
+Q106381933,University of Colorado Boulder OIT,0
+Q106381935,University of Colorado Boulder I&S,0
+Q106381935,University of Colorado Boulder Infrastructure & Sustainability,0
+Q106381936,OIEC,0
+Q106381936,University of Colorado Boulder OIEC,0
+Q106428840,MSA,0
+Q106428840,"Multicultural Student Affairs, Northwestern University",0
+Q106428840,Northwestern University Multicultural Student Affairs,0
+Q106576386,SRS,0
+Q106576386,University of Colorado Boulder SRS,0
+Q106888651,VMA,0
+Q106888651,CU Boulder Veteran and Military Affairs,0
+Q23239,NRPC,45
+Q23239,National Railroad Passenger Corporation,45
+Q23239,AMTK,45
+Q23239,AMTZ,45
+Q53536,Fed,68
+Q53536,The Fed,68
+Q53536,Federal Reserve,68
+Q53536,"Federal Reserve System , FRS",68
+Q128831,FCC,33
+Q128831,Federal Communications Commission— FCC —,33
+Q214126,LAPD,37
+Q217072,Agency for International Development,46
+Q217072,USAID,46
+Q304878,NSF,36
+Q304878,U.S. National Science Foundation,36
+Q304878,N.S.F.,36
+Q304878,United States National Science Foundation,36
+Q304878,US National Science Foundation,36
+Q328473,NYPD,40
+Q328473,City of New York Police Department,40
+Q450439,PPB,3
+Q450439,Portland Bureau of Police,3
+Q495354,U.S. Small Business Administration,14
+Q495354,United States Small Business Administration,14
+Q592576,VA,30
+Q592576,DVA,30
+Q592576,Department of Veterans Affairs,30
+Q592576,U.S. Department of Veterans Affairs,30
+Q592576,U.S. Dept. of Veterans Affairs,30
+Q592576,US Department of Veterans Affairs,30
+Q592576,Veterans Affairs Department,30
+Q460173,EPA,38
+Q460173,Environmental Protection Agency,38
+Q460173,U.S. Environmental Protection Agency,38
+Q463527,ABMC,6
+Q478050,NEH,14
+Q478050,neh.gov,14
+Q478050,US National Endowment for the Humanities,14
+Q478050,National Endowments for the Humanities,14
+Q495354,SBA,14
+Q668687,US Postal Service,35
+Q668687,U. S. Mail,35
+Q668687,U. S. Postal Service,35
+Q668687,U.S. Mail,35
+Q668687,U.S. Postal Service,35
+Q668687,"United States Postal Service, USPS",35
+Q668687,US Mail,35
+Q668687,USPS,35
+Q786713,FTC,21
+Q839560,ITC,7
+Q839560,International Trade Commission,7
+Q839560,U.S. International Trade Commission,7
+Q839560,United States International Trade Commission.,7
+Q839560,USITC,7
+Q1059156,LVMPD,7
+Q1094508,CCC,17
+Q1115731,CPI,10
+Q1115731,Creel Committee,10
+Q922454,BBG,14
+Q922454,Broadcasting Board of Governors,14
+Q922454,United States Agency for Global Media,14
+Q922454,USAGM,14
+Q922454,Agency for Global Media,14
+Q1200079,WPA,17
+Q1320326,NRC,13
+Q1320326,U.S. NRC,13
+Q1320326,U.S. Nuclear Regulatory Commission,13
+Q1320326,United States Nuclear Regulatory Commission,13
+Q1328562,DA,15
+Q1328562,U.S. Department of the Army,15
+Q1328562,US Department of the Army,15
+Q1340186,CPD,15
+Q1345065,FDIC,20
+Q1367577,TVA,25
+Q2066929,BPD,9
+Q2104671,Port Authority Police Department,7
+Q2104671,PAPD,7
+Q2452162,MDPD,7
+Q2869377,APD,6
+Q2972711,CPD,2
+Q2972711,Cincinnati Police,2
+Q3023375,DPD,4
+Q3024788,DPD,3
+Q3338995,NOPD,3
+Q4666962,APD,1
+Q4951007,BPD,1
+Q5503196,FPD,1
+Q5603702,GPD,1
+Q5603702,"Greenbelt, Maryland Police Department",1
+Q5603702,"Greenbelt, MD Police Department",1
+Q6364821,KCPD,1
+Q6580207,SDPD,4
+Q6815857,MPD,2
+Q6868011,MPD,7
+Q7306487,RCPD,1
+Q7355633,Rockville Police Department,2
+Q7405872,SLCPD,1
+Q85816135,Woodridge 68,1
+Q85816135,Woodridge School District No. 68,1
+Q91785412,FDCSD,1
+Q91788667,ISD 110,1
+Q96749241,Benzie County Central School District,1
+Q97347189,District 163,0
+Q6971257,NCPC,2
+Q6971257,U.S. National Capital Planning Commission,2
+Q6971257,United States National Capital Planning Commission,2
+Q7055070,Supreme Court of North Dakota,1
+Q7191780,pierce.ctc.edu,2
+Q7315356,RA,5
+Q7315356,RRA,5
+Q7315356,Resettlement Administration Division of Suburban Settlement,5
+Q7315356,Resettlement Administration of the United States of America,5
+Q7315356,Resettlement Division,5
+Q7315356,Rural Resettlement Administration,5
+Q7315356,U.S. Resettlement Administration,5
+Q7315356,United States Resettlement Administration,5
+Q7450665,Senior Corps,2
+Q7450665,SeniorCorps,2
+Q7566996,Supreme Court of South Dakota,1
+Q7644915,Supreme Court of Indiana,1
+Q7644945,Mississippi Supreme Court,3
+Q7712972,Alamo Colleges,2
+Q7712972,Alamo Community College District,2
+Q7712972,alamo.edu,2
+Q7851166,TPD,1
+Q7889197,Access Board,1
+Q7889197,Architectural and Transportation Barriers Compliance Board,1
+Q7889197,U.S. Access Board,1
+Q7889426,ARC,1
+Q7889426,USARC,1
+Q7889639,Commission on Civil Rights,5
+Q7889639,U.S. Commission on Civil Rights,5
+Q7986756,WVCPD,2
+Q7987459,WAPA,1
+Q8354836,MPD,7
+Q8354836,Miami PD,7
+Q11991268,Court of Appeals of New York,6
+Q12064922,OSC,2
+Q14706079,NM Supreme Court,1
+Q14706079,NMSC,1
+Q14706079,SCNM,1
+Q14706079,Supreme Court of New Mexico,1
+Q14707388,Harlem Success Academy,2
+Q14707388,Success Academy,2
+Q16836482,FRTIB,3
+Q17142230,Springfield Township Police,0
+Q30284129,PPP,0
+Q39204477,St. Anthony Police Department,0
+Q50199727,AbilityOne Commission,0
+Q50199727,Committee for Purchase From People Who Are Blind or Severely Disabled,0
+Q50199727,CPPBSD,0
+Q51821199,Academy of Tucson,1
+Q51821199,The Academy of Tucson,1
+Q51824980,AESS,0
+Q55641209,inspire2serve.gov,1
+Q55641209,NCMNPS,1
+Q55641209,"The National Commission on Military, National, and Public Service",1
+Q63353863,CPD,0
+Q65081135,Monte Choca,1
+Q65081135,Monte Choca Forest,1
+Q72940592,archives.gov/nhprc,0
+Q72940592,National Historical Publications and Records Commission,0
+Q72940592,NHPRC,0
+Q92473236,CPD,0
+Q92473236,Clermont PD,0
+Q105984927,DCP,0
+Q108907462,Carite Forest,1
+Q109155174,San Patricio Forest,1
+Q109170698,Nuevo Milenio Forest,1
+Q109170714,Ceiba Forest,1
+Q109171561,Guilarte Forest,1
+Q109171769,Los Tres Picachos Forest,1
+Q109171769,Tres Picachos Forest,1
+Q109171769,Tres Picachos State Forest,1
+Q109171786,Guajataca Forest,1
+Q109229079,Susúa Forest,1
+Q109236772,Boquerón Forest,1
+Q109341559,Surgeon General,0
+Q109341559,Florida Surgeon General,0
+Q109341559,Florida's Surgeon General,0
+Q110555297,Vega Alta Forest,1
+Q110555297,Vega Forest,1
+Q217910,HCPSS,6
+Q217910,Howard County Department of Education,6
+Q217910,Howard County Dept of Education,6
+Q217910,Howard County Public Schools,6
+Q567797,dcccd.edu,1
+Q599573,MCPS,8
+Q599573,Montgomery County Maryland Public Schools,8
+Q1750391,SSS,16
+Q1750391,Selective Service,16
+Q1768233,Supreme Court of Iowa,2
+Q1768233,Supreme Court of the State of Iowa,2
+Q1967116,NEA,18
+Q1967116,National Endowments for the Arts,18
+Q2002625,Massachusetts Supreme Court,5
+Q2135797,RFC,5
+Q2135797,United States Reconstruction Finance Corporation,5
+Q2466264,CSB,5
+Q2466264,Chemical Safety Board,5
+Q2466264,csb.gov,5
+Q2466264,U.S. Chemical Safety Board,5
+Q2466264,United States Chemical Safety and Hazard Investigation Board,5
+Q2466264,United States Chemical Safety Board,5
+Q2466264,USCSB,5
+Q2629503,California Supreme Court,14
+Q2824618,SSA,16
+Q2824618,Social Security Board,16
+Q2824618,"Social Security Administration, United States",16
+Q2824618,United States Social Security Administration,16
+Q2842874,ACBJ,4
+Q2842874,bizjournals,4
+Q2842874,bizjournals.com,4
+Q2842874,The Business Journals,4
+Q2986557,CFA,4
+Q2986557,Commission of Fine Arts,4
+Q2986557,"Commission of Fine Arts, Washington, D.C.",4
+Q2986557,"Fine Arts Commission, Washington, D.C.",4
+Q2986557,"National Commission of Fine Arts, Washington, D.C.",4
+Q2986557,U.S. Commission of Fine Arts,4
+Q2986557,United States Fine Arts Commission,4
+Q2986557,US Fine Arts Commission,4
+Q2986557,USCFA,4
+Q2995379,CPSC,8
+Q2995379,Consumer Product Safety Commission,8
+Q2995379,United States Consumer Product Safety Commission,8
+Q3001109,Supreme Court of Illinois,3
+Q3001112,Ohio Supreme Court,4
+Q3001120,New Jersey Supreme Court,2
+Q3024155,NLRB,8
+Q3067862,FERC,4
+Q3109672,Post Office Department,11
+Q3694683,Texas Supreme Court,6
+Q19880435,Montgomery County Executive,0
+Q19880435,Montgomery County Office of the County Executive,0
+Q19880435,"Montgomery County, Maryland Executive",0
+Q23023666,NCTA,1
+Q23808480,Portland Maine Police Department,1
+Q5440431,FSA,2
+Q5466473,Foothill-De Anza Community College District,1
+Q6040649,IMLS,4
+Q6689316,Supreme Court of Louisiana,1
+Q6781295,"Court of Appeals, Maryland",2
+Q6781295,MD Court of Appeals,2
+Q6781295,State of Maryland Court of Appeals,2
+Q6781295,The Maryland Court of Appeals,2
+Q4686857,ACHP,2
+Q4686857,USACHP,2
+Q4778924,AJUSD,1
+Q4780854,ARC,2
+Q4791883,Ark. Supreme Court,4
+Q4791883,Supreme Court of Ark.,4
+Q4791883,Supreme Court of Arkansas,4
+Q4852849,BCPS,2
+Q4864452,Barry M. Goldwater Scholarship and Excellence in Education Program,1
+Q5045024,Caroline County Public Schools (Maryland),2
+Q5045024,"Caroline County Public Schools, Maryland",2
+Q5046583,Carroll ISD,1
+Q5152740,Helsinki Commission,3
+Q5154901,Cusd 200,1
+Q5251405,DNFSB,2
+Q5376976,ERDA,2
+Q5398727,Esparto Unified School District,1
+Q5398727,EUSD,1
+Q5398752,EPS,2
+Q5398752,EPSD,2
+Q5398752,Espanola Public School District #55,2
+Q5398752,Española Public School District #55,2
+Q5398752,Espanola Public Schools,2
+Q5440273,FLRA,3
+Q5440273,United States Federal Labor Relations Authority,3
+Q5440273,USFLRA,3
+Q5440396,Board of Governors of the Federal Reserve System,9
+Q5440396,Federal Reserve Board,9
+Q5430253,Fairfield City Schools,1
+Q5497582,FCPS,2
+Q6754001,Maple Valley School District,1
+Q7244004,Frederick Sasscer High School,3
+Q7244004,P.G. County Public Schools,3
+Q7244004,PG County Public Schools,3
+Q7244004,PGCPS,3
+Q7244004,Prince George's Co. Public Schools,3
+Q7244004,Prince George's County Public School System,3
+Q7244004,Prince George's County School District,3
+Q7244004,Prince George's County School System,3
+Q7244004,Prince Georges County Public Schools,3
+Q7244004,Sasscer Administration Building,3
+Q7414497,San Jose City School District,2
+Q7414497,San Jose Unified School District,2
+Q7414497,SJUSD,2
+Q7566446,SBSD,1
+Q7566446,South Brunswick Township School District,1
+Q7885629,College Corner Joint School District,2
+Q7885629,College Corner Local School District,2
+Q7885629,UC/CC,2
+Q7885629,Union County School Corporation,2
+Q16955959,Caroline County Public Schools (Virginia),1
+Q16955959,"Caroline County Public Schools, Virginia",1
+Q19881878,Springfield Public Schools,1
+Q29921893,"Community Unit School District No. 7, Gallatin County, Illinois",1
+Q29921893,Gallatin CUSD 7,1
+Q43094333,Community Unit School District 425,1
+Q43094333,Indian Creek School District,1
+Q43094333,School District 425,1
+Q43094333,Shabbona Community Unit School District 425,1
+Q43895355,Essex-Westford School District,0
+Q43895355,Essex-Westford Supervisory District,0
+Q43895355,Essex-Westford Unified School District,0
+Q43895355,EWSD,0
+Q45022938,El Paso Gridley Community Unit School District 11,1
+Q48743814,Peru CSD,1
+Q48969286,Marshall School District,0
+Q51518866,Baboquivari Unified School District,1
+Q51518866,Baboquivari USD,1
+Q55322610,PCSD,0
+Q55325240,NCCS,0
+Q55325240,Northeastern Clinton CSD,0
+Q61989286,Covington Board of Education,1
+Q98666979,HCS,0
+Q98666979,Henry County Schools,0
+Q99184589,Provo PD,1
+Q106232375,WVMCCD,0
+Q106253466,San José Evergreen Community College District,0
+Q106253466,San Jose–Evergreen Community College District,0
+Q106253466,San José–Evergreen Community College District,0
+Q106253466,SJECCD,0
+Q106498646,MASP,0
+Q106498646,University of Colorado Boulder MASP,0
+Q106880678,Fire Island Union Free School District No. 14,1
+Q107087713,Winchester Public Schools (Connecticut),1
+Q107087713,Winchester School District,1
+Q107535342,Vernon Elementary School District #9,1
+Q107645705,Kirkland Elementary School District #23,1
+Q108049159,SCSD,1
+Q108049159,Oglala Lakota County School District 65-1,1
+Q108049159,OLCSD,1
+Q108049159,Shannon County School District,1
+Q108049159,Shannon County School District 65-1,1
+Q108083972,Independent School District #2580,1
+Q108293185,Eight Mile School District #6,1
+Q108822678,JCCSD,1
+Q108822678,Johnson City Central Schools,1
+Q108822678,Johnson City Schools,1
+Q108870718,Manchester Police Department,0
+Q109326494,Hillsboro City School District,1
+Q109582384,Glen Cove School District,2
+Q111029837,North Mercer County R-III School District,1
+Q181372,Santa Clara County Library District,2
+Q530512,Hennepin County Library System,4
+Q608234,Multnomah County School District No. 1,6
+Q608234,Portland School District No. 1J,6
+Q1967800,NWHC,2
+Q3019751,Apostolic Nunciature of the Holy See to the United States,10
+Q4805271,Jackson County School District 5,1
+Q4811117,Clatsop County School District 1,1
+Q4813385,Athena Weston School District,1
+Q4813385,Umatilla County School District 29,1
+Q4886972,Bend-La Pine School District,1
+Q4886972,Deschutes County School District 1,1
+Q5031307,Clackamas County School District 86,1
+Q5060679,Curry County School District 1,1
+Q5128591,Columbia County School District 6J,1
+Q5148067,Colona Public Library District,0
+Q5168064,Coos Bay Public Schools,1
+Q5168064,Coos County School District 9,1
+Q5169329,Coos County School District 8,1
+Q5170178,CRC,2
+Q5170178,USGS Core Research Center,2
+Q5173442,Benton County School District 509J,1
+Q5243554,Dayton and Montgomery County Public Library,2
+Q5312428,Wasco County School District 29,2
+Q5327824,EBMUD,1
+Q5327824,E.B.M.U.D.,1
+Q5327824,East Bay MUD,1
+Q5566354,Clackamas County School District 115,1
+Q5599710,Great Oaks Institute of Technology and Career Development,1
+Q5599710,Great Oaks Joint Vocational School District,1
+Q5599710,Hamilton County Joint Vocational School District,1
+Q5599710,Hamilton County JVSD,1
+Q6411390,KCLS,2
+Q6477244,Clackamas County School District 7J,1
+Q6492678,Clark County Library District,1
+Q6492678,Las Vegas-Clark County Library District,1
+Q6492678,LVCCLD,1
+Q7054145,Coos County School District 13,1
+Q7056711,North Shore School District,2
+Q7099576,OCLS,1
+Q7099576,Orange County Library System (FL),1
+Q7099576,Orlando Public Library,1
+Q7101129,Clackamas County School District 62,1
+Q7101414,Clackamas County School District 46,1
+Q7148784,PWRC,2
+Q7148784,USGS Patuxent Wildlife Research Center,2
+Q7162947,PLS,2
+Q96013662,"Consulate-General of Japan, Anchorage",2
+Q97941012,EMA,0
+Q97941012,Ecosystems,0
+Q97941012,Ecosystems Mission Area,0
+Q97941012,U.S. Geological Survey Ecosystems Mission Area,0
+Q97943355,CSS,0
+Q97943355,Core Science Systems,0
+Q97943666,EM,0
+Q97943666,Energy and Minerals,0
+Q97943751,WMA,0
+Q97943751,Water Mission Area,0
+Q97943828,LR,0
+Q97943828,Land Resources,0
+Q97943960,Environmental Health,0
+Q97943960,EH,0
+Q98560917,SGFCSD,0
+Q98560919,Fort Edward UFSD,0
+Q100319993,SMRCD,0
+Q106802758,ACS,0
+Q106802758,Attalla City School District,0
+Q107388643,SUSD,1
+Q107862688,Ramah Navajo High School,1
+Q109834803,"Consulate of Sweden, Seattle",0
+Q109834803,Consulate of Sweden – Seattle,0
+Q110249968,MSD,0
+Q110249968,Metropolitan Sewer District,0
+Q110249968,Hamilton County Sewer District,0
+Q110738519,McMinn County School District,1
+Q110738519,McMinn Schools,1
+Q7186107,Benton County School District 17J,1
+Q7306131,Deschutes County School District 2J,1
+Q7368117,Douglas County School District 4,1
+Q7368117,Roseburg Public Schools,1
+Q7419342,SCVWD,1
+Q7419342,Valley Water,1
+Q7547864,Sno-Isle Regional Library System,2
+Q7588324,Columbia County School District 502,1
+Q7588324,Saint Helens School District,1
+Q7985769,Clackamas County School District 3J,2
+Q7985769,West Linn-Wilsonville School District,2
+Q11782064,Nunciature to United Nations,2
+Q11782064,apostolic nunciature to United Nations,2
+Q15216640,J O Enders State Forest,3
+Q16890148,Cerrillos Forest,2
+Q16928388,Mount Zion Demonstration State Forest,3
+Q17022350,Clackamas County School District 35,1
+Q17085883,PGCML,1
+Q17085883,PGCMLS,1
+Q17085883,Prince George's County Memorial Library,1
+Q19600120,Columbia County School District 47J,1
+Q20021309,Bay Arenac Intermediate School District,1
+Q20021309,Bay–Arenac ISD,1
+Q20712245,Clark PUD,1
+Q20712245,Public Utility District No. 1 of Clark County,1
+Q21400495,Manistee ISD,1
+Q23136604,MCPL,2
+Q23136604,Montgomery County Department of Public Libraries,2
+Q30634312,Ohoopee Regional Library,1
+Q55834929,NAC,0
+Q56678634,SBSD,0
+Q56678756,Keene Central School,0
+Q56744609,Saranac CSD,0
+Q56744638,Saranac Lake CSD,0
+Q58315177,DPL,0
+Q58315177,Deschutes Public Library District,0
+Q58315177,Deschutes County Library,0
+Q58315177,Deschutes Public Library System,0
+Q60197321,GMEG,0
+Q64590605,Yamhill County School District 4J,1
+Q65759003,Baker County School District 5J,0
+Q65760000,Baker County School District 30J,0
+Q65760214,Baker County School District 16J,0
+Q65760449,Baker County School District 61,0
+Q65760994,Benton County School District 7J,0
+Q65761830,Benton County School District 1J,0
+Q65762623,Clackamas County School District 53,0
+Q65762751,Clackamas County School District 108,0
+Q66661638,Clatsop County School District 8,0
+Q66661666,Clatsop County School District 4,0
+Q66661684,Clatsop County School District 10,0
+Q66661709,Clatsop County School District 30,0
+Q66661709,Warrenton-Hammond School District,0
+Q66666314,Columbia County School District 13,0
+Q66669396,Columbia County School District 1J,0
+Q66764440,Coos County School District 54,0
+Q66985619,Coos County School District 41,0
+Q66986187,Coos County School District 31,0
+Q66987254,Curry County School District 17C,0
+Q67037196,Curry County School District 2CJ,0
+Q67161955,Deschutes County School District 6,0
+Q67162154,Douglas County School District 21J,0
+Q67162456,Days Creek School District,0
+Q81269194,Butler Technology and Career Development Schools,0
+Q87995011,JCPD,0
+Q96013662,Consular Office of Japan in Anchorage,2
+Q96013662,Consulate of Japan in Anchorage,2
+Q96013662,"Consulate of Japan, Anchorage",2
+Q96013662,Consulate-General of Japan in Anchorage,2
+Q110556288,Miami Trace Local Schools,0
+Q324563,SWAT,41
+Q754692,Friendship Heights and The Hills,14
+Q754692,Friendship Village,14
+Q754692,Village of Friendship Heights,14
+Q1630581,HRT,17
+Q4162524,FUHSD,3
+Q5309208,"Drummond, Maryland",3
+Q5309208,"Drummond, MD",3
+Q5329595,EVIT,1
+Q6002737,Imagine,1
+Q6002737,Chancellor Beacon,1
+Q6002737,Imagine School,1
+Q6002737,Imagine Schools Inc.,1
+Q6423304,KIPP,3
+Q6423304,KIPP Foundation,3
+Q6479758,Lakota Local Schools,1
+Q6692161,Loveland City Schools,1
+Q6692161,Loveland Tigers,1
+Q6925316,MVLA,1
+Q6925316,Mountain View Los Altos Union High School District,1
+Q6925316,MVLA High School District,1
+Q7074182,"Oakmont, Maryland",3
+Q65058218,Hamilton City Schools,1
+Q101753668,Kings Local,0
+Q101753668,Kings Local Schools,0
+Q106679733,Foundation for Hispanic Education,0
+Q106679733,TFHE,0
+Q110554685,Lynchburg-Clay Local School District,0

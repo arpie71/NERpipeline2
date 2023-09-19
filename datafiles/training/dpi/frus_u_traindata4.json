@@ -1,0 +1,5219 @@
+[
+	{
+		"content": "[\"46576.",
+		"entities": []
+	},
+	{
+		"content": "Subject: French Invitations to Prepcon.",
+		"entities": [
+			[
+				"French",
+				9,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For the Ambassador from the Secretary for delivery before 8 AM March 1.",
+		"entities": [
+			[
+				"Ambassador",
+				8,
+				18,
+				"PERSON"
+			],
+			[
+				"Secretary",
+				28,
+				37,
+				"PERSON"
+			],
+			[
+				"March 1",
+				63,
+				70,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In response to Sauvagnargues' letter delivered to me February 28 and transmitted to you separately, please deliver following message to Sauvagnargues in your call on him scheduled for March 1.",
+		"entities": [
+			[
+				"Sauvagnargues",
+				15,
+				28,
+				"PERSON"
+			],
+			[
+				"February 28",
+				53,
+				64,
+				"DATE"
+			],
+			[
+				"Sauvagnargues",
+				136,
+				149,
+				"PERSON"
+			],
+			[
+				"March 1",
+				184,
+				191,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "This is a revised text that replaces message sent to you earlier today.",
+		"entities": []
+	},
+	{
+		"content": "Begin text:",
+		"entities": []
+	},
+	{
+		"content": "Dear Mr. Minister:",
+		"entities": [
+			[
+				"Minister",
+				9,
+				17,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "In response to your letter to me dated February 28, I have further considered carefully the arguments you put forward for sending out invitations to the preparatory meeting at this time.",
+		"entities": [
+			[
+				"February 28",
+				39,
+				50,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "My strong view remains, however, that we should wait until the requisite consumer solidarity is achieved before proceeding to make formal proposals for such a meeting.",
+		"entities": []
+	},
+	{
+		"content": "In support of this conclusion, I want to take strong exception once again to the notion that the consumers ought to gear themselves to OPEC meetings.",
+		"entities": [
+			[
+				"OPEC",
+				135,
+				139,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This idea seems to be based on the premise that we cannot have a productive dialogue without taking measures to tranquilize the producers.",
+		"entities": []
+	},
+	{
+		"content": "On the contrary, as we explained in Martinique and subsequently, the preparations among consumers for meetings with producers are the indispensable elements for a successful and con-structive dialogue with the producers.",
+		"entities": [
+			[
+				"Martinique",
+				36,
+				46,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We intend to do our part in order to make the necessary preparations for such a meeting and, indeed, we look forward to making good progress on the major remaining issue at the next meeting of the IEA Governing Board scheduled for March 6-7.",
+		"entities": [
+			[
+				"IEA Governing Board",
+				197,
+				216,
+				"ORG"
+			],
+			[
+				"March 6-7",
+				231,
+				240,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Contrary to the suggestion that producing governments hope that the invitations will be issued prior to the Algiers summit, several members of OPEC have indicated to us that they made no final decision on the timing and composition of a preparatory meeting.",
+		"entities": [
+			[
+				"Algiers",
+				108,
+				115,
+				"LOC"
+			],
+			[
+				"OPEC",
+				143,
+				147,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Since France's intention to issue an invitation to producers, consumers, and developing countries can be a mystery to no one, it would seem prudent to delay issuance of the invitations themselves until the main parties in question have made a decision on the mode and timing of their participation.",
+		"entities": [
+			[
+				"France",
+				6,
+				12,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To do otherwise would put at risk a process on which we both agree and which appears to be advancing properly.",
+		"entities": []
+	},
+	{
+		"content": "I recognize of course that the French Government may be in a position in its discussions with producers wherein you might consider it desirable, even imperative, to communicate with them before the OPEC summit meeting next week regarding invitations for the preparatory conference.",
+		"entities": [
+			[
+				"French Government",
+				31,
+				48,
+				"GPE"
+			],
+			[
+				"OPEC",
+				198,
+				202,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This may be possible with a communication that does not go to the point of a formal invitation to a preparatory meeting.",
+		"entities": []
+	},
+	{
+		"content": "You could inform the producers of the likelihood that invitations would be forthcoming shortly for a preparatory meeting along the lines of the timing we discussed last week.",
+		"entities": []
+	},
+	{
+		"content": "You might wish to relate this to the current status of deliberations in the IEA, including the importance of the March 6-7 meeting, as well as to the understanding reached with the United States at Martinique that proposals for holding a preparatory meeting would be contingent upon substantial progress among consumers in the fields of energy conservation, financial solidarity, and the development of new sources of energy.",
+		"entities": [
+			[
+				"IEA",
+				76,
+				79,
+				"ORG"
+			],
+			[
+				"March 6-7",
+				113,
+				122,
+				"DATE"
+			],
+			[
+				"United States",
+				181,
+				194,
+				"GPE"
+			],
+			[
+				"Martinique",
+				198,
+				208,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "With best regards, Sincerely, Henry A. Kissinger His Excellency Jean Sauvagnargues, Minister of Foreign Affairs, Paris.",
+		"entities": [
+			[
+				"Henry A. Kissinger",
+				30,
+				48,
+				"PERSON"
+			],
+			[
+				"Jean Sauvagnargues",
+				64,
+				82,
+				"PERSON"
+			],
+			[
+				"Minister of Foreign Affairs",
+				84,
+				111,
+				"TITLE"
+			],
+			[
+				"Paris",
+				113,
+				118,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "End text.",
+		"entities": []
+	},
+	{
+		"content": "Kissinger\"]",
+		"entities": [
+			[
+				"Kissinger",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['[Telegram] Joint affidavit of the officers of the Allan Line S. S. Hesperian as to the torpedoing of the vessel on September 4, 1915.",
+		"entities": [
+			[
+				"Allan Line",
+				52,
+				62,
+				"ORG"
+			],
+			[
+				"S. S. Hesperian",
+				63,
+				78,
+				"FAC"
+			],
+			[
+				"September 4, 1915",
+				117,
+				134,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "United Kingdom of Great Britain and Ireland,American Consulate, Cork (Queenstown), Ireland.",
+		"entities": [
+			[
+				"United Kingdom of Great Britain and Ireland",
+				0,
+				43,
+				"GPE"
+			],
+			[
+				"American Consulate",
+				44,
+				62,
+				"ORG"
+			],
+			[
+				"Cork",
+				64,
+				68,
+				"LOC"
+			],
+			[
+				"Queenstown",
+				70,
+				80,
+				"LOC"
+			],
+			[
+				"Ireland",
+				83,
+				90,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We the officers of the S. S. Hesperian whose names are subscribed hereunto being duly placed upon oath do aver and say as follows:",
+		"entities": [
+			[
+				"S. S. Hesperian",
+				23,
+				38,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "The Hesperian left Liverpool at 7 p. m. on Friday, September 3, 1915, and by 8.30 p. m., Greenwich time, on September 4, had reached approximately latitude 50 north, longitude 10 west, about 88 miles southwest of the Fastnet Rock off the southern coast of Ireland.",
+		"entities": [
+			[
+				"Hesperian",
+				4,
+				13,
+				"FAC"
+			],
+			[
+				"Liverpool",
+				19,
+				28,
+				"LOC"
+			],
+			[
+				"Friday, September 3, 1915",
+				43,
+				68,
+				"DATE"
+			],
+			[
+				"September 4",
+				108,
+				119,
+				"DATE"
+			],
+			[
+				"Fastnet Rock",
+				217,
+				229,
+				"LOC"
+			],
+			[
+				"Ireland",
+				256,
+				263,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The sky was clear and the ocean perfectly calm, dusk was closing down rapidly at the time last specified and explosion took place against the starboard bow No. 2 bulkhead admitting the water into compartments Nos. 1 and 2, so that the vessel at once commenced to settle by the bow on an even keel sinking about ten feet within four hours.",
+		"entities": []
+	},
+	{
+		"content": "The explosion occurred within about eight feet of the surface and threw a mass of water and steel fragments on to the deck of the Hesperian which was severely jarred by the shock.",
+		"entities": [
+			[
+				"Hesperian",
+				130,
+				139,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "From steel fragments preserved it is indubitable that the explosion was produced by a torpedo and not by a mine.",
+		"entities": []
+	},
+	{
+		"content": "The characteristic odor of high explosion was strongly noticeable.",
+		"entities": []
+	},
+	{
+		"content": "No warning of any description was received by the Hesperian and the track of the torpedo approaching the vessel was not observed by any of the ship's officers, the present affiants.",
+		"entities": [
+			[
+				"Hesperian",
+				50,
+				59,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "On account of the failing light it is doubtful whether the observation of the wake of the torpedo would have been a possibility.",
+		"entities": []
+	},
+	{
+		"content": "The submarine was not sighted by us either prior to the torpedoing or subsequently to it.",
+		"entities": []
+	},
+	{
+		"content": "The six-inch gun mounted on the stern of the Hesperian was painted a service-grey color and would not have been conspicuous even at short distance.",
+		"entities": [
+			[
+				"Hesperian",
+				45,
+				54,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "It probably could not have been observed at all through a periscope.",
+		"entities": []
+	},
+	{
+		"content": "It is not possible to state whether the submarine had followed the Hesperian during daylight but our impression is to the contrary.",
+		"entities": [
+			[
+				"Hesperian",
+				67,
+				76,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Among the passengers were forty Canadian soldiers, including officers, air either invalided or in attendance upon invalided individuals.",
+		"entities": [
+			[
+				"Canadian",
+				32,
+				40,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "These soldiers were from almost every different Canadian division and were not organized or traveling as a unit.",
+		"entities": [
+			[
+				"Canadian",
+				48,
+				56,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "No American citizens were among the passengers to our best knowledge but one third-cabin steward, F. J. Pallas, was an American citizen.",
+		"entities": [
+			[
+				"American",
+				3,
+				11,
+				"NORP"
+			],
+			[
+				"F. J. Pallas",
+				98,
+				110,
+				"PERSON"
+			],
+			[
+				"American",
+				119,
+				127,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Only slight and transient panic or confusion existed and the ship's boats and life-saving apparatus were in readiness and worked well.",
+		"entities": []
+	},
+	{
+		"content": "If the ship had sunk at once, however, there would have been heavy loss of life.",
+		"entities": []
+	},
+	{
+		"content": "Wireless signals, the siren and rockets brought a warship to the scene by 9.30 p. m. and two other Admiralty vessels before 10.30 p. m. but the Hesperian was not under convoy and had not spoken an Admiralty ship prior to the torpedoing.",
+		"entities": [
+			[
+				"Admiralty",
+				99,
+				108,
+				"ORG"
+			],
+			[
+				"Hesperian",
+				144,
+				153,
+				"FAC"
+			],
+			[
+				"Admiralty",
+				197,
+				206,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Witness our signatures: Wm. O. Main, Commander H. M. S. \"Hesperian\" Alex Maxwell, Chief Officer Chas. Richardson, First Officer",
+		"entities": [
+			[
+				"Wm. O. Main",
+				24,
+				35,
+				"PERSON"
+			],
+			[
+				"Commander",
+				37,
+				46,
+				"TITLE"
+			],
+			[
+				"Hesperian",
+				57,
+				66,
+				"FAC"
+			],
+			[
+				"Alex Maxwell",
+				68,
+				80,
+				"PERSON"
+			],
+			[
+				"Chief Officer",
+				82,
+				95,
+				"TITLE"
+			],
+			[
+				"Chas. Richardson",
+				96,
+				112,
+				"PERSON"
+			],
+			[
+				"First Officer",
+				114,
+				127,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Wm. F. Reid, Second Officer Subscribed and sworn to before me this 6th day of September, 1915, at Queenstown, Ireland.",
+		"entities": [
+			[
+				"Wm. F. Reid",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"Second Officer",
+				13,
+				27,
+				"TITLE"
+			],
+			[
+				"6th day of September, 1915",
+				67,
+				93,
+				"DATE"
+			],
+			[
+				"Queenstown",
+				98,
+				108,
+				"LOC"
+			],
+			[
+				"Ireland",
+				110,
+				117,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wesley Frost Wesley Frost']",
+		"entities": [
+			[
+				"Wesley Frost",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"Wesley Frost",
+				13,
+				25,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['top secret priority Personal and top secret from the President for Marshal Stalin, Number 267.",
+		"entities": [
+			[
+				"President",
+				55,
+				64,
+				"PERSON"
+			],
+			[
+				"Marshal Stalin",
+				69,
+				83,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I am sure you are as aware as I am of the difficulty of dealing by exchange of messages with the complicated and important questions with which we are faced.",
+		"entities": []
+	},
+	{
+		"content": "Pending the possibility of our meeting I am therefore sending Mr. Harry Hopkins with Ambassador Harriman to Moscow in order that they may have an opportunity of discussing personally with you these matters.",
+		"entities": [
+			[
+				"Harry Hopkins",
+				66,
+				79,
+				"PERSON"
+			],
+			[
+				"Ambassador Harriman",
+				85,
+				104,
+				"PERSON"
+			],
+			[
+				"Moscow",
+				108,
+				114,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Following these talks Mr. Hopkins will return immediately to Washington in order to report personally to me.",
+		"entities": [
+			[
+				"Hopkins",
+				26,
+				33,
+				"PERSON"
+			],
+			[
+				"Washington",
+				61,
+				71,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "They plan to arrive in Moscow about May 26.",
+		"entities": [
+			[
+				"Moscow",
+				23,
+				29,
+				"LOC"
+			],
+			[
+				"May 26",
+				36,
+				42,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I would appreciate your letting me know if this time is convenient for you.",
+		"entities": []
+	},
+	{
+		"content": "Truman']",
+		"entities": [
+			[
+				"Truman",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"67.",
+		"entities": []
+	},
+	{
+		"content": "My 58, April 28, noon.",
+		"entities": [
+			[
+				"April 28",
+				7,
+				15,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A personal letter which I addressed to the Minister of Finance last week requesting an interview remains unanswered.",
+		"entities": [
+			[
+				"Minister of Finance",
+				43,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It appears obvious to me that both he and Louro, head of the Exchange Control Board, are intentionally delaying and wish to avoid discussing the question of removing exchange discrimination either entirely or partially.",
+		"entities": [
+			[
+				"Louro",
+				42,
+				47,
+				"PERSON"
+			],
+			[
+				"Exchange Control Board",
+				61,
+				83,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "A few days ago Louro told Ravn-dal that the Department's note had remained unanswered due not only to incomplete statistics for 1936 (see my telegram 45, April 2, 5 p.m.)",
+		"entities": [
+			[
+				"Louro",
+				15,
+				20,
+				"PERSON"
+			],
+			[
+				"Ravn-dal",
+				26,
+				34,
+				"PERSON"
+			],
+			[
+				"Department",
+				44,
+				54,
+				"ORG"
+			],
+			[
+				"1936",
+				128,
+				132,
+				"DATE"
+			],
+			[
+				"April 2",
+				154,
+				161,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "[but] also to the desirability of waiting for the prospects for creation of official marginal exchange during 1937.",
+		"entities": [
+			[
+				"1937",
+				110,
+				114,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I believe that the Argentine authorities are attempting in this manner to force us to negotiate this subject with them as a part of the contemplated trade agreement and that the only way now to secure better exchange treatment would be to inform Saavedra Lamas and the Finance Minister and interested officials of the Foreign Office and the Ministry of Finance that a removal of exchange discrimination would secure much needed support in the United States in any negotiations toward a trade agreement and that a continuance of the present exchange treatment would seriously hamper such negotiations.",
+		"entities": [
+			[
+				"Argentine",
+				19,
+				28,
+				"GPE"
+			],
+			[
+				"Saavedra Lamas",
+				246,
+				260,
+				"PERSON"
+			],
+			[
+				"Finance Minister",
+				269,
+				285,
+				"PERSON"
+			],
+			[
+				"Foreign Office",
+				318,
+				332,
+				"ORG"
+			],
+			[
+				"Ministry of Finance",
+				341,
+				360,
+				"ORG"
+			],
+			[
+				"United States",
+				443,
+				456,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "At the time that I convey the foregoing to Saavedra Lamas verbally and also possibly by note, similar information given by the Department to Espil might have salutary effect.",
+		"entities": [
+			[
+				"Saavedra Lamas",
+				43,
+				57,
+				"PERSON"
+			],
+			[
+				"Department",
+				127,
+				137,
+				"ORG"
+			],
+			[
+				"Espil",
+				141,
+				146,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Instructions requested.",
+		"entities": []
+	},
+	{
+		"content": "Wilson\"]",
+		"entities": [
+			[
+				"Wilson",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['secret My Dear Mr. Secretary: With reference to your letter of March 3, in which you advance two alternative proposals for settlement of the Japanese reparations problem, this matter has been further considered in the Department of State and a position arrived at substantially as in your second proposal.",
+		"entities": [
+			[
+				"Secretary",
+				21,
+				30,
+				"PERSON"
+			],
+			[
+				"March 3",
+				65,
+				72,
+				"DATE"
+			],
+			[
+				"Japanese",
+				143,
+				151,
+				"GPE"
+			],
+			[
+				"Department of State",
+				220,
+				239,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This position, in outline, is that the United States should: Rescind the Advance Transfers Directive of April 4, 1947 (JCS Directive No. 75), except for allocations already processed under that directive.",
+		"entities": [
+			[
+				"United States",
+				39,
+				52,
+				"GPE"
+			],
+			[
+				"Advance Transfers Directive",
+				73,
+				100,
+				"LAW"
+			],
+			[
+				"April 4, 1947",
+				104,
+				117,
+				"DATE"
+			],
+			[
+				"JCS Directive No. 75",
+				119,
+				139,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Withdraw its proposal of November 6, 1947, on reparations shares.",
+		"entities": [
+			[
+				"November 6, 1947",
+				25,
+				41,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Announce to the FEC and publicly that it has no intention of using its unilateral powers to make possible additional industrial reparations removals.",
+		"entities": [
+			[
+				"FEC",
+				16,
+				19,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Announce to the FEC and publicly its views: a. That all industrial facilities, including so-called \"primary war facilities,\" presently designated as available for reparations which can contribute to Japanese recovery should be utilized as necessary, except for scrapping, in Japan's peaceful economy for recovery purposes.",
+		"entities": [
+			[
+				"FEC",
+				16,
+				19,
+				"ORG"
+			],
+			[
+				"Japanese",
+				199,
+				207,
+				"GPE"
+			],
+			[
+				"Japan",
+				275,
+				280,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "That with regard to \"primary war facilities,\" all of which were some time ago stripped of their special purpose equipment and thus of their \"war facilities\" characteristics, SCAP, under the authority granted in paragraph 10 of the FEC decision on Reduction of Japanese Industrial War Potential, should as rapidly as practicable require the dismantlement, dispersion or other action for the utilization in Japan's peaceful economy of such of these facilities as are required to meet the needs of the occupation, which needs prominently include economic recovery.",
+		"entities": [
+			[
+				"SCAP",
+				174,
+				178,
+				"PERSON"
+			],
+			[
+				"FEC",
+				231,
+				234,
+				"ORG"
+			],
+			[
+				"Reduction of Japanese Industrial War Potential",
+				247,
+				293,
+				"LAW"
+			],
+			[
+				"Japan",
+				405,
+				410,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Under paragraph 10 SCAP may develop a suitable system for using such facilities, individually or collectively, upon notification and explanation to the Allied Council for Japan.",
+		"entities": [
+			[
+				"SCAP",
+				19,
+				23,
+				"PERSON"
+			],
+			[
+				"Allied Council for Japan",
+				152,
+				176,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Pursuant to the above-mentioned FEC decision requiring their \"impounding,\" remaining \"primary war facilities\" should continue to be protected, in the sense of preventing loss or scrapping of individual items.",
+		"entities": [
+			[
+				"FEC",
+				32,
+				35,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Impounding does not, however, include requirement that the facilities be kept in their present locations or that the Japanese or the occupation authorities devote resources to preserve their value or maintain them in working order.",
+		"entities": [
+			[
+				"Japanese",
+				117,
+				125,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "That there should be no limitation on Japan's production for peaceful purposes or on levels of Japanese productive capacity in industries devoted to peaceful purposes.",
+		"entities": [
+			[
+				"Japan",
+				38,
+				43,
+				"GPE"
+			],
+			[
+				"Japanese",
+				95,
+				103,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Submit to the FEC proposals, regardless of likely unfavorable reception, for the rescission or amendment of existing and pending FEC reparations and \"levels-of-industry\" policy papers so as to bring them in as close conformity as possible with U.S. policy that there should be no further industrial reparations removals from Japan and no limitation on levels of Japanese peaceful productive capacity; and prevent action by the FEC contrary to U.S. policy.",
+		"entities": [
+			[
+				"FEC",
+				14,
+				17,
+				"ORG"
+			],
+			[
+				"FEC",
+				129,
+				132,
+				"ORG"
+			],
+			[
+				"U.S.",
+				244,
+				248,
+				"GPE"
+			],
+			[
+				"Japan",
+				325,
+				330,
+				"GPE"
+			],
+			[
+				"Japanese",
+				362,
+				370,
+				"NORP"
+			],
+			[
+				"FEC",
+				427,
+				430,
+				"ORG"
+			],
+			[
+				"U.S.",
+				443,
+				447,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Admitting that no proposal can fully meet all desiderata, the outstanding advantages of this position are that it violates no earlier commitments of this Government, while at the same time affording maximum support to the Japanese stabilization and recovery objectives.",
+		"entities": [
+			[
+				"Japanese",
+				222,
+				230,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Although it will undoubtedly occasion criticism by other claimant countries, it will be difficult for these countries to attack us merely for refusing to exercise our powers of unilateral action to solve the reparations problem.",
+		"entities": []
+	},
+	{
+		"content": "Our announcement that we propose no further unilateral action to overcome the apparently insoluble shares stalemate, plus the evidence of our position in point 4, should afford the Japanese business community assurance it now lacks that it is highly unlikely that any further reparations removals will take place and, accordingly, that they may rehabilitate their plants in confidence.",
+		"entities": [
+			[
+				"Japanese",
+				181,
+				189,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "With reference to your desire that the position selected be considered by the Department of State as the \"final settlement\" of the Japanese reparations question, there is unfortunately no way in which a final settlement of this problem can be assured before the peace settlement.",
+		"entities": [
+			[
+				"Department of State",
+				78,
+				97,
+				"ORG"
+			],
+			[
+				"Japanese",
+				131,
+				139,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It is believed, however, that the position set forth above will for all intents and purposes be final, and that it will be recognized as such in this country and in Japan.",
+		"entities": [
+			[
+				"Japan",
+				165,
+				170,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Modifications of this position in an attempt to render it more unquestionably final could be only partially effective at best and would expose this Government, in my view unnecessarily, to charges of illegality and failure to live up to its international commitments.",
+		"entities": []
+	},
+	{
+		"content": "Both of the alternative proposals advanced in your letter provide that the United States should direct SCAP to arrange for the return to the Japanese economy in a fully normal status of all assets in Japan heretofore considered available or potentially available for reparations, and for the cessation of custodial and maintenance costs borne by the Japanese Government in connection with such assets.",
+		"entities": [
+			[
+				"United States",
+				75,
+				88,
+				"GPE"
+			],
+			[
+				"SCAP",
+				103,
+				107,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				141,
+				149,
+				"GPE"
+			],
+			[
+				"Japan",
+				200,
+				205,
+				"GPE"
+			],
+			[
+				"Japanese Government",
+				350,
+				369,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Although this Department fully shares your desires on this point, it feels that, so far as primary war facilities are concerned, this Government is without power to direct SCAP as you propose in view of the explicit provision in the FEC policy decision on \"Reduction of Japanese Industrial War Potential\" that primary war facilities shall be \"impounded\".",
+		"entities": [
+			[
+				"Department",
+				14,
+				24,
+				"ORG"
+			],
+			[
+				"SCAP",
+				172,
+				176,
+				"PERSON"
+			],
+			[
+				"Reduction of Japanese Industrial War Potential",
+				257,
+				303,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "SCAP is empowered, however, by paragraph 10 of this decision to except temporarily (which could well be for the duration of the occupation) from the impounding and other requirements of that policy decision and to permit the use of any primary war facilities deemed necessary for needs of the occupation, which needs now prominently include economic recovery.",
+		"entities": [
+			[
+				"SCAP",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "In so far as other reparations facilities are concerned, it is my understanding that there is no FEC decision requiring SCAP to impound or maintain such facilities and that he is already empowered to permit the Japanese full use, short of scrapping, of such facilities.",
+		"entities": [
+			[
+				"FEC",
+				97,
+				100,
+				"ORG"
+			],
+			[
+				"SCAP",
+				120,
+				124,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				211,
+				219,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is believed that these powers on the part of SCAP, coupled with the course of action set forth in paragraph 4 of the proposed position of the United States, will effectively accomplish our common purpose without requiring this Government to direct SCAP contrary to an earlier FEC decision.",
+		"entities": [
+			[
+				"SCAP",
+				48,
+				52,
+				"PERSON"
+			],
+			[
+				"United States",
+				145,
+				158,
+				"GPE"
+			],
+			[
+				"SCAP",
+				251,
+				255,
+				"PERSON"
+			],
+			[
+				"FEC",
+				279,
+				282,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If it should prove to be desirable or necessary, I would be willing to discuss or to have a State Department representative discuss this matter with the Chairmen of the Foreign Affairs, Appropriations and Armed Services Committees of Congress.",
+		"entities": [
+			[
+				"State Department",
+				92,
+				108,
+				"ORG"
+			],
+			[
+				"Chairmen",
+				153,
+				161,
+				"TITLE"
+			],
+			[
+				"Foreign Affairs",
+				169,
+				184,
+				"ORG"
+			],
+			[
+				"Appropriations",
+				186,
+				200,
+				"ORG"
+			],
+			[
+				"Armed Services",
+				205,
+				219,
+				"ORG"
+			],
+			[
+				"Congress",
+				234,
+				242,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I feel, however, that such discussion may not be necessary in view of the position we propose to take.",
+		"entities": []
+	},
+	{
+		"content": "I am enclosing copy of a proposed policy statement on Japanese reparations for incorporation in NSC 13/2, \"Recommendations with Respect to U.S. Policy Toward Japan\".",
+		"entities": [
+			[
+				"Japanese",
+				54,
+				62,
+				"GPE"
+			],
+			[
+				"NSC 13/2",
+				96,
+				104,
+				"WORK_OF_ART"
+			],
+			[
+				"Recommendations with Respect to U.S. Policy Toward Japan",
+				107,
+				163,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "If you will advise me at your earliest convenience whether the statement is satisfactory to you, I will submit it to the National Security Council as a joint State-Army proposal.",
+		"entities": [
+			[
+				"National Security Council",
+				121,
+				146,
+				"ORG"
+			],
+			[
+				"State-Army",
+				158,
+				168,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "After approval of the statement by the NSC and the President, I or a high officer of the Department will invite representatives of the friendly FEC nations to the Department to advise them of our position and to explain the considerations underlying that position in the context of our overall policies toward Japan.",
+		"entities": [
+			[
+				"NSC",
+				39,
+				42,
+				"ORG"
+			],
+			[
+				"President",
+				51,
+				60,
+				"PERSON"
+			],
+			[
+				"Department",
+				89,
+				99,
+				"ORG"
+			],
+			[
+				"FEC",
+				144,
+				147,
+				"ORG"
+			],
+			[
+				"Department",
+				163,
+				173,
+				"ORG"
+			],
+			[
+				"Japan",
+				310,
+				315,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Following these discussions General McCoy will be instructed to read an appropriate statement of our position to the Far Eastern Commission, which will immediately thereafter be released to the press.",
+		"entities": [
+			[
+				"General McCoy",
+				28,
+				41,
+				"PERSON"
+			],
+			[
+				"Far Eastern Commission",
+				117,
+				139,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "A copy of a proposed statement is enclosed for your approval.",
+		"entities": []
+	},
+	{
+		"content": "We are also considering the desirability of having a spokesman take occasion in the near future in a public address to clarify further the view of this Government that no more industrial reparations should be exacted from Japan and that there should be no limitations on Japanese peaceful industry.",
+		"entities": [
+			[
+				"Japan",
+				222,
+				227,
+				"GPE"
+			],
+			[
+				"Japanese",
+				271,
+				279,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "There is enclosed a recapitulation of U.S. international commitments and SCAP obligations respecting Japanese reparations.",
+		"entities": [
+			[
+				"U.S.",
+				38,
+				42,
+				"GPE"
+			],
+			[
+				"SCAP",
+				73,
+				77,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				101,
+				109,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is requested that at the time you forward the NSC decision to General MacArthur you also send him a copy of this document in order that he may be in a position to suggest any further action which he feels might be taken, within the framework of our legal commitments, to meet the situation in Japan.",
+		"entities": [
+			[
+				"NSC",
+				49,
+				52,
+				"ORG"
+			],
+			[
+				"General MacArthur",
+				65,
+				82,
+				"PERSON"
+			],
+			[
+				"Japan",
+				296,
+				301,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Sincerely yours, Dean Acheson']",
+		"entities": [
+			[
+				"Dean Acheson",
+				17,
+				29,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"No. 763.]",
+		"entities": []
+	},
+	{
+		"content": "Sir: With reference to my dispatch No. 748, of the 6th ultimo, and to other correspondence therein mentioned relating to the claim of the Government of Italy against that of Salvador, I have to inform the Department that Senor Magliano, charge d'affaires of Italy in Central America, has received instructions to proceed to Salvador and endeavor to effect an equitable and friendly settlement.",
+		"entities": [
+			[
+				"6th",
+				51,
+				54,
+				"DATE"
+			],
+			[
+				"Government of Italy",
+				138,
+				157,
+				"GPE"
+			],
+			[
+				"Salvador",
+				174,
+				182,
+				"GPE"
+			],
+			[
+				"Department",
+				205,
+				215,
+				"ORG"
+			],
+			[
+				"Senor Magliano",
+				221,
+				235,
+				"PERSON"
+			],
+			[
+				"charge d'affaires of Italy in Central America",
+				237,
+				282,
+				"TITLE"
+			],
+			[
+				"Salvador",
+				324,
+				332,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He has also solicited my good offices with the Government of Salvador, which it would be quite impossible to render from here.",
+		"entities": [
+			[
+				"Government of Salvador",
+				47,
+				69,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I therefore telegraphed you on the 3d instant, conveying the Italian minister's request and asking instructions, and received last evening your reply, dated the 5th instant, instructing me that, if both parties joined in requesting my impartial good offices, I might visit Salvador for that purpose.",
+		"entities": [
+			[
+				"3d",
+				35,
+				37,
+				"DATE"
+			],
+			[
+				"Italian minister",
+				61,
+				77,
+				"PERSON"
+			],
+			[
+				"5th",
+				161,
+				164,
+				"DATE"
+			],
+			[
+				"Salvador",
+				273,
+				281,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Senor Magliano will leave here for that Republic, overland, on the 9th, and will arrive at the capital about the 18th instant.",
+		"entities": [
+			[
+				"Senor Magliano",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"Republic",
+				40,
+				48,
+				"GPE"
+			],
+			[
+				"9th",
+				67,
+				70,
+				"DATE"
+			],
+			[
+				"18th",
+				113,
+				117,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I have informed the Salvadorian Government of his proposed departure and of the object of his visit, and have placed my good offices at its disposal, should the same be required.",
+		"entities": [
+			[
+				"Salvadorian Government",
+				20,
+				42,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I shall probably leave here for La Libertad, Salvador, either on the 17th or 22d instant by steamer.",
+		"entities": [
+			[
+				"La Libertad",
+				32,
+				43,
+				"LOC"
+			],
+			[
+				"Salvador",
+				45,
+				53,
+				"LOC"
+			],
+			[
+				"17th",
+				69,
+				73,
+				"DATE"
+			],
+			[
+				"22d",
+				77,
+				80,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I have, etc., Henry C. Hall.\"]",
+		"entities": [
+			[
+				"Henry C. Hall",
+				14,
+				27,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['D. 7115",
+		"entities": []
+	},
+	{
+		"content": "No. 411 Mr. Secretary of State: Your Excellency is not unaware that a convention was concluded, on July 29, 1937, between France and Great Britain whereby the last mentioned Power renounces, particularly, the capitulations in the French zone of Morocco.",
+		"entities": [
+			[
+				"Secretary of State",
+				12,
+				30,
+				"PERSON"
+			],
+			[
+				"Your Excellency",
+				32,
+				47,
+				"PERSON"
+			],
+			[
+				"July 29, 1937",
+				99,
+				112,
+				"DATE"
+			],
+			[
+				"France",
+				122,
+				128,
+				"GPE"
+			],
+			[
+				"Great Britain",
+				133,
+				146,
+				"GPE"
+			],
+			[
+				"French",
+				230,
+				236,
+				"GPE"
+			],
+			[
+				"Morocco",
+				245,
+				252,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In letters annexed to the said Convention, the two Governments desirous of revising the Anglo-Moroccan Treaty of Commerce of December 9, 1856, declare that they are in agreement to open negotiations in order to establish the commercial relations between Morocco and Great Britain on new bases in conformity with the respective economic interests of the Contracting Parties.",
+		"entities": [
+			[
+				"Convention",
+				31,
+				41,
+				"LAW"
+			],
+			[
+				"Anglo-Moroccan Treaty of Commerce",
+				88,
+				121,
+				"LAW"
+			],
+			[
+				"December 9, 1856",
+				125,
+				141,
+				"DATE"
+			],
+			[
+				"Morocco",
+				254,
+				261,
+				"GPE"
+			],
+			[
+				"Great Britain",
+				266,
+				279,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As a consequence of this undertaking, negotiations were opened between the two States and, if I am correctly informed, they are being actively continued.",
+		"entities": []
+	},
+	{
+		"content": "The Anglo-Moroccan Treaty of Commerce and Navigation of December 9, 1856 forms the basis of the customs statute of Morocco, as, with the Hispano-Moroccan Treaty of Friendship, Commerce and Navigation of March 1, 1799 and November 20, 1861, and the German-Moroccan Treaty of June 1, 1890, it subjected imports to a uniform customs duty which cannot exceed 10 percent ad valorem.",
+		"entities": [
+			[
+				"Anglo-Moroccan Treaty of Commerce and Navigation",
+				4,
+				52,
+				"LAW"
+			],
+			[
+				"December 9, 1856",
+				56,
+				72,
+				"DATE"
+			],
+			[
+				"Morocco",
+				115,
+				122,
+				"GPE"
+			],
+			[
+				"Hispano-Moroccan Treaty of Friendship, Commerce and Navigation",
+				137,
+				199,
+				"LAW"
+			],
+			[
+				"March 1, 1799",
+				203,
+				216,
+				"DATE"
+			],
+			[
+				"November 20, 1861",
+				221,
+				238,
+				"DATE"
+			],
+			[
+				"German-Moroccan Treaty",
+				248,
+				270,
+				"LAW"
+			],
+			[
+				"June 1, 1890",
+				274,
+				286,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "This regime has been extended to many other Powers by Conventions assuring to them the most-favored-nation treatment, (particularly the Belgian-Moroccan Treaty of Friendship, Commerce and Navigation, signed at Tangier, January 4, 1862).",
+		"entities": [
+			[
+				"Belgian-Moroccan Treaty of Friendship, Commerce and Navigation",
+				136,
+				198,
+				"LAW"
+			],
+			[
+				"Tangier",
+				210,
+				217,
+				"LOC"
+			],
+			[
+				"January 5, 1862",
+				219,
+				234,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To this fixed duty of 10 percent, which has become of general application, Article 66 of the Act of Algeciras added a duty of 21/2 percent ad valorem destined to form a special fund for public works.",
+		"entities": [
+			[
+				"Act of Algeciras",
+				93,
+				109,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The delegates of the Powers at Algeciras had at first rejected all the requests of the Maghzen seeking an increase of the 10 percent duty.",
+		"entities": [
+			[
+				"Algeciras",
+				31,
+				40,
+				"LOC"
+			],
+			[
+				"Maghzen",
+				87,
+				94,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The preparatory labors and the debates of the conference show clearly that the negotiators meant to consolidate the customs system of Morocco, that is, to include the same tariff in the system which they were instituting.",
+		"entities": [
+			[
+				"Morocco",
+				134,
+				141,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Up to recent years it was, therefore, universally admitted that the fixed 10 percent duty formed a part of the regime guaranteed by the Act of Algeciras and that it could not be changed except with the assent of all the Powers signatory to the said Act and which had retained the benefit thereof.",
+		"entities": [
+			[
+				"Act of Algeciras",
+				136,
+				152,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "It was in 1934 that the French Government, desiring to change the Moroccan customs tariff, maintained that it could do so by negotiating with those Powers only which had with Morocco a commercial tariff treaty (that is, to say, Great Britain and Spain).",
+		"entities": [
+			[
+				"1934",
+				10,
+				14,
+				"DATE"
+			],
+			[
+				"French Government",
+				24,
+				41,
+				"GPE"
+			],
+			[
+				"Moroccan",
+				66,
+				74,
+				"GPE"
+			],
+			[
+				"Morocco",
+				175,
+				182,
+				"GPE"
+			],
+			[
+				"Great Britain",
+				228,
+				241,
+				"GPE"
+			],
+			[
+				"Spain",
+				246,
+				251,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "To this end it entered into conversations with the British Government.",
+		"entities": [
+			[
+				"British Government",
+				51,
+				69,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "At the same time it was negotiating with other Powers which were parties to the Act of Algeciras, and especially with Belgium, to obtain the right to fix quotas on goods to be imported into Morocco: it admitted, in fact, that this required the assent of all the Powers benefiting from the Act of Algeciras.",
+		"entities": [
+			[
+				"Act of Algeciras",
+				80,
+				96,
+				"LAW"
+			],
+			[
+				"Belgium",
+				118,
+				125,
+				"GPE"
+			],
+			[
+				"Morocco",
+				190,
+				197,
+				"LOC"
+			],
+			[
+				"Act of Algeciras",
+				289,
+				292,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "At that time my Government made the observation that the reform of the customs tariff, as well as the establishment of quotas in Morocco, should be made subject to our assent.",
+		"entities": [
+			[
+				"Morocco",
+				129,
+				136,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This double negotiation was not at that time brought to a successful conclusion.",
+		"entities": []
+	},
+	{
+		"content": "It is permissible to believe that this fact was due to the resistance which the French Government encountered on the part of several Powers, and particularly, Belgium and the United States.",
+		"entities": [
+			[
+				"French Government",
+				80,
+				97,
+				"GPE"
+			],
+			[
+				"Belgium",
+				159,
+				166,
+				"GPE"
+			],
+			[
+				"United States",
+				175,
+				188,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Government of the Republic is, therefore, renewing its 1934 project in its present negotiations with Great Britain.",
+		"entities": [
+			[
+				"Government of the Republic",
+				4,
+				30,
+				"GPE"
+			],
+			[
+				"1934",
+				59,
+				63,
+				"DATE"
+			],
+			[
+				"Great Britain",
+				105,
+				118,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "According to my information, these are the main points of the program which it hopes to make prevail: Establishment of a new customs tariff in Morocco.",
+		"entities": [
+			[
+				"Morocco",
+				143,
+				150,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This tariff would include duties which would vary with the goods; certain rates would noticeably exceed the present rate; Right to establish quotas for the entry of certain goods into Morocco; Exchanges between Morocco and foreign countries would be based on the principle of reciprocity.",
+		"entities": [
+			[
+				"Morocco",
+				184,
+				191,
+				"LOC"
+			],
+			[
+				"Morocco",
+				211,
+				218,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Your Excellency will doubtless understand that the accomplishment of such a project would gravely affect the favorable international regime from which foreign Powers benefit in the Sheriffian empire.",
+		"entities": [
+			[
+				"Your Excellency",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"Sheriffian empire",
+				181,
+				198,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Accordingly, as the King's Government could not remain insensible to this danger, it pointed out to the French and British Governments that Belgium, even while desiring to facilitate the task of France in Morocco and permit her to adjust the economic regime of that country to the present situation, deems that Belgium is entitled to participate in the preparation of any new tariff.",
+		"entities": [
+			[
+				"King",
+				20,
+				24,
+				"PERSON"
+			],
+			[
+				"French",
+				104,
+				110,
+				"GPE"
+			],
+			[
+				"British Governments",
+				115,
+				134,
+				"GPE"
+			],
+			[
+				"Belgium",
+				140,
+				147,
+				"GPE"
+			],
+			[
+				"France",
+				195,
+				201,
+				"GPE"
+			],
+			[
+				"Morocco",
+				205,
+				212,
+				"LOC"
+			],
+			[
+				"Belgium",
+				311,
+				318,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I have been charged by my Government to bring the foregoing to Your Excellency's knowledge and to ask you what attitude the United States Government expects to take in the matter.",
+		"entities": [
+			[
+				"Your Excellency",
+				63,
+				78,
+				"PERSON"
+			],
+			[
+				"United States Government",
+				124,
+				148,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I thank you in advance for any communication you may be good enough to make to me.",
+		"entities": []
+	},
+	{
+		"content": "I will add that I have already previously had conversations with high officials of Your Excellency's Department, concerning the intention of France to establish, in accord with Great Britain, certain quotas and rate increases.",
+		"entities": [
+			[
+				"Your Excellency",
+				83,
+				98,
+				"PERSON"
+			],
+			[
+				"Department",
+				101,
+				111,
+				"ORG"
+			],
+			[
+				"France",
+				141,
+				147,
+				"GPE"
+			],
+			[
+				"Great Britain",
+				177,
+				190,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I asked them at that time what the point of view of the Washington Government was on the question.",
+		"entities": [
+			[
+				"Washington Government",
+				56,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They answered that the United States would not consent to the establishment of quotas because such a measure was in opposition to the \"open door\" policy and to its economic policy.",
+		"entities": [
+			[
+				"United States",
+				23,
+				36,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "However, the United States would not oppose a reasonable increase of customs duties in so far as it has an exclusively fiscal purpose.",
+		"entities": [
+			[
+				"United States",
+				13,
+				26,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I avail myself [etc.]",
+		"entities": []
+	},
+	{
+		"content": "R. v. Straten']",
+		"entities": [
+			[
+				"R. v. Straten",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"[Omitted here is discussion unrelated Saudi Arabia.]",
+		"entities": [
+			[
+				"Saudi Arabia",
+				40,
+				52,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We have been negotiating for some months the agreement to regularize the status of the Mid-East forces in Bahrain.",
+		"entities": [
+			[
+				"Mid-East",
+				87,
+				95,
+				"NORP"
+			],
+			[
+				"Bahrain",
+				106,
+				113,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "You remember during the '73 war they invoked the termination clause.",
+		"entities": [
+			[
+				"'73 war",
+				24,
+				31,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "There were three issues.",
+		"entities": []
+	},
+	{
+		"content": "Two of them have been resolved.",
+		"entities": []
+	},
+	{
+		"content": "The third issue is one we are going to have to reach a decision on quickly.",
+		"entities": []
+	},
+	{
+		"content": "They want to specify a date for the final termination of the presence of the Mid-East forces in Bahrain, as of mid-1977.",
+		"entities": [
+			[
+				"Mid-East",
+				77,
+				85,
+				"LOC"
+			],
+			[
+				"Bahrain",
+				96,
+				103,
+				"LOC"
+			],
+			[
+				"mid-1977",
+				111,
+				119,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "And we have up to now managed to keep that from becoming part of the agreement and negotiation itself.",
+		"entities": []
+	},
+	{
+		"content": "Where it now stands is that they plan simply to send us a unilateral notice, saying that this is their intention.",
+		"entities": []
+	},
+	{
+		"content": "We have got a memorandum coming to you which examines several options that we might look at other than just acquiescing.",
+		"entities": []
+	},
+	{
+		"content": "I don't think there is any chance of turning them around on this short of getting the Shah and King Khalid publicly to say that they welcome--and neither one of them I think is willing to do this.",
+		"entities": [
+			[
+				"Shah",
+				86,
+				90,
+				"PERSON"
+			],
+			[
+				"King Khalid",
+				95,
+				106,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Bahrainians feel they are vulnerable-- SECRETARY KISSINGER: Why do we need them if we get Diego Garcia?",
+		"entities": [
+			[
+				"Bahrainians",
+				4,
+				15,
+				"GPE"
+			],
+			[
+				"SECRETARY KISSINGER",
+				43,
+				62,
+				"PERSON"
+			],
+			[
+				"Diego Garcia",
+				94,
+				106,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I don't think we do.",
+		"entities": []
+	},
+	{
+		"content": "My recommendation in this memo is going to be we make a joint statement by them and us that we have amicably agreed-- SECRETARY KISSINGER: Why do we have to do that?",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				118,
+				137,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Why not let them make a unilateral statement?",
+		"entities": []
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I think we gain something from doing it.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "What do we gain?",
+		"entities": []
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I think we gain some political credit.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "With whom?",
+		"entities": []
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "With the Arabs in the Gulf.",
+		"entities": [
+			[
+				"Arabs",
+				9,
+				14,
+				"NORP"
+			],
+			[
+				"Gulf",
+				22,
+				26,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "With what Arabs?",
+		"entities": [
+			[
+				"Arabs",
+				10,
+				15,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I think basically with all of the Emirates, with the Saudis.",
+		"entities": [
+			[
+				"Emirates",
+				34,
+				42,
+				"GPE"
+			],
+			[
+				"Saudis",
+				53,
+				59,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The alternative is simply-- SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				28,
+				47,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I have never known an Arab whom you gain anything with from withdrawing.",
+		"entities": [
+			[
+				"Arab",
+				22,
+				26,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We are going to be withdrawing anyway.",
+		"entities": []
+	},
+	{
+		"content": "The other way it looks as though we have been kicked out.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But we are also getting it extended.",
+		"entities": []
+	},
+	{
+		"content": "Anybody knowing an Arab statement of intention knows that between now and 1977 that may mean we will go out in 1977 or in 2063.",
+		"entities": [
+			[
+				"Arab",
+				19,
+				23,
+				"NORP"
+			],
+			[
+				"1977",
+				74,
+				78,
+				"DATE"
+			],
+			[
+				"1977",
+				111,
+				115,
+				"DATE"
+			],
+			[
+				"2063",
+				122,
+				126,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A unilateral declaration by the Bahrain government doesn't mean anything.",
+		"entities": [
+			[
+				"Bahrain government",
+				32,
+				50,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I don't see what we gain by agreeing to it.",
+		"entities": []
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Well, we have got the memo which looks at this in more detail.",
+		"entities": []
+	},
+	{
+		"content": "I think it is worth looking at as one of the options.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER: I am very pre-disposed against announcing now that we are going to get out in 1977.",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"1977",
+				99,
+				103,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I am not fighting for staying in there.",
+		"entities": []
+	},
+	{
+		"content": "Once we have Diego Garcia, we can announce in '77.",
+		"entities": [
+			[
+				"Diego Garcia",
+				13,
+				25,
+				"LOC"
+			],
+			[
+				"'77",
+				46,
+				49,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I see absolutely nothing we gain by announcing it today.",
+		"entities": []
+	},
+	{
+		"content": "Let them make a unilateral statement that they won't renew it in '77.",
+		"entities": [
+			[
+				"'77",
+				65,
+				68,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Anything else?",
+		"entities": []
+	},
+	{
+		"content": "Carl?",
+		"entities": [
+			[
+				"Carl",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We have several upcoming problems with these high commissions that are being paid on military sales in the Persian Gulf area.",
+		"entities": [
+			[
+				"Persian Gulf",
+				107,
+				119,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "And as of the moment, Northrop's contract with Kashoggi is in trouble.",
+		"entities": [
+			[
+				"Northrop",
+				22,
+				30,
+				"ORG"
+			],
+			[
+				"Kashoggi",
+				47,
+				55,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "With whom?",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "A chap named Kashoggi, who owns the Triad Financial Corporation, who is the commission agent or the sales agent for Lockheed, Raytheon, Northrop and several others.",
+		"entities": [
+			[
+				"Kashoggi",
+				13,
+				21,
+				"PERSON"
+			],
+			[
+				"Triad Financial Corporation",
+				36,
+				63,
+				"ORG"
+			],
+			[
+				"Lockheed",
+				116,
+				124,
+				"ORG"
+			],
+			[
+				"Raytheon",
+				126,
+				134,
+				"ORG"
+			],
+			[
+				"Northrop",
+				136,
+				144,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "His fees run from 4 to 17 percent on sales to the Saudi Arabian government.",
+		"entities": [
+			[
+				"Saudi Arabian government",
+				50,
+				74,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Prince Sultan has refused to permit further fees on the Peace Hawk program.",
+		"entities": [
+			[
+				"Prince Sultan",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Peace Hawk program",
+				56,
+				74,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Unfortunately, the next phase of the program is about a billion dollars.",
+		"entities": []
+	},
+	{
+		"content": "And Mr. Kashoggi has refused to release Northrop from their contractual obligation to pay four percent on that the moment the contract is signed with the Saudi Arabian government.",
+		"entities": [
+			[
+				"Kashoggi",
+				8,
+				16,
+				"PERSON"
+			],
+			[
+				"Northrop",
+				40,
+				48,
+				"ORG"
+			],
+			[
+				"Saudi Arabian government",
+				154,
+				178,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "So we are now at an impasse.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "What is that program?",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "That is the whole program of their air force, building an air force.",
+		"entities": []
+	},
+	{
+		"content": "We also have a little disagreement with the Department of Defense as to our position on payment of fees.",
+		"entities": [
+			[
+				"Department of Defense",
+				44,
+				65,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I have taken the position that fees should not be paid to these intermediaries unless disclosed to and approved by the paying government--it is added on to the price and it is paid by the purchasing government.",
+		"entities": []
+	},
+	{
+		"content": "We are in a little disagreement with the DOD on that point at the moment.",
+		"entities": [
+			[
+				"DOD",
+				41,
+				44,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER: What do they want to do?",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They are on the spot a little bit, because they have approved a good many of these fees.",
+		"entities": []
+	},
+	{
+		"content": "I can find nothing good that comes out of them.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Except that that is the way business is done in the Middle East.",
+		"entities": [
+			[
+				"Middle East",
+				52,
+				63,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "While Protestantism is a great religion, it is not the one in the Middle East.",
+		"entities": [
+			[
+				"Protestantism",
+				6,
+				19,
+				"NORP"
+			],
+			[
+				"Middle East",
+				66,
+				77,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MR. HABIB:",
+		"entities": [
+			[
+				"HABIB",
+				4,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "And the Far East, too.",
+		"entities": [
+			[
+				"Far East",
+				8,
+				16,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "In military sales, we go out and sell a program to a country, and then we cut somebody else in on it.",
+		"entities": []
+	},
+	{
+		"content": "I think we have some responsibility to make sure that the purchasing government at least knows what we are doing and what they are paying for.",
+		"entities": []
+	},
+	{
+		"content": "And when it was disclosed to Sultan that-- SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"Sultan",
+				29,
+				35,
+				"PERSON"
+			],
+			[
+				"SECRETARY KISSINGER",
+				43,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He was outraged, right--that he wasn't getting the four percent.",
+		"entities": []
+	},
+	{
+		"content": "Never had heard of a thing like this.",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He wasn't getting any of this particular one.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I can see that would create bad feelings.",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Now, the disclosures that are going to come in Lockheed will show much more--much greater money movement and even to higher officials in the Saudi Arabian government.",
+		"entities": [
+			[
+				"Lockheed",
+				47,
+				55,
+				"ORG"
+			],
+			[
+				"Saudi Arabian government",
+				141,
+				165,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "And hopefully those payments will not be disclosed.",
+		"entities": []
+	},
+	{
+		"content": "But I'm afraid they will be disclosed.",
+		"entities": []
+	},
+	{
+		"content": "And we are going to be in the middle, of course, for having permitted the payments without disclosure to the Saudi Government.",
+		"entities": [
+			[
+				"Saudi Government",
+				109,
+				125,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But what is our problem?",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Our problem now is to keep the program moving while litigation is going to take place between Northrop and Kashoggi.",
+		"entities": [
+			[
+				"Northrop",
+				94,
+				102,
+				"ORG"
+			],
+			[
+				"Kashoggi",
+				107,
+				115,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We are just referring it back to the Saudi government.",
+		"entities": [
+			[
+				"Saudi government",
+				37,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MR.",
+		"entities": []
+	},
+	{
+		"content": "INGERSOLL:",
+		"entities": [
+			[
+				"INGERSOLL",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Lockheed are commercial contracts primarily, so it doesn't go through the DOD.",
+		"entities": [
+			[
+				"Lockheed",
+				4,
+				12,
+				"ORG"
+			],
+			[
+				"DOD",
+				78,
+				81,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The C-130s, we stepped out of it.",
+		"entities": [
+			[
+				"C-130s",
+				4,
+				10,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "That is why they are higher fees.",
+		"entities": []
+	},
+	{
+		"content": "And we have to do something about our whole licensing of those.",
+		"entities": []
+	},
+	{
+		"content": "We grant the licenses here in the State Department with no disclosure about payments.",
+		"entities": [
+			[
+				"State Department",
+				34,
+				50,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "These fees have been used for-- SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				32,
+				51,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "But is anyone thinking of the impact of all of this on Saudi Arabia, where they have been doing it like this for 2,000 years?",
+		"entities": [
+			[
+				"Saudi Arabia",
+				55,
+				67,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They want to change now.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They don't want to change.",
+		"entities": []
+	},
+	{
+		"content": "They are being forced to change by us, and they are going to go to other suppliers.",
+		"entities": []
+	},
+	{
+		"content": "Don't tell me the Saudis want to change.",
+		"entities": [
+			[
+				"Saudis",
+				18,
+				24,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Shah issued an order a year ago no more commissions in Iran.",
+		"entities": [
+			[
+				"Shah",
+				4,
+				8,
+				"PERSON"
+			],
+			[
+				"Iran",
+				59,
+				63,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "And that has been pretty well enforced.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "My point is are we going around on a Protestant missionary exercise or are we--I just want to be sure we maintain our influence in Saudi Arabia.",
+		"entities": [
+			[
+				"Protestant",
+				37,
+				47,
+				"NORP"
+			],
+			[
+				"Saudi Arabia",
+				131,
+				143,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I am not in favor of paying commissions.",
+		"entities": []
+	},
+	{
+		"content": "MR.",
+		"entities": []
+	},
+	{
+		"content": "EAGLEBURGER:",
+		"entities": [
+			[
+				"EAGLEBURGER",
+				0,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We are sending Billy Graham there next week.",
+		"entities": [
+			[
+				"Billy Graham",
+				15,
+				27,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I just want to make sure we are not harassing these people for doing something which-- MR.",
+		"entities": []
+	},
+	{
+		"content": "MAW:",
+		"entities": [
+			[
+				"MAW",
+				0,
+				3,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The disclosure is coming out of the Hill.",
+		"entities": [
+			[
+				"Hill",
+				36,
+				40,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "MR.",
+		"entities": []
+	},
+	{
+		"content": "INGERSOLL:",
+		"entities": [
+			[
+				"INGERSOLL",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "First it comes out of the SEC and then Church picks it up and exposes it all.",
+		"entities": [
+			[
+				"SEC",
+				26,
+				29,
+				"ORG"
+			],
+			[
+				"Church",
+				39,
+				45,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "And this Northrop report is not very happy reading for Saudi Arabia.",
+		"entities": [
+			[
+				"Northrop",
+				9,
+				17,
+				"ORG"
+			],
+			[
+				"Saudi Arabia",
+				55,
+				67,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MR.",
+		"entities": []
+	},
+	{
+		"content": "INGERSOLL:",
+		"entities": [
+			[
+				"INGERSOLL",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Lockheed is going to be worse.",
+		"entities": [
+			[
+				"Lockheed",
+				0,
+				8,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW: Much worse--payments to generals, the chief of the Air Force got extra money.",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			],
+			[
+				"chief of the Air Force",
+				47,
+				69,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Is anybody here who knows Saudi Arabia is surprised?",
+		"entities": [
+			[
+				"Saudi Arabia",
+				26,
+				38,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW: No.",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They regularly add five percent to their contracts.",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "You wouldn't mind if they were normal sales and just a few million dollars.",
+		"entities": []
+	},
+	{
+		"content": "But when they run into the hundreds of millions of dollars, they get a little-- SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				80,
+				99,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I am not saying that I like it.",
+		"entities": []
+	},
+	{
+		"content": "I am just wondering whether we are not antagonizing the whole royal family there.",
+		"entities": []
+	},
+	{
+		"content": "MR.",
+		"entities": []
+	},
+	{
+		"content": "INGERSOLL:",
+		"entities": [
+			[
+				"INGERSOLL",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We are for sure.",
+		"entities": []
+	},
+	{
+		"content": "This is going to be our biggest problem.",
+		"entities": []
+	},
+	{
+		"content": "In Iran, too, we are going to be antagonizing the Shah.",
+		"entities": [
+			[
+				"Iran",
+				3,
+				7,
+				"GPE"
+			],
+			[
+				"Shah",
+				50,
+				54,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[1 line not declassified] MR. MAW: [1 line not declassified] MR. HYLAND: [2 lines not declassified] MR.",
+		"entities": [
+			[
+				"MAW",
+				30,
+				33,
+				"PERSON"
+			],
+			[
+				"HYLAND",
+				65,
+				71,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "INGERSOLL:",
+		"entities": [
+			[
+				"INGERSOLL",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "And the Shah's relatives are involved.",
+		"entities": [
+			[
+				"Shah",
+				8,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER: Do we have to pursue this to the bitter end?",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We are going to be called on to say what are we doing about these payments, are we supporting the briberies or aren't we.",
+		"entities": []
+	},
+	{
+		"content": "MR. HABIB:",
+		"entities": [
+			[
+				"HABIB",
+				4,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It applies to other straight-out aid programs, too.",
+		"entities": []
+	},
+	{
+		"content": "The Church committee is on to commission payments on aid programs to the Far East.",
+		"entities": [
+			[
+				"Church committee",
+				4,
+				20,
+				"ORG"
+			],
+			[
+				"Far East",
+				73,
+				81,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "They are going to legislate on this.",
+		"entities": []
+	},
+	{
+		"content": "I hope we can avoid legislation.",
+		"entities": []
+	},
+	{
+		"content": "We don't want a criminal offense of paying commissions, because some of these commissions are perfectly legitimate.",
+		"entities": []
+	},
+	{
+		"content": "MR.",
+		"entities": []
+	},
+	{
+		"content": "HABIB:",
+		"entities": [
+			[
+				"HABIB",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Some of them are contrary to law, however, on some of the aid programs to Asia.",
+		"entities": [
+			[
+				"Asia",
+				74,
+				78,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "That is right.",
+		"entities": []
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "What is the issue now?",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW:",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Well, the issue now is to let you know that this problem does exist between Sultan and Kashoggi.",
+		"entities": [
+			[
+				"Sultan",
+				76,
+				82,
+				"PERSON"
+			],
+			[
+				"Kashoggi",
+				87,
+				95,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER:",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I just hope that somebody keeps in mind that the royal family in Saudi Arabia controls our oil supply, and that moderation in the Middle East depends importantly on what the Saudis do.",
+		"entities": [
+			[
+				"Saudi Arabia",
+				65,
+				77,
+				"GPE"
+			],
+			[
+				"Middle East",
+				130,
+				141,
+				"LOC"
+			],
+			[
+				"Saudis",
+				174,
+				180,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I just hope that that is being kept in mind.",
+		"entities": []
+	},
+	{
+		"content": "MR. MAW: Very much.",
+		"entities": [
+			[
+				"MAW",
+				4,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MR. ATHERTON:",
+		"entities": [
+			[
+				"ATHERTON",
+				4,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The place that argument needs to be made is with Church.",
+		"entities": [
+			[
+				"Church",
+				49,
+				55,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MR.",
+		"entities": []
+	},
+	{
+		"content": "INGERSOLL:",
+		"entities": [
+			[
+				"INGERSOLL",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The SEC and Church are the ones doing this.",
+		"entities": [
+			[
+				"SEC",
+				4,
+				7,
+				"ORG"
+			],
+			[
+				"Church",
+				12,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "SECRETARY KISSINGER: I will talk to Church at some point.",
+		"entities": [
+			[
+				"SECRETARY KISSINGER",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"Church",
+				36,
+				42,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[Omitted here is the remainder of the minutes.]\"]",
+		"entities": []
+	},
+	{
+		"content": "[\"No. 3193",
+		"entities": []
+	},
+	{
+		"content": "Sir: Referring to the Department's Confidential Instruction No. 869 of August 2, 1947, I have the honor to enclose herewith a copy of the Embassy's Note Verbale No. 20 of October 9, 1947, to the Argentine Ministry of Foreign Affairs, regarding the preferential treatment said to be accorded in the ports of Argentina to vessels of the Argentine government which are engaged in commercial traffic, and to the unfair competitive advantage which this situation provides.",
+		"entities": [
+			[
+				"Department",
+				22,
+				32,
+				"ORG"
+			],
+			[
+				"Confidential Instruction No. 869",
+				35,
+				67,
+				"WORK_OF_ART"
+			],
+			[
+				"August 2, 1947",
+				71,
+				85,
+				"DATE"
+			],
+			[
+				"Embassy",
+				138,
+				145,
+				"ORG"
+			],
+			[
+				"Note Verbale No. 20",
+				148,
+				167,
+				"WORK_OF_ART"
+			],
+			[
+				"October 9, 1947",
+				171,
+				186,
+				"DATE"
+			],
+			[
+				"Argentine Ministry of Foreign Affairs",
+				195,
+				232,
+				"ORG"
+			],
+			[
+				"Argentina",
+				307,
+				316,
+				"GPE"
+			],
+			[
+				"Argentine government",
+				335,
+				355,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Embassy has not yet received a reply to this Note Verbale.",
+		"entities": [
+			[
+				"Embassy",
+				4,
+				11,
+				"ORG"
+			],
+			[
+				"Note Verbale",
+				49,
+				61,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "Respectfully yours, For the Ambassador: Julian Greenup Counselor of Embassy for Economic Affairs [Enclosure] The American Ambassador in Argentina (Bruce) to the Argentine Minister for Foreign Affairs and Worship (Bramuglia) No. 20 Buenos Aires, October 9, 1947.",
+		"entities": [
+			[
+				"Ambassador",
+				28,
+				38,
+				"PERSON"
+			],
+			[
+				"Julian Greenup",
+				40,
+				54,
+				"PERSON"
+			],
+			[
+				"Counselor of Embassy for Economic Affairs",
+				55,
+				96,
+				"TITLE"
+			],
+			[
+				"American Ambassador in Argentina",
+				113,
+				145,
+				"TITLE"
+			],
+			[
+				"Bruce",
+				147,
+				152,
+				"PERSON"
+			],
+			[
+				"Argentine Minister for Foreign Affairs and Worship",
+				161,
+				211,
+				"TITLE"
+			],
+			[
+				"Bramuglia",
+				213,
+				222,
+				"PERSON"
+			],
+			[
+				"Buenos Aires",
+				231,
+				243,
+				"LOC"
+			],
+			[
+				"October 9, 1947",
+				245,
+				260,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Excellency: For such favorable action as Your Excellency may in cooperation accord, I have the honor to call attention to the preferential treatment said to be accorded in the ports of Argentina to vessels of the Argentine government which are engaged in commercial traffic; and to the unfair competitive advantage which this situation provides.",
+		"entities": [
+			[
+				"Your Excellency",
+				41,
+				56,
+				"PERSON"
+			],
+			[
+				"Argentina",
+				185,
+				194,
+				"GPE"
+			],
+			[
+				"Argentine government",
+				213,
+				233,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This preferential treatment quite naturally encourages exporters and importers to patronize the Argentine vessels which deliver and receive cargo rapidly, in preference to shipping on vessels which, not enjoying such benefits, have to await long periods in port.",
+		"entities": [
+			[
+				"Argentine",
+				96,
+				105,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Merchants who receive their goods with great delay are handicapped as compared with competitors who receive their merchandise promptly; and the shipping companies which have to defray the expenses of long idleness of vessels are forced to bear an unequal financial burden as compared with the Argentine government ships which turn around quickly.",
+		"entities": [
+			[
+				"Argentine government",
+				293,
+				313,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Before bringing this matter to Your Excellency's attention, it was deemed appropriate to request a complete investigation in the United States pertaining to the handling of vessels of the United States government engaged in commercial traffic.",
+		"entities": [
+			[
+				"Your Excellency",
+				31,
+				46,
+				"PERSON"
+			],
+			[
+				"United States",
+				129,
+				142,
+				"GPE"
+			],
+			[
+				"United States government",
+				188,
+				212,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Embassy has now received an official reply stating that no preference is given to vessels of the United States or any other nation, apart from the usual international procedure pertaining to considerations of health, perishable cargo, passenger vessels, et cetera.",
+		"entities": [
+			[
+				"Embassy",
+				4,
+				11,
+				"ORG"
+			],
+			[
+				"United States",
+				101,
+				114,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The communication from Washington indicated that American as well as foreign steamship operators are, however, permitted to own privately or to lease port facilities for their exclusive or preferential use.",
+		"entities": [
+			[
+				"Washington",
+				23,
+				33,
+				"GPE"
+			],
+			[
+				"American",
+				49,
+				57,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In view of this unequal treatment in providing port facilities, and since it so far appears impossible for vessels carrying the United States flag to obtain facilities for their exclusive or preferential use in the ports of Argentina, my government has requested me to discuss this matter with Your Excellency in the usual spirit of friendship and collaboration with the object of determining if a more advantageous arrangement for American vessels in the ports of Argentina may be arranged.",
+		"entities": [
+			[
+				"United States",
+				128,
+				141,
+				"GPE"
+			],
+			[
+				"Argentina",
+				224,
+				233,
+				"GPE"
+			],
+			[
+				"Your Excellency",
+				294,
+				309,
+				"PERSON"
+			],
+			[
+				"American",
+				432,
+				440,
+				"NORP"
+			],
+			[
+				"Argentina",
+				465,
+				474,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I avail myself [etc.]",
+		"entities": []
+	},
+	{
+		"content": "[ James Bruce ]\"]",
+		"entities": [
+			[
+				"James Bruce",
+				2,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['The West German Cabinet today approved the West German-East German Basic Treaty.",
+		"entities": [
+			[
+				"West German Cabinet",
+				6,
+				25,
+				"ORG"
+			],
+			[
+				"West German-East German Basic Treaty",
+				45,
+				81,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Initialing and publication of the text is scheduled for tomorrow, November 8.",
+		"entities": [
+			[
+				"November 8",
+				66,
+				76,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Brandt has already made a campaign speech hailing the practical advantages which the treaty brings for Germans in both states.",
+		"entities": [
+			[
+				"Brandt",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Germans",
+				103,
+				110,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "What the FRG Gained GDR agreement (Article 7) to regulate practical and humanitarian questions and promote exchanges in commerce, health, science and technology, environment, transport, justice, post and telecommunications, and the exchange of books, periodicals, and radio and TV programs.",
+		"entities": [
+			[
+				"FRG",
+				9,
+				12,
+				"GPE"
+			],
+			[
+				"GDR",
+				20,
+				23,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Bahr and Kohl made separate agreements outside the treaty to open new border-crossing points, reunite divided families, and increase travel and trade.",
+		"entities": [
+			[
+				"Bahr",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Kohl",
+				9,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "A reference (preamble) to the existence of \"the national question\"--about which the two sides disagree--and one (Article 2) to \"the right of self-determination.",
+		"entities": []
+	},
+	{
+		"content": "\" Also a separate exchange of letters by which the FRG and GDR will notify each other that they have informed their respective Big Four allies that the treaty cannot affect Quadripartite agreements, decisions and practices.",
+		"entities": [
+			[
+				"FRG",
+				51,
+				54,
+				"GPE"
+			],
+			[
+				"GDR",
+				59,
+				62,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "These references will enable Brandt's government to claim in the Bundestag that the treaty has not permanently closed off reunification.",
+		"entities": [
+			[
+				"Brandt",
+				29,
+				35,
+				"PERSON"
+			],
+			[
+				"Bundestag",
+				65,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "GDR willingness to accept separately and without contradiction a letter from the FRG on German unity.",
+		"entities": [
+			[
+				"GDR",
+				0,
+				3,
+				"GPE"
+			],
+			[
+				"FRG",
+				81,
+				84,
+				"GPE"
+			],
+			[
+				"German",
+				88,
+				94,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "From the three Western allies separately--a letter (preliminary draft at Tab A) confirming that Quadripartite Declaration does not affect the 1952 (1954) convention on relations between the FRG and the three Western allies.",
+		"entities": [
+			[
+				"Western",
+				15,
+				22,
+				"NORP"
+			],
+			[
+				"Quadripartite Declaration",
+				96,
+				121,
+				"LAW"
+			],
+			[
+				"1952",
+				142,
+				146,
+				"DATE"
+			],
+			[
+				"1954",
+				148,
+				152,
+				"DATE"
+			],
+			[
+				"FRG",
+				190,
+				193,
+				"ORG"
+			],
+			[
+				"Western",
+				208,
+				215,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "This will enable Brandt to assert that the allies too still support German unity and that the treaty does not undermine the FRG's link to NATO, for which the 1954 convention paved the way.",
+		"entities": [
+			[
+				"Brandt",
+				17,
+				23,
+				"PERSON"
+			],
+			[
+				"German",
+				68,
+				74,
+				"GPE"
+			],
+			[
+				"FRG",
+				124,
+				127,
+				"GPE"
+			],
+			[
+				"NATO",
+				138,
+				142,
+				"ORG"
+			],
+			[
+				"1954",
+				158,
+				162,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Agreement (Article 8) to exchange \"permanent representations,\" rather than Embassies.",
+		"entities": []
+	},
+	{
+		"content": "Finally--GDR agreement (in a separate oral exchange) that the West German permanent representative will represent West Berlin and that the FRG-GDR agreements on commerce, health, etc., will apply to West Berlin too.",
+		"entities": [
+			[
+				"GDR",
+				9,
+				12,
+				"GPE"
+			],
+			[
+				"West German",
+				62,
+				73,
+				"GPE"
+			],
+			[
+				"West Berlin",
+				114,
+				125,
+				"GPE"
+			],
+			[
+				"FRG-GDR",
+				139,
+				146,
+				"GPE"
+			],
+			[
+				"West Berlin",
+				199,
+				210,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "What the GDR Got Virtually complete FRG acceptance (Articles 2 and 3) of its sovereignty and equality.",
+		"entities": [
+			[
+				"GDR",
+				9,
+				12,
+				"GPE"
+			],
+			[
+				"FRG",
+				36,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The long-sought goal of East Berlin.",
+		"entities": [
+			[
+				"East Berlin",
+				24,
+				35,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An FRG undertaking (Article 3) to respect the GDR's frontiers and its territorial integrity and to refrain from the threat of the use of force.",
+		"entities": [
+			[
+				"FRG",
+				3,
+				6,
+				"GPE"
+			],
+			[
+				"GDR",
+				46,
+				49,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Almost as important for a regime as apprehensive as the East Germans have been.",
+		"entities": [
+			[
+				"East Germans",
+				56,
+				68,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "A final burial of the Hallstein Doctrine in all its forms (Article 4).",
+		"entities": [
+			[
+				"Hallstein Doctrine",
+				22,
+				40,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "An FRG pledge (Article 7 supplementary protocol)--of considerable economic benefit to East Berlin--to continue to trade in the advantageous \"inter-zonal\" framework which gives GDR products duty-free entry into the Common Market.",
+		"entities": [
+			[
+				"FRG",
+				3,
+				6,
+				"GPE"
+			],
+			[
+				"East Berlin",
+				86,
+				97,
+				"GPE"
+			],
+			[
+				"GDR",
+				176,
+				179,
+				"GPE"
+			],
+			[
+				"Common Market",
+				214,
+				227,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FRG support (Article 7 supplementary protocol) for GDR membership in the Universal Postal Union and the International Telecommunications Union.",
+		"entities": [
+			[
+				"FRG",
+				0,
+				3,
+				"GPE"
+			],
+			[
+				"GDR",
+				51,
+				54,
+				"GPE"
+			],
+			[
+				"Universal Postal Union",
+				73,
+				95,
+				"ORG"
+			],
+			[
+				"International Telecommunications Union",
+				104,
+				142,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Comment The treaty in effect fully Germanizes the German question, with the Allied role even in West Berlin being relegated to minor importance.",
+		"entities": [
+			[
+				"German",
+				50,
+				56,
+				"GPE"
+			],
+			[
+				"Allied",
+				76,
+				82,
+				"ORG"
+			],
+			[
+				"West Berlin",
+				96,
+				107,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It is astonishing in how many areas the East Germans have agreed to open themselves up to dealings with the FRG.",
+		"entities": [
+			[
+				"East Germans",
+				40,
+				52,
+				"GPE"
+			],
+			[
+				"FRG",
+				108,
+				111,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Brandt has gone a long way toward achieving the Annaeherung which Bahr set as a policy objective a decade ago.",
+		"entities": [
+			[
+				"Brandt",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Bahr",
+				66,
+				70,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The East German regime, to ensure his success at the polls, has decided to take the risk that this will cause some Wandel in its internal structure too and in its relations with West Germany.",
+		"entities": [
+			[
+				"East German regime",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"West Germany",
+				178,
+				190,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "What about the GDR NSSM",
+		"entities": [
+			[
+				"GDR",
+				15,
+				18,
+				"GPE"
+			],
+			[
+				"NSSM",
+				19,
+				23,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "(No. 146)?",
+		"entities": []
+	},
+	{
+		"content": "Originally requested nine months ago, the response to NSSM 146 has been awaiting Senior Review Group consideration since April.",
+		"entities": [
+			[
+				"NSSM 146",
+				54,
+				62,
+				"WORK_OF_ART"
+			],
+			[
+				"Senior Review Group",
+				81,
+				100,
+				"ORG"
+			],
+			[
+				"April",
+				121,
+				126,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The rapid pace of Four Power negotiations on a Quadripartite Declaration, the Bahr-Kohl treaty, and the international upgrading of the GDR which has occurred over the past few months (e.g., India's recognition and Finland's likely recognition within a few weeks) have solved many of the issued treated in the NSSM response.",
+		"entities": [
+			[
+				"Quadripartite Declaration",
+				47,
+				72,
+				"LAW"
+			],
+			[
+				"Bahr-Kohl treaty",
+				78,
+				94,
+				"LAW"
+			],
+			[
+				"GDR",
+				135,
+				138,
+				"GPE"
+			],
+			[
+				"India",
+				190,
+				195,
+				"GPE"
+			],
+			[
+				"Finland",
+				214,
+				221,
+				"GPE"
+			],
+			[
+				"NSSM",
+				309,
+				313,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "Only two major ones remain: Whether, how and when we begin negotiating with the GDR on the question of opening up bilateral relations.",
+		"entities": [
+			[
+				"GDR",
+				80,
+				83,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Timing should be related to (1) the outcome of the FRG elections, November 19; (2) consequent prospects for signing and ratification of the GDR-FRG basic treaty; (3) FRG, British and French attitudes.",
+		"entities": [
+			[
+				"FRG",
+				51,
+				54,
+				"GPE"
+			],
+			[
+				"November 19",
+				66,
+				77,
+				"DATE"
+			],
+			[
+				"GDR-FRG basic treaty",
+				140,
+				160,
+				"LAW"
+			],
+			[
+				"FRG",
+				166,
+				169,
+				"GPE"
+			],
+			[
+				"British",
+				171,
+				178,
+				"GPE"
+			],
+			[
+				"French",
+				183,
+				189,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "How do we regard our longer-term relations with the GDR as a State?",
+		"entities": [
+			[
+				"GDR",
+				52,
+				55,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(Conceivably, if the CDU/CSU should win the elections--a possibility--and want to renegotiate the Bahr-Kohl treaty--less likely--we will have to deal with the minor issue of how to deal with GDR pressures to enter UN organizations.",
+		"entities": [
+			[
+				"CDU/CSU",
+				21,
+				28,
+				"ORG"
+			],
+			[
+				"Bahr-Kohl treaty",
+				98,
+				114,
+				"LAW"
+			],
+			[
+				"GDR",
+				191,
+				194,
+				"GPE"
+			],
+			[
+				"UN",
+				214,
+				216,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "But this can be handled by normal State Department strategies.)",
+		"entities": [
+			[
+				"State Department",
+				34,
+				50,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "On a. The British are already pressing us to begin preliminary exchanges on how the Three Powers go about establishing relations with the GDR.",
+		"entities": [
+			[
+				"British",
+				10,
+				17,
+				"GPE"
+			],
+			[
+				"GDR",
+				138,
+				141,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The French no doubt feel the same way.",
+		"entities": [
+			[
+				"French",
+				4,
+				10,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Timing of our negotiations could be early (as soon as the GDR-FRG treaty is signed, perhaps) or late (after the GDR is finally in the UN).",
+		"entities": [
+			[
+				"GDR-FRG treaty",
+				58,
+				72,
+				"LAW"
+			],
+			[
+				"GDR",
+				112,
+				115,
+				"GPE"
+			],
+			[
+				"UN",
+				134,
+				136,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We need to decide this now.",
+		"entities": []
+	},
+	{
+		"content": "I understand that Secretary Rogers is sending a memorandum to the President proposing that we begin discussions with the British and French soon.",
+		"entities": [
+			[
+				"Secretary Rogers",
+				18,
+				34,
+				"PERSON"
+			],
+			[
+				"President",
+				66,
+				75,
+				"PERSON"
+			],
+			[
+				"British",
+				121,
+				128,
+				"GPE"
+			],
+			[
+				"French",
+				133,
+				139,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On b. We need to consider what sort of an establishment, if any, we will have in the GDR and what we want it to do.",
+		"entities": [
+			[
+				"GDR",
+				85,
+				88,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This is of course less pressing.",
+		"entities": []
+	},
+	{
+		"content": "Your Decision Two courses of action are possible:",
+		"entities": []
+	},
+	{
+		"content": "--hold the long-delayed SRG meeting, addressing ourselves only to those parts of the NSSM response which relate to the two remaining major issues.",
+		"entities": [
+			[
+				"SRG",
+				24,
+				27,
+				"ORG"
+			],
+			[
+				"NSSM",
+				85,
+				89,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "(We can use the NSSM response as is for the discussion, focussing the SRG discussion only on the pertinent sections).",
+		"entities": [
+			[
+				"NSSM",
+				16,
+				20,
+				"WORK_OF_ART"
+			],
+			[
+				"SRG",
+				70,
+				73,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "--reply to the forthcoming memorandum from Secretary Rogers that asks for authority to consult with the British and French by issuing a decision memorandum that will lay down a timetable for opening up relations with the GDR.",
+		"entities": [
+			[
+				"Secretary Rogers",
+				43,
+				59,
+				"PERSON"
+			],
+			[
+				"British",
+				104,
+				111,
+				"GPE"
+			],
+			[
+				"French",
+				116,
+				122,
+				"GPE"
+			],
+			[
+				"GDR",
+				221,
+				224,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It would be preferable to air the issues in an SRG meeting, which will besides dealing with the GDR give the agencies a needed opportunity to discuss German issues and provide them with guidance for the coming months.",
+		"entities": [
+			[
+				"SRG",
+				47,
+				50,
+				"ORG"
+			],
+			[
+				"GDR",
+				96,
+				99,
+				"GPE"
+			],
+			[
+				"German",
+				150,
+				156,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The best time to schedule it would be after the German elections.",
+		"entities": [
+			[
+				"German",
+				48,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Recommendation That you indicate your preference: Schedule an SRG meeting on the GDR NSSM.",
+		"entities": [
+			[
+				"SRG",
+				62,
+				65,
+				"ORG"
+			],
+			[
+				"GDR",
+				81,
+				84,
+				"GPE"
+			],
+			[
+				"NSSM",
+				85,
+				89,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "No meeting needed.",
+		"entities": []
+	},
+	{
+		"content": "Timetable on opening relations to be decided by memorandum to State.']",
+		"entities": [
+			[
+				"State",
+				62,
+				67,
+				"ORG"
+			]
+		]
+	}
+]

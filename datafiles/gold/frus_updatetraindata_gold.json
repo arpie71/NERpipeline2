@@ -1,0 +1,6276 @@
+[
+	{
+		"content": "['830. 1.",
+		"entities": []
+	},
+	{
+		"content": "After conversation with Eden I am supplementing Davis' 155 April 6, 4 p.m. from London with further details. 2.",
+		"entities": [
+			[
+				"Eden",
+				24,
+				28,
+				"PERSON"
+			],
+			[
+				"Davis",
+				48,
+				53,
+				"PERSON"
+			],
+			[
+				"April 6",
+				59,
+				66,
+				"DATE"
+			],
+			[
+				"London",
+				80,
+				86,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Eden assured me with vigor and decision that any formal commitment that Great Britain made along the lines of guarantees of execution would only be against a quid pro quo from France in the matter of reduction with especial reference to aviation.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Great Britain",
+				72,
+				85,
+				"GPE"
+			],
+			[
+				"France",
+				176,
+				182,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He is fully alive to the fact that through the whole course of disarmament discussion lasting over 8 years numerous advances have been made, not only by his country but by the United States, to meet the French point of view and that as a result we had nothing tangible in the way of promises of disarmament from France.",
+		"entities": [
+			[
+				"United States",
+				176,
+				189,
+				"GPE"
+			],
+			[
+				"French",
+				203,
+				209,
+				"GPE"
+			],
+			[
+				"France",
+				312,
+				318,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He, therefore, thought it essential that this big card should not be played except for appreciable results.",
+		"entities": []
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "What the British Government is contemplating is a possible acquiescence with some modification in the proposal made by Paul-Boncour to Henderson last December (I left a copy of this proposal with Moffat on December 28th when after consultation with him and Davis I wrote to Henderson regarding it).",
+		"entities": [
+			[
+				"British Government",
+				9,
+				27,
+				"GPE"
+			],
+			[
+				"Paul-Boncour",
+				119,
+				131,
+				"PERSON"
+			],
+			[
+				"Henderson",
+				135,
+				144,
+				"PERSON"
+			],
+			[
+				"December",
+				150,
+				158,
+				"DATE"
+			],
+			[
+				"Moffat",
+				196,
+				202,
+				"PERSON"
+			],
+			[
+				"December 28th",
+				206,
+				219,
+				"DATE"
+			],
+			[
+				"Davis",
+				257,
+				262,
+				"PERSON"
+			],
+			[
+				"Henderson",
+				274,
+				283,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Eden added that what they hoped for from us in this connection was a reaffirmation of Davis' declaration of May 22 but so phrased as to apply not only to the Pact of Paris but also to the Disarmament Convention.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Davis",
+				86,
+				91,
+				"PERSON"
+			],
+			[
+				"May 22",
+				108,
+				114,
+				"DATE"
+			],
+			[
+				"Pact of Paris",
+				158,
+				171,
+				"LAW"
+			],
+			[
+				"Disarmament Convention",
+				188,
+				210,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "I made no observation on this point (I only received today, April 12, your 130, April 2, 7 p.m. to London).",
+		"entities": [
+			[
+				"April 12",
+				60,
+				68,
+				"DATE"
+			],
+			[
+				"April 2",
+				80,
+				87,
+				"DATE"
+			],
+			[
+				"London",
+				99,
+				105,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "Eden then went on to say that Simon was turning over further details in his mind.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Simon",
+				30,
+				35,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Eden made clear to us that these ideas existed as yet in Simon's mind only.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Simon",
+				57,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Simon contemplates a European subcommittee of the Permanent Disarmament Commission.",
+		"entities": [
+			[
+				"Simon",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"European",
+				21,
+				29,
+				"NORP"
+			],
+			[
+				"Permanent Disarmament Commission",
+				50,
+				82,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In the event of a breach of the convention by a European state this subcommittee would establish the fact and notify the violator giving time for the breach to be remedied.",
+		"entities": [
+			[
+				"European",
+				48,
+				56,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "If at the end of this period the breach still existed the European subcommittee would establish by a note that a breach had occurred within the meaning of the convention and that the pertinent penalties were applicable.",
+		"entities": [
+			[
+				"European",
+				58,
+				66,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Simon contemplates further that the convention or a unilateral declaration would make it plain that when the situation had developed to the point sketched above Great Britain would not act until it had consulted with the United States and until the United States had declared that it would act affirmatively under Davis' declaration of May 22.",
+		"entities": [
+			[
+				"Simon",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Great Britain",
+				161,
+				174,
+				"GPE"
+			],
+			[
+				"United States",
+				221,
+				234,
+				"GPE"
+			],
+			[
+				"United States",
+				249,
+				262,
+				"GPE"
+			],
+			[
+				"Davis",
+				314,
+				319,
+				"PERSON"
+			],
+			[
+				"May 22",
+				336,
+				342,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "5.",
+		"entities": []
+	},
+	{
+		"content": "At this point in the conversation I said that of course I could only speak personally but that I felt strongly that any arrangement which specified that the action of the United States was essential and that threw the burden of decision for sanctions on the United States would be distinctly unpalatable and not practical politics with us.",
+		"entities": [
+			[
+				"United States",
+				171,
+				184,
+				"GPE"
+			],
+			[
+				"United States",
+				258,
+				271,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "(I feel even more strongly on this point than I felt it advisable to state to Eden without instructions.",
+		"entities": [
+			[
+				"Eden",
+				78,
+				82,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Simon's scheme would seem to me a means of making a so-called concession to France at our expense.",
+		"entities": [
+			[
+				"Simon",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"France",
+				76,
+				82,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In other words the British would agree to \"automatic\" action in the event of a violation and on a vote of a committee but at the same time leave to the United States a final veto or approbation of such action before they themselves became engaged.",
+		"entities": [
+			[
+				"British",
+				19,
+				26,
+				"GPE"
+			],
+			[
+				"United States",
+				152,
+				165,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This would mean nothing less than an ultimate decision by the United States when punitive action was to be taken that should be most advantageous on the Continent of Europe.) 7.",
+		"entities": [
+			[
+				"United States",
+				62,
+				75,
+				"GPE"
+			],
+			[
+				"Europe",
+				166,
+				172,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Eden also touched on the question of Germany's participation in the negotiation of a disarmament treaty.",
+		"entities": [
+			[
+				"Eden",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Germany",
+				37,
+				44,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He felt strongly that Germany must be brought into the picture shortly and before any real drafting of a convention.",
+		"entities": [
+			[
+				"Germany",
+				22,
+				29,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I gained the impression from Eden that the French now have the same idea having abandoned their previous thought that a convention could be drafted without Germany.",
+		"entities": [
+			[
+				"Eden",
+				29,
+				33,
+				"PERSON"
+			],
+			[
+				"French",
+				43,
+				49,
+				"GPE"
+			],
+			[
+				"Germany",
+				156,
+				163,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "There seems no doubt that the British are keeping in very close touch with the German Government with regard to present diplomatic negotiations and presumably they will choose the proper time to try to have German demands satisfied sufficiently to bring them back to Geneva.",
+		"entities": [
+			[
+				"British",
+				30,
+				37,
+				"GPE"
+			],
+			[
+				"German Government",
+				79,
+				96,
+				"GPE"
+			],
+			[
+				"German",
+				207,
+				213,
+				"GPE"
+			],
+			[
+				"Geneva",
+				267,
+				273,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "8.",
+		"entities": []
+	},
+	{
+		"content": "The most dispiriting thing that Eden encountered with regard to his trip was the complete unreadiness of either Germany or France to accept the other's word.",
+		"entities": [
+			[
+				"Eden",
+				32,
+				36,
+				"PERSON"
+			],
+			[
+				"Germany",
+				112,
+				119,
+				"GPE"
+			],
+			[
+				"France",
+				123,
+				129,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This led him to speak of other difficulties.",
+		"entities": []
+	},
+	{
+		"content": "He found Hitler really disposed to draw up a convention and ready to make undertakings which Eden felt convinced Hitler would carry out.",
+		"entities": [
+			[
+				"Hitler",
+				9,
+				15,
+				"PERSON"
+			],
+			[
+				"Eden",
+				93,
+				97,
+				"PERSON"
+			],
+			[
+				"Hitler",
+				113,
+				119,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "When Eden reported his conviction to his own Foreign Office however he found profound skepticism there against which he has had to struggle.",
+		"entities": [
+			[
+				"Eden",
+				5,
+				9,
+				"PERSON"
+			],
+			[
+				"Foreign Office",
+				45,
+				59,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He added that Francois-Poncet was unable to report his real convictions to his Government because he would be completely disbelieved.",
+		"entities": [
+			[
+				"Francois-Poncet",
+				14,
+				29,
+				"PERSON"
+			],
+			[
+				"Government",
+				79,
+				89,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The atmosphere of distrust renders the negotiations infinitely more difficult. 9.",
+		"entities": []
+	},
+	{
+		"content": "I feel sure that the Department will appreciate the extremely confidential character of this message.",
+		"entities": [
+			[
+				"Department",
+				21,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Cipher text to London for Davis.",
+		"entities": [
+			[
+				"London",
+				15,
+				21,
+				"LOC"
+			],
+			[
+				"Davis",
+				26,
+				31,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Wilson']",
+		"entities": [
+			[
+				"Wilson",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"89.",
+		"entities": []
+	},
+	{
+		"content": "Following given in strictest confidence by Wei Li-huang.",
+		"entities": [
+			[
+				"Wei Li-huang",
+				43,
+				55,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Disclosure will prove very embarrassing.",
+		"entities": []
+	},
+	{
+		"content": "Wei states situation critical although not hopeless but must have outside assistance or NE will be lost within 2 to 3 months.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"NE",
+				88,
+				90,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Two phases possible capitulation NE.",
+		"entities": [
+			[
+				"NE",
+				33,
+				35,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "One is complete domination all areas excluding cities by Communists and second capitulation Mukden which is citadel NE.",
+		"entities": [
+			[
+				"Communists",
+				57,
+				67,
+				"ORG"
+			],
+			[
+				"Mukden",
+				92,
+				98,
+				"LOC"
+			],
+			[
+				"NE",
+				116,
+				118,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Without immediate assistance, Wei feels Communists can accomplish first phase within 1 month's time and second phase can probably be accomplished within 2 months and in maximum 3.",
+		"entities": [
+			[
+				"Wei",
+				30,
+				33,
+				"PERSON"
+			],
+			[
+				"Communists",
+				40,
+				50,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "When first phase accomplished [he does?] not believe military force will be required accomplish second phase.",
+		"entities": []
+	},
+	{
+		"content": "Wei states both Hsiung and Chen assured Generalissimo they had sufficient power already in NE-held area.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Hsiung",
+				16,
+				22,
+				"PERSON"
+			],
+			[
+				"Chen",
+				27,
+				31,
+				"PERSON"
+			],
+			[
+				"Generalissimo",
+				40,
+				53,
+				"PERSON"
+			],
+			[
+				"NE-held area",
+				91,
+				103,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei states this incorrect and perhaps Generalissimo fails realize seriousness situation.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Generalissimo",
+				38,
+				51,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No time for indecision or inactivity.",
+		"entities": []
+	},
+	{
+		"content": "If Government expects hold NE, must start reinforcements moving now.",
+		"entities": [
+			[
+				"Government",
+				3,
+				13,
+				"GPE"
+			],
+			[
+				"NE",
+				27,
+				29,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei confident that if three strong Government armies sent will be able not only maintain present Government position but can retake major portion Communist-held south Manchuria and Jehol.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Government armies",
+				35,
+				52,
+				"ORG"
+			],
+			[
+				"Government",
+				97,
+				107,
+				"GPE"
+			],
+			[
+				"Communist",
+				146,
+				155,
+				"ORG"
+			],
+			[
+				"Manchuria",
+				167,
+				176,
+				"LOC"
+			],
+			[
+				"Jehol",
+				181,
+				186,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei states has numerical strength hold Mukden and Fushun several months but does not have strength hold these cities in addition waging counteroffensive southwards open communication lines to sea.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Mukden",
+				39,
+				45,
+				"LOC"
+			],
+			[
+				"Fushun",
+				50,
+				56,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Failing receive these armies, he will have to remain Mukden-Fushun area conserving his troops and scanty ammunition and food supplies for retreat to coast when situation no longer tenable.",
+		"entities": [
+			[
+				"Mukden-Fushun",
+				53,
+				66,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei's ammunition for American weapons in critical short supply and is in immediate need following: 30 caliber rifle 10,000,000 rounds, 30 caliber heavy machine gun 2,300,000 rounds, 303 light machine gun 6,725,000 rounds, 7.92 light machine gun 4,625,000 rounds, 60 MM mortar 155,000 shells.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"American",
+				21,
+				29,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "This ammunition must be brought into Mukden by plane.",
+		"entities": [
+			[
+				"Mukden",
+				37,
+				43,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "His acute ammunition shortage is guarded as secret by Wei to extent even majority staff officers do not realize acuteness shortage.",
+		"entities": [
+			[
+				"Wei",
+				54,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Shortage precluding Wei waging any type counteroffensive or even relieving besieged garrisons such as that presently engaged defense Anshan.",
+		"entities": [
+			[
+				"Wei",
+				20,
+				23,
+				"PERSON"
+			],
+			[
+				"Anshan",
+				133,
+				139,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Successful defense Mukden dependent receipt this ammunition.",
+		"entities": [
+			[
+				"Mukden",
+				19,
+				25,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei primarily basing estimate time he can hold Mukden on assumption Communists not aware his ammunition shortage and they will consequently refrain from making any large-scale offensive against Mukden at present because high cost to them.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Mukden",
+				47,
+				53,
+				"LOC"
+			],
+			[
+				"Communists",
+				68,
+				78,
+				"ORG"
+			],
+			[
+				"Mukden",
+				194,
+				200,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei states has approximately one week's supply American ammunition available Mukden under siege conditions.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"American",
+				47,
+				55,
+				"NORP"
+			],
+			[
+				"Mukden",
+				77,
+				83,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei states unless assistance in form 3 strong Government armies fully equipped, supplied and composed of 40,000 men each, are sent to NE immediately to open supply routes from Yingkou to Mukden and Hulutao to Mukden Government will be forced abandon NE within 3 months.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Government armies",
+				46,
+				63,
+				"ORG"
+			],
+			[
+				"NE",
+				134,
+				136,
+				"LOC"
+			],
+			[
+				"Yingkou",
+				176,
+				183,
+				"LOC"
+			],
+			[
+				"Mukden",
+				187,
+				193,
+				"LOC"
+			],
+			[
+				"Hulutao",
+				198,
+				205,
+				"LOC"
+			],
+			[
+				"Mukden",
+				209,
+				215,
+				"LOC"
+			],
+			[
+				"NE",
+				250,
+				252,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei further states if these 3 armies are sent (he suggests 2 arrive in Hulutao and 1 in Yingkou) and he knows they are to south protecting his rear, he in turn will be able wage counteroffensive northwards from Mukden and is confident that such counteroffensive properly planned and directed would succeed in reopening major portions of south Manchuria to Government.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Hulutao",
+				71,
+				78,
+				"LOC"
+			],
+			[
+				"Yingkou",
+				88,
+				95,
+				"LOC"
+			],
+			[
+				"Mukden",
+				211,
+				217,
+				"LOC"
+			],
+			[
+				"Manchuria",
+				343,
+				352,
+				"LOC"
+			],
+			[
+				"Government",
+				356,
+				366,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For purposes planning in event he is able wage counteroffensive Wei has divided Manchuria into 3 zones.",
+		"entities": [
+			[
+				"Wei",
+				64,
+				67,
+				"PERSON"
+			],
+			[
+				"Manchuria",
+				80,
+				89,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The north zone includes Changchun and Kirin, south zone includes Mukden, Fushun, Anshan and Yingkou and southwest zone includes Chinchow, Peiping, Hulutao and Fuhsin.",
+		"entities": [
+			[
+				"Changchun",
+				24,
+				33,
+				"LOC"
+			],
+			[
+				"Kirin",
+				38,
+				43,
+				"LOC"
+			],
+			[
+				"Mukden",
+				65,
+				71,
+				"LOC"
+			],
+			[
+				"Fushun",
+				73,
+				79,
+				"LOC"
+			],
+			[
+				"Anshan",
+				81,
+				87,
+				"LOC"
+			],
+			[
+				"Yingkou",
+				92,
+				99,
+				"LOC"
+			],
+			[
+				"Chinchow",
+				128,
+				136,
+				"LOC"
+			],
+			[
+				"Peiping",
+				138,
+				145,
+				"LOC"
+			],
+			[
+				"Hulutao",
+				147,
+				154,
+				"LOC"
+			],
+			[
+				"Fuhsin",
+				159,
+				165,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei states south and southwest zones are most important for Government purposes and situation in these zones must be completely stabilized before any effort made stabilize or restore overland communications with northern zone.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Government",
+				60,
+				70,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Government desires hold Changchun and Kirin but no supplies or troops needed south and southwest zones will be diverted north zone in attempt hold latter.",
+		"entities": [
+			[
+				"Government",
+				0,
+				10,
+				"GPE"
+			],
+			[
+				"Changchun",
+				24,
+				33,
+				"LOC"
+			],
+			[
+				"Kirin",
+				38,
+				43,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei has received no instructions from Generalissimo whether Hsienfengman hydroelectric station near Kirin is to be destroyed should its capture by Communists become imminent.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Generalissimo",
+				38,
+				51,
+				"PERSON"
+			],
+			[
+				"Hsienfengman",
+				60,
+				72,
+				"LOC"
+			],
+			[
+				"Kirin",
+				100,
+				105,
+				"LOC"
+			],
+			[
+				"Communists",
+				147,
+				157,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Wei plans use locally recruited Northeastern troops assist him in his counteroffensive north Mukden should Government send 3 armies to Yingkou and Hulutao to open incoming supply lines.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Northeastern",
+				32,
+				44,
+				"NORP"
+			],
+			[
+				"Mukden",
+				93,
+				99,
+				"LOC"
+			],
+			[
+				"Government",
+				101,
+				117,
+				"GPE"
+			],
+			[
+				"Yingkou",
+				135,
+				142,
+				"LOC"
+			],
+			[
+				"Hulutao",
+				147,
+				154,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He is confident he will have backing Northeastern leaders in this attempt and will rely primarily on such leaders as Ma Chan-shan to organize these units.",
+		"entities": [
+			[
+				"Northeastern",
+				37,
+				49,
+				"NORP"
+			],
+			[
+				"Ma Chan-shan",
+				117,
+				129,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He believes 20 divisions Northeasterners can be organized and trained within 2 months provided necessary equipment furnished.",
+		"entities": [
+			[
+				"Northeasterners",
+				25,
+				40,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "To equip these units he must have minimum of: 50,000 M-1 rifles 1918-19; 5,000 each carbines and light machine guns; 1,000 each heavy machine guns and 60 MM mortars; plus ammunition therefor.",
+		"entities": [
+			[
+				"M-1 rifles",
+				53,
+				63,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "He requests USA furnish these weapons and ammunition.",
+		"entities": [
+			[
+				"USA",
+				12,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Wei states weapons and ammunition must be moved to Mukden by air immediately if his training program to be successful.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Mukden",
+				51,
+				57,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Past attempts create such organization have failed because absence effective plans and equipment and consequently little enthusiasm heretofore shown.",
+		"entities": []
+	},
+	{
+		"content": "Wei states does not believe Chinese presently have sufficient cargo planes airlift this quantity supplies but adds that if US places 200 transport planes at his disposal Chinese could accomplish such airlift from China coast or Taiwan or other equidistant points.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Chinese",
+				28,
+				35,
+				"GPE"
+			],
+			[
+				"US",
+				123,
+				125,
+				"GPE"
+			],
+			[
+				"Chinese",
+				170,
+				177,
+				"GPE"
+			],
+			[
+				"China",
+				213,
+				218,
+				"LOC"
+			],
+			[
+				"Taiwan",
+				228,
+				234,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Wei does not give impression being pessimist or of seeking a way save face should Communists occupy entire NE.",
+		"entities": [
+			[
+				"Wei",
+				0,
+				3,
+				"PERSON"
+			],
+			[
+				"Communists",
+				82,
+				92,
+				"ORG"
+			],
+			[
+				"NE",
+				107,
+				109,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He frankly, and I feel honestly, states he has come NE too late to hold it with present troops and equipment.",
+		"entities": [
+			[
+				"NE",
+				52,
+				54,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "He states his position made more difficult by mismanagement and poor leadership Chen during whose regime inadequate stockpile supplies, ammunition or foodstuffs secured and whose poor military management resulted lossage 12 Government divisions to Communists during past several months and has now given Communists superiority 2 to 1 in fighting manpower.",
+		"entities": [
+			[
+				"Chen",
+				80,
+				84,
+				"PERSON"
+			],
+			[
+				"Government",
+				224,
+				234,
+				"NORP"
+			],
+			[
+				"Communists",
+				248,
+				258,
+				"ORG"
+			],
+			[
+				"Communists",
+				304,
+				314,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He urgently appeals for aid and is under impression needed equipment come from American sources only.",
+		"entities": [
+			[
+				"American",
+				79,
+				87,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He solicits Embassy assistance making clear to Nanking need for reinforcements.",
+		"entities": [
+			[
+				"Embassy",
+				12,
+				19,
+				"ORG"
+			],
+			[
+				"Nanking",
+				47,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Discussed situation without reserve and solicits American advice all problems whether pertaining to civil or military matters.",
+		"entities": [
+			[
+				"American",
+				49,
+				57,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I have tendered no advice.",
+		"entities": []
+	},
+	{
+		"content": "Contact with Wei and informed civil sources leaves little doubt that if Wei not supplied with requested aid it is not improbable 3 months hence will bring about completely Communist dominated NE.",
+		"entities": [
+			[
+				"Wei",
+				13,
+				16,
+				"PERSON"
+			],
+			[
+				"Wei",
+				72,
+				75,
+				"PERSON"
+			],
+			[
+				"Communist",
+				172,
+				181,
+				"ORG"
+			],
+			[
+				"NE",
+				192,
+				194,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Inasmuch non-Communist Manchuria means much to US trade and our position in Pacific, I sincerely hope will prove practicable make available above listed needed ordnance ammunition and planes without delay.",
+		"entities": [
+			[
+				"non-Communist",
+				9,
+				22,
+				"NORP"
+			],
+			[
+				"Manchuria",
+				23,
+				32,
+				"GPE"
+			],
+			[
+				"US",
+				47,
+				49,
+				"GPE"
+			],
+			[
+				"Pacific",
+				76,
+				83,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Sent Embassy; repeated Department as 89.",
+		"entities": [
+			[
+				"Embassy",
+				5,
+				12,
+				"ORG"
+			],
+			[
+				"Department",
+				23,
+				33,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Ward\"]",
+		"entities": [
+			[
+				"Ward",
+				0,
+				4,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['secret 299.",
+		"entities": []
+	},
+	{
+		"content": "[Here follow two paragraphs dealing primarily with the Greek Prime Minister's address of February 26 before Parliament reviewing the Government's policies of economic retrenchment to meet the financial crisis and of firmness and conciliation to restore public order; and with the reply by the leader of the opposition Liberal Party.]",
+		"entities": [
+			[
+				"Greek",
+				55,
+				60,
+				"GPE"
+			],
+			[
+				"Prime Minister",
+				61,
+				75,
+				"PERSON"
+			],
+			[
+				"February 26",
+				89,
+				100,
+				"DATE"
+			],
+			[
+				"Parliament",
+				108,
+				118,
+				"ORG"
+			],
+			[
+				"Government",
+				133,
+				143,
+				"GPE"
+			],
+			[
+				"Liberal Party",
+				318,
+				331,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In surprise move morning February 27 designed embarrass Government and curry public favor, opposition deposited draft resolution calling union of Cyprus with Greece \"imperious and unanimous demand of entire Hellenic nation\", expressing confidence that \"Britain, great and staunch, friend of Greece, will give full satisfaction this demand,\" and calling for communication of resolution to British Government and Parliament.",
+		"entities": [
+			[
+				"February 27",
+				25,
+				36,
+				"DATE"
+			],
+			[
+				"Government",
+				56,
+				66,
+				"GPE"
+			],
+			[
+				"Cyprus",
+				146,
+				152,
+				"GPE"
+			],
+			[
+				"Greece",
+				158,
+				164,
+				"GPE"
+			],
+			[
+				"Hellenic",
+				207,
+				215,
+				"GPE"
+			],
+			[
+				"Britain",
+				253,
+				260,
+				"GPE"
+			],
+			[
+				"Greece",
+				291,
+				297,
+				"GPE"
+			],
+			[
+				"British Government",
+				388,
+				406,
+				"GPE"
+			],
+			[
+				"Parliament",
+				411,
+				421,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "During day Minister Foreign Affairs conferred on matter with British Ambassador, who agreed Government forced to take some action but advised any measure adopted be \"as mild as possible\" and not commit Greek Government to take matter up officially with British.",
+		"entities": [
+			[
+				"Minister Foreign Affairs",
+				11,
+				35,
+				"PERSON"
+			],
+			[
+				"British Ambassador",
+				61,
+				79,
+				"PERSON"
+			],
+			[
+				"Government",
+				92,
+				102,
+				"GPE"
+			],
+			[
+				"Greek Government",
+				202,
+				218,
+				"GPE"
+			],
+			[
+				"British",
+				253,
+				260,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Pointed out possible unfavorable reaction in UK at time when British \"scraping barrel\" to help Greece economically.",
+		"entities": [
+			[
+				"UK",
+				45,
+				47,
+				"GPE"
+			],
+			[
+				"British",
+				61,
+				68,
+				"GPE"
+			],
+			[
+				"Greece",
+				95,
+				101,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(Told me privately later that \"no one in England interested\" and Bevin strongly opposed to ceding Cyprus.)",
+		"entities": [
+			[
+				"England",
+				41,
+				48,
+				"GPE"
+			],
+			[
+				"Bevin",
+				65,
+				70,
+				"PERSON"
+			],
+			[
+				"Cyprus",
+				98,
+				104,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Accordingly, Tsaldaris introduced substitute resolution stating issue in softer terms and confiding solution to \"friendly negotiations\" between Greek and UK Governments which adopted by acclamation.",
+		"entities": [
+			[
+				"Tsaldaris",
+				13,
+				22,
+				"PERSON"
+			],
+			[
+				"Greek",
+				144,
+				149,
+				"GPE"
+			],
+			[
+				"UK",
+				154,
+				156,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "MacVeagh']",
+		"entities": [
+			[
+				"MacVeagh",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"SUBJECT:",
+		"entities": []
+	},
+	{
+		"content": "Soviet Proposal for Five-Power Nuclear Conference The President wishes that a preliminary analysis be made of the issues involved in a conference or preparatory meeting of the five nuclear powers as proposed in the Soviet Union's statement of June 15.",
+		"entities": [
+			[
+				"Soviet",
+				0,
+				6,
+				"GPE"
+			],
+			[
+				"Five-Power Nuclear Conference",
+				20,
+				49,
+				"EVENT"
+			],
+			[
+				"President",
+				54,
+				63,
+				"PERSON"
+			],
+			[
+				"Soviet Union",
+				215,
+				227,
+				"GPE"
+			],
+			[
+				"June 15",
+				243,
+				250,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "As part of this analysis there should be some indication of those measures that could realistically be discussed with the other powers, in light of what is known of their positions.",
+		"entities": []
+	},
+	{
+		"content": "This study should include alternative ways to deal with the Soviet proposal and be submitted to the Verification Panel by July 16.",
+		"entities": [
+			[
+				"Soviet",
+				60,
+				66,
+				"GPE"
+			],
+			[
+				"Verification Panel",
+				100,
+				118,
+				"ORG"
+			],
+			[
+				"July 16",
+				122,
+				129,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The study should be prepared by an Ad Hoc Group comprising representatives of the addressees of this memorandum and the Director, Central Intelligence, Chairman, Joint Chiefs of Staff and the NSC staff chaired by the representative of the Secretary of State.",
+		"entities": [
+			[
+				"Ad Hoc Group",
+				35,
+				47,
+				"ORG"
+			],
+			[
+				"Director",
+				120,
+				128,
+				"PERSON"
+			],
+			[
+				"Central Intelligence,",
+				130,
+				150,
+				"ORG"
+			],
+			[
+				"Chairman",
+				152,
+				160,
+				"PERSON"
+			],
+			[
+				"Joint Chiefs of Staff",
+				162,
+				183,
+				"ORG"
+			],
+			[
+				"NSC",
+				192,
+				195,
+				"ORG"
+			],
+			[
+				"Secretary of State",
+				239,
+				257,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Until a more definitive U.S. position has been worked out, the following points will be used in diplomatic contacts and press statements: -- The United States considers the subject raised by the USSR as worthy of serious consideration.",
+		"entities": [
+			[
+				"U.S.",
+				24,
+				28,
+				"GPE"
+			],
+			[
+				"United States",
+				145,
+				158,
+				"GPE"
+			],
+			[
+				"USSR",
+				195,
+				199,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "-- Such a conference would require careful preparation and a consensus on what measures were feasible for discussion.",
+		"entities": []
+	},
+	{
+		"content": "Henry A. Kissinger\"]",
+		"entities": [
+			[
+				"Henry A. Kissinger",
+				0,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['No. 25.]",
+		"entities": []
+	},
+	{
+		"content": "Sir: The 21st article of the treaty of Japan with Great Britain provides that \"all official communications addressed by the diplomatic and consular agents of her Majesty the Queen of Great Britain to the Japanese authorities shall henceforward be written in English.",
+		"entities": [
+			[
+				"Japan",
+				39,
+				44,
+				"GPE"
+			],
+			[
+				"Great Britain",
+				50,
+				63,
+				"GPE"
+			],
+			[
+				"her Majesty the Queen of Great Britain",
+				158,
+				196,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				204,
+				212,
+				"GPE"
+			],
+			[
+				"English",
+				258,
+				265,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In order, however, to facilitate the transaction of business, they will, for a period of five years from the signature of that treaty, be accompanied by a Dutch or Japanese version.",
+		"entities": [
+			[
+				"Dutch",
+				155,
+				160,
+				"NORP"
+			],
+			[
+				"Japanese",
+				164,
+				172,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "This period will expire on the 26th day of August, 1863.",
+		"entities": [
+			[
+				"26th day of August, 1863",
+				31,
+				55,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In view of this article, the Japanese government have for a long time caused instructions in reading and writing the English language to be given to a large number of these officials.",
+		"entities": [
+			[
+				"Japanese government",
+				29,
+				48,
+				"GPE"
+			],
+			[
+				"English",
+				117,
+				124,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It is known that, while many of them can read and write with great readiness, they have made little progress in speaking the language.",
+		"entities": []
+	},
+	{
+		"content": "I have received a letter from the minister of foreign affairs, of which I enclose translation, No. 1.",
+		"entities": [
+			[
+				"minister of foreign affairs",
+				34,
+				61,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "After consultation with the young gentlemen attached to this legation, I sent a copy, of which I enclose copy, No. 2.",
+		"entities": []
+	},
+	{
+		"content": "It is proper to say, in this connexion, that the Reverend S. R. Brown, of Kanagawa, a missionary from the Reformed Dutch church of the United States, had offered, through Mr. Harris, to take charge of any number of young men whom the government might send to him for that purpose; and at an interview which I had on the day of the receipt of the letter, with one of the government of foreign affairs, I offered to invite to this legation, for the purpose of giving such instruction, a very capable young gentleman now at Kanagawa, who has been professor in an institution in California, and to provide for his support while so engaged.",
+		"entities": [
+			[
+				"Reverend S. R. Brown",
+				49,
+				69,
+				"PERSON"
+			],
+			[
+				"Kanagawa",
+				74,
+				82,
+				"LOC"
+			],
+			[
+				"Reformed Dutch of the United States",
+				106,
+				148,
+				"ORG"
+			],
+			[
+				"Harris",
+				175,
+				181,
+				"PERSON"
+			],
+			[
+				"Kanagawa",
+				521,
+				529,
+				"LOC"
+			],
+			[
+				"California",
+				575,
+				585,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Meanwhile I proposed to make known their wishes to the government of the United States, and suggested it was possible the President might, in view of the great advantages which would result, cause a suitable instructor to be provided.",
+		"entities": [
+			[
+				"United States",
+				73,
+				86,
+				"GPE"
+			],
+			[
+				"President",
+				122,
+				131,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I was answered that the government preferred to send the men to the legation, and it was desirable that no delay should take place in commencing instructions.",
+		"entities": []
+	},
+	{
+		"content": "I have thought it proper to make this detailed statement, as it is extremely desirable that all official correspondence with our minister and consuls shall be in our own language, thus insuring greater freedom in our intercourse.",
+		"entities": []
+	},
+	{
+		"content": "It is very obvious that this imposes an unpleasant burden on the legation, in which I must, to some extent, share; but I did not feel at liberty to refuse the request, and am pleased to say, that I think the gentlemen attached to this legation will faithfully and successfully discharge the duties which they have so cheerfully assumed.",
+		"entities": []
+	},
+	{
+		"content": "I have the honor to be, sir, very respectfully, your most obedient servant, ROBERT H. PRUYN, Minister Resident in Japan.",
+		"entities": [
+			[
+				"ROBERT H. PRUYN",
+				76,
+				91,
+				"PERSON"
+			],
+			[
+				"Minister Resident in Japan",
+				93,
+				119,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Hon.",
+		"entities": [
+			[
+				"Hon",
+				0,
+				3,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Wm. H. Seward, Secretary of State, Washington.",
+		"entities": [
+			[
+				"Wm H. Seward",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"Secretary of State",
+				15,
+				33,
+				"TITLE"
+			],
+			[
+				"Washington",
+				35,
+				45,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "No. 1.",
+		"entities": []
+	},
+	{
+		"content": "To His Excellency Robert H. Pruyn, Minister Resident of the United States of America, &c., &c.: In our country there are but few who have a knowledge of the English language.",
+		"entities": [
+			[
+				"His Excellency",
+				3,
+				17,
+				"TITLE"
+			],
+			[
+				"Robert H. Pruyn",
+				18,
+				33,
+				"PERSON"
+			],
+			[
+				"Minister Resident of the United States of America",
+				35,
+				84,
+				"TITLE"
+			],
+			[
+				"English",
+				157,
+				164,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It will not be in accordance with the stipulation in our treaties with the several powers if conferences cannot be held in that language when the time for doing so will have arrived; and, besides, it will also cause inconvenience at interviews.",
+		"entities": []
+	},
+	{
+		"content": "It is, therefore, desirable for us to send suitable persons to your legation to receive instruction in that language.",
+		"entities": []
+	},
+	{
+		"content": "We now request your excellency to make an arrangement for that purpose, and give us your reply in writing.",
+		"entities": []
+	},
+	{
+		"content": "With respect and esteem, the 18th day of the 5th month of the 2d year of Bunkin, (the 15th June, 1862.)",
+		"entities": [
+			[
+				"18th day of the 5th month of the 2d year of Bunkin",
+				29,
+				79,
+				"DATE"
+			],
+			[
+				"15th June, 1862",
+				86,
+				101,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "KUDSE YAMATO NO KAMI.",
+		"entities": [
+			[
+				"KUDSE YAMATO NO KAMI",
+				0,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MIDSUNO IDSUMI NO KAMI",
+		"entities": [
+			[
+				"MIDSUNO IDSUMI NO KAMI",
+				0,
+				22,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "ITAKURA SUWO NO KAMI",
+		"entities": [
+			[
+				"ITAKURA SUWO NO KAMI",
+				0,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No. 2.",
+		"entities": []
+	},
+	{
+		"content": "Legation of the United States in Japan, Yedo, June 18, 1862.",
+		"entities": [
+			[
+				"Legation of the United States",
+				0,
+				29,
+				"ORG"
+			],
+			[
+				"Japan",
+				33,
+				38,
+				"LOC"
+			],
+			[
+				"Yedo",
+				40,
+				44,
+				"LOC"
+			],
+			[
+				"June 18, 1862",
+				46,
+				59,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In reply to your letter of the 15th instant, I have the honor to say that it will afford me great pleasure to receive at this legation such young men as you may wish to send for the purpose of receiving instruction in our language.",
+		"entities": [
+			[
+				"15th",
+				31,
+				35,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Messrs. William In graham Kip and Robert C. Pruyn, secretaries attached to this legation, have, at my request, kindly undertaken to devote such time each day, except on our sabbath day, as may be necessary for the purpose of such instructions; and Mr. Portman, the intrepreter of this legation, will, with great pleasure, give such time as he may be able to spare from his duties for the same purpose.",
+		"entities": [
+			[
+				"William In graham Kip",
+				8,
+				29,
+				"PERSON"
+			],
+			[
+				"Robert C. Pruyn",
+				34,
+				49,
+				"PERSON"
+			],
+			[
+				"Portman",
+				252,
+				259,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "With respect and courtesy, ROBERT H. PRUYN, Minister Resident for the United States of America, &c., &c. Minister for Foreign Affairs, &c., &c., &c.']",
+		"entities": [
+			[
+				"ROBERT H. PRUYN",
+				27,
+				42,
+				"PERSON"
+			],
+			[
+				"Minister Resident for the United States of America",
+				44,
+				94,
+				"TITLE"
+			],
+			[
+				"Minister for Foreign Affairs",
+				105,
+				133,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "['During our Crisis Management briefing on 18 May in the Oval Office, President Reagan asked about the U.K. Vulcan refueling OPS during the Falklands strikes.",
+		"entities": [
+			[
+				"18 May",
+				43,
+				49,
+				"DATE"
+			],
+			[
+				"Oval Office",
+				57,
+				68,
+				"FAC"
+			],
+			[
+				"President Reagan",
+				70,
+				86,
+				"PERSON"
+			],
+			[
+				"U.K.",
+				103,
+				107,
+				"GPE"
+			],
+			[
+				"Vulcan",
+				108,
+				114,
+				"PRODUCT"
+			],
+			[
+				"Falklands",
+				140,
+				149,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I indicated that 12 refueling OPS had been required.",
+		"entities": []
+	},
+	{
+		"content": "The following information is provided as amplification for your \"hip pocket\" use as appropriate.",
+		"entities": []
+	},
+	{
+		"content": "Sources: [less than 1 line not declassified] DIA.",
+		"entities": [
+			[
+				"DIA",
+				45,
+				48,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "* Only 2 VULCANS are based on Ascencion --For each mission, both A/C sortie to a decision point approximately 1800 miles SW.",
+		"entities": [
+			[
+				"VULCANS",
+				9,
+				16,
+				"PRODUCT"
+			],
+			[
+				"Ascencion",
+				30,
+				39,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "There, the pilots determine which A/C is in best shape for mission and other A/C returns to Ascencion.",
+		"entities": [
+			[
+				"Ascencion",
+				92,
+				101,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "* Single A/C continues to target, 3500 nm at 600 Kts in high/high/high flight profile (35,000'+) --Bomb",
+		"entities": []
+	},
+	{
+		"content": "load: 21 1000 lb.",
+		"entities": []
+	},
+	{
+		"content": "bombs, loaded internally (necessitates removal of internal fuel cells--thus refuel requirement).",
+		"entities": []
+	},
+	{
+		"content": "--Time of flight: 6-7 hours each way.",
+		"entities": []
+	},
+	{
+		"content": "* VICTORS used for refueling 8 to 14 times per VULCAN on each mission.",
+		"entities": [
+			[
+				"VICTORS",
+				2,
+				9,
+				"PRODUCT"
+			],
+			[
+				"VULCAN",
+				47,
+				53,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "--Range to abort fields and removal of interior fuel cells generates frequent refueling.",
+		"entities": []
+	},
+	{
+		"content": "* Last week, both VULCANS were returned to UK for refit to accommodate SHRIKE anti-radiation missiles.",
+		"entities": [
+			[
+				"VULCANS",
+				18,
+				25,
+				"PRODUCT"
+			],
+			[
+				"UK",
+				43,
+				45,
+				"LOC"
+			],
+			[
+				"SHRIKE anti-radiation missiles",
+				71,
+				101,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "SHRIKE refit did not work (Avionics problems) so VULCANS equipped with MARTEL (NATO anti radar missiles) instead.",
+		"entities": [
+			[
+				"SHRIKE",
+				0,
+				6,
+				"PRODUCT"
+			],
+			[
+				"VULCANS",
+				49,
+				56,
+				"PRODUCT"
+			],
+			[
+				"MARTEL",
+				71,
+				77,
+				"PRODUCT"
+			],
+			[
+				"NATO",
+				79,
+				83,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "--Anti-Radiation missiles to be used to attack Argentine ROLAND SAMS.",
+		"entities": [
+			[
+				"Argentine",
+				47,
+				56,
+				"GPE"
+			],
+			[
+				"ROLAND SAMS",
+				57,
+				68,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "* Two days ago, both VULCANS launched, but problems with A/C (probably MARTELS) caused mission to be aborted.",
+		"entities": [
+			[
+				"VULCANS",
+				21,
+				28,
+				"PRODUCT"
+			],
+			[
+				"MARTELS",
+				71,
+				78,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "* One VULCAN scheduled to return to UK today (20 May) for unspecified repairs/rework.",
+		"entities": [
+			[
+				"VULCAN",
+				6,
+				12,
+				"PRODUCT"
+			],
+			[
+				"UK",
+				36,
+				38,
+				"LOC"
+			],
+			[
+				"20 May",
+				46,
+				52,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "--Possible refit for Precision (Laser) Guided Munitions (PGM).",
+		"entities": []
+	},
+	{
+		"content": "Brits have hand-held and A/C mounted Laser Target Designator.",
+		"entities": [
+			[
+				"Brits",
+				0,
+				5,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "* If A/C cannot be repaired and returned, Amphib OPS may be delayed.",
+		"entities": []
+	},
+	{
+		"content": "Plan was to have VULCAN sortie soften up/disrupt Argentine C3 concurrent with landing.']",
+		"entities": [
+			[
+				"VULCAN",
+				17,
+				23,
+				"PRODUCT"
+			],
+			[
+				"Argentine",
+				49,
+				58,
+				"GPE"
+			],
+			[
+				"C3",
+				59,
+				61,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "['--For the final Conference texts on this subject, as included in the Report by the Combined Chiefs of Staff to the President and the Prime Minister, see post, pages 1464, 1465, 1469-1471.']",
+		"entities": [
+			[
+				"Report by the Combined Chiefs of Staff to the President and the Prime Minister",
+				71,
+				149,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "[\"B-492.",
+		"entities": []
+	},
+	{
+		"content": "Reference Department's telegram B-488, March 2, 8 p.m.",
+		"entities": [
+			[
+				"Department",
+				10,
+				20,
+				"ORG"
+			],
+			[
+				"March 2,",
+				39,
+				47,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The announcement in the press some days ago that arrangements had been completed for the exchange of the American prisoners in the hands of General Franco has led to many inquiries.",
+		"entities": [
+			[
+				"American",
+				105,
+				113,
+				"NORP"
+			],
+			[
+				"General Franco",
+				140,
+				154,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It would be helpful in replying to these inquiries if you could ascertain, perhaps through the representative of the International Red Cross or other organization interested in facilitating the exchange of prisoners, whether it has been possible to effect any practical arrangements with respect to these Americans.",
+		"entities": [
+			[
+				"International Red Cross",
+				117,
+				140,
+				"ORG"
+			],
+			[
+				"Americans",
+				305,
+				314,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "We realize, of course, that the current developments in Spain may have created serious difficulties in this connection.",
+		"entities": [
+			[
+				"Spain",
+				56,
+				61,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Welles\"]",
+		"entities": [
+			[
+				"Welles",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['OTHERS PRESENT Under Secretary Hoover Admiral Carney Captain Mott (?)",
+		"entities": [
+			[
+				"Under Secretary Hoover",
+				17,
+				39,
+				"PERSON"
+			],
+			[
+				"Admiral Carney",
+				40,
+				54,
+				"PERSON"
+			],
+			[
+				"Captain Mott",
+				55,
+				67,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "USN I joined the meeting when it was about half over.",
+		"entities": [
+			[
+				"USN",
+				0,
+				3,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Discussion centered on possible formulas for controlling the sea area between Formosa and the Chinese mainland, in connection with questions left by Admiral Radford and Secretary Robertson on their departure--the idea apparently being to avoid the use of the term \"blockade,\" because of its closely defined international significance, in favor of a more flexible term such as \"maritime zone.",
+		"entities": [
+			[
+				"Formosa",
+				78,
+				85,
+				"LOC"
+			],
+			[
+				"Chinese mainland",
+				94,
+				110,
+				"LOC"
+			],
+			[
+				"Admiral Radford",
+				149,
+				164,
+				"PERSON"
+			],
+			[
+				"Secretary Robertson",
+				169,
+				188,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "\" There was discussion of the military feasibility of instituting and maintaining such control, with mines, surface vessels, air support, etc.--this in conjunction with the feasibility of and support requirements for any attempt to evacuate ChiNat forces under ChiCom attack from the forward islands.",
+		"entities": [
+			[
+				"ChiNat",
+				241,
+				247,
+				"GPE"
+			],
+			[
+				"ChiCom",
+				261,
+				267,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "There was also discussion of the legality of the \"maritime zone\" proposal.",
+		"entities": []
+	},
+	{
+		"content": "It was brought out that the proposal could only be effective with full cooperation of Chiang.",
+		"entities": [
+			[
+				"Chiang",
+				86,
+				92,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The President indicated that the considerations are so elusive that the matter is difficult to put into writing.",
+		"entities": [
+			[
+				"President",
+				4,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He is hoping that Chiang comes to see the value of changing his stand voluntarily; Chiang must realize that his greatest asset in his present situation is U.S. public opinion.",
+		"entities": [
+			[
+				"Chiang",
+				18,
+				24,
+				"PERSON"
+			],
+			[
+				"Chiang",
+				83,
+				89,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				155,
+				159,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "He felt that the \"maritime zone\" proposal could not be considered, except after a voluntary evacuation from the offshore islands or their capture after serving as out-posts.",
+		"entities": []
+	},
+	{
+		"content": "The President stressed, however, he did not wish to force Chiang into anything for which the U.S. would then be responsible, but wanted Chiang's decision to be made voluntarily.",
+		"entities": [
+			[
+				"President",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Chiang",
+				58,
+				64,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				93,
+				97,
+				"GPE"
+			],
+			[
+				"Chiang",
+				136,
+				142,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He regarded the islands as being fairly valuable and appropriate for defense with small forces, supported to the maximum with mines and obstacles and other artificial items, and given ChiNat air support in case of ChiCom attack.",
+		"entities": [
+			[
+				"ChiNat",
+				184,
+				190,
+				"GPE"
+			],
+			[
+				"ChiCom",
+				214,
+				220,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "A. J. GoodpasterColonel, CE, US ArmyStaff Secretary']",
+		"entities": [
+			[
+				"A. J. GoodpasterColonel",
+				0,
+				23,
+				"PERSON"
+			],
+			[
+				"CE",
+				25,
+				27,
+				"TITLE"
+			],
+			[
+				"US ArmyStaff Secretary",
+				29,
+				51,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "['6']",
+		"entities": []
+	},
+	{
+		"content": "['No. 197",
+		"entities": []
+	},
+	{
+		"content": "Sir: I have the honor to inform the Department that during the course of a conversation which I had with Monsieur Paul Hymans, Belgian Minister for Foreign Affairs, on May 24, we discussed the question of the negotiation of a new commercial treaty between the United States and Belgium.",
+		"entities": [
+			[
+				"Department",
+				36,
+				46,
+				"ORG"
+			],
+			[
+				"Monsieur Paul Hymans",
+				105,
+				125,
+				"PERSON"
+			],
+			[
+				"Belgian",
+				127,
+				134,
+				"GPE"
+			],
+			[
+				"Minister for Foreign Affairs",
+				135,
+				163,
+				"TITLE"
+			],
+			[
+				"May 24",
+				168,
+				174,
+				"DATE"
+			],
+			[
+				"United States",
+				260,
+				273,
+				"GPE"
+			],
+			[
+				"Belgium",
+				278,
+				285,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Monsieur Hymans told me that he was not sufficiently conversant with the details of this subject to go into a lengthy discussion thereof but that his Ministry would prepare a memorandum outlining in brief Belgian grievances as regards American commercial policy.",
+		"entities": [
+			[
+				"Monsieur Hymans",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"Ministry",
+				150,
+				158,
+				"ORG"
+			],
+			[
+				"Belgian",
+				205,
+				212,
+				"GPE"
+			],
+			[
+				"American",
+				235,
+				243,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On May 30 Baron Beyens, a young official at the Ministry for Foreign Affairs, called on me at the direction of Monsieur Hymans and left with me the memorandum, copies of which I am enclosing for the Department's information.",
+		"entities": [
+			[
+				"May 30",
+				3,
+				9,
+				"DATE"
+			],
+			[
+				"Baron Beyens",
+				10,
+				22,
+				"PERSON"
+			],
+			[
+				"Ministry for Foreign Affairs",
+				48,
+				76,
+				"ORG"
+			],
+			[
+				"Monsieur Hymans",
+				111,
+				126,
+				"PERSON"
+			],
+			[
+				"Department",
+				199,
+				209,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I consider this document of such importance to the Department that I am forwarding copies of it without translation in order that it may go off in the pouch which leaves today.",
+		"entities": [
+			[
+				"Department",
+				51,
+				61,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Baron Beyens informed me that the Ministry felt there was a general need for increased trade between the two countries.",
+		"entities": [
+			[
+				"Baron Beyens",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"Ministry",
+				34,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I emphasized the harm to American trade and interests in Belgium which necessarily follows the application of import quotas affecting American imports here.",
+		"entities": [
+			[
+				"American",
+				25,
+				33,
+				"NORP"
+			],
+			[
+				"Belgium",
+				57,
+				64,
+				"LOC"
+			],
+			[
+				"American",
+				134,
+				142,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "I added that I felt there could be little improvement in trade relations between the two countries until Belgium showed a willingness to abolish quota restrictions as protectionist measures against the importation of American goods.",
+		"entities": [
+			[
+				"Belgium",
+				105,
+				112,
+				"GPE"
+			],
+			[
+				"American",
+				217,
+				225,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Baron Beyens replied with the usual argument that quotas were necessary for the protection of the home market at the present time.",
+		"entities": [
+			[
+				"Baron Beyens",
+				0,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I respectfully suggest to the Department that it study the contents of the enclosed note, along with my despatches: No. 124 of February 12, 1934 No. 141 of March 5, 1934 No. 153 of March 21, 1934 No. 155 of March 26, 1934.",
+		"entities": [
+			[
+				"Department",
+				30,
+				40,
+				"ORG"
+			],
+			[
+				"February 12, 1934",
+				127,
+				144,
+				"DATE"
+			],
+			[
+				"March 5, 1934",
+				156,
+				169,
+				"DATE"
+			],
+			[
+				"March 21, 1934",
+				181,
+				195,
+				"DATE"
+			],
+			[
+				"March 26, 1934",
+				207,
+				221,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In this connection, Mr. Sussdorff, Counselor, undoubtedly discussed the situation with the Department earlier this month, and this despatch will supplement his discussions and bring the matter up to date.",
+		"entities": [
+			[
+				"Sussdorff",
+				24,
+				33,
+				"PERSON"
+			],
+			[
+				"Counselor",
+				35,
+				44,
+				"TITLE"
+			],
+			[
+				"Department",
+				91,
+				101,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I am prepared to add any information which the Department may desire when I am in Washington the middle of June.",
+		"entities": [
+			[
+				"Department",
+				47,
+				57,
+				"ORG"
+			],
+			[
+				"Washington",
+				82,
+				92,
+				"LOC"
+			],
+			[
+				"June",
+				107,
+				111,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A study of the information obtained from these discussions and from the material referred to above will furnish the Department with a complete picture of the trade situation between the two countries.",
+		"entities": [
+			[
+				"Department",
+				116,
+				126,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I believe the Belgians are sincerely interested in improving these relations and that every encouragement should be offered them to show that sympathetic consideration will be given any concrete offer which will remove restrictions and improve trade relations.",
+		"entities": [
+			[
+				"Belgians",
+				14,
+				22,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I respectfully urge the Department to keep the Embassy informed of the details of any negotiations which may ensue.",
+		"entities": [
+			[
+				"Department",
+				24,
+				34,
+				"ORG"
+			],
+			[
+				"Embassy",
+				47,
+				54,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The situation is daily becoming more complicated by the application of new restrictions.",
+		"entities": []
+	},
+	{
+		"content": "In this connection I refer to my despatch No. 185 of May 17, 1934.",
+		"entities": [
+			[
+				"May 17, 1934",
+				53,
+				65,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Embassy is in close touch with American interests here and therefore it is in a position to be of value to the Department in furnishing up to date information relating to restrictions on American trade.",
+		"entities": [
+			[
+				"Embassy",
+				4,
+				11,
+				"ORG"
+			],
+			[
+				"American",
+				35,
+				43,
+				"NORP"
+			],
+			[
+				"Department",
+				115,
+				125,
+				"ORG"
+			],
+			[
+				"American",
+				191,
+				199,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Respectfully yours, Dave H. Morris [Enclosure--Translation]",
+		"entities": [
+			[
+				"Dave H. Morris",
+				20,
+				34,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Ministry for Foreign Affairs to the American Embassy Brussels, May 30, 1934.",
+		"entities": [
+			[
+				"Belgian Ministry for Foreign Affairs",
+				4,
+				40,
+				"ORG"
+			],
+			[
+				"American Embassy Brussels",
+				48,
+				73,
+				"ORG"
+			],
+			[
+				"May 30, 1934",
+				75,
+				87,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Government fully shares the ideas contained in the message by which President Roosevelt asked of the Congress of the United States the powers necessary for negotiating with foreign countries treaties of commerce covering reciprocal concessions and reciprocal facilities intended to develop commercial interchanges.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"President Roosevelt",
+				80,
+				99,
+				"PERSON"
+			],
+			[
+				"Congress of the United States",
+				113,
+				142,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Government is pleased with this step, for it too is convinced that the return to prosperity depends on a lowering of customs barriers and an increase in international trade.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Moreover: the message of the President of the United States was not a surprise to it, the statements made on several occasions by the Secretary of State, Mr. Cordell Hull, particularly at the London Monetary and Economic Conference, had shown it that the United States Government was aware of the gravity of the situation and the remedies which it was advisable to apply to it.",
+		"entities": [
+			[
+				"President of the United States",
+				29,
+				59,
+				"PERSON"
+			],
+			[
+				"Secretary of State",
+				134,
+				152,
+				"TITLE"
+			],
+			[
+				"Cordell Hull",
+				158,
+				170,
+				"PERSON"
+			],
+			[
+				"London Monetary and Economic Conference",
+				192,
+				231,
+				"EVENT"
+			],
+			[
+				"United States Government",
+				255,
+				279,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Government has always been an advocate of the simultaneous lowering of customs barriers; it has made great efforts along this line during these last few years, efforts which have not, unfortunately, been crowned with success.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Let it suffice to recall the part [taken by Belgium at] the Geneva Commercial Convention of 1930, the conclusion, in 1932, of the Convention of Ouchy with the Netherlands and Luxemburg, intended to lower customs barriers by successive steps and open to all nations, and lastly the declarations made by Belgium's representatives at the London Conference, declarations which agreed fully with those of the leader of the American delegation, Mr. Cordell Hull.",
+		"entities": [
+			[
+				"Belgium",
+				44,
+				51,
+				"GPE"
+			],
+			[
+				"Geneva Commercial Convention of 1930",
+				60,
+				96,
+				"LAW"
+			],
+			[
+				"1932",
+				117,
+				121,
+				"DATE"
+			],
+			[
+				"Convention of Ouchy",
+				130,
+				149,
+				"LAW"
+			],
+			[
+				"Netherlands",
+				159,
+				170,
+				"GPE"
+			],
+			[
+				"Luxemburg",
+				175,
+				184,
+				"GPE"
+			],
+			[
+				"Belgium",
+				302,
+				309,
+				"GPE"
+			],
+			[
+				"London Conference",
+				3315,
+				352,
+				"EVENT"
+			],
+			[
+				"American",
+				418,
+				426,
+				"GPE"
+			],
+			[
+				"Cordell Hull",
+				443,
+				455,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This means that the Government of Belgium is entirely disposed to enter into pourparlers with that of the United States of America, with a view to the conclusion of a new treaty of commerce, covering reciprocal concessions.",
+		"entities": [
+			[
+				"Government of Belgium",
+				20,
+				41,
+				"GPE"
+			],
+			[
+				"United States of America",
+				106,
+				130,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Government wishes to call attention to the fact that [it] is at present, taking the number of its population into account, one of the best customers of the United States.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"United States",
+				168,
+				181,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Belgium has pursued up to the present time a liberal economic policy toward the United States; the duties of her customs tariff are, with a few exceptions, extremely moderate; the majority of the raw materials and foodstuffs for which the United States is now seeking markets enter our country free of duty.",
+		"entities": [
+			[
+				"Belgium",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"United States",
+				80,
+				93,
+				"GPE"
+			],
+			[
+				"United States",
+				239,
+				252,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On the contrary, the American customs tariff is very high; the majority of Belgian products are heavily taxed.",
+		"entities": [
+			[
+				"American",
+				21,
+				29,
+				"GPE"
+			],
+			[
+				"Belgian",
+				75,
+				82,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The latest revision of the tariff, in 1930, ended in excluding from the American market some products which formerly found a very important market there (cement, brick).",
+		"entities": [
+			[
+				"1930",
+				38,
+				42,
+				"DATE"
+			],
+			[
+				"American",
+				72,
+				80,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "That is not all: aside from the height of the customs duties, Belgian exports suffer from the strictness and the complication of the administrative provisions of the tariff, such as those relative to the marking of articles, those concerning suspicion of \"dumping,\" the quarantine applied to our horticultural products, etc.",
+		"entities": [
+			[
+				"Belgian",
+				62,
+				69,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Government therefore believes that the present system of reciprocal exchanges is not equitable, and that it should be improved; it is ready to cooperate with the American Government in the measures adapted for their development.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"American Government",
+				174,
+				193,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An examination of the commercial balance of the two countries emphasizes, moreover, the lack of balance which now exists in trade between the Belgian-Luxemburgian Economic Union and the United States.",
+		"entities": [
+			[
+				"Belgian-Luxemburgian Economic Union",
+				142,
+				162,
+				"GPE"
+			],
+			[
+				"United States",
+				186,
+				199,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The following table, taken from the American customs statistics, shows that this lack of balance has been perceptibly accentuated during the last few years.",
+		"entities": [
+			[
+				"American",
+				36,
+				44,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Years Exports of the Union to the United States.",
+		"entities": [
+			[
+				"Union",
+				21,
+				26,
+				"LOC"
+			],
+			[
+				"United States",
+				34,
+				47,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Imports from America into the Economic Union.",
+		"entities": [
+			[
+				"America",
+				13,
+				20,
+				"LOC"
+			],
+			[
+				"Economic Union",
+				30,
+				44,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "(Dollars) (Dollars) 1929 74,048,000 114,855,000 1930 51,536,000 86,000,000 1931 34,241,000 59,441,000 1932 21,927,000 40,278,000 The figures for 1933 are not yet known, but an examination of the Belgian commercial statistics shows that the lack of balance existing in 1932 has continued.",
+		"entities": [
+			[
+				"1929",
+				20,
+				24,
+				"DATE"
+			],
+			[
+				"1930",
+				48,
+				52,
+				"DATE"
+			],
+			[
+				"1931",
+				75,
+				79,
+				"DATE"
+			],
+			[
+				"1932",
+				102,
+				106,
+				"DATE"
+			],
+			[
+				"1933",
+				145,
+				149,
+				"DATE"
+			],
+			[
+				"Belgian",
+				195,
+				202,
+				"NORP"
+			],
+			[
+				"1932",
+				268,
+				272,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A brief glance at the above table shows that the value of the exchange of goods has been reduced on both sides, but that the decrease has been proportionately much greater, in the exports from the Economic Union to the United States.",
+		"entities": [
+			[
+				"Economic Union",
+				197,
+				211,
+				"GPE"
+			],
+			[
+				"United States",
+				219,
+				232,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is this situation that the Belgian Government would like to change, not by rectifying unilaterally the commercial balance to the advantage of Belgium, but by developing simultaneously the exchanges on both sides for the greater advantage of both parties.",
+		"entities": [
+			[
+				"Belgian Government",
+				30,
+				48,
+				"GPE"
+			],
+			[
+				"Belgium",
+				145,
+				152,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Belgian Government made an investigation among the exporters of the country, with a view to ascertaining what claims it should submit to the United States Government, when the negotiations contemplated in President Roosevelt's message are undertaken.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"United States Government",
+				145,
+				169,
+				"GPE"
+			],
+			[
+				"President Roosevelt",
+				209,
+				228,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "This investigation is completed and the Belgian Government is now in position to formulate such claims.",
+		"entities": [
+			[
+				"Belgian Government",
+				40,
+				58,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We shall give a brief outline thereof.",
+		"entities": []
+	},
+	{
+		"content": "From a tariff point of view, the Government of the King will ask for concessions on certain products for which Belgium is, or has been, the principal source of supply on the United States market, or which do not come into competition with American industry.",
+		"entities": [
+			[
+				"Government of the King",
+				33,
+				55,
+				"GPE"
+			],
+			[
+				"Belgium",
+				111,
+				118,
+				"GPE"
+			],
+			[
+				"United States",
+				174,
+				187,
+				"GPE"
+			],
+			[
+				"American",
+				239,
+				247,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "For example, it will ask for reductions in import duties on cement (which can be sold only on the coasts and which has been excluded from the American market by the duty of 6 cents a pound, imposed in 1930); on articles of crystal and de luxe hollow glass ware; on certain products of the textile industry (tissues of dyed and colored cotton, upholstering tissues, cotton carpets, certain linen tissues: padding and oysters; heavy jute paddings; on certain metallurgical products (galvanized sheet iron and wire netting); lastly on certain Belgian specialties; art laces, Belgian chicory, hot-house grapes.",
+		"entities": [
+			[
+				"American",
+				142,
+				150,
+				"NORP"
+			],
+			[
+				"1930",
+				201,
+				205,
+				"DATE"
+			],
+			[
+				"Belgian",
+				540,
+				547,
+				"NORP"
+			],
+			[
+				"Belgian",
+				572,
+				579,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Moreover, the Belgian Government would ask for the consolidation of certain import duties (droits d'entree) and customs exemption enjoyed by certain products, such as: fertilizer, creosote oil, et cetera.'",
+		"entities": [
+			[
+				"Belgian Government",
+				14,
+				32,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Lastly, with respect to the administrative provisions of the American customs tariff, Belgium would ask for a more liberal application of this legislation, which causes, in numerous cases, considerable prejudice to her export trade.",
+		"entities": [
+			[
+				"American",
+				61,
+				69,
+				"GPE"
+			],
+			[
+				"Belgium",
+				86,
+				93,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For example, the Belgian Government would request that the luxury tax, collected from the manufacturer (matches, for instance), be not counted in the evaluation of merchandise for the purpose of customs taxation.",
+		"entities": [
+			[
+				"Belgian Government",
+				17,
+				35,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It would also like to obtain the removal or at least a mitigation of the quarantine imposed on our horticultural products.",
+		"entities": []
+	},
+	{
+		"content": "The Belgian Government is ready to enter into negotiations with the United States.",
+		"entities": [
+			[
+				"Belgian Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"United States",
+				68,
+				81,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Its sincere desire is to promote trade, to the fullest possible extent between the two countries for their mutual advantage.']",
+		"entities": []
+	},
+	{
+		"content": "[\"510.",
+		"entities": []
+	},
+	{
+		"content": "Embassy's telegram No. 509, December 10, 7 p.m.",
+		"entities": [
+			[
+				"Embassy",
+				0,
+				7,
+				"ORG"
+			],
+			[
+				"December 10",
+				28,
+				39,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In order that no possible misunderstanding might arise in connection with the wheat revaluation arrangement with Hungary the Italian Government has furnished the Embassy with the following oral explanation: When Hungarian wheat is purchased by Italian importers the purchase price is set in relation to the price prevailing on the world market for that particular quality of wheat and an additional amount is paid by the importer who receives facilities from the Italian Government to that end.",
+		"entities": [
+			[
+				"Hungary",
+				113,
+				120,
+				"GPE"
+			],
+			[
+				"Italian Government",
+				125,
+				143,
+				"GPE"
+			],
+			[
+				"Embassy",
+				162,
+				169,
+				"ORG"
+			],
+			[
+				"Hungarian",
+				212,
+				221,
+				"NORP"
+			],
+			[
+				"Italian",
+				244,
+				251,
+				"NORP"
+			],
+			[
+				"Italian Government",
+				463,
+				481,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The example cited by the Italian authorities is that if wheat of a specified grade is purchased the price prevailing for the next higher grade is paid.",
+		"entities": [
+			[
+				"Italian",
+				25,
+				32,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It was further explained that the arrangement which is primarily of a political nature and does not constitute a formal agreement between the two governments does not require the purchase of any specified quantity of wheat but operates only when purchases are made.",
+		"entities": []
+	},
+	{
+		"content": "The existence of this arrangement is not made public but it is entered into between the Hungarian exporters and the Italian importers directly.",
+		"entities": [
+			[
+				"Hungarian",
+				88,
+				97,
+				"NORP"
+			],
+			[
+				"Italian",
+				116,
+				123,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In the opinion of the Italian officials it does not constitute a preference but they desired frankly and confidentially to acquaint the Department with its terms.",
+		"entities": [
+			[
+				"Italian",
+				22,
+				29,
+				"GPE"
+			],
+			[
+				"Department",
+				136,
+				146,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Phillips\"]",
+		"entities": [
+			[
+				"Phillips",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['[Inclosure 3--Extract.]",
+		"entities": []
+	},
+	{
+		"content": "No. 971.]",
+		"entities": []
+	},
+	{
+		"content": "Sir: I take occasion to supplement herewith the telegraphic instructions which I addressed to you on February 18 in reply to your despatch No. 374 of the 2d instant.",
+		"entities": [
+			[
+				"February 18",
+				101,
+				112,
+				"DATE"
+			],
+			[
+				"2d",
+				154,
+				156,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "In order to clear up certain misconceptions by which the issues in this case appear to have been confused, I would point out that it is the general principle of the American and other Western systems of law that a trade-mark is a property right growing out of the use of a particular distinguishing device adopted for the purpose of trade, and accruing to the user of such an identifying mark independently of any formal act such as registration--such formalities being recognized not as creating new rights but only as attesting and furnishing evidence (of a presumptive force determined by the laws under which the formalities are established) of the existence of a proprietary right in the device.",
+		"entities": [
+			[
+				"American",
+				165,
+				173,
+				"GPE"
+			],
+			[
+				"Western",
+				184,
+				191,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It is believed that the concept of a property right originating in the mere fact of the adoption and use of an identifying device in trade is common not only to the legal systems of the West but also to that of China.",
+		"entities": [
+			[
+				"West",
+				186,
+				190,
+				"LOC"
+			],
+			[
+				"China",
+				211,
+				216,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In the nature of the case, however, the protection and enforcement of the rights as recognized give rise to many questions in actual practice, in view of the difficulty of establishing by evidence in each case the duration and extent of use, and the nonexistence of a similar use by other traders.",
+		"entities": []
+	},
+	{
+		"content": "To minimize the practical difficulties thus presented, the system of registration of trademarks has been adopted in most countries, in order to obviate the difficulties of proving industrial property rights, by establishing registration as a more readily available form of evidence in such cases.",
+		"entities": []
+	},
+	{
+		"content": "As indicated above, the degree of presumptive force attaching to registration varies in the several existing systems of registration; in some, notably the Japanese, so much weight is attached to the fact of registration as to give it almost the effect of a presumption of law; but it is understood that even in the Japanese system the principle of proprietary right growing out of priority of use is recognized to the extent of providing means for the cancellation of registrations which infringe upon trade-marks already in use by other traders.",
+		"entities": [
+			[
+				"Japanese",
+				155,
+				163,
+				"GPE"
+			],
+			[
+				"Japanese",
+				315,
+				323,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "So much general discussion of the subject has seemed necessary in order to dispel the apparent misconception that registration in Japan or elsewhere creates ipso facto a right in any mark for trade in China.",
+		"entities": [
+			[
+				"Japan",
+				130,
+				135,
+				"LOC"
+			],
+			[
+				"China",
+				201,
+				206,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In the view of the Legation, the question of the ownership of any trade-mark in China is one of fact as to priority of use and adoption for the trade in China; the essential facts in such cases are determinable in accordance with the legal system and institutions applicable by the jurisdiction to which appeal must be made in order to establish and protect those rights in this country.",
+		"entities": [
+			[
+				"Legation",
+				19,
+				27,
+				"ORG"
+			],
+			[
+				"China",
+				80,
+				85,
+				"LOC"
+			],
+			[
+				"China",
+				153,
+				158,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It is in this connection necessary to envisage the possibility of infringements of American trademarks by those subject to the jurisdiction of the United States, to that of China, and to that of countries (other than the United States) enjoying extraterritorial jurisdiction here.",
+		"entities": [
+			[
+				"American",
+				83,
+				91,
+				"NORP"
+			],
+			[
+				"United States",
+				147,
+				160,
+				"GPE"
+			],
+			[
+				"China",
+				173,
+				178,
+				"GPE"
+			],
+			[
+				"United States",
+				221,
+				234,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "With reference to the law applicable in cases of infringement by other Americans, the question is one in regard to which comment by the Legation would be superfluous inasmuch as the matter is not of diplomatic but of judicial competence.",
+		"entities": [
+			[
+				"Americans",
+				71,
+				80,
+				"NORP"
+			],
+			[
+				"Legation",
+				136,
+				144,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "So far as concerns protection or redress against persons or firms subject to the jurisdiction of China, I would reiterate the belief that the legal concepts of the Chinese recognize the principle of a property right accruing from the use of trade-marks or chops.",
+		"entities": [
+			[
+				"China",
+				97,
+				102,
+				"GPE"
+			],
+			[
+				"Chinese",
+				164,
+				171,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "As a matter of practical administration, however, it has been found desirable to establish by Article IX of the Commercial Treaty of 1903 an administrative procedure by which the owners of American trademarks may entitle themselves to protection by the Chinese Government against infringing, imitating, or knowingly passing off imitations of their trade-marks.",
+		"entities": [
+			[
+				"Commercial Treaty of 1903",
+				112,
+				137,
+				"LAW"
+			],
+			[
+				"American",
+				189,
+				197,
+				"NORP"
+			],
+			[
+				"Chinese Government",
+				253,
+				271,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "This treaty stipulation imposes upon the Chinese Government, subject to the formalities of registration and proclamation, the obligation to protect within its territories and against its nationals the following three categories of American trade-marks: Those to the exclusive use of which in the United States the American owners are entitled; Those which, they have adopted and used within the territories of China; and Those which they intend to adopt and use exclusively within the territories of China as soon as registered.",
+		"entities": [
+			[
+				"Chinese Government",
+				41,
+				59,
+				"GPE"
+			],
+			[
+				"American",
+				231,
+				239,
+				"NORP"
+			],
+			[
+				"United States",
+				296,
+				309,
+				"GPE"
+			],
+			[
+				"American",
+				314,
+				322,
+				"NORP"
+			],
+			[
+				"China",
+				410,
+				415,
+				"GPE"
+			],
+			[
+				"China",
+				500,
+				505,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It would appear that the owners of the Vaseline trade-mark (which belongs alike to the first and to the second of the above categories) have fully entitled themselves to the protection of this trade-mark by the Chinese Government under the terms of the treaty, having registered the trade-mark and obtained for it the proclamation of the appropriate authorities.",
+		"entities": [
+			[
+				"Vaseline",
+				39,
+				47,
+				"PRODUCT"
+			],
+			[
+				"Chinese Government",
+				211,
+				229,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It may incidentally be noted that--at any rate in a case involving no contest as to the relative value of registrations as between two or more claimants of a trade-mark--the so-called \"provisional registration\" of a trade-mark with the Customs at Shanghai must be considered as fulfilling the condition precedent to Chinese protection, stipulated in that regard by the Treaty of 1903.",
+		"entities": [
+			[
+				"Customs",
+				236,
+				243,
+				"ORG"
+			],
+			[
+				"Shanghai",
+				247,
+				255,
+				"LOC"
+			],
+			[
+				"Chinese",
+				316,
+				323,
+				"GPE"
+			],
+			[
+				"Treaty of 1903",
+				369,
+				383,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "For although the Chinese Government has not yet established offices for the granting of registration \"after due investigation by the Chinese authorities and in compliance with reasonable regulations\" (as contemplated by our treaty), or \"in accordance with the provisions of the regulations to be hereafter framed by the Chinese Government for the purpose of protecting trade-marks\" (as contemplated by the Sino-Japanese Treaty of 1903), it has nevertheless established an office for provisional registration under the control of the Maritime Customs at Shanghai, in pursuance of Article VII of the Sino-British Treaty of 1902; and inasmuch as the system of provisional registration thus established affords to American traders the only means hitherto available to them to comply with the treaty requirement of registration with the appropriate Chinese authorities, it seems preposterous to suppose that it is open to the Chinese (or to others for them) to plead that registration under that system does not suffice to fulfil the requirement upon which the obligation of protection by the Chinese Government is conditioned.",
+		"entities": [
+			[
+				"Chinese Government",
+				17,
+				35,
+				"GPE"
+			],
+			[
+				"Chinese",
+				133,
+				140,
+				"GPE"
+			],
+			[
+				"Chinese Government",
+				320,
+				338,
+				"GPE"
+			],
+			[
+				"Sino-Japanese Treaty of 1903",
+				406,
+				434,
+				"LAW"
+			],
+			[
+				"Maritime Customs",
+				533,
+				549,
+				"ORG"
+			],
+			[
+				"Shanghai",
+				553,
+				561,
+				"LOC"
+			],
+			[
+				"Sino-British Treaty of 1902",
+				598,
+				625,
+				"LAW"
+			],
+			[
+				"American",
+				710,
+				718,
+				"NORP"
+			],
+			[
+				"Chinese",
+				844,
+				851,
+				"GPE"
+			],
+			[
+				"Chinese",
+				921,
+				928,
+				"NORP"
+			],
+			[
+				"Chinese Government",
+				1088,
+				1106,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Under such circumstances the Legation considers that the duty of the Chinese authorities to protect the Vaseline trademark as against their own nationals is a matter of treaty obligation by China to the United States; and it fails to understand on what ground a third party can claim to intervene against the enforcement of that obligation.",
+		"entities": [
+			[
+				"Legation",
+				29,
+				37,
+				"ORG"
+			],
+			[
+				"Chinese",
+				69,
+				76,
+				"GPE"
+			],
+			[
+				"Vaseline",
+				104,
+				112,
+				"PRODUCT"
+			],
+			[
+				"China",
+				190,
+				195,
+				"GPE"
+			],
+			[
+				"United States",
+				203,
+				216,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In this connection the Japanese Consul General at Shanghai, in his letter addressed to you on the 17th instant, quoted in your No. 392 of February 17th, takes the position that it would constitute a violation of Article V of the Sino-Japanese Treaty of 1904 (doubtless that of 1903 is intended) if the Mixed Court were to \"prohibit the sale by Chinese of any merchandise by sole reason of bearing the trade-marks possessed by Matsumoto\"; and from the context it appears that the clause \"possessed by Matsumoto\" is to be interpreted as meaning registered in Japan by Matsumoto.",
+		"entities": [
+			[
+				"Japanese Consul General",
+				23,
+				46,
+				"PERSON"
+			],
+			[
+				"Shanghai",
+				50,
+				58,
+				"LOC"
+			],
+			[
+				"17th",
+				98,
+				102,
+				"DATE"
+			],
+			[
+				"February 17th",
+				1438,
+				151,
+				"DATE"
+			],
+			[
+				"Sino-Japanese Treaty of 1904",
+				229,
+				257,
+				"LAW"
+			],
+			[
+				"1903",
+				277,
+				281,
+				"DATE"
+			],
+			[
+				"Mixed Court",
+				302,
+				313,
+				"ORG"
+			],
+			[
+				"Chinese",
+				344,
+				351,
+				"GPE"
+			],
+			[
+				"Matsumoto",
+				426,
+				435,
+				"PERSON"
+			],
+			[
+				"Matsumoto",
+				500,
+				509,
+				"PERSON"
+			],
+			[
+				"Japan",
+				557,
+				562,
+				"LOC"
+			],
+			[
+				"Matsumoto",
+				566,
+				575,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The treaty provision upon which your Japanese colleague relies would appear to be that contained in the first paragraph of Article V of the Sino-Japanese Treaty of 1903, reading as follows:",
+		"entities": [
+			[
+				"Japanese",
+				37,
+				45,
+				"NORP"
+			],
+			[
+				"Sino-Japanese Treaty of 1903",
+				140,
+				168,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "The Chinese Government agree to make and faithfully enforce such regulations as are necessary for preventing Chinese subjects from infringing registered trade-marks held by Japanese subjects.",
+		"entities": [
+			[
+				"Chinese Government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"Chinese",
+				109,
+				116,
+				"NORP"
+			],
+			[
+				"Japanese",
+				173,
+				181,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "But this provision would sustain his contention only if it were assumed that the phrase registered trade-marks field by Japanese subjects refers to registration in Japan rather than in China.",
+		"entities": [
+			[
+				"Japanese",
+				120,
+				128,
+				"NORP"
+			],
+			[
+				"Japan",
+				164,
+				169,
+				"LOC"
+			],
+			[
+				"China",
+				185,
+				190,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "That such is not the true meaning of the provision, however, is to be inferred from the terms of mutuality in which the fourth paragraph of the same article provides for the protection by the Japanese Government of trade-marks \"properly registered according to the provisions of the laws and regulations of Japan.",
+		"entities": [
+			[
+				"Japanese Government",
+				192,
+				211,
+				"GPE"
+			],
+			[
+				"Japan",
+				307,
+				312,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\" But even if the terms of the Japanese treaty did not so manifestly contemplate registration in China as a condition precedent to the protection of Japanese (as of American) trade-marks, I should find it impossible to reconcile myself to the assumption that registration in Japan--a unilateral domestic act involving no consent or even cognizance on the part of either Chinese or Americans--could have the effect of nullifying rights accruing to Americans in China and protected by treaty between China and the United States, or could make the right to protection in such cases subject to determination by judicial procedure in Japan.",
+		"entities": [
+			[
+				"Japanese",
+				31,
+				39,
+				"GPE"
+			],
+			[
+				"China",
+				97,
+				102,
+				"LOC"
+			],
+			[
+				"Japanese",
+				149,
+				157,
+				"GPE"
+			],
+			[
+				"American",
+				165,
+				173,
+				"GPE"
+			],
+			[
+				"Japan",
+				275,
+				280,
+				"LOC"
+			],
+			[
+				"Chinese",
+				370,
+				377,
+				"NORP"
+			],
+			[
+				"Americans",
+				381,
+				390,
+				"NORP"
+			],
+			[
+				"Americans",
+				447,
+				456,
+				"NORP"
+			],
+			[
+				"China",
+				460,
+				465,
+				"LOC"
+			],
+			[
+				"China",
+				498,
+				503,
+				"GPE"
+			],
+			[
+				"United States",
+				512,
+				525,
+				"GPE"
+			],
+			[
+				"Japan",
+				629,
+				634,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Although other elements of the problem would have to be taken into consideration if the case presented a rivalry of registrations by Americans and by Japanese in China, it seems clear that the actual facts of the case involving the infringement of the Vaseline trade-mark allow no room for the supposition that by reason of a registration in their home trademark office the Japanese claimants are entitled to oppose the proceedings which the Chinese Government is obligated by treaty to take against such persons under its jurisdiction as violate the rights of the American owners of the trade-mark.",
+		"entities": [
+			[
+				"Americans",
+				133,
+				142,
+				"NORP"
+			],
+			[
+				"Japanese",
+				150,
+				158,
+				"NORP"
+			],
+			[
+				"China",
+				162,
+				167,
+				"LOC"
+			],
+			[
+				"Vaseline",
+				252,
+				260,
+				"PRODUCT"
+			],
+			[
+				"Japanese",
+				374,
+				382,
+				"NORP"
+			],
+			[
+				"Chinese Government",
+				442,
+				460,
+				"GPE"
+			],
+			[
+				"American",
+				565,
+				573,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Such cases as this, involving prosecutions against Chinese infringing or dealing in infringements, are to be carefully distinguished from cases involving such action by persons subject to the jurisdiction of nations (other than the United States) possessing extraterritorial jurisdiction in China.",
+		"entities": [
+			[
+				"Chinese",
+				51,
+				58,
+				"GPE"
+			],
+			[
+				"United States",
+				232,
+				245,
+				"GPE"
+			],
+			[
+				"China",
+				291,
+				296,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In cases of the latter sort, in view of the fact that each extraterritorial court applies to its own nationals a system of law based upon its domestic law, the United States has, by exchanges of notes with various powers and by a treaty with Japan concluded May 19, 1908, agreed to accept registration, in the appropriate office of the nation whose jurisdiction is appealed to, as determining the right to sue for infringements in that nation's extraterritorial courts.",
+		"entities": [
+			[
+				"United States",
+				160,
+				173,
+				"GPE"
+			],
+			[
+				"Japan",
+				242,
+				247,
+				"GPE"
+			],
+			[
+				"May 19, 1908",
+				258,
+				270,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "That rule is one of convenience rather than of principle, designed to furnish the reasonably convenient procedure by which American owners of trade-marks may, for example, protect themselves against infringements by Japanese of their rights in China; the application of that rule is to be confined strictly to the cases for which it is provided, and cannot be construed as establishing, vis-a-vis Japan or any other nation with which we have a similar agreement, that we accept the principle that an absolute property right is created by the mere fact of registration in the appropriate office of the other nation.",
+		"entities": [
+			[
+				"American",
+				123,
+				131,
+				"NORP"
+			],
+			[
+				"Japanese",
+				216,
+				224,
+				"GPE"
+			],
+			[
+				"China",
+				244,
+				249,
+				"LOC"
+			],
+			[
+				"Japan",
+				397,
+				402,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The fundamental error in the position taken by the Japanese Government in the present case seems to lie in the assumption that registration of trade-marks in Japan does not merely constitute a basis for judicial procedure in Japanese domestic or extraterritorial courts, but creates in favor of its nationals an abstract and absolute property right enforceable even under Chinese jurisdiction without regard to the requirements of Chinese law.",
+		"entities": [
+			[
+				"Japanese Government",
+				51,
+				70,
+				"GPE"
+			],
+			[
+				"Japan",
+				158,
+				163,
+				"GPE"
+			],
+			[
+				"Japanese",
+				225,
+				233,
+				"GPE"
+			],
+			[
+				"Chinese",
+				372,
+				379,
+				"GPE"
+			],
+			[
+				"Chinese",
+				431,
+				438,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Legation considers that if this contention were conceded it would render potentially subject to Japanese law and jurisdiction the claim of Japanese subjects to use in China any American trade-mark which they might find it expedient to adopt by registration at home and would effectually annul the only protection for American industrial property rights which now exists in China.",
+		"entities": [
+			[
+				"Legation",
+				4,
+				12,
+				"ORG"
+			],
+			[
+				"Japanese",
+				100,
+				108,
+				"GPE"
+			],
+			[
+				"Japanese",
+				143,
+				151,
+				"NORP"
+			],
+			[
+				"China",
+				171,
+				176,
+				"LOC"
+			],
+			[
+				"American",
+				181,
+				189,
+				"NORP"
+			],
+			[
+				"American",
+				321,
+				329,
+				"NORP"
+			],
+			[
+				"China",
+				377,
+				382,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The Legation is therefore instructing you to refuse to concede the right of your Japanese colleague to oppose any obstacle to the prosecution in the Mixed Court of the Chinese dealing in infringements of a trade-mark to the protection of which the American company is entitled by the Commercial Treaty of 1903.",
+		"entities": [
+			[
+				"Legation",
+				4,
+				12,
+				"ORG"
+			],
+			[
+				"Japanese",
+				81,
+				89,
+				"NORP"
+			],
+			[
+				"Mixed Court",
+				149,
+				160,
+				"ORG"
+			],
+			[
+				"Chinese",
+				168,
+				175,
+				"NORP"
+			],
+			[
+				"American",
+				248,
+				256,
+				"NORP"
+			],
+			[
+				"Commercial Treaty of 1903",
+				284,
+				309,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "You should accordingly withdraw any objections which you have made to the Chesebrough Company's prosecuting this case against the Chinese dealers.",
+		"entities": [
+			[
+				"Chesebrough Company",
+				74,
+				93,
+				"ORG"
+			],
+			[
+				"Chinese",
+				130,
+				137,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "In forwarding to the Department a copy of the present instruction, the Legation is endorsing your recommendation that an effort be made to bring to the attention of American exporters to this market the practical necessity of registering their trade-marks in Japan as a safeguard against infringements originating there.",
+		"entities": [
+			[
+				"Department",
+				21,
+				31,
+				"ORG"
+			],
+			[
+				"Legation",
+				71,
+				79,
+				"ORG"
+			],
+			[
+				"American",
+				165,
+				173,
+				"NORP"
+			],
+			[
+				"Japan",
+				259,
+				264,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I am [etc.]",
+		"entities": []
+	},
+	{
+		"content": "Paul S. Reinsch.']",
+		"entities": [
+			[
+				"Paul S. Reinsch",
+				0,
+				15,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['confidential 61.",
+		"entities": []
+	},
+	{
+		"content": "USUN received following advance copy dated January 12 of a Yugoslav letter to SYG reporting failure of talks between Italy and Yugoslavia on a nominee for Trieste governorship: \"In connection with the decision of the SC of December 18, 1947 recommending that the governments of the Federal Peoples' Republic of Yugoslavia and of Italy reach an agreement by January 5, 1948 on the issue of the person for the governor of the FTT, and on the basis of the communication of the SYG of the UN to the government of the FPRY in letter No. 1204/5/1/DP regarding this decision, the government of the FPRY has the honor to submit to the SC a report on the outcome of its efforts to achieve agreement with the government of Italy on the person for governor of the FTT. \"1.",
+		"entities": [
+			[
+				"USUN",
+				0,
+				4,
+				"ORG"
+			],
+			[
+				"January 12",
+				43,
+				53,
+				"DATE"
+			],
+			[
+				"Yugoslav",
+				59,
+				67,
+				"GPE"
+			],
+			[
+				"SYG",
+				78,
+				81,
+				"PERSON"
+			],
+			[
+				"Italy",
+				117,
+				122,
+				"GPE"
+			],
+			[
+				"Yugoslavia",
+				127,
+				137,
+				"GPE"
+			],
+			[
+				"Trieste",
+				155,
+				162,
+				"GPE"
+			],
+			[
+				"SC",
+				217,
+				219,
+				"ORG"
+			],
+			[
+				"December 18, 1947",
+				223,
+				240,
+				"DATE"
+			],
+			[
+				"Federal Peoples Republic of Yugoslavia",
+				282,
+				321,
+				"GPE"
+			],
+			[
+				"Italy",
+				329,
+				334,
+				"GPE"
+			],
+			[
+				"January 5, 1948",
+				357,
+				372,
+				"DATE"
+			],
+			[
+				"FTT",
+				424,
+				427,
+				"GPE"
+			],
+			[
+				"SYG",
+				474,
+				477,
+				"PERSON"
+			],
+			[
+				"UN",
+				485,
+				487,
+				"ORG"
+			],
+			[
+				"government of the FPRY",
+				495,
+				517,
+				"GPE"
+			],
+			[
+				"government of the FPRY",
+				573,
+				595,
+				"GPE"
+			],
+			[
+				"SC",
+				627,
+				629,
+				"ORG"
+			],
+			[
+				"government of Italy",
+				699,
+				718,
+				"GPE"
+			],
+			[
+				"FTT",
+				753,
+				756,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On December 23, 1947, the government of the FPRY conveyed instructions to its minister in Rome to engage in negotiations with the Italian government on this question. \"2.",
+		"entities": [
+			[
+				"December 23, 1947",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"government of the FPRY",
+				26,
+				48,
+				"GPE"
+			],
+			[
+				"Rome",
+				90,
+				94,
+				"LOC"
+			],
+			[
+				"Italian government",
+				130,
+				148,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On December 24, 1947, the minister of the FPRY in Rome, Mr. Ivekovic, requested an urgent appointment with the Italian Minister of Foreign Affairs, Mr. Sforza.",
+		"entities": [
+			[
+				"December 24, 1947",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"minister of the FPRY",
+				26,
+				46,
+				"TITLE"
+			],
+			[
+				"Rome",
+				50,
+				54,
+				"LOC"
+			],
+			[
+				"Ivekovic",
+				60,
+				68,
+				"PERSON"
+			],
+			[
+				"Italian",
+				111,
+				118,
+				"GPE"
+			],
+			[
+				"Minister of Foreign Affairs",
+				119,
+				146,
+				"TITLE"
+			],
+			[
+				"Sforza",
+				152,
+				158,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mr. Sforza replied that on the question of the FTT, negotiations with our minister would be conducted by Mr. Fransoni, SYG of the Ministry of Foreign Affairs. \"3.",
+		"entities": [
+			[
+				"Sforza",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"FTT",
+				47,
+				50,
+				"GPE"
+			],
+			[
+				"Fransoni",
+				109,
+				117,
+				"PERSON"
+			],
+			[
+				"SYG",
+				119,
+				122,
+				"TITLE"
+			],
+			[
+				"Ministry of Foreign Affairs",
+				130,
+				157,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Only on December 26, 1947 did Mr. Fransoni receive Minister Ivekovic, who, on that occasion, submitted to Mr. Fransoni the list of candidates for governor.",
+		"entities": [
+			[
+				"December 26, 1947",
+				8,
+				25,
+				"DATE"
+			],
+			[
+				"Fransoni",
+				34,
+				42,
+				"PERSON"
+			],
+			[
+				"Minister Ivekovic",
+				51,
+				68,
+				"PERSON"
+			],
+			[
+				"Fransoni",
+				110,
+				118,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The government of the FPRY proposed the following candidates: Emil Stang, President of the Supreme Court of Norway; Bohuslav Ecer, General Chairman of Czech delegation to the International Military Tribunal at Nuremberg; Georg Branting, Swedish senator.",
+		"entities": [
+			[
+				"government of the FPRY",
+				22,
+				26,
+				"GPE"
+			],
+			[
+				"Emil Stang",
+				62,
+				72,
+				"PERSON"
+			],
+			[
+				"President of the Supreme Court",
+				74,
+				104,
+				"TITLE"
+			],
+			[
+				"Norway",
+				108,
+				114,
+				"GPE"
+			],
+			[
+				"Bohuslav Ecer",
+				116,
+				129,
+				"PERSON"
+			],
+			[
+				"General Chairman of Czech delegation",
+				131,
+				167,
+				"TITLE"
+			],
+			[
+				"International Military Tribunal",
+				175,
+				206,
+				"ORG"
+			],
+			[
+				"Nuremberg",
+				210,
+				219,
+				"LOC"
+			],
+			[
+				"Georg Branting",
+				221,
+				235,
+				"PERSON"
+			],
+			[
+				"Swedish senator",
+				237,
+				252,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Fransoni did not submit any list of candidates and declared that the Italian government as yet did not have one as the suggestion of the SC came to the Italian government quite unexpectedly.",
+		"entities": [
+			[
+				"Fransoni",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Italian government",
+				73,
+				91,
+				"GPE"
+			],
+			[
+				"SC",
+				141,
+				143,
+				"ORG"
+			],
+			[
+				"Italian government",
+				156,
+				174,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Minister Ivekovic expressed his bewilderment at the fact that the suggestion of the SC could come unexpectedly for the Italian government in view of the fact that on October 25, 1947, the representative of France in the SC already had proposed that the FPRY and Italy agree on the question of electing a governor of Trieste, which proposal was afterwards accepted by the permanent members of the SC.",
+		"entities": [
+			[
+				"Minister Ivekovic",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"SC",
+				84,
+				86,
+				"ORG"
+			],
+			[
+				"Italian government",
+				119,
+				137,
+				"GPE"
+			],
+			[
+				"October 25, 1947",
+				166,
+				182,
+				"DATE"
+			],
+			[
+				"France",
+				206,
+				212,
+				"GPE"
+			],
+			[
+				"SC",
+				220,
+				222,
+				"ORG"
+			],
+			[
+				"FPRY",
+				253,
+				257,
+				"GPE"
+			],
+			[
+				"Italy",
+				262,
+				267,
+				"GPE"
+			],
+			[
+				"Trieste",
+				316,
+				323,
+				"GPE"
+			],
+			[
+				"SC",
+				396,
+				398,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Minister Ivekovic asked for the quickest possible reply to the Yugoslav list of candidates, respectively, for a counterproposal of the Italian government. \"",
+		"entities": [
+			[
+				"Minister Ivekovic",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"Yugoslav",
+				63,
+				71,
+				"GPE"
+			],
+			[
+				"Italian government",
+				135,
+				153,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "Not until the morning of December 31, 1947, did the SYG, Mr. Fransoni, invite Mr. Ivekovic to a discussion.",
+		"entities": [
+			[
+				"December 31, 1947",
+				25,
+				42,
+				"DATE"
+			],
+			[
+				"SYG",
+				52,
+				55,
+				"PERSON"
+			],
+			[
+				"Fransoni",
+				61,
+				69,
+				"PERSON"
+			],
+			[
+				"Ivekovic",
+				82,
+				90,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He apprised him of the opinion of the Italian government, i.e. that it would be necessary to choose a candidate for governor from a neutral country, concretely from Switzerland, because it is difficult for Italy to accept a candidate who is a citizen of a country with which it had been at war.",
+		"entities": [
+			[
+				"Italian government",
+				38,
+				56,
+				"GPE"
+			],
+			[
+				"Switzerland",
+				165,
+				176,
+				"GPE"
+			],
+			[
+				"Italy",
+				206,
+				211,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "For this reason the Italian government rejected all three candidates of the FPRY.",
+		"entities": [
+			[
+				"Italian government",
+				20,
+				38,
+				"GPE"
+			],
+			[
+				"FPRY",
+				76,
+				80,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Minister Ivekovic could not accept the point of view of the Italian government as this would mean virtually excluding from responsible functions citizenry of all countries which are members of the UN, and would be to the advantage of countries which stood passively aside in the anti-Fascist war of liberation, respectively, which, through their passivity, even served the forces of the Axis; and, further, it would mean the identification of present Italy with Fascist Italy.",
+		"entities": [
+			[
+				"Minister Ivekovic",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"Italian government",
+				60,
+				78,
+				"GPE"
+			],
+			[
+				"UN",
+				197,
+				199,
+				"ORG"
+			],
+			[
+				"Axis",
+				387,
+				391,
+				"ORG"
+			],
+			[
+				"Italy",
+				451,
+				456,
+				"GPE"
+			],
+			[
+				"Fascist Italy",
+				462,
+				475,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Besides, this reason as such does not apply to two of the three candidates proposed by the FPRY.",
+		"entities": [
+			[
+				"FPRY",
+				91,
+				95,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "One of them is Swedish, and Sweden was an entirely neutral country, and the second is a Norwegian, and Norway was not at war at all with Italy, and the exclusion of such a candidate for reason of his citizenship would infer that the Italian government considers it necessary to exclude all countries against which Germany perpetrated aggression, even though Fascist Italy was not at war with them.",
+		"entities": [
+			[
+				"Swedish",
+				15,
+				22,
+				"NORP"
+			],
+			[
+				"Sweden",
+				28,
+				34,
+				"GPE"
+			],
+			[
+				"Norwegian",
+				88,
+				97,
+				"NORP"
+			],
+			[
+				"Norway",
+				103,
+				109,
+				"GPE"
+			],
+			[
+				"Italy",
+				137,
+				142,
+				"GPE"
+			],
+			[
+				"Italian government",
+				233,
+				251,
+				"GPE"
+			],
+			[
+				"Germany",
+				314,
+				321,
+				"GPE"
+			],
+			[
+				"Fascist Italy",
+				358,
+				371,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Fransoni declared that only in the afternoon, after a discussion with Mr. Sforza, could he communicate the names of the Italian government candidates. \"5.",
+		"entities": [
+			[
+				"Fransoni",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Sforza",
+				78,
+				84,
+				"PERSON"
+			],
+			[
+				"Italian government",
+				124,
+				142,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In the afternoon of December 31, 1947, Mr. Fransoni communicated the names of these candidates, namely, Henri Guisan, Swiss general, and Walter Stucki, Swiss diplomat. \"",
+		"entities": [
+			[
+				"December 31, 1947",
+				20,
+				37,
+				"DATE"
+			],
+			[
+				"Fransoni",
+				43,
+				51,
+				"PERSON"
+			],
+			[
+				"Henri Guisan",
+				104,
+				116,
+				"PERSON"
+			],
+			[
+				"Swiss general",
+				118,
+				131,
+				"TITLE"
+			],
+			[
+				"Walter Stucki",
+				137,
+				150,
+				"PERSON"
+			],
+			[
+				"Swiss diplomat",
+				152,
+				166,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "On December 31, 1947, the government of the FPRY issued instructions to Minister Ivekovic to reject these candidates.",
+		"entities": [
+			[
+				"December 31, 1947",
+				3,
+				20,
+				"DATE"
+			],
+			[
+				"government of the FPRY",
+				26,
+				48,
+				"GPE"
+			],
+			[
+				"Minister Ivekovic",
+				72,
+				89,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Their choice indicated that the Italian government did not seriously intend to reach agreement with the government of the FPRY on the question of the person for governor, both candidates having already once refused such candidacy, i.e. General Guisan in April 1947 and Mr. Stucki in September 1947.",
+		"entities": [
+			[
+				"Italian government",
+				32,
+				50,
+				"GPE"
+			],
+			[
+				"government of the FPRY",
+				104,
+				126,
+				"GPE"
+			],
+			[
+				"General Guisan",
+				236,
+				250,
+				"PERSON"
+			],
+			[
+				"April 1947",
+				254,
+				264,
+				"DATE"
+			],
+			[
+				"Stucki",
+				273,
+				279,
+				"PERSON"
+			],
+			[
+				"September 1947",
+				283,
+				297,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The government of the FPRY made still another effort and submitted as candidates Mr. Maurice Dejean, French Ambassador in Prague, and Mr. Pablo de Azcarate, ex-Ambassador of the Spanish Republic in London, who was proposed as a candidate by the French government as well. \"7.",
+		"entities": [
+			[
+				"government of the FPRY",
+				4,
+				26,
+				"GPE"
+			],
+			[
+				"Maurice Dejean",
+				85,
+				99,
+				"PERSON"
+			],
+			[
+				"French Ambassador",
+				101,
+				118,
+				"TITLE"
+			],
+			[
+				"Prague",
+				122,
+				128,
+				"LOC"
+			],
+			[
+				"Pablo de Azcarate",
+				138,
+				155,
+				"PERSON"
+			],
+			[
+				"ex-Ambassador of the Spanish Republic",
+				157,
+				194,
+				"TITLE"
+			],
+			[
+				"London",
+				198,
+				204,
+				"LOC"
+			],
+			[
+				"French government",
+				245,
+				262,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On January 3, 1948, Minister Ivekovic transmitted the above mentioned proposal of the government of the FPRY to the Italian government. \"8.",
+		"entities": [
+			[
+				"January 3, 1948",
+				3,
+				18,
+				"DATE"
+			],
+			[
+				"Minister Ivekovic",
+				20,
+				37,
+				"PERSON"
+			],
+			[
+				"government of the FPRY",
+				86,
+				108,
+				"GPE"
+			],
+			[
+				"Italian government",
+				116,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "On January 5, 1948, Mr. Fransoni informed Minister Ivekovic that the Italian government had refused the new Yugoslav proposal as well, and that it was proposing new candidates of its own, i.e. Mr. Paul Ruegger, Swiss diplomat, and Mr. Leif Egeland, South African diplomat.",
+		"entities": [
+			[
+				"January 5, 1948",
+				3,
+				18,
+				"DATE"
+			],
+			[
+				"Fransoni",
+				24,
+				32,
+				"PERSON"
+			],
+			[
+				"Minister Ivekovic",
+				42,
+				59,
+				"PERSON"
+			],
+			[
+				"Italian government",
+				69,
+				87,
+				"GPE"
+			],
+			[
+				"Yugoslav",
+				108,
+				116,
+				"GPE"
+			],
+			[
+				"Paul Ruegger",
+				197,
+				209,
+				"PERSON"
+			],
+			[
+				"Swiss",
+				211,
+				216,
+				"GPE"
+			],
+			[
+				"Leif Egeland",
+				235,
+				247,
+				"PERSON"
+			],
+			[
+				"South African",
+				249,
+				262,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Fransoni did not offer any reasons for rejecting the candidates of the government of the FPRY but that the Italian government considered its candidates would better respond to the functions of governor.",
+		"entities": [
+			[
+				"Fransoni",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"government of the FPRY",
+				75,
+				97,
+				"GPE"
+			],
+			[
+				"Italian government",
+				111,
+				118,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"The government of the FPRY is convinced that it must have been clear in advance to the Italian government that the candidates submitted in this proposal would also be unacceptable for the government of the FPRY and it can only interpret the entire manner of procedure of the Italian government as revealing a complete lack of desire for agreement on the person for governor, while the act of proposing candidates serves only as a formality to avoid responsibility for the failure of the negotiations.",
+		"entities": [
+			[
+				"government of the FPRY",
+				5,
+				27,
+				"GPE"
+			],
+			[
+				"Italian government",
+				88,
+				106,
+				"GPE"
+			],
+			[
+				"government of the FPRY",
+				189,
+				211,
+				"GPE"
+			],
+			[
+				"Italian government",
+				276,
+				294,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"The government of the FPRY therefore believes that all further efforts towards a mutual selection of the person for governor would be futile and that further negotiations with the Italian government on this question would only delay the appointment of governor, an appointment which is urgent and necessary in the interest of the FTT and for the protection of world peace.",
+		"entities": [
+			[
+				"government of the FPRY",
+				5,
+				27,
+				"GPE"
+			],
+			[
+				"Italian government",
+				181,
+				199,
+				"GPE"
+			],
+			[
+				"FTT",
+				331,
+				334,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"",
+		"entities": []
+	},
+	{
+		"content": "The government of the FPRY takes this opportunity to express its deep respect to the SC of the UN.",
+		"entities": [
+			[
+				"government of the FPRY",
+				4,
+				26,
+				"GPE"
+			],
+			[
+				"SC",
+				85,
+				87,
+				"ORG"
+			],
+			[
+				"UN",
+				95,
+				97,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "\" Austin']",
+		"entities": [
+			[
+				"Austin",
+				2,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['2291.",
+		"entities": []
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "The Clark Clifford Visit: A Success in Jeopardy.",
+		"entities": [
+			[
+				"Clark Clifford",
+				4,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "1.",
+		"entities": []
+	},
+	{
+		"content": "In my judgment Clark Clifford's visit here represented a big plus for America.",
+		"entities": [
+			[
+				"Clark Clifford",
+				15,
+				29,
+				"PERSON"
+			],
+			[
+				"America",
+				70,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "His personality and presence conveyed with eloquence and conviction both the President's personal interest in India and the grave danger that we perceive in the Soviets' takeover of Afghanistan.",
+		"entities": [
+			[
+				"President",
+				77,
+				86,
+				"PERSON"
+			],
+			[
+				"India",
+				110,
+				115,
+				"GPE"
+			],
+			[
+				"Soviets",
+				161,
+				168,
+				"GPE"
+			],
+			[
+				"Afghanistan",
+				182,
+				193,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "He could not have represented us better.",
+		"entities": []
+	},
+	{
+		"content": "The tone and manner of the GOI's response, especially in the case of the Prime Minister herself, reflected their appreciation of his stature as an \"elder statesman\" and close advisor of the President.",
+		"entities": [
+			[
+				"GOI",
+				27,
+				30,
+				"GPE"
+			],
+			[
+				"Prime Minister",
+				73,
+				87,
+				"PERSON"
+			],
+			[
+				"President",
+				190,
+				199,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The easy candor and lack of rancor with which differences were aired also were designed to signal, I feel sure, a calculated decision to maintain open lines of communication with us and to show that India's long-term friendship with the Soviet Union does not preclude--indeed, is counter-balanced by--a desire to have minimally abrasive relations with the U.S. if possible.",
+		"entities": [
+			[
+				"India",
+				199,
+				204,
+				"GPE"
+			],
+			[
+				"Soviet Union",
+				237,
+				249,
+				"GPE"
+			],
+			[
+				"U.S.",
+				356,
+				360,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "I must also, however, report considerable distress here at the extent to which Mr. Clifford's credibility (and also mine) is being undercut by some of the news related to the Christopher-Brezinski mission to Islamabad.",
+		"entities": [
+			[
+				"Clifford",
+				83,
+				91,
+				"PERSON"
+			],
+			[
+				"Christopher-Brezinski",
+				175,
+				196,
+				"PERSON"
+			],
+			[
+				"Islamabad",
+				208,
+				217,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The press has got the news that the U.S. team has been trying to put together a $2 billion package of arms for Pakistan.",
+		"entities": [
+			[
+				"U.S.",
+				36,
+				40,
+				"GPE"
+			],
+			[
+				"Pakistan",
+				111,
+				119,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "While we have refused to confirm this and tried to brush the report off, it figured prominently in the Lok Sabha debate yesterday.",
+		"entities": [
+			[
+				"Lok Sabha",
+				103,
+				112,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Any U.S.-engineered arms package for Pakistan approaching these dimensions would of course conflict sharply with Clark Clifford's instructions to emphasize to the GOI the limited and non-threatening nature and amount of arms that the U.S. has had in mind for Pakistan.",
+		"entities": [
+			[
+				"U.S.",
+				4,
+				8,
+				"GPE"
+			],
+			[
+				"Pakistan",
+				37,
+				45,
+				"GPE"
+			],
+			[
+				"Clark Clifford",
+				113,
+				127,
+				"PERSON"
+			],
+			[
+				"GOI",
+				163,
+				166,
+				"GPE"
+			],
+			[
+				"U.S.",
+				234,
+				238,
+				"GPE"
+			],
+			[
+				"Pakistan",
+				259,
+				267,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Mr. Clifford's credibility with the Indians will be further threatened by the Gwertzman article in the New York Times to the effect that the U.S. intends to enter a long-term military support relationship with Pakistan.",
+		"entities": [
+			[
+				"Clifford",
+				4,
+				12,
+				"PERSON"
+			],
+			[
+				"Indians",
+				36,
+				43,
+				"GPE"
+			],
+			[
+				"Gwertzman",
+				78,
+				87,
+				"PERSON"
+			],
+			[
+				"New York Times",
+				103,
+				117,
+				"ORG"
+			],
+			[
+				"U.S.",
+				141,
+				145,
+				"GPE"
+			],
+			[
+				"Pakistan",
+				210,
+				218,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "The sooner we can clarify to the GOI our actual intent as to the amount and duration of the U.S. and/or U.S.-sponsored arms commitment to Pakistan, the better our chances of limiting the damage to our credibility in New Delhi and protecting the favorable impact of the Clark Clifford mission.",
+		"entities": [
+			[
+				"GOI",
+				33,
+				36,
+				"GPE"
+			],
+			[
+				"U.S.",
+				92,
+				96,
+				"GPE"
+			],
+			[
+				"U.S.-sponsored",
+				104,
+				118,
+				"NORP"
+			],
+			[
+				"Pakistan",
+				138,
+				146,
+				"GPE"
+			],
+			[
+				"New Delhi",
+				216,
+				225,
+				"GPE"
+			],
+			[
+				"Clark Clifford",
+				269,
+				283,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Goheen']",
+		"entities": [
+			[
+				"Goheen",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	}
+]

@@ -1,0 +1,4162 @@
+[
+	{
+		"content": "[' P CENTRAL INTELLIGENCE AGENCY",
+		"entities": [
+			[
+				"CENTRAL INTELLIGENCE AGENCY",
+				5,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THE PRESIDENTS DAILY BRIEF 2 OCTOBER 1965",
+		"entities": [
+			[
+				"THE PRESIDENTS DAILY BRIEF",
+				0,
+				26,
+				"WORK_OF_ART"
+			],
+			[
+				"2 OCTOBER 1965",
+				27,
+				41,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "TOP SEGREL 23 Ager THAILAND REN ISLANDS’, ra SIBERUT 4",
+		"entities": [
+			[
+				"THAILAND",
+				19,
+				27,
+				"GPE"
+			],
+			[
+				"REN ISLANDS",
+				28,
+				39,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "JANGKA fh Eada a INDtaln fegsanra/ A a sfc Brunk je “CHRISTMAS ISLAND (Australia) SA ky VI 1 SOUTH CHINA SEA 7 19 Jesseiton BRUNEI BRUNEL we.",
+		"entities": [
+			[
+				"CHRISTMAS ISLAND",
+				53,
+				69,
+				"NORP"
+			],
+			[
+				"Australia",
+				71,
+				80,
+				"LOC"
+			],
+			[
+				"SOUTH CHINA SEA",
+				93,
+				108,
+				"LOC"
+			],
+			[
+				"BRUNEI",
+				124,
+				130,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "KI J fy L sKudhing ll ee JA va SE AS cre ys oma ood lar ame S$ ER su a, Nh ®Malang x 106 i tianak BOR yo?",
+		"entities": []
+	},
+	{
+		"content": "XII of Vil y LOMBOK rc marindae, XI a prey",
+		"entities": []
+	},
+	{
+		"content": "So SLANODS Malang 2",
+		"entities": []
+	},
+	{
+		"content": "<-Denpasar",
+		"entities": []
+	},
+	{
+		"content": "LA oboe #2 SSS tet SUMBAWA XVI Ue TILIAPLNES.,",
+		"entities": []
+	},
+	{
+		"content": "e y te po a SEA sy",
+		"entities": []
+	},
+	{
+		"content": "oH [ce cedes ‘NN XV r BANDA SEA WDA ISLANDS (went <I me?",
+		"entities": [
+			[
+				"BANDA SEA",
+				22,
+				31,
+				"LOC"
+			],
+			[
+				"WDA ISLANDS",
+				32,
+				43,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "“er Ny fn a Tipore GAS jUindiiggsio teens aE de Dikkes “Oo Lacs »XORTFUGUESE TIMOR 149 _ INDONESIA Komada (inter-regional command) boundary",
+		"entities": [
+			[
+				"TIMOR",
+				77,
+				82,
+				"LOC"
+			],
+			[
+				"INDONESIA",
+				89,
+				98,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Kodam (military area.",
+		"entities": []
+	},
+	{
+		"content": "command) boundary Area command headquarters 200 400 Miles 200 400 Kilomeiers Region command headquarters MEPULAUAN (Te.",
+		"entities": []
+	},
+	{
+		"content": "Terr, af ARU o eS ‘TERR.",
+		"entities": []
+	},
+	{
+		"content": "OF NEWIGUINEA st.) 42066 DAILY BRIEF 2 OCTOBER 1965 1.",
+		"entities": [
+			[
+				"NEWIGUINEA",
+				3,
+				13,
+				"GPE"
+			],
+			[
+				"DAILY BRIEF",
+				25,
+				36,
+				"WORK_OF_ART"
+			],
+			[
+				"2 OCTOBER 1965",
+				37,
+				51,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Indonesia 2, Dominican Republic _",
+		"entities": [
+			[
+				"Indonesia",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"Dominican Republic",
+				13,
+				31,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Sukarno's whereabouts and status are Still unclear.",
+		"entities": [
+			[
+				"Sukarno",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The countercoup forces of General Suharto have continued to maintain the initiative and Djakarta is relatively calm, Suharto reportedly has the army's largest division, the navy, marines and police on his side.",
+		"entities": [
+			[
+				"General Suharto",
+				26,
+				41,
+				"PERSON"
+			],
+			[
+				"Djakarta",
+				88,
+				96,
+				"LOC"
+			],
+			[
+				"Suharto",
+				117,
+				124,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "The air force, under Marshal Dani, is apparently still supporting Col. Untung and the other original plotters.",
+		"entities": [
+			[
+				"Marshal Dani",
+				21,
+				33,
+				"PERSON"
+			],
+			[
+				"Col. Untung",
+				66,
+				77,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No air actions have been noted, however.",
+		"entities": []
+	},
+	{
+		"content": "One report claims that Untung and Dani have fled the capital for Central Java, Elements of an army division in the latter area have come out for Untung.",
+		"entities": [
+			[
+				"Untung",
+				23,
+				29,
+				"PERSON"
+			],
+			[
+				"Dani",
+				34,
+				38,
+				"PERSON"
+			],
+			[
+				"Central Java",
+				65,
+				77,
+				"LOC"
+			],
+			[
+				"Untung",
+				145,
+				151,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Suharto, however, has apparently sent troops from Djakarta to deal with the problem, The Indonesian Communist Party has put itself clearly on the side of the first plotters.",
+		"entities": [
+			[
+				"Suharto",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Djakarta",
+				58,
+				58,
+				"LOC"
+			],
+			[
+				"Indonesian Communist Party",
+				89,
+				115,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The US consul in Medan reports that army officers there are preparing a Communist \"clean up\" operation.",
+		"entities": [
+			[
+				"US consul",
+				4,
+				13,
+				"PERSON"
+			],
+			[
+				"Medan",
+				17,
+				22,
+				"LOC"
+			],
+			[
+				"Communist",
+				72,
+				81,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Outside Communist reaction is still Slight.",
+		"entities": [
+			[
+				"Communist",
+				8,
+				17,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "So far, only Moscow newspapers are reporting the Indonesian story and their articles are copies of US and French dispatches.",
+		"entities": [
+			[
+				"Moscow",
+				13,
+				19,
+				"NORP"
+			],
+			[
+				"Indonesian",
+				49,
+				59,
+				"GPE"
+			],
+			[
+				"US",
+				99,
+				101,
+				"GPE"
+			],
+			[
+				"French",
+				106,
+				112,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(Map) SOX1 The first reintegration of rebel military personnel took place yesterday.",
+		"entities": []
+	},
+	{
+		"content": "Seven officers returned to their old units, It is now hoped that between 10 and 20 reintegration cases can be handled daily.",
+		"entities": []
+	},
+	{
+		"content": "The provisional government has still received only token quantities of rebel arms, 3, Vietnam The North Vietnamese are moving ahead with a program to vitalize their air defenses.",
+		"entities": [
+			[
+				"Vietnam",
+				86,
+				93,
+				"GPE"
+			],
+			[
+				"North Vietnamese",
+				98,
+				114,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "So far, Hanoi has used its fighter force very sparingly in combat.",
+		"entities": [
+			[
+				"Hanoi",
+				8,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "South Vietnam is relatively calm.",
+		"entities": [
+			[
+				"South Vietnam",
+				0,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The government has withdrawn eight of the ten battalions committed to a search operation southwest of Saigon after the Viet Cong broke off contact.",
+		"entities": [
+			[
+				"Saigon",
+				102,
+				108,
+				"LOC"
+			],
+			[
+				"Viet Cong",
+				119,
+				128,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "No major fighting was reported elsewhere. 4, Bolivia ‘Mine leaders have demanded that the government withdraw its troops from the mines and restore the pre-May wage scales.",
+		"entities": [
+			[
+				"Bolivia",
+				45,
+				52,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Bolivia, at this point, is quiet, but there may be more violence if a quick compromise is not reached, 5.",
+		"entities": [
+			[
+				"Bolivia",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ecuador ‘There may be a new round of outbreaks in Guayaquil.",
+		"entities": [
+			[
+				"Ecuador",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"Guayaquil",
+				50,
+				59,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "[a number of dissident elements are planning terrorist activities during the October holidays which begin next week.",
+		"entities": [
+			[
+				"October",
+				77,
+				84,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "INDIA- PAKISTAN ORDER OF BATTLE 5 2 fon 0)",
+		"entities": [
+			[
+				"INDIA- PAKISTAN",
+				0,
+				15,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "K Bro Poonch “8R W ALPINDI",
+		"entities": []
+	},
+	{
+		"content": "Pathankot Pakistan’s forces number 67.000 in the Kashmir area and 64,000 opposite northwest India, Indian forces number 100,000 in Kashmir hs mbala INDIA PAKISTAN a Infantry division Infantry brigade Armored division el. ra 25 25 SI) Armored brigade S] mes ME Approximate territory ia (Aporon. 60 Miles) occupied on 22 Sept 49024 6.",
+		"entities": [
+			[
+				"Pathankot",
+				0,
+				9,
+				"LOC"
+			],
+			[
+				"Pakistan",
+				10,
+				18,
+				"GPE"
+			],
+			[
+				"Kashmir",
+				49,
+				56,
+				"LOC"
+			],
+			[
+				"India",
+				92,
+				97,
+				"LOC"
+			],
+			[
+				"Indian",
+				99,
+				105,
+				"GPE"
+			],
+			[
+				"Kashmir",
+				131,
+				138,
+				"LOC"
+			],
+			[
+				"INDIA",
+				148,
+				153,
+				"GPE"
+			],
+			[
+				"PAKISTAN",
+				154,
+				162,
+				"GPE"
+			],
+			[
+				"22 Sept",
+				316,
+				323,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "India=Pakistan Karachi radio continues to report heavy fighting in the Chhamb area, The Pakistani representative to the United Nations alleges that Indian troops in brigade strength began the attack on 30 September.",
+		"entities": [
+			[
+				"India=Pakistan",
+				0,
+				14,
+				"GPE"
+			],
+			[
+				"Karachi",
+				15,
+				22,
+				"NORP"
+			],
+			[
+				"Chhamb",
+				71,
+				77,
+				"LOC"
+			],
+			[
+				"Pakistani",
+				88,
+				97,
+				"GPE"
+			],
+			[
+				"United Nations",
+				120,
+				134,
+				"ORG"
+			],
+			[
+				"Indian",
+				148,
+				154,
+				"NORP"
+			],
+			[
+				"30 September",
+				202,
+				214,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "An Indian official has confirmed that there is fighting in the region, but he could provide no details.",
+		"entities": [
+			[
+				"Indian",
+				3,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The US Embassy in New Delhi believes that the United Nations Observer Mission is still wobbly and ineffective.",
+		"entities": [
+			[
+				"US Embassy",
+				4,
+				14,
+				"ORG"
+			],
+			[
+				"New Delhi",
+				18,
+				27,
+				"LOC"
+			],
+			[
+				"United Nations Observer Mission",
+				46,
+				77,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "There is a pressing need for firm on-the-spot UN leadership since Indian officials are said to be poorly informed and baffled as to how to proceed.",
+		"entities": [
+			[
+				"UN",
+				46,
+				48,
+				"ORG"
+			],
+			[
+				"Indian",
+				66,
+				72,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Bunche at the UN has reported that U Thant ordered the slowdown on the recruitment of observer groups as a result of Soviet and French pressure.",
+		"entities": [
+			[
+				"Bunche",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"UN",
+				14,
+				16,
+				"ORG"
+			],
+			[
+				"U Thant",
+				35,
+				42,
+				"PERSON"
+			],
+			[
+				"Soviet",
+				117,
+				123,
+				"GPE"
+			],
+			[
+				"French",
+				128,
+				134,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Ayub, in his monthly.speech to the country yesterday, reemphasized the necessity for a permanent Kashmir settlement, but did not mention a plebiscite or press for a specific solution.",
+		"entities": [
+			[
+				"Ayub",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Kashmir",
+				97,
+				104,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "(Map) TOP SECRET TOP SECRET o au a. ']",
+		"entities": []
+	},
+	{
+		"content": "['wt eoecrennm eminence were _— woe we THE PRESIDENT’S _ INTELLIGENCE CHECKLIST ISSUED BY THE CENTRAL INTELLIGENCE AGENCY 3 DECEMBER 1962 csp",
+		"entities": [
+			[
+				"THE PRESIDENT’S _ INTELLIGENCE CHECKLIST",
+				39,
+				79,
+				"WORK_OF_ART"
+			],
+			[
+				"CENTRAL INTELLIGENCE AGENCY",
+				94,
+				121,
+				"ORG"
+			],
+			[
+				"3 DECEMBER 1962",
+				122,
+				137,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "ee ss",
+		"entities": []
+	},
+	{
+		"content": "i i si se ees",
+		"entities": []
+	},
+	{
+		"content": "i ee es i se ee ie ee —i 1.",
+		"entities": []
+	},
+	{
+		"content": "India-China a.",
+		"entities": [
+			[
+				"India-China",
+				0,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Chinese pullback from the battle line gives evidence of being a piece-meal and selective movement.",
+		"entities": [
+			[
+				"Chinese",
+				4,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "b, Some withdrawals seem to have taken place at the eastern end of the NEFA, but further west, Peiping has given notice--by naming the town as the site for a release of _ Indian prisoners--that it will still hold Bomdila at least through Wednesday.",
+		"entities": [
+			[
+				"NEFA",
+				71,
+				75,
+				"LOC"
+			],
+			[
+				"Peiping",
+				95,
+				102,
+				"LOC"
+			],
+			[
+				"Indian",
+				171,
+				177,
+				"NORP"
+			],
+			[
+				"Bomdila",
+				213,
+				220,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Bomdila is some 50 miles south of the McMahon line.",
+		"entities": [
+			[
+				"Bomdila",
+				0,
+				7,
+				"LOC"
+			],
+			[
+				"McMahon line",
+				38,
+				50,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Cc.",
+		"entities": []
+	},
+	{
+		"content": "There is no word of Chinese moves in the Ladakh area.",
+		"entities": [
+			[
+				"Chinese",
+				20,
+				27,
+				"GPE"
+			],
+			[
+				"Ladakh",
+				41,
+				47,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "d. Nehru, addressing the Indian parliament this morning, would allow only that there may have been some thinning out in the Chinese advance units but no definite withdrawals.",
+		"entities": [
+			[
+				"Nehru",
+				3,
+				8,
+				"PERSON"
+			],
+			[
+				"Indian parliament",
+				25,
+				42,
+				"ORG"
+			],
+			[
+				"Chinese",
+				124,
+				131,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "India-Pakistan New Delhi has no inten-— tion of giving away or partitioning Kashmir in negotiations with Paki-. stan.",
+		"entities": [
+			[
+				"India-Pakistan",
+				0,
+				14,
+				"GPE"
+			],
+			[
+				"New Delhi",
+				15,
+				24,
+				"GPE"
+			],
+			[
+				"Kashmir",
+				76,
+				83,
+				"LOC"
+			],
+			[
+				"Paki-. stan",
+				105,
+				116,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(Cont 'd) Ca.",
+		"entities": []
+	},
+	{
+		"content": "Tha Dowast dina M.! 3, aa es SS ee",
+		"entities": []
+	},
+	{
+		"content": "Oe Os es SS Oe SS ee ee 3 Cuba First readout from yes terday's aerial photography indicates that all of the IL-28s are gone from San Julian airfield and that there are several fuselages and crates at Mariel port, b. Barracks construction was going ahead as late as 29 November at the camp site of one of the four Soviet armored groups.",
+		"entities": [
+			[
+				"Cuba",
+				26,
+				30,
+				"GPE"
+			],
+			[
+				"IL-28s",
+				108,
+				114,
+				"PRODUCT"
+			],
+			[
+				"San Julian",
+				129,
+				139,
+				"LOC"
+			],
+			[
+				"Mariel",
+				200,
+				206,
+				"LOC"
+			],
+			[
+				"29 November",
+				265,
+				276,
+				"DATE"
+			],
+			[
+				"Soviet",
+				313,
+				319,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "c.",
+		"entities": []
+	},
+	{
+		"content": "A note of Cuban grievance against Moscow comes through in an. interview which \"Che\" Guevara gave the London Daily Worker last week.",
+		"entities": [
+			[
+				"Cuban",
+				10,
+				15,
+				"GPE"
+			],
+			[
+				"Moscow",
+				34,
+				40,
+				"GPE"
+			],
+			[
+				"\"Che\" Guevara",
+				78,
+				91,
+				"PERSON"
+			],
+			[
+				"London Daily Worker",
+				101,
+				120,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "He questioned whether removal of the Soviet missiles meant",
+		"entities": [
+			[
+				"Soviet",
+				37,
+				43,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "that \"peace has (Cont'd) Far The Pracidant Onlu o0X1 S0X1 S0X1 GS FS S> Ba 2c 2 fa Fa fa Fa a} 4, Laos been assured, But the missiles are gone \"so we shali.",
+		"entities": [
+			[
+				"Laos",
+				98,
+				102,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "fight with what we've got.\"",
+		"entities": []
+	},
+	{
+		"content": "Cuba's best weapon, he suggested, is \"the armed struggle already taking place in a number of Latin American countries.",
+		"entities": [
+			[
+				"Cuba",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"Latin American",
+				93,
+				107,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "He cited Venezuela, Guatemala, Paraguay and Colombia in particular.",
+		"entities": [
+			[
+				"Venezuela",
+				9,
+				18,
+				"GPE"
+			],
+			[
+				"Guatemala",
+				20,
+				29,
+				"GPE"
+			],
+			[
+				"Paraguay",
+				31,
+				39,
+				"GPE"
+			],
+			[
+				"Colombia",
+				44,
+				52,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "d.",
+		"entities": []
+	},
+	{
+		"content": "A Radio Moscow man at the UN is quoted as saying that Mikoyan, in a meeting with Soviet correspondents when he was there, told them \"he had a tough time in Cuba,\" but that Moscow had achieved its main objective: maintaining a Communist regime in the Western Hemisphere.",
+		"entities": [
+			[
+				"Radio Moscow",
+				2,
+				14,
+				"ORG"
+			],
+			[
+				"UN",
+				26,
+				28,
+				"ORG"
+			],
+			[
+				"Mikoyan",
+				54,
+				61,
+				"PERSON"
+			],
+			[
+				"Soviet",
+				81,
+				87,
+				"NORP"
+			],
+			[
+				"Cuba",
+				156,
+				160,
+				"LOC"
+			],
+			[
+				"Moscow",
+				172,
+				178,
+				"GPE"
+			],
+			[
+				"Communist",
+				226,
+				235,
+				"NORP"
+			],
+			[
+				"Western Hemisphere",
+				250,
+				268,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "a. Souvanna, describing conditions in the Plaine des Jarres as quiet but Still tense, is holding to the view that the shoot-down of the US transport was _ the work of the Pathet Lao, even though they found neutralist renegades to do the job.",
+		"entities": [
+			[
+				"Souvanna",
+				3,
+				11,
+				"PERSON"
+			],
+			[
+				"Plaine des Jarres",
+				42,
+				59,
+				"LOC"
+			],
+			[
+				"US",
+				136,
+				138,
+				"GPE"
+			],
+			[
+				"Pathet Lao",
+				171,
+				181,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "5OX1 (Cont'd) ee ee ee",
+		"entities": []
+	},
+	{
+		"content": "ee ee ee ee eee Dominican Republic Souvanna reveals that the.",
+		"entities": [
+			[
+				"Dominican Republic",
+				16,
+				34,
+				"GPE"
+			],
+			[
+				"Souvanna",
+				35,
+				43,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Pathet Lao are already fudging on the military integration agreement signed last Tuesday, insisting that demoblization must come before integration, d.",
+		"entities": [
+			[
+				"Pathet Lao",
+				0,
+				10,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Six of the nine Soviet transport aircraft promised the Laotian government flew into Vientiane on Sunday...",
+		"entities": [
+			[
+				"Soviet",
+				16,
+				22,
+				"GPE"
+			],
+			[
+				"Laotian government",
+				55,
+				73,
+				"GPE"
+			],
+			[
+				"Vientiane",
+				84,
+				93,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "e. Phoumi has ieft Moscow for Peiping and Hanoi.",
+		"entities": [
+			[
+				"Phoumi",
+				3,
+				9,
+				"PERSON"
+			],
+			[
+				"Moscow",
+				19,
+				25,
+				"LOC"
+			],
+			[
+				"Peiping",
+				30,
+				37,
+				"LOC"
+			],
+			[
+				"Hanoi",
+				42,
+				47,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "_",
+		"entities": []
+	},
+	{
+		"content": "SOX1 5OX1 . 6.",
+		"entities": []
+	},
+	{
+		"content": "Congo Heavy fighting is reported around Kongolo in northern Katanga between Katangan and central government forces.",
+		"entities": [
+			[
+				"Congo",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"Kongolo",
+				40,
+				47,
+				"LOC"
+			],
+			[
+				"Katanga",
+				60,
+				67,
+				"LOC"
+			],
+			[
+				"Katangan",
+				76,
+				84,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "It seems to be following a see-saw course, with the town changing hands at least three times within the last few days.",
+		"entities": []
+	},
+	{
+		"content": "b.",
+		"entities": []
+	},
+	{
+		"content": "The government in Leopoldville has appointed.",
+		"entities": [
+			[
+				"Leopoldville",
+				18,
+				30,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "a judicial commission to.",
+		"entities": []
+	},
+	{
+		"content": "review the Gizenga case asa ket prelude to his release.",
+		"entities": [
+			[
+				"Gizenga",
+				11,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "_.",
+		"entities": []
+	},
+	{
+		"content": "SOX SOX 1., QUA Po 7.",
+		"entities": []
+	},
+	{
+		"content": "Portugal-Angola a. Algeria is furnishing Holden Roberto's Angolan rebel forces with a supply of arms and ammunition suffi- ‘cient to outfit two battalions of 600 men each.",
+		"entities": [
+			[
+				"Portugal-Angola",
+				0,
+				15,
+				"GPE"
+			],
+			[
+				"Algeria",
+				19,
+				26,
+				"GPE"
+			],
+			[
+				"Holden Roberto",
+				41,
+				55,
+				"PERSON"
+			],
+			[
+				"Angolan",
+				58,
+				65,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "b. Roberto has been at the UN in New York where he shows himself cool to the plan for an impartial survey of An- gola and forecasts serious fighting after the first of the year.",
+		"entities": [
+			[
+				"Roberto",
+				3,
+				10,
+				"PERSON"
+			],
+			[
+				"UN",
+				27,
+				29,
+				"ORG"
+			],
+			[
+				"New York",
+				33,
+				41,
+				"LOC"
+			],
+			[
+				"An- gola",
+				109,
+				117,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "SS B. F, Fa] FS ©2o Fa fa Fa ea Fe)",
+		"entities": []
+	},
+	{
+		"content": "Ba ee",
+		"entities": []
+	},
+	{
+		"content": "Oe £4 NOTES Ghana: The whipping-boy effort directed against the US has brotght’ arenewal of the insinuation that.",
+		"entities": [
+			[
+				"Ghana",
+				12,
+				17,
+				"GPE"
+			],
+			[
+				"US",
+				64,
+				66,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "the US government, through the CIA, staged the attempt on Nkrumah's life late last summer.",
+		"entities": [
+			[
+				"US government",
+				4,
+				17,
+				"GPE"
+			],
+			[
+				"CIA",
+				31,
+				34,
+				"ORG"
+			],
+			[
+				"Nkrumah",
+				58,
+				65,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Ambassador Mahoney thinks Nkrumah and company are swinging wildly from weakness growing out of noticeable government disarray and loss of public support.",
+		"entities": [
+			[
+				"Ambassador Mahoney",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Nkrumah",
+				26,
+				33,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Guatemala A general strike of Guatemala! s armed forces and government workers is threatening because of the government's arrears in.",
+		"entities": [
+			[
+				"Guatemala",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"Guatemala",
+				30,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "payment of wages.",
+		"entities": []
+	},
+	{
+		"content": "Communist China Syria Damascus announced this morning that it has been promised \"massive financial and economic\" aid by Peiping.",
+		"entities": [
+			[
+				"Communist China",
+				0,
+				15,
+				"GPE"
+			],
+			[
+				"Syria",
+				16,
+				21,
+				"GPE"
+			],
+			[
+				"Damascus",
+				22,
+				30,
+				"GPE"
+			],
+			[
+				"Peiping",
+				120,
+				127,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The statement emerged from a meeting of the Syrian premier with the Chinese ambassador.",
+		"entities": [
+			[
+				"Syrian premier",
+				44,
+				58,
+				"PERSON"
+			],
+			[
+				"Chinese ambassador",
+				68,
+				86,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "No details were given.",
+		"entities": []
+	},
+	{
+		"content": "Malaysia A rift is opening between Malaya and the Philippines, both members of the embryonic Association of Southeast Asia, over Manila's claims to North Borneo.",
+		"entities": [
+			[
+				"Malaysia",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"Malaya",
+				35,
+				41,
+				"GPE"
+			],
+			[
+				"Philippines",
+				50,
+				61,
+				"GPE"
+			],
+			[
+				"Association of Southeast Asia",
+				93,
+				122,
+				"ORG"
+			],
+			[
+				"Manila",
+				129,
+				135,
+				"GPE"
+			],
+			[
+				"North Borneo",
+				148,
+				160,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Indonesia, which has designs of its own on parts of the projected Malaysian federation, is lining up with the Philippines.",
+		"entities": [
+			[
+				"Indonesia",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"Malaysian federation",
+				66,
+				86,
+				"GPE"
+			],
+			[
+				"Philippines",
+				110,
+				121,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Yugoslavia Coinciding with Tito's departure for Moscow, a Yugoslav delegation has arrived in Rome to sit in on a congress of the Italian Communist party--the first time the Yugoslavs have been shown such hospitality in five years.",
+		"entities": [
+			[
+				"Yugoslavia",
+				0,
+				10,
+				"GPE"
+			],
+			[
+				"Tito",
+				27,
+				31,
+				"PERSON"
+			],
+			[
+				"Moscow",
+				48,
+				54,
+				"LOC"
+			],
+			[
+				"Yugoslav",
+				58,
+				66,
+				"GPE"
+			],
+			[
+				"Rome",
+				93,
+				97,
+				"LOC"
+			],
+			[
+				"Italian Communist party",
+				129,
+				152,
+				"ORG"
+			],
+			[
+				"Yugoslavs",
+				173,
+				182,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Honduras",
+		"entities": [
+			[
+				"Honduras",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The government has flown troop reinforcements into Western Honduras in an attempt to bag the armed gang which shot up the area last Thursday.",
+		"entities": [
+			[
+				"Western Honduras",
+				51,
+				67,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "All indications are that it is a case of banditry with no political coloration, a SE 2 PX BS SS SS SS _ S eh eS eS ee 6 _ Declassified in Part Sanitized Copy a, oe a” SECRET SECRET SECRET -2SECRET Soy ae ee SECRET -3SECRET ']",
+		"entities": []
+	},
+	{
+		"content": "[' Aw z, a ue iv SENN Co Nah Ss",
+		"entities": []
+	},
+	{
+		"content": "The President’s Daily Brief 23 February 1971 ra 4 50x41 Fp Secxed 4.",
+		"entities": [
+			[
+				"The President’s Daily Brief",
+				0,
+				27,
+				"WORK_OF_ART"
+			],
+			[
+				"23 February 1971",
+				28,
+				44,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "936A009200210001-2 FOR THE PRESIDENT ONLY THE PRESIDENT’S DAILY BRIEF 23 February 1971 PRINCIPAL DEVELOPMENTS Communist military activity is.",
+		"entities": [
+			[
+				"PRESIDENT",
+				27,
+				36,
+				"PERSON"
+			],
+			[
+				"THE PRESIDENT’S DAILY BRIEF",
+				42,
+				69,
+				"WORK_OF_ART"
+			],
+			[
+				"23 February 1971",
+				70,
+				86,
+				"DATE"
+			],
+			[
+				"Communist",
+				110,
+				119,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "continuing in several areas near Phnom Penh.",
+		"entities": [
+			[
+				"Phnom Penh",
+				33,
+				43,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "(Page 1) 5OX1 wysNl The North Vietnamese are moving a large volume of supplies into northern Laos... (Page 4)",
+		"entities": [
+			[
+				"North Vietnamese",
+				24,
+				40,
+				"GPE"
+			],
+			[
+				"Laos",
+				93,
+				97,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "In Pakistan, the constitution-making impasse shows no sign of abating but tension seems to be easing with India over.",
+		"entities": [
+			[
+				"Pakistan",
+				3,
+				11,
+				"LOC"
+			],
+			[
+				"India",
+				106,
+				111,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "the recent hijacking incident.",
+		"entities": []
+	},
+	{
+		"content": "(Page 4) FOR THE PRESIDENT ONLY Phnom Penh Area ok ONG Agi a ty IR yetahou!",
+		"entities": [
+			[
+				"PRESIDENT",
+				17,
+				26,
+				"PERSON"
+			],
+			[
+				"Phnom Penh",
+				32,
+				42,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "c pe eel paths va a oe ie fh omg fia Kadh Ehoraen,, meh eye apse Fh Seay RB ue on a I rae a aie gS 5 *h fuga",
+		"entities": []
+	},
+	{
+		"content": "N",
+		"entities": []
+	},
+	{
+		"content": "oh Shanta Oy “Has.",
+		"entities": []
+	},
+	{
+		"content": "sali a a ~s.&G ae\" ari fat fk sifd reat Chey ot X re ime.",
+		"entities": []
+	},
+	{
+		"content": "seni eis i Be, pes TA",
+		"entities": []
+	},
+	{
+		"content": "i fg AR e",
+		"entities": []
+	},
+	{
+		"content": "ne ni Hor",
+		"entities": []
+	},
+	{
+		"content": "“sh abi amin th racd ve Ln Nae sie Bo6 tare",
+		"entities": []
+	},
+	{
+		"content": "hey ge re 3 é Charm a Fis mi oP Prasat",
+		"entities": []
+	},
+	{
+		"content": "i ee v ed",
+		"entities": []
+	},
+	{
+		"content": "Sa rib Ren ie i “ii ir “atta rn imal <3 Sep, at Fala 10 sung neen ee ar oe aN fe, bash.",
+		"entities": []
+	},
+	{
+		"content": "Bey ae ee 50x14 \"881024 2-71 Cia ease J o° a FOR THE PRESIDENT ONLY CAMBODIA",
+		"entities": [
+			[
+				"PRESIDENT",
+				53,
+				62,
+				"PERSON"
+			],
+			[
+				"CAMBODIA",
+				69,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An enemy attack yesterday on a. Mekong River convoy some.",
+		"entities": [
+			[
+				"Mekong River",
+				32,
+				44,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "ten miles southeast of the capital destroyed a barge carrying ammunition.",
+		"entities": []
+	},
+	{
+		"content": "Other vessels in the convoy.",
+		"entities": []
+	},
+	{
+		"content": "sustained only minor damage and were able to proceed on to Phnom Penh...",
+		"entities": [
+			[
+				"Phnom Penh",
+				59,
+				69,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Cambodia's other main transportation route to South Vietnam, Route 1, has.",
+		"entities": [
+			[
+				"Cambodia",
+				0,
+				8,
+				"GPE"
+			],
+			[
+				"South Vietnam",
+				46,
+				59,
+				"GPE"
+			],
+			[
+				"Route 1",
+				61,
+				68,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "been closed since Saturday, when the.",
+		"entities": []
+	},
+	{
+		"content": "enemy de-.-‘stroyed a bridge.",
+		"entities": []
+	},
+	{
+		"content": "near Neak Luong.",
+		"entities": [
+			[
+				"Neak Luong",
+				5,
+				15,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Northeast of Phnom Penh, Cambodian troops conducting clearing operations near the village of Vihear Suor continue to report.",
+		"entities": [
+			[
+				"Phnom Penh",
+				13,
+				23,
+				"LOC"
+			],
+			[
+				"Cambodian",
+				25,
+				34,
+				"NORP"
+			],
+			[
+				"Vihear Suor",
+				93,
+				104,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "light.",
+		"entities": []
+	},
+	{
+		"content": "contact with enemy elements.",
+		"entities": []
+	},
+	{
+		"content": "Meanwhile, Cambodian Army: messages indicate that small.enemy groups are infiltrating several villages to the northwest of the capital.",
+		"entities": [
+			[
+				"Cambodian Army",
+				11,
+				25,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Heavier fighting tn the Vihear Suor seetor may.",
+		"entities": [
+			[
+				"Vihear Suor",
+				24,
+				35,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "be-in prospect.",
+		"entities": []
+	},
+	{
+		"content": "Intereepted army messages recently.",
+		"entities": []
+	},
+	{
+		"content": "have elaimed that there has been intense ntghttime Communist tnfiltration from the north and the northeast.",
+		"entities": [
+			[
+				"Communist",
+				51,
+				60,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "On 20 February the headquarters of the Communist 96th Arttllery Regiment waa some 15 miles northeast of Phnom Penh, within easy range of Vihear Suor.",
+		"entities": [
+			[
+				"20 February",
+				3,
+				14,
+				"DATE"
+			],
+			[
+				"Communist",
+				39,
+				48,
+				"NORP"
+			],
+			[
+				"96th Arttllery Regiment",
+				49,
+				72,
+				"ORG"
+			],
+			[
+				"Phnom Penh",
+				104,
+				114,
+				"LOC"
+			],
+			[
+				"Vihear Suor",
+				137,
+				148,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FOR THE PRESIDENT ONLY NORTHERN LAOS: Peking Strengthens Antiaircraft Defenses",
+		"entities": [
+			[
+				"PRESIDENT",
+				8,
+				17,
+				"PERSON"
+			],
+			[
+				"NORTHERN LAOS",
+				23,
+				36,
+				"LOC"
+			],
+			[
+				"Peking",
+				38,
+				44,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "af ye os oo NORTH. co",
+		"entities": []
+	},
+	{
+		"content": "f A d Pu Tay VIETNAM 4 oO an",
+		"entities": [
+			[
+				"VIETNAM",
+				13,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "re bo eo aa sad {wf c at Phong Saly .f",
+		"entities": [
+			[
+				"Phong Saly",
+				25,
+				35,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "we pe a fo _ ‘i Meng-lat t ft.",
+		"entities": []
+	},
+	{
+		"content": "i “\"BURMA.",
+		"entities": [
+			[
+				"BURMA",
+				4,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "pp” s Dien a 0",
+		"entities": []
+	},
+	{
+		"content": "w Bich M _ 57mm AA hi] ne v",
+		"entities": []
+	},
+	{
+		"content": "é: Summa “nN Qari even mus N f} 57mm AA guns iW?",
+		"entities": []
+	},
+	{
+		"content": "deployed ty Radar tracking statiow 20 2pabang",
+		"entities": []
+	},
+	{
+		"content": "ae Mon 551028 2-71 CIA Communist controled area 4 Contested territory J. FOR THE PRESIDENT ONLY COMMUNIST CHINA LAOS _ Photography showed a continuing buildup of Chinese engineer units at Muong Houn, but.",
+		"entities": [
+			[
+				"CIA",
+				19,
+				22,
+				"ORG"
+			],
+			[
+				"Communist",
+				23,
+				32,
+				"PERSON"
+			],
+			[
+				"PRESIDENT",
+				81,
+				90,
+				"PERSON"
+			],
+			[
+				"COMMUNIST CHINA",
+				96,
+				111,
+				"GPE"
+			],
+			[
+				"LAOS",
+				112,
+				116,
+				"GPE"
+			],
+			[
+				"Chinese",
+				162,
+				169,
+				"NORP"
+			],
+			[
+				"Muong Houn",
+				188,
+				198,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "they have still not resumed construction of the -road beyond Muong Houn, southwards toward the.",
+		"entities": [
+			[
+				"Muong Houn",
+				61,
+				71,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Mekong River.",
+		"entities": [
+			[
+				"Mekong River",
+				0,
+				12,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "FOR THE PRESIDENT ONLY a LL wt FOR THE PRESIDENT ONLY EGYPT-USSR BOT SOX1 FOR THE PRESIDENT ONLY a. ep",
+		"entities": [
+			[
+				"PRESIDENT",
+				8,
+				17,
+				"PERSON"
+			],
+			[
+				"PRESIDENT",
+				39,
+				48,
+				"PERSON"
+			],
+			[
+				"EGYPT-USSR",
+				54,
+				64,
+				"GPE"
+			],
+			[
+				"PRESIDENT",
+				82,
+				91,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "we LL FOR THE PRESIDENT ONLY NOTES ‘North Vietnam Laos: Intercepts show that the.",
+		"entities": [
+			[
+				"PRESIDENT",
+				14,
+				23,
+				"PERSON"
+			],
+			[
+				"North Vietnam",
+				36,
+				49,
+				"GPE"
+			],
+			[
+				"Laos",
+				50,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "North Vietnamese are moving a large.",
+		"entities": [
+			[
+				"North Vietnamese",
+				0,
+				16,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "volume of supplies into northern Laos.",
+		"entities": [
+			[
+				"Laos",
+				33,
+				37,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Beginning on 20 February, nearly 2,000 tons of supplies are scheduled to be sent to units in and around the Plaine des Jarres.",
+		"entities": [
+			[
+				"20 February",
+				13,
+				24,
+				"DATE"
+			],
+			[
+				"Plaine des Jarres",
+				108,
+				125,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "About half of the supplies are to go to North Vietnamese units, with the remainder split between Pathet Lao and neutralist troops..",
+		"entities": [
+			[
+				"North Vietnamese",
+				40,
+				56,
+				"NORP"
+			],
+			[
+				"Pathet Lao",
+				97,
+				107,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The- supplies to the North Vietnamese units are to include about.",
+		"entities": [
+			[
+				"North Vietnamese",
+				21,
+				37,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "175 tons of arms and.munitions and 500 tons of food-— stuffs; almost.",
+		"entities": []
+	},
+	{
+		"content": "all the shipments to the.",
+		"entities": []
+	},
+	{
+		"content": "others are to be food.",
+		"entities": []
+	},
+	{
+		"content": "Delivery of those supplies destined for the Pathet Lao is to be completed in about three weeks, but no time frame has been disclosed for the other deliveries.",
+		"entities": [
+			[
+				"Pathet Lao",
+				44,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Pakistan:",
+		"entities": [
+			[
+				"Pakistan",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "President Yahya is flying to Dacca this week to urge East. Pakistani leader Mujibur Rahman",
+		"entities": [
+			[
+				"President Yahya",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"Dacca",
+				29,
+				34,
+				"LOC"
+			],
+			[
+				"East. Pakistani",
+				53,
+				68,
+				"GPE"
+			],
+			[
+				"Mujibur Rahman",
+				76,
+				90,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "to end his intransigence on the new constitution.",
+		"entities": []
+	},
+	{
+		"content": "Although the trip is an extraordinary ges-— ture to Mujib, who refused to go to.",
+		"entities": [
+			[
+				"Mujib",
+				52,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "West.Pakistan to see Yahya, it has little chance of success.",
+		"entities": [
+			[
+				"West.Pakistan",
+				0,
+				13,
+				"GPE"
+			],
+			[
+				"Yahya",
+				21,
+				26,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mujib will find it difficult to make significant concessions to Yahya, especially in the face of current West Pakistani threats’ to boycott the assembly if Mujib does not back down.",
+		"entities": [
+			[
+				"Mujib",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Yahya",
+				64,
+				69,
+				"PERSON"
+			],
+			[
+				"West Pakistani",
+				105,
+				119,
+				"LOC"
+			],
+			[
+				"Mujib",
+				156,
+				161,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Mujib still insiststhat he will use his majority in the constituent assembly: to ram through a constitution giving provincial governments responsibility for all matters except defense and foreign policy",
+		"entities": [
+			[
+				"Mujib",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "India-Pakistan: According to Indian Foreign Office officials, Pakistan has agreed to call off its military alert along the border, and India has assured Pakistani’ diplomats that it does not wish to \"escalate the controversy” stemming from the hijacking of an Indian airliner on 2 February.",
+		"entities": [
+			[
+				"India-Pakistan",
+				0,
+				14,
+				"GPE"
+			],
+			[
+				"Indian Foreign Office",
+				29,
+				50,
+				"ORG"
+			],
+			[
+				"Pakistan",
+				62,
+				70,
+				"GPE"
+			],
+			[
+				"India",
+				135,
+				140,
+				"GPE"
+			],
+			[
+				"Pakistani",
+				153,
+				162,
+				"GPE"
+			],
+			[
+				"Indian",
+				259,
+				265,
+				"NORP"
+			],
+			[
+				"2 February",
+				278,
+				288,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The Pakistani ambassador in-Washington has again told US officials that Pakistan is willing to negotiate: a settlement.",
+		"entities": [
+			[
+				"Pakistani",
+				4,
+				13,
+				"GPE"
+			],
+			[
+				"Washington",
+				28,
+				38,
+				"LOC"
+			],
+			[
+				"US",
+				54,
+				56,
+				"GPE"
+			],
+			[
+				"Pakistan",
+				72,
+				80,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Politicians in both countries may still be tempted to play upon strong popular feelings about the hijacking, but the diplomats appear to be moving the two governments toward a settliement of the immediate crisis.",
+		"entities": []
+	},
+	{
+		"content": "FOR THE PRESIDENT ONLY az",
+		"entities": [
+			[
+				"PRESIDENT",
+				8,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "he: x a Top Secret ']",
+		"entities": []
+	},
+	{
+		"content": "[' The President’s Daily Brief —Fop-Seeret 10 April 1968 (23 DAILY BRIEF 10 APRIL 1968 1.",
+		"entities": [
+			[
+				"The President’s Daily Brief",
+				3,
+				30,
+				"WORK_OF_ART"
+			],
+			[
+				"10 April 1968",
+				43,
+				56,
+				"DATE"
+			],
+			[
+				"10 APRIL 1968",
+				73,
+				86,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "South Vietnam Allied forces fanning out from Khe Sanh are still reporting only light to moderate contact with the North Viet‘ namese in the area.",
+		"entities": [
+			[
+				"South Vietnam",
+				0,
+				13,
+				"NORP"
+			],
+			[
+				"Khe Sanh",
+				45,
+				53,
+				"LOC"
+			],
+			[
+				"North Viet‘ namese",
+				114,
+				132,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Prisoners report that the enemy is suffering from low morale, insufficient food supplies, and heavy casualties caused by B-52 strikes.",
+		"entities": [
+			[
+				"B-52",
+				121,
+				125,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Elsewhere, allied spoiling operations have gotten under way in the Saigon area and on the coast near the Demilitarized Zone.",
+		"entities": [
+			[
+				"Saigon",
+				67,
+				73,
+				"LOC"
+			],
+			[
+				"Demilitarized Zone",
+				105,
+				123,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Middle East 3.",
+		"entities": [
+			[
+				"Middle East",
+				0,
+				11,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Jarring Mission BNVY4 ‘ L 4.",
+		"entities": [
+			[
+				"Jarring Mission",
+				0,
+				15,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "Israel-Jordan there is no Sign that things are Simmering down.",
+		"entities": [
+			[
+				"Israel-Jordan",
+				0,
+				13,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Israelis are saying publicly that the \"hot pursuit\" action of two days ago is now the approved tactic for dealing with terrorists.",
+		"entities": [
+			[
+				"Israelis",
+				4,
+				12,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "We may therefore see more short, quick border crossings in the future./ 5.",
+		"entities": []
+	},
+	{
+		"content": "South Korea 6.",
+		"entities": [
+			[
+				"South Korea",
+				0,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Philippines President Marcos, yielding to do=mestic pressure, is apparently now will-ing to replace part of the Filipino military engineer contingent in Viet= nam with medical personnel.",
+		"entities": [
+			[
+				"Philippines",
+				0,
+				11,
+				"GPE"
+			],
+			[
+				"President Marcos",
+				12,
+				28,
+				"PERSON"
+			],
+			[
+				"Filipino",
+				112,
+				120,
+				"NORP"
+			],
+			[
+				"Viet= nam",
+				153,
+				162,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "This is in spite of word from Saigon that it needs the engineers more.",
+		"entities": [
+			[
+				"Saigon",
+				30,
+				36,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Marcos feels he cannot push too hard for retention of the engineers Since he has just weathered one political storm: the recent disclosure of Philippine plotting to stir up trouble in Malaysian Borneo.",
+		"entities": [
+			[
+				"Marcos",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Philippine",
+				142,
+				152,
+				"GPE"
+			],
+			[
+				"Malaysian Borneo",
+				184,
+				200,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Besides, many Filipinos, including Marcos himself, have said they think the need for a Philippine presence in Vietnam has been lessened by President Johnson's 31 March speech. 7.",
+		"entities": [
+			[
+				"Filipinos",
+				14,
+				23,
+				"NORP"
+			],
+			[
+				"Marcos",
+				35,
+				41,
+				"PERSON"
+			],
+			[
+				"Philippine",
+				87,
+				97,
+				"GPE"
+			],
+			[
+				"Vietnam",
+				110,
+				117,
+				"LOC"
+			],
+			[
+				"President Johnson",
+				139,
+				156,
+				"PERSON"
+			],
+			[
+				"31 March",
+				159,
+				167,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "USSR-Iran",
+		"entities": [
+			[
+				"USSR-Iran",
+				0,
+				9,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Although Kosygin's visit to Tehran did not produce anything startling, he made some modest headway in increasing the USSR's respectability in Iran.",
+		"entities": [
+			[
+				"Kosygin",
+				9,
+				16,
+				"PERSON"
+			],
+			[
+				"Tehran",
+				28,
+				34,
+				"LOC"
+			],
+			[
+				"USSR",
+				117,
+				121,
+				"GPE"
+			],
+			[
+				"Iran",
+				142,
+				146,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "8.",
+		"entities": []
+	},
+	{
+		"content": "USSR satellite photography in late March disclosed a missile on a.launcher at each of the three completed antimissile complexes around Moscow.",
+		"entities": [
+			[
+				"USSR",
+				0,
+				4,
+				"NORP"
+			],
+			[
+				"March",
+				35,
+				40,
+				"DATE"
+			],
+			[
+				"Moscow",
+				135,
+				141,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "It appears that construction of the complex as a whole is on schedule and will be finished by 1970 or 1971. 9.",
+		"entities": [
+			[
+				"1970",
+				94,
+				98,
+				"DATE"
+			],
+			[
+				"1971",
+				102,
+				106,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Ethiopia Security forces are on the alert for a student riot at the university in Addis Ababa today.",
+		"entities": [
+			[
+				"Ethiopia",
+				0,
+				8,
+				"NORP"
+			],
+			[
+				"Addis Ababa",
+				82,
+				93,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The students have long been vociferously critical of Haile Selassie's government, and they are strongly anti-US as well.",
+		"entities": [
+			[
+				"Haile Selassie",
+				53,
+				67,
+				"PERSON"
+			],
+			[
+				"anti-US",
+				104,
+				111,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "There were disturbances with heavy anti‘American overtones just last week.",
+		"entities": [
+			[
+				"anti‘American",
+				35,
+				48,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Faced with the unpalatable alternatives of giving in to the students or cracking down .on them, Haile Selassie would almost certainly choose the latter.",
+		"entities": [
+			[
+				"Haile Selassie",
+				96,
+				110,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Top Secret 1 Top Secret FOR THE PRESIDENT’S EYES ONLY 1.)",
+		"entities": [
+			[
+				"PRESIDENT",
+				32,
+				41,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Special Daily Report on North Vietnam 2) North Vietnamese Reflections of US Political Attitudes Top Secret 10 Bei 1968 a Special Daily Report on North Vietnam for the President's Eyes Only 10 April 1968 I, NOTES ON THE SITUATION Tough Line for Vietnamese Audience: Hanoi broadcast an extremely hard editorial on 8 April.",
+		"entities": [
+			[
+				"North Vietnam",
+				24,
+				37,
+				"GPE"
+			],
+			[
+				"North Vietnamese",
+				41,
+				57,
+				"GPE"
+			],
+			[
+				"US",
+				73,
+				75,
+				"NORP"
+			],
+			[
+				"1968",
+				114,
+				118,
+				"DATE"
+			],
+			[
+				"North Vietnam",
+				145,
+				158,
+				"GPE"
+			],
+			[
+				"President",
+				167,
+				176,
+				"PERSON"
+			],
+			[
+				"10 April 1968",
+				189,
+				202,
+				"DATE"
+			],
+			[
+				"Vietnamese",
+				244,
+				254,
+				"GPE"
+			],
+			[
+				"Hanoi",
+				265,
+				270,
+				"NORP"
+			],
+			[
+				"8 April",
+				312,
+				319,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The broadcast was for Vietnamese consumption and was taken from a commentary in the Army daily the day before which claimed President Johnson's speech of 31 March was tantamount to an admission of military defeat in South Vietnam.",
+		"entities": [
+			[
+				"Vietnamese",
+				22,
+				32,
+				"NORP"
+			],
+			[
+				"Army",
+				84,
+				88,
+				"ORG"
+			],
+			[
+				"President Johnson",
+				124,
+				141,
+				"PERSON"
+			],
+			[
+				"31 March",
+				154,
+				162,
+				"DATE"
+			],
+			[
+				"South Vietnam",
+				216,
+				229,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The bombing limitation was forced on the Presi‘dent by world opinion, the commentary said.",
+		"entities": [
+			[
+				"Presi‘dent",
+				41,
+				51,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "It claimed the Tet offensive and General Westmoreland's reassignment as \"evidence\" the US was near military collapse.",
+		"entities": [
+			[
+				"Tet offensive",
+				15,
+				28,
+				"EVENT"
+			],
+			[
+				"General Westmoreland",
+				33,
+				53,
+				"PERSON"
+			],
+			[
+				"US",
+				87,
+				89,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "-2",
+		"entities": []
+	},
+	{
+		"content": "The commentary also emphasized the fact that Hanoi's terms for a settlement of the war were unchanged--the four points of the North Vietnamese and the political platform of the Liberation Front-and warned that the fighting would continue until these objectives were obtained.",
+		"entities": [
+			[
+				"Hanoi",
+				45,
+				50,
+				"GPE"
+			],
+			[
+				"North Vietnamese",
+				126,
+				142,
+				"GPE"
+			],
+			[
+				"Liberation Front-",
+				177,
+				194,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It predicted an extremely bitter round of fighting in the future as the war entered a new stage.",
+		"entities": []
+	},
+	{
+		"content": "This is the harshest Hanoi statement on the war Since its offer on 3 April to begin \"pretalk talks\" with the US.",
+		"entities": [
+			[
+				"Hanoi",
+				21,
+				26,
+				"GPE"
+			],
+			[
+				"3 April",
+				67,
+				74,
+				"DATE"
+			],
+			[
+				"US",
+				109,
+				111,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It is almost certainly designed to convince the South Vietnamese Communists that Hanoi is not about to abandon them in the course of contacts with the US.",
+		"entities": [
+			[
+				"South Vietnamese Communists",
+				48,
+				75,
+				"ORG"
+			],
+			[
+				"Hanoi",
+				81,
+				86,
+				"GPE"
+			],
+			[
+				"US",
+				151,
+				153,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It will also help ‘to steel the people of the North for continuing heavy burdens.",
+		"entities": [
+			[
+				"North",
+				46,
+				51,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "More on Bombing: Hanoi propaganda is continuing to portray US bombings in the area south of the 20th parallel as particularly intensive and inhumane.",
+		"entities": [
+			[
+				"Hanoi",
+				17,
+				22,
+				"NORP"
+			],
+			[
+				"US",
+				59,
+				61,
+				"GPE"
+			],
+			[
+				"20th parallel",
+				96,
+				109,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "On 8 April, in an.international English language broadcast, Hanoi claimed a raid on a Catholic ham‘let on 4 April had killed or injured many people, including a 60-year-old woman and a day-old child.",
+		"entities": [
+			[
+				"8 April",
+				3,
+				10,
+				"DATE"
+			],
+			[
+				"English",
+				32,
+				39,
+				"NORP"
+			],
+			[
+				"Hanoi",
+				60,
+				65,
+				"GPE"
+			],
+			[
+				"Catholic",
+				86,
+				94,
+				"NORP"
+			],
+			[
+				"4 April",
+				106,
+				113,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Broadcasts such as this are part of the effort to demonstrate that the US is still harboring \"aggressive designs\" and not really curbing its military activity.",
+		"entities": [
+			[
+				"US",
+				71,
+				73,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Hanoi evidently believes such commentary places additional pressure on the US for a full end to the bombing.",
+		"entities": [
+			[
+				"Hanoi",
+				0,
+				5,
+				"GPE"
+			],
+			[
+				"US",
+				75,
+				77,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "II.",
+		"entities": []
+	},
+	{
+		"content": "NORTH VIETNAMESE REFLECTIONS OF US POLITICAL ATTITUDES ON THE WAR ‘Pham Van Dong Gives Interviews: Premier Pham Van Dong has given a series of interviews to non-Communist correspondents recently in an effort to reach large Free World audiences.",
+		"entities": [
+			[
+				"NORTH VIETNAMESE",
+				0,
+				16,
+				"GPE"
+			],
+			[
+				"US",
+				32,
+				34,
+				"NORP"
+			],
+			[
+				"Pham Van Dong",
+				67,
+				80,
+				"PERSON"
+			],
+			[
+				"Premier Pham Van Dong",
+				99,
+				120,
+				"PERSON"
+			],
+			[
+				"non-Communist",
+				157,
+				170,
+				"NORP"
+			],
+			[
+				"Free World",
+				223,
+				233,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The texts of these -3= OU interviews are not yet available, but, in addition to Charles Collingwood, Japanese, Latin American, and French journalists all claim to have interviewed the Premier in the past few days.",
+		"entities": [
+			[
+				"Charles Collingwood",
+				80,
+				99,
+				"PERSON"
+			],
+			[
+				"Japanese",
+				101,
+				109,
+				"NORP"
+			],
+			[
+				"Latin American",
+				111,
+				125,
+				"NORP"
+			],
+			[
+				"French",
+				131,
+				137,
+				"NORP"
+			],
+			[
+				"Premier",
+				184,
+				191,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "On 8 April Hanoi broadcast a part of the conversations with Collingwood, but only that part which appealed to the American people to support a US troop withdrawal from Vietnam.",
+		"entities": [
+			[
+				"8 April",
+				3,
+				10,
+				"DATE"
+			],
+			[
+				"Hanoi",
+				11,
+				16,
+				"GPE"
+			],
+			[
+				"Collingwood",
+				60,
+				71,
+				"PERSON"
+			],
+			[
+				"American",
+				114,
+				122,
+				"NORP"
+			],
+			[
+				"US",
+				143,
+				145,
+				"NORP"
+			],
+			[
+				"Vietnam",
+				168,
+				175,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "With that exception, Hanoi has not yet broadcast any of these interviews, presumably to give the correspondents a chance to get their stories filed first.",
+		"entities": [
+			[
+				"Hanoi",
+				21,
+				26,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Top Secret. ']",
+		"entities": []
+	},
+	{
+		"content": "[' THE PRESIDENT’S INTELLIGENCE REVIEW ISSUED BY THE CENTRAL INTELLIGENCE AGENCY 16-19 MAY 1964 “TOP-SECRET _ 26 19 May 1963 1.",
+		"entities": [
+			[
+				"THE PRESIDENT’S INTELLIGENCE REVIEW",
+				3,
+				38,
+				"WORK_OF_ART"
+			],
+			[
+				"CENTRAL INTELLIGENCE AGENCY",
+				53,
+				80,
+				"ORG"
+			],
+			[
+				"16-19 MAY 1964",
+				81,
+				95,
+				"DATE"
+			],
+			[
+				"19 May 1963",
+				113,
+				124,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Laos: Kong Le has abandoned his few remaining positions on the Plaine des Jarres to the Pathet Lao and now has his headquarters west .of Ban Khong.",
+		"entities": [
+			[
+				"Laos",
+				0,
+				4,
+				"GPE"
+			],
+			[
+				"Kong Le",
+				6,
+				13,
+				"PERSON"
+			],
+			[
+				"Plaine des Jarres",
+				63,
+				80,
+				"LOC"
+			],
+			[
+				"Pathet Lao",
+				88,
+				98,
+				"ORG"
+			],
+			[
+				"Ban Khong",
+				137,
+				146,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Communist. pressure continues, and the remaining Kong Le forces, shorn of their artillery, may soon have to join the Meos in the hills.",
+		"entities": [
+			[
+				"Communist",
+				0,
+				9,
+				"GPE"
+			],
+			[
+				"Kong Le",
+				49,
+				56,
+				"PERSON"
+			],
+			[
+				"Meos",
+				117,
+				121,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Isolated Kong Le units north and northwest of the Plaine expect to be attacked A considerable disarray in Kong Le's entourage contributed to this debacle.",
+		"entities": [
+			[
+				"Kong Le",
+				9,
+				16,
+				"PERSON"
+			],
+			[
+				"Plaine",
+				50,
+				56,
+				"LOC"
+			],
+			[
+				"Kong Le",
+				106,
+				113,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Several of his battalion commanders late last week were threatening mutiny unless their demands on Kong Le and Souvanna that there be no rightist-neutralist \"merger\" were met.",
+		"entities": [
+			[
+				"Kong Le",
+				99,
+				106,
+				"PERSON"
+			],
+			[
+				"Souvanna",
+				111,
+				119,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "(Cont'd) Communist forces remain positioned south of Tha Thom.",
+		"entities": [
+			[
+				"Communist",
+				9,
+				18,
+				"NORP"
+			],
+			[
+				"Tha Thom",
+				53,
+				61,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Elements have been contacted 20 miles north of Paksane, but do not at -present.seem to be moving closer to the Mekong.",
+		"entities": [
+			[
+				"Paksane",
+				47,
+				54,
+				"LOC"
+			],
+			[
+				"Mekong",
+				111,
+				117,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "South Vietnam: Khanh has indicated that certain changes in the makeup of his government are in the works, He seems quite aware that some of his subordinates have not only been complaining of his way of doing things but have also been intriguing against him.",
+		"entities": [
+			[
+				"South Vietnam",
+				0,
+				13,
+				"GPE"
+			],
+			[
+				"Khanh",
+				15,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "One of these is Deputy Premier Do Mau, who, rumor has it, has been maneuvering to replace Khanh.",
+		"entities": [
+			[
+				"Deputy Premier Do Mau",
+				16,
+				37,
+				"PERSON"
+			],
+			[
+				"Khanh",
+				90,
+				95,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "While discounting Do Mau's ability to pull this off, Khanh may nevertheless take some action to clip his wings.",
+		"entities": [
+			[
+				"Do Mau",
+				18,
+				24,
+				"PERSON"
+			],
+			[
+				"Khanh",
+				53,
+				58,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We still think that a more likely source of a serious challenge to Khanh would be the ambitious and wily defense minister, General Khiem. 3.",
+		"entities": [
+			[
+				"Khanh",
+				67,
+				72,
+				"PERSON"
+			],
+			[
+				"defense minister",
+				105,
+				121,
+				"TITLE"
+			],
+			[
+				"General Khiem",
+				123,
+				136,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Tanganyika- Zanzibar: The Communists, foreign and domestic, still have Karume's ear. .Zanzibari",
+		"entities": [
+			[
+				"Tanganyika- Zanzibar",
+				0,
+				20,
+				"GPE"
+			],
+			[
+				"Communists",
+				26,
+				36,
+				"ORG"
+			],
+			[
+				"Karume",
+				71,
+				77,
+				"PERSON"
+			],
+			[
+				"Zanzibari",
+				86,
+				95,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Zanzibari ministers in the new union remain on the island, doing business as usual under the old \"Peoples' Republic of Zanzibar\" banner.",
+		"entities": [
+			[
+				"Zanzibari ministers",
+				0,
+				19,
+				"PERSON"
+			],
+			[
+				"Peoples' Republic of Zanzibar",
+				98,
+				127,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(Cont'd) Kw Declassified in Pant Sanitized Copy Babu, especially, continues to act like a full-fledged foreign minister.",
+		"entities": [
+			[
+				"Babu",
+				48,
+				52,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He refuses to alter customs duties and is dealing with Indonesia in cloves and military training without recourse to Dar-es-Salaam.",
+		"entities": [
+			[
+				"Indonesia",
+				55,
+				64,
+				"GPE"
+			],
+			[
+				"Dar-es-Salaam",
+				117,
+				130,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Chinese Communists have brought in additional men and promised him a $14-million loan if this money is not used in conjunction with the Tanganyikans.",
+		"entities": [
+			[
+				"Chinese Communists",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"Tanganyikans",
+				140,
+				152,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The North Vietnamese have dispatched an individual to open their \"embassy\" in Zanzibar.",
+		"entities": [
+			[
+				"North Vietnamese",
+				4,
+				20,
+				"GPE"
+			],
+			[
+				"Zanzibar",
+				78,
+				86,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "‘Karume this morning went a step further.",
+		"entities": [
+			[
+				"Karume",
+				1,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "'.He announced that he had signed a treaty of friendship with Hast Germany on behalf of _the union, Nyerere may finally be preparing to act. 4, Cyprus: The situation has been relatively quiet in recent days, but behind this facade, the potential for further and greater violence is growing.",
+		"entities": [
+			[
+				"Hast Germany",
+				62,
+				74,
+				"GPE"
+			],
+			[
+				"Nyerere",
+				100,
+				107,
+				"PERSON"
+			],
+			[
+				"Cyprus",
+				144,
+				150,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "(Cont'd) Greek Cypriot leaders have continued their efforts to get arms and military assistance from abroad, including, they claim, from the bloc.",
+		"entities": [
+			[
+				"Greek Cypriot",
+				9,
+				22,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "They also have said they are going to merge the police and gendamerie and enact .a conscription law.",
+		"entities": []
+	},
+	{
+		"content": "Tension is already on the rise again over the issue of hostages.",
+		"entities": []
+	},
+	{
+		"content": "The UN announced ‘on Monday that only 17 of 91 Turkish Cypriots taken hostage since late March are in government hands.",
+		"entities": [
+			[
+				"UN",
+				4,
+				6,
+				"ORG"
+			],
+			[
+				"Turkish Cypriots",
+				47,
+				63,
+				"NORP"
+			],
+			[
+				"March",
+				89,
+				94,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "There is good reason to believe that at least some, although probably not all of the remainder, have been killed. 5.",
+		"entities": []
+	},
+	{
+		"content": "USSR: 5OX2 6.",
+		"entities": [
+			[
+				"USSR",
+				0,
+				4,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "USSR:",
+		"entities": [
+			[
+				"USSR",
+				0,
+				4,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "50x1 50x1 7.",
+		"entities": []
+	},
+	{
+		"content": "-UK-USSR:",
+		"entities": [
+			[
+				"UK-USSR",
+				1,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "An official of Britain's Imperial Chemical Industries has announced that contracts worth $140 million for a ‘Synthetic fiber complex.will be signed within the next two weeks.",
+		"entities": [
+			[
+				"Britain",
+				15,
+				22,
+				"GPE"
+			],
+			[
+				"Imperial Chemical Industries",
+				25,
+				53,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Discussions involving \"very large sums\" for fertilizer production equipment also: have been started.",
+		"entities": []
+	},
+	{
+		"content": "Long-term credits, the first offered to the USSR by the West, will cover these deals.",
+		"entities": [
+			[
+				"USSR",
+				44,
+				48,
+				"GPE"
+			],
+			[
+				"West",
+				56,
+				60,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The British government offered last year .to guarantee long-term credits to the USSR up to a total of $280 million.",
+		"entities": [
+			[
+				"British government",
+				4,
+				22,
+				"GPE"
+			],
+			[
+				"USSR",
+				80,
+				84,
+				"GPE"
+			]
+			
+		]
+	},
+	{
+		"content": "It was only recently, however; that private British financing and insurance was assembled to enable ICI to proceed with negotiations.",
+		"entities": [
+			[
+				"British",
+				44,
+				51,
+				"NORP"
+			],
+			[
+				"ICI",
+				100,
+				103,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Soviets must expect these deals to jar loose competitive credit offers else where, (Cont 'd) Mikoyan, in Japan, has offered to buy $350 million worth of Japanese industrial plants if Tokyo would rélax its present.five-_. year credit terms.",
+		"entities": [
+			[
+				"Soviets",
+				4,
+				11,
+				"GPE"
+			],
+			[
+				"Mikoyan",
+				97,
+				104,
+				"PERSON"
+			],
+			[
+				"Japan",
+				109,
+				114,
+				"LOC"
+			],
+			[
+				"Japanese",
+				157,
+				165,
+				"NORP"
+			],
+			[
+				"Tokyo",
+				187,
+				192,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Japanese, we understand, turned Mikoyan down.",
+		"entities": [
+			[
+				"Japanese",
+				4,
+				12,
+				"GPE"
+			],
+			[
+				"Mikoyan",
+				36,
+				43,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "However, a Japanese chemical plant mission is scheduled to visit the USSR next month.",
+		"entities": [
+			[
+				"Japanese",
+				11,
+				19,
+				"NORP"
+			],
+			[
+				"USSR",
+				69,
+				73,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "8.",
+		"entities": []
+	},
+	{
+		"content": "Sino-Soviet Border Dispute: Sino-Soviet border talks have made no progress.",
+		"entities": [
+			[
+				"Sino-Soviet",
+				0,
+				11,
+				"GPE"
+			],
+			[
+				"Sino-Soviet",
+				28,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Peiping is insisting on a written Soviet acknowledgement that the present borders are the product of unjust treaties imposed by Tsarist Russia.",
+		"entities": [
+			[
+				"Peiping",
+				0,
+				7,
+				"GPE"
+			],
+			[
+				"Soviet",
+				34,
+				40,
+				"GPE"
+			],
+			[
+				"Tsarist Russia",
+				128,
+				142,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Soviets are: afraid the Chinese will use any such statement eventually to support major territorial claims against Russia.",
+		"entities": [
+			[
+				"Soviets",
+				4,
+				11,
+				"GPE"
+			],
+			[
+				"Chinese",
+				28,
+				35,
+				"GPE"
+			],
+			[
+				"Russia",
+				119,
+				125,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The Soviets want to confine the talks to settling a few geographic points in dispute on the existing frontier. 9, Rumania: The Rumanian party has followed up last month's declaration of independence with an intensive indoctrination campaign which, by accounts reaching US officials in Bucharest, is taking on a pronounced: antiSoviet and anti-Khrushchev cast.",
+		"entities": [
+			[
+				"Soviets",
+				4,
+				11,
+				"GPE"
+			],
+			[
+				"Rumania",
+				114,
+				121,
+				"GPE"
+			],
+			[
+				"Rumanian",
+				127,
+				135,
+				"NORP"
+			],
+			[
+				"US",
+				269,
+				271,
+				"GPE"
+			],
+			[
+				"Bucharest",
+				285,
+				294,
+				"LOC"
+			],
+			[
+				"antiSoviet",
+				323,
+				333,
+				"NORP"
+			],
+			[
+				"anti-Khrushchev",
+				338,
+				353,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "(Cont'd)",
+		"entities": []
+	},
+	{
+		"content": "At meetings throughout the country, the Soviets are being criticized for 20 years of economic exploitation and for infiltrating ‘the Rumanian secret police.:",
+		"entities": [
+			[
+				"Soviets",
+				40,
+				47,
+				"GPE"
+			],
+			[
+				"Rumanian",
+				133,
+				141,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "Khrushchev has been called a \"thief\" and a \"corn and pig specialist\" who lectures Rumanian farmers but does not know what he is talking about.",
+		"entities": [
+			[
+				"Khrushchev",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"Rumanian",
+				82,
+				90,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "The dominant theme, however, seems to be about the same as in the April party documents, that \"Khrushchev and Mao can .do’what they want, Rumania will go its own way,\" 10, ‘Yemen-Aden: Tribesmen from the South Arabian Federation have been seen of late in \"large numbers\" on the streets of Taiz in Yemen.",
+		"entities": [
+			[
+				"April",
+				66,
+				71,
+				"DATE"
+			],
+			[
+				"Khrushchev",
+				95,
+				105,
+				"PERSON"
+			],
+			[
+				"Mao",
+				110,
+				113,
+				"PERSON"
+			],
+			[
+				"Rumania",
+				138,
+				145,
+				"GPE"
+			],
+			[
+				"Yemen-Aden",
+				173,
+				183,
+				"GPE"
+			],
+			[
+				"South Arabian Federation",
+				204,
+				228,
+				"GPE"
+			],
+			[
+				"Taiz",
+				289,
+				293,
+				"LOC"
+			],
+			[
+				"Yemen",
+				297,
+				302,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Many are said to be on their way to Sana and Egypt for military training.",
+		"entities": [
+			[
+				"Sana",
+				36,
+				40,
+				"LOC"
+			],
+			[
+				"Egypt",
+				45,
+				50,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "SOX 1 x Ak a Cn eek 11.",
+		"entities": []
+	},
+	{
+		"content": "Communist China US: 50x1 12.",
+		"entities": [
+			[
+				"Communist China",
+				0,
+				15,
+				"GPE"
+			],
+			[
+				"US",
+				16,
+				18,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Cuba: _ SOX1 ']",
+		"entities": [
+			[
+				"Cuba",
+				0,
+				4,
+				"GPE"
+			]
+		]
+	}
+]

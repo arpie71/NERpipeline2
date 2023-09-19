@@ -1,0 +1,10054 @@
+[
+	{
+		"content": "[\"*** WARNING:",
+		"entities": []
+	},
+	{
+		"content": "This email originated outside of the Mohave County network and or systems.",
+		"entities": [
+			[
+				"Mohave County",
+				37,
+				50,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "DO NOT CLICK links or attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "*",
+		"entities": []
+	},
+	{
+		"content": "** Denise Thanks for the note and I greatly appreciate the work you are doing for Mohave County.",
+		"entities": [
+			[
+				"Denise",
+				3,
+				9,
+				"PERSON"
+			],
+			[
+				"Mohave County",
+				82,
+				95,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "I CCed June Weiss on this email, she is the program director for nursing and can provide more information regarding assistance with your request.",
+		"entities": [
+			[
+				"June Weiss",
+				7,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I wish you the best.",
+		"entities": []
+	},
+	{
+		"content": "Dr. Stacy Klippenstein President Phone: 928-757-0800 Neal Campus - Kingman Ext: 1100",
+		"entities": [
+			[
+				"Dr. Stacy Klippenstein",
+				0,
+				22,
+				"PERSON"
+			],
+			[
+				"President",
+				23,
+				32,
+				"TITLE"
+			],
+			[
+				"928-757-0800",
+				40,
+				52,
+				"PHONE"
+			],
+			[
+				"Neal Campus - Kingman",
+				53,
+				74,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "1971 Jagerson Ave.",
+		"entities": [
+			[
+				"1971 Jagerson Ave.",
+				0,
+				18,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Email:",
+		"entities": []
+	},
+	{
+		"content": "SKlippenstein@mohave.edu Kingman, AZ 86409 www.mohave.edu",
+		"entities": [
+			[
+				"SKlippenstein@mohave.edu",
+				0,
+				24,
+				"EMAIL"
+			],
+			[
+				"Kingman, AZ",
+				25,
+				36,
+				"LOC"
+			],
+			[
+				"www.mohave.edu",
+				43,
+				57,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Improving Lives…",
+		"entities": []
+	},
+	{
+		"content": "Improving Communities!",
+		"entities": []
+	},
+	{
+		"content": "The mission of Mohave Community College is to be a learning-centered institution, serving all constituencies, inspiring excellence through innovation and empowering students to succeed.",
+		"entities": [
+			[
+				"Mohave Community College",
+				15,
+				39,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Denise Burley <Denise.Burley@mohavecounty.us>",
+		"entities": [
+			[
+				"Denise Burley",
+				6,
+				19,
+				"PERSON"
+			],
+			[
+				"Denise.Burley@mohavecounty.us",
+				21,
+				50,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Tuesday, May 26, 2020",
+		"entities": [
+			[
+				"Tuesday, May 26, 2020",
+				6,
+				27,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "2:42 PM",
+		"entities": []
+	},
+	{
+		"content": "To: Stacy Klippenstein <SKlippenstein@mohave.edu>",
+		"entities": [
+			[
+				"Stacy Klippenstein",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"SKlippenstein@mohave.edu",
+				24,
+				48,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: Nursing students Importance:",
+		"entities": []
+	},
+	{
+		"content": "High Stacy – We are looking for nursing students that could assist with our COVID-19 response (swabbing, data entry of testing information, etc.).",
+		"entities": [
+			[
+				"Stacy",
+				5,
+				10,
+				"PERSON"
+			],
+			[
+				"COVID-19",
+				76,
+				84,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Would MCC have any resources of this nature that we could tap into?",
+		"entities": [
+			[
+				"MCC",
+				6,
+				9,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "Denise Denise Burley M. Admin.",
+		"entities": [
+			[
+				"Denise",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"Denise Burley",
+				7,
+				20,
+				"PERSON"
+			],
+			[
+				"M. Admin.",
+				21,
+				30,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "CPM Health Director Mohave County Department of Public Health 700 W. Beale Street P.O. Box 7000 Kingman, AZ 86402 Kingman, AZ 86402",
+		"entities": [
+			[
+				"CPM Health Director",
+				0,
+				19,
+				"TITLE"
+			],
+			[
+				"Mohave County Department of Public Health",
+				20,
+				61,
+				"ORG"
+			],
+			[
+				"700 W. Beale Street P.O. Box 7000",
+				62,
+				95,
+				"ADDRESS"
+			],
+			[
+				"Kingman, AZ",
+				96,
+				107,
+				"LOC"
+			],
+			[
+				"Kingman, AZ",
+				114,
+				125,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Telephone: 928-753-0774 Ext.",
+		"entities": [
+			[
+				"928-753-0774",
+				11,
+				23,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "4313",
+		"entities": []
+	},
+	{
+		"content": "Fax: 928-718-5547 Email: denise.burley@mohavecounty.us Click Here for MySidewalk County Health Information CONFIDENTIALITY NOTICE:",
+		"entities": [
+			[
+				"928-718-5547",
+				5,
+				17,
+				"PHONE"
+			],
+			[
+				"denise.burley@mohavecounty.us",
+				25,
+				54,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "This E-mail is PRIVILEGED and CONFIDENTIAL.",
+		"entities": []
+	},
+	{
+		"content": "It is intended only for the person(s) to whom it is addressed.",
+		"entities": []
+	},
+	{
+		"content": "If you receive this communication in error, please do not retain or distribute it.",
+		"entities": []
+	},
+	{
+		"content": "Please notify the sender immediately by E-mail at the address shown above and delete the original message.",
+		"entities": []
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "*** WARNING:",
+		"entities": []
+	},
+	{
+		"content": "This email originated outside of Mohave Community College.",
+		"entities": [
+			[
+				"Mohave Community College",
+				33,
+				57,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "DO NOT CLICK links or attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "**",
+		"entities": []
+	},
+	{
+		"content": "* Mail Attachment image007.png",
+		"entities": []
+	},
+	{
+		"content": "Worldwide Subject: - Situation Report - 05-27-20 (Update 87) | (INC10276272) - TLP: GREEN image001.jpg, image002.png, image003.png, image004.png, Attachments: image005.png, image006.png, (UFOUO) COVID-19 - Worldwide - Situation Report - 05-27-20 (Update 87)",
+		"entities": [
+			[
+				"05-27-20",
+				40,
+				48,
+				"DATE"
+			],
+			[
+				"COVID-19",
+				195,
+				203,
+				"MED"
+			],
+			[
+				"05-27-20",
+				237,
+				245,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "(INC10276272).pdf Passing along this report to you all!",
+		"entities": []
+	},
+	{
+		"content": "Have a great day Nathan From: MS-ISAC Advisory [mailto:MS-ISAC.Advisory@msisac.org]",
+		"entities": [
+			[
+				"Nathan",
+				17,
+				23,
+				"PERSON"
+			],
+			[
+				"MS-ISAC Advisory",
+				30,
+				46,
+				"ORG"
+			],
+			[
+				"MS-ISAC.Advisory@msisac.org",
+				55,
+				82,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Wednesday, May 27, 2020 5:05 AM To: Michael Aliperti <Michael.Aliperti@cisecurity.org>",
+		"entities": [
+			[
+				"Wednesday, May 27, 2020",
+				6,
+				29,
+				"DATE"
+			],
+			[
+				"Michael Aliperti",
+				42,
+				58,
+				"PERSON"
+			],
+			[
+				"Michael.Aliperti@cisecurity.org",
+				60,
+				91,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: Message from the MS-ISAC: (U//FOUO) COVID-19 - Worldwide - Situation Report - 05-27-20 (Update 87) | (INC10276272) - TLP: GREEN *** WARNING: This email originated outside of the Mohave County network and or systems.",
+		"entities": [
+			[
+				"MS-ISAC",
+				26,
+				33,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				45,
+				53,
+				"MED"
+			],
+			[
+				"05-27-20",
+				87,
+				95,
+				"DATE"
+			],
+			[
+				"Mohave County",
+				187,
+				200,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "DO NOT CLICK links or attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "*** UNCLASSIFIED //",
+		"entities": []
+	},
+	{
+		"content": "FOR OFFICIAL USE ONLY TLP: GREEN TO: All MS-ISAC Members and Partners DATE: May 27, 2020 SUBJECT: (U//FOUO) COVID-19 - Worldwide - Situation Report - 05-27-20 (Update 87) | (INC10276272) - TLP:",
+		"entities": [
+			[
+				"MS-ISAC",
+				41,
+				48,
+				"ORG"
+			],
+			[
+				"May 27, 2020",
+				76,
+				88,
+				"DATE"
+			],
+			[
+				"COVID-19",
+				108,
+				116,
+				"MED"
+			],
+			[
+				"05-27-20",
+				150,
+				158,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "GREEN Please see the latest update from DHS CISA of the COVID-19 situation worldwide.",
+		"entities": [
+			[
+				"DHS CISA",
+				40,
+				48,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				56,
+				64,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "24��7 Security Operations Center Multi-State Information Sharing and Analysis Center (MS-ISAC)",
+		"entities": [
+			[
+				"Multi-State Information Sharing and Analysis Center",
+				33,
+				84,
+				"ORG"
+			],
+			[
+				"MS-ISAC",
+				86,
+				93,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Elections Infrastructure Information Sharing and Analysis Center (EI-ISAC) 31",
+		"entities": [
+			[
+				"Elections Infrastructure Information Sharing and Analysis Center",
+				0,
+				64,
+				"ORG"
+			],
+			[
+				"EI-ISAC",
+				66,
+				73,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Tech Valley Drive 31 Tech Valley Drive East Greenbush, NY 12061 SOC@cisecurity.org - 1-866-787-4722 COVID-19 - Worldwide - Situation Report - 05-27-20 (Update 87) | (INC10276272)",
+		"entities": [
+			[
+				"Tech Valley Drive",
+				0,
+				17,
+				"ADDRESS"
+			],
+			[
+				"31 Tech Valley Drive",
+				18,
+				38,
+				"ADDRESS"
+			],
+			[
+				"East Greenbush, NY",
+				39,
+				57,
+				"LOC"
+			],
+			[
+				"SOC@cisecurity.org",
+				64,
+				82,
+				"EMAIL"
+			],
+			[
+				"1-866-787-4722",
+				85,
+				99,
+				"PHONE"
+			],
+			[
+				"COVID-19",
+				100,
+				108,
+				"MED"
+			],
+			[
+				"05-27-20",
+				142,
+				150,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Critical Infrastructure Involved: Energy (Oil and Natural Gas), Food and Agriculture, Government Facilities, Healthcare and Public Health, Transportation Systems (Aviation)",
+		"entities": []
+	},
+	{
+		"content": "Summary:",
+		"entities": []
+	},
+	{
+		"content": "The Cybersecurity and Infrastructure Security Agency (CISA) continues to monitor the evolving Coronavirus Disease, also known as COVID-19, situation closely.",
+		"entities": [
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				4,
+				52,
+				"ORG"
+			],
+			[
+				"CISA",
+				54,
+				58,
+				"ORG"
+			],
+			[
+				"Coronavirus Disease",
+				94,
+				113,
+				"MED"
+			],
+			[
+				"COVID-19",
+				129,
+				137,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "CISA is taking part in interagency and industry coordination calls and working with critical infrastructure partners to prepare for possible disruptions to critical infrastructure that may stem from widespread illness.",
+		"entities": [
+			[
+				"CISA",
+				0,
+				4,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FEMA reports approximately 5,304,772 (+100,264) cases and 342,029 (+4,342) deaths worldwide.",
+		"entities": [
+			[
+				"FEMA",
+				0,
+				4,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In the U.S. there are approximately 1,649,469 (+18,666) cases and 97,957 (+517) deaths.",
+		"entities": [
+			[
+				"U.S.",
+				7,
+				11,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The disparity in case numbers from previous reporting is due to FEMA citing different sources.",
+		"entities": [
+			[
+				"FEMA",
+				64,
+				68,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Key Points: · FEMA deployed 3,000 (���29) employees in support of COVID-19 response · 14,131,277 (+503,898) COVID-19 tests administered nationwide as of 26 May ·",
+		"entities": [
+			[
+				"FEMA",
+				14,
+				18,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				66,
+				74,
+				"MED"
+			],
+			[
+				"COVID-19",
+				108,
+				116,
+				"MED"
+			],
+			[
+				"26 May",
+				153,
+				159,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The CDC extended the order barring non-essential travel across the US borders with Canada and Mexico until 21 June ·",
+		"entities": [
+			[
+				"CDC",
+				4,
+				7,
+				"ORG"
+			],
+			[
+				"US",
+				67,
+				69,
+				"GPE"
+			],
+			[
+				"Canada",
+				83,
+				89,
+				"GPE"
+			],
+			[
+				"Mexico",
+				94,
+				100,
+				"GPE"
+			],
+			[
+				"21 June",
+				107,
+				114,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The CDC announced that up to 50% of antibody tests may be incorrect CISA Actions: · Continue to conduct regular assessments of current and projected impacts to National Critical Functions based on reporting from Sector Specific Agencies, private sector partners, as well as multiple governmental and non-governmental sources of information ·",
+		"entities": [
+			[
+				"CDC",
+				4,
+				7,
+				"ORG"
+			],
+			[
+				"antibody tests",
+				36,
+				50,
+				"MED"
+			],
+			[
+				"CISA",
+				68,
+				72,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Current GETS/WPS/TSP summary: Ø Government Emergency Telecommunications (GETS) expedited: 5,770 (+5) Ø Wireless Priority Service (WPS) activated: 66,281 (+2) Ø Telecommunications Service Priority (TSP) provisioned: 314 (NC)",
+		"entities": []
+	},
+	{
+		"content": "Respectfully, CISA Integrated Operations Coordination Center (IOCC) Cybersecurity and Infrastructure Security Agency (CISA) Office: 202-282-9201 | Email: ciocc@cisa.dhs.gov Distro: CISA CV Mission Management COVID-19 SITREP 1, 2, 3 Situation Report COVID Additions CISA Region OPS CIOCC",
+		"entities": [
+			[
+				"CISA",
+				14,
+				18,
+				"ORG"
+			],
+			[
+				"Integrated Operations Coordination Center",
+				19,
+				60,
+				"ORG"
+			],
+			[
+				"IOCC",
+				62,
+				66,
+				"ORG"
+			],
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				68,
+				116,
+				"ORG"
+			],
+			[
+				"CISA",
+				118,
+				122,
+				"ORG"
+			],
+			[
+				"202-282-9201",
+				132,
+				144,
+				"PHONE"
+			],
+			[
+				"ciocc@cisa.dhs.gov",
+				154,
+				172,
+				"EMAIL"
+			],
+			[
+				"CISA",
+				181,
+				185,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				208,
+				216,
+				"MED"
+			],
+			[
+				"COVID",
+				249,
+				254,
+				"MED"
+			],
+			[
+				"CISA",
+				265,
+				269,
+				"ORG"
+			],
+			[
+				"CIOCC",
+				281,
+				286,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Watch WARNING: Information in this report is FOUO//TLP: GREEN.",
+		"entities": []
+	},
+	{
+		"content": "Recipients may only share TLP: GREEN information with peers and partner organizations within their sector or community, but not via publicly accessible channels.",
+		"entities": []
+	},
+	{
+		"content": "This information may be circulated widely within a particular community but may not be released outside of the community, consistent with both the DHS policy relating to safeguarding FOUO information (link here) and with the Traffic Light Protocol, http://www.us-cert.gov/tlp.",
+		"entities": [
+			[
+				"DHS",
+				147,
+				150,
+				"ORG"
+			],
+			[
+				"http://www.us-cert.gov/tlp",
+				249,
+				275,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Information in this report is not customarily in the public domain and may be exempt from public release under the Freedom of Information Act (5 U.S.C. �� 552).",
+		"entities": [
+			[
+				"Freedom of Information Act",
+				115,
+				141,
+				"LAW"
+			],
+			[
+				"5 U.S.C. �� 552",
+				143,
+				158,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Further, this section may contain or be based upon commercial or financial information, which is privileged or confidential, law enforcement sensitive, or deliberative/pre-decisional material.",
+		"entities": []
+	},
+	{
+		"content": "DHS personnel are reminded of their obligations under DHS Form 11000-6, Non-Disclosure Agreement.",
+		"entities": [
+			[
+				"DHS",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"DHS Form 11000-6",
+				54,
+				70,
+				"LAW"
+			],
+			[
+				"Non-Disclosure Agreement",
+				72,
+				96,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Further dissemination of any of the information contained in this REPORT requires express consent from the CIOCC.",
+		"entities": [
+			[
+				"CIOCC",
+				107,
+				112,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "TLP: GREEN UNCLASSIFIED //",
+		"entities": []
+	},
+	{
+		"content": "FOR OFFICIAL USE ONLY This message and attachments may contain confidential information.",
+		"entities": []
+	},
+	{
+		"content": "If it appears that this message was sent to you by mistake, any retention, dissemination, distribution or copying of this message and attachments is strictly prohibited.",
+		"entities": []
+	},
+	{
+		"content": "Please notify the sender immediately and permanently delete the message and any attachments. .....",
+		"entities": []
+	},
+	{
+		"content": "Mail Attachment image001.jpg Mail Attachment image002.png Mail Attachment image003.png Mail Attachment image004.png Mail Attachment image005.png Mail Attachment image006.png Mail Attachment (UFOUO) COVID-19 - Worldwide - Situation Report - 05-27-20 (Update 87)",
+		"entities": [
+			[
+				"COVID-19",
+				198,
+				206,
+				"MED"
+			],
+			[
+				"05-27-20",
+				240,
+				248,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "(INC10276272).pdf FOR OFFICIAL USE ONLY (TLP: GREEN)",
+		"entities": []
+	},
+	{
+		"content": "Cybersecurity and Infrastructure Security Agency Integrated Operations Division Situation Report COVID-19 - Worldwide - 05-27-20 (Update 87) | (INC10276272)",
+		"entities": [
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				0,
+				48,
+				"ORG"
+			],
+			[
+				"Integrated Operations Division",
+				49,
+				79,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				97,
+				105,
+				"MED"
+			],
+			[
+				"05-27-20",
+				120,
+				128,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Date As Of: 05/27/2020 Sitrep Update #: 87 Incident Start Time: 02/28/2020 Incident Location:",
+		"entities": [
+			[
+				"05/27/2020",
+				12,
+				22,
+				"DATE"
+			],
+			[
+				"02/28/2020",
+				64,
+				74,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Worldwide Incident End Time: Ongoing Impacted Sectors: Energy (Oil and Natural Gas), Food and Agriculture, Government Facilities, Healthcare and Reported Cause of Incident: COVID-19 Public Health, Transportation Systems (Aviation) Interagency Coordination: Internal and external On Scene Agencies: N/A partners Source of Information: Centers for Disease Control and Owner/Operator(s)",
+		"entities": [
+			[
+				"COVID-19",
+				173,
+				181,
+				"MED"
+			],
+			[
+				"Centers for Disease Control",
+				334,
+				361,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Involved: N/A Prevention (CDC), World Health Organization (WHO), CISA Regions, FEMA Incident Summary: The Cybersecurity and Infrastructure Security Agency (CISA) continues to monitor the evolving Coronavirus Disease, also known as COVID-19, situation closely.",
+		"entities": [
+			[
+				"CDC",
+				26,
+				29,
+				"ORG"
+			],
+			[
+				"World Health Organization",
+				32,
+				57,
+				"ORG"
+			],
+			[
+				"WHO",
+				59,
+				62,
+				"ORG"
+			],
+			[
+				"CISA",
+				65,
+				69,
+				"ORG"
+			],
+			[
+				"FEMA",
+				79,
+				83,
+				"ORG"
+			],
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				106,
+				154,
+				"ORG"
+			],
+			[
+				"CISA",
+				156,
+				160,
+				"ORG"
+			],
+			[
+				"Coronavirus Disease",
+				196,
+				215,
+				"MED"
+			],
+			[
+				"COVID-19",
+				231,
+				239,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "CISA is taking part in interagency and industry coordination calls and working with critical infrastructure partners to prepare for possible disruptions to critical infrastructure that may stem from widespread illness.",
+		"entities": [
+			[
+				"CISA",
+				0,
+				4,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FEMA reports approximately 5,304,772 (+100,264) cases and 342,029 (+4,342) deaths worldwide.",
+		"entities": [
+			[
+				"FEMA",
+				0,
+				4,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "In the U.S. there are approximately 1,649,469 (+18,666) cases and 97,957 (+517) deaths.",
+		"entities": [
+			[
+				"U.S.",
+				7,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Key Points: •",
+		"entities": []
+	},
+	{
+		"content": "FEMA deployed 3,000 (‐29) employees in support of COVID-19 response •",
+		"entities": [
+			[
+				"FEMA",
+				0,
+				4,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				50,
+				58,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "14,131,277",
+		"entities": []
+	},
+	{
+		"content": "(+503,898) COVID-19 tests administered nationwide as of 26 May •",
+		"entities": [
+			[
+				"COVID-19",
+				11,
+				19,
+				"MED"
+			],
+			[
+				"26 May",
+				56,
+				62,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The CDC extended the order barring non-essential travel across the US borders with Canada and Mexico until 21 June •",
+		"entities": [
+			[
+				"CDC",
+				4,
+				7,
+				"ORG"
+			],
+			[
+				"US",
+				67,
+				69,
+				"GPE"
+			],
+			[
+				"Canada",
+				83,
+				89,
+				"GPE"
+			],
+			[
+				"Mexico",
+				94,
+				100,
+				"GPE"
+			],
+			[
+				"21 June",
+				107,
+				114,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "The CDC announced that up to 50% of antibody tests may be incorrect CRITICAL INFRASTRUCTURE IMPACTS ENERGY (Oil) More than 240 US oil and gas companies may be forced to file for bankruptcy protection during the next 2 years if oil prices remain low.",
+		"entities": [
+			[
+				"CDC",
+				4,
+				7,
+				"ORG"
+			],
+			[
+				"US",
+				127,
+				129,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "(Natural Gas)",
+		"entities": []
+	},
+	{
+		"content": "US liquified natural gas producers continue to face worldwide order cancellations amid weakened demand Cybersecurity and Infrastructure Security Agency (CISA) CISA Integrated Operations Coordination Center (CIOCC) –",
+		"entities": [
+			[
+				"US",
+				0,
+				2,
+				"NORP"
+			],
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				103,
+				152,
+				"ORG"
+			],
+			[
+				"CISA",
+				153,
+				157,
+				"ORG"
+			],
+			[
+				"CISA Integrated Operations Coordination",
+				159,
+				198,
+				"ORG"
+			],
+			[
+				"CIOCC",
+				207,
+				212,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Physical 202-282-9201 ciocc@cisa.dhs.gov FOR OFFICIAL USE ONLY Page 1 of 3 (TLP: GREEN)",
+		"entities": [
+			[
+				"202-282-9201",
+				9,
+				21,
+				"PHONE"
+			],
+			[
+				"ciocc@cisa.dhs.gov",
+				22,
+				40,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "FOR OFFICIAL USE ONLY (TLP: GREEN)",
+		"entities": []
+	},
+	{
+		"content": "Cybersecurity and Infrastructure Security Agency Integrated Operations Division FOOD AND AGRICULTURE NJ issued a framework to assist in minimizing the spread of COVID-19 for farm workers throughout the agricultural production process.",
+		"entities": [
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				0,
+				48,
+				"ORG"
+			],
+			[
+				"Integrated Operations Division",
+				49,
+				79,
+				"ORG"
+			],
+			[
+				"NJ",
+				101,
+				103,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				161,
+				169,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "A Seafood processing facility in Oregon laid off 500 employees due to 8 employees testing positive for COVID-19.",
+		"entities": [
+			[
+				"Oregon",
+				33,
+				39,
+				"LOC"
+			],
+			[
+				"COVID-19",
+				103,
+				111,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "There are continued closures and idled production in meat processing facilities across the Midwest; the trend is slowly improving with closed plants reopening and beginning to resume production.",
+		"entities": [
+			[
+				"Midwest",
+				91,
+				98,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "GOVERNMENT FACILITIES (Election Infrastructure)",
+		"entities": []
+	},
+	{
+		"content": "CT Governor signed an order allowing residents to vote absentee in the 11 August primaries.",
+		"entities": [
+			[
+				"CT Governor",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"11 August",
+				71,
+				80,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "NM:",
+		"entities": [
+			[
+				"NM",
+				0,
+				2,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Secretary of State will hold the state’s General Election School virtually in August.",
+		"entities": [
+			[
+				"Secretary of State",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"August",
+				78,
+				84,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "NY, IN, & DC:",
+		"entities": [
+			[
+				"NY",
+				0,
+				2,
+				"GPE"
+			],
+			[
+				"IN",
+				4,
+				6,
+				"GPE"
+			],
+			[
+				"DC",
+				10,
+				12,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Primary will be conducted on 2 June.",
+		"entities": [
+			[
+				"2 June",
+				29,
+				35,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "IN early voting locations opened Tuesday, one week before the primary election day, 2 June.",
+		"entities": [
+			[
+				"IN,",
+				0,
+				2,
+				"GPE"
+			],
+			[
+				"Tuesday,",
+				33,
+				41,
+				"DATE"
+			],
+			[
+				"2 June,",
+				84,
+				90,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Qualified voters do not need to wear a mask, respect social distancing, use gloves, sanitize hands at any point in voting process, or have a temperature in 'normal' range.",
+		"entities": []
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "DC:",
+		"entities": [
+			[
+				"DC",
+				0,
+				2,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The mayor announced voting centers for the Primary Election will be open through Election Day on 2 June.",
+		"entities": [
+			[
+				"The mayor",
+				0,
+				9,
+				"PERSON"
+			],
+			[
+				"2 June",
+				97,
+				103,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "HEALTHCARE AND PUBLIC HEALTH AL Governor announced a new health order that extends to 3 July and has changes subject to social distancing and sanitation rules and guidelines.",
+		"entities": [
+			[
+				"AL Governor",
+				29,
+				40,
+				"PERSON"
+			],
+			[
+				"3 July",
+				86,
+				92,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "A second case of Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19 has been confirmed by the Fairfax Health District.",
+		"entities": [
+			[
+				"Multisystem Inflammatory Syndrome in Children",
+				17,
+				62,
+				"MED"
+			],
+			[
+				"MIS-C",
+				64,
+				69,
+				"MED"
+			],
+			[
+				"COVID-19",
+				87,
+				95,
+				"MED"
+			],
+			[
+				"Fairfax Health District",
+				122,
+				145,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The Ohio National Guard will begin testing all staff and certain residents within Ohio’s 960 nursing homes.",
+		"entities": [
+			[
+				"Ohio National Guard",
+				4,
+				23,
+				"ORG"
+			],
+			[
+				"Ohio",
+				82,
+				86,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "TRANSPORTATION SYSTEMS (Aviation)",
+		"entities": []
+	},
+	{
+		"content": "The economic Impact of Coronavirus on U.S. Commercial Airports will now significantly set back U.S. airports from stable growth prospects.",
+		"entities": [
+			[
+				"Coronavirus",
+				23,
+				34,
+				"MED"
+			],
+			[
+				"U.S.",
+				38,
+				42,
+				"NORP"
+			],
+			[
+				"U.S.",
+				95,
+				99,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "A total loss of $23.3B is expected • COVID-19 has forced several airlines across the globe to restructure or cease operations The FAA issued an exemption that allows US airlines to carry cargo on seats in airplane cabins when no passengers are being transported TX Governor issued an Executive Order which terminates previous air travel restrictions which required temporary quarantines for air travelers arriving from several other states Cybersecurity and Infrastructure Security Agency (CISA) CISA Integrated Operations Coordination Center (CIOCC) –",
+		"entities": [
+			[
+				"COVID-19",
+				37,
+				45,
+				"MED"
+			],
+			[
+				"FAA",
+				130,
+				133,
+				"ORG"
+			],
+			[
+				"US",
+				166,
+				168,
+				"NORP"
+			],
+			[
+				"TX Governor",
+				262,
+				273,
+				"PERSON"
+			],
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				440,
+				488,
+				"ORG"
+			],
+			[
+				"CISA",
+				490,
+				494,
+				"ORG"
+			],
+			[
+				"CISA Integrated Operations Coordination Center",
+				496,
+				542,
+				"ORG"
+			],
+			[
+				"CIOCC",
+				544,
+				549,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Physical 202-282-9201 ciocc@cisa.dhs.gov FOR OFFICIAL USE ONLY Page 2 of 3 (TLP: GREEN)",
+		"entities": [
+			[
+				"202-282-9201",
+				9,
+				21,
+				"PHONE"
+			],
+			[
+				"ciocc@cisa.dhs.gov",
+				22,
+				40,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "FOR OFFICIAL USE ONLY (TLP: GREEN)",
+		"entities": []
+	},
+	{
+		"content": "Cybersecurity and Infrastructure Security Agency Integrated Operations Division (Freight Rail) Low volume of cargo shipments including oil and overseas goods are resulting in reduced railroad activity.",
+		"entities": [
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				0,
+				48,
+				"ORG"
+			],
+			[
+				"Integrated Operations Division",
+				49,
+				79,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "CSX and Canadian Pacific Railroads have instituted voluntary furloughs.",
+		"entities": [
+			[
+				"CSX",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"Canadian Pacific",
+				8,
+				24,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(Pipeline) Pipeline utilization is forecast to fall below 60% in 2021 ACTIVATIONS AND DECLARATIONS The ReOpen DC Advisory Group recommended that DC reopen in 4 stages.",
+		"entities": [
+			[
+				"2021",
+				65,
+				69,
+				"DATE"
+			],
+			[
+				"ReOpen DC Advisory Group",
+				103,
+				127,
+				"ORG"
+			],
+			[
+				"DC",
+				145,
+				147,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Tentative reopen date would be 29 May, if DC continues downward trends, MI:",
+		"entities": [
+			[
+				"29 May,",
+				31,
+				38,
+				"DATE"
+			],
+			[
+				"DC",
+				42,
+				44,
+				"GPE"
+			],
+			[
+				"MI",
+				72,
+				74,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The governor’s executive order to reopen retail businesses and auto dealerships statewide takes effect on 26 May. MN:",
+		"entities": [
+			[
+				"26 May",
+				106,
+				112,
+				"DATE"
+			],
+			[
+				"MN",
+				114,
+				116,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "A gradual return of youth sports will begin on 1 June.",
+		"entities": [
+			[
+				"1 June",
+				47,
+				53,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "NJ:",
+		"entities": [
+			[
+				"NJ",
+				0,
+				2,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The governor issued an executive order allowing groups of 25 for gatherings and businesses (previously limited to 10) and opening campgrounds statewide.",
+		"entities": [
+			[
+				"The governor",
+				0,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "NY:",
+		"entities": [
+			[
+				"NY",
+				0,
+				2,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The governor announced on 25 May that all NY professional sports leagues will be able to begin training camps.",
+		"entities": [
+			[
+				"The governor",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"25 May",
+				26,
+				32,
+				"DATE"
+			],
+			[
+				"NY",
+				42,
+				44,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The New York Stock Exchange starts a phased reopening of the trading floor Tuesday.",
+		"entities": [
+			[
+				"New York Stock Exchange",
+				4,
+				27,
+				"ORG"
+			],
+			[
+				"Tuesday",
+				75,
+				82,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "TX:",
+		"entities": [
+			[
+				"TX",
+				0,
+				2,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Restaurants may operate for dine-in service up to 50% occupancy Northern Virginia has met four of the six threshold metrics needed to transition to the first phase of reopening.",
+		"entities": [
+			[
+				"Northern Virginia",
+				64,
+				81,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Those include having enough hospital beds and intensive care capacity and having a downward trend of positive tests and hospitalizations over a period of 14 days.",
+		"entities": [
+			[
+				"intensive care capacity",
+				46,
+				69,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "The region still has not met two important metrics: •",
+		"entities": []
+	},
+	{
+		"content": "It does not have an increasing and sustainable supply of PPE, and it has not sufficiently increased testing and tracing to meet the established regional threshold.",
+		"entities": [
+			[
+				"PPE",
+				57,
+				60,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "WARNING:",
+		"entities": []
+	},
+	{
+		"content": "Information in this report is FOUO//TLP: GREEN.",
+		"entities": []
+	},
+	{
+		"content": "Recipients may only share TLP:GREEN information with peers and partner organizations within their sector or community, but not via publicly accessible channels.",
+		"entities": []
+	},
+	{
+		"content": "This information may be circulated widely within a particular community but may not be released outside of the community, consistent with both the DHS policy relating to safeguarding FOUO information (link here) and with the Traffic Light Protocol, http://www.us-cert.gov/tlp.",
+		"entities": [
+			[
+				"DHS",
+				147,
+				150,
+				"ORG"
+			],
+			[
+				"http://www.us-cert.gov/tlp",
+				249,
+				275,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Information in this report is not customarily in the public domain and may be exempt from public release under the Freedom of Information Act (5 U.S.C. § 552).",
+		"entities": [
+			[
+				"Freedom of Information Act",
+				115,
+				141,
+				"LAW"
+			],
+			[
+				"5 U.S.C. § 552",
+				143,
+				157,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Further, this section may contain or be based upon commercial or financial information, which is privileged or confidential, law enforcement sensitive, or deliberative/pre-decisional material.",
+		"entities": []
+	},
+	{
+		"content": "DHS personnel are reminded of their obligations under DHS Form 11000-6, Non-Disclosure Agreement.",
+		"entities": [
+			[
+				"DHS",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"DHS Form 11000-6",
+				54,
+				70,
+				"LAW"
+			],
+			[
+				"Non-Disclosure Agreement",
+				72,
+				96,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Further dissemination of any of the information contained in this REPORT requires express consent from the CIOCC.",
+		"entities": [
+			[
+				"CIOCC",
+				107,
+				112,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Cybersecurity and Infrastructure Security Agency (CISA) CISA Integrated Operations Coordination Center (CIOCC) –",
+		"entities": [
+			[
+				"Cybersecurity and Infrastructure Security Agency",
+				0,
+				48,
+				"ORG"
+			],
+			[
+				"CISA",
+				50,
+				54,
+				"ORG"
+			],
+			[
+				"CISA Integrated Operations Coordination Center",
+				56,
+				102,
+				"ORG"
+			],
+			[
+				"CIOCC",
+				104,
+				109,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Physical 202-282-9201 ciocc@cisa.dhs.gov FOR OFFICIAL USE ONLY Page 3 of 3 (TLP: GREEN) \"]",
+		"entities": [
+			[
+				"202-282-9201",
+				9,
+				21,
+				"PHONE"
+			],
+			[
+				"ciocc@cisa.dhs.gov",
+				22,
+				40,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "[\"*** WARNING:",
+		"entities": []
+	},
+	{
+		"content": "This email originated outside of the Mohave County network and or systems.",
+		"entities": [
+			[
+				"Mohave County",
+				37,
+				50,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "DO NOT CLICK links or attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "*",
+		"entities": []
+	},
+	{
+		"content": "** Hello County Partners, Meeting Dates 1.",
+		"entities": []
+	},
+	{
+		"content": "Our next State-County meeting is scheduled for Thursday, June 25th, 2020.",
+		"entities": [
+			[
+				"State-County",
+				9,
+				21,
+				"NORP"
+			],
+			[
+				"Thursday, June 25th, 2020",
+				47,
+				72,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Agenda is forthcoming.",
+		"entities": []
+	},
+	{
+		"content": "Send agenda items to Bianca.Soto@azdhs.gov at least 1 week prior to the meeting.",
+		"entities": [
+			[
+				"Bianca.Soto@azdhs.gov",
+				21,
+				42,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Quarterly webinar meeting is scheduled for Wednesday, May 20th, 2020.",
+		"entities": [
+			[
+				"Wednesday, May 20th, 2020",
+				43,
+				68,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Click on the link below; navigate to the DAVE County Quarterly Webinar for registration information.",
+		"entities": [
+			[
+				"DAVE",
+				41,
+				45,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "https://azdhs.gov/licensing/vital- records/index.php#dave-county Funeral Home Death 1.",
+		"entities": [
+			[
+				"https://azdhs.gov/licensing/vital- records/index.php#dave-county",
+				0,
+				64,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "**",
+		"entities": []
+	},
+	{
+		"content": "New",
+		"entities": []
+	},
+	{
+		"content": "** With the goals of ensuring we provide the National Center for Health Statistics with quality and Data Quality Report complete data including adhering to Arizona death registration time frames regarding statute and administrative – County Level st code, we are rolling out our 1 phase of data quality reports.",
+		"entities": [
+			[
+				"National Center for Health Statistics",
+				45,
+				82,
+				"ORG"
+			],
+			[
+				"Arizona",
+				156,
+				163,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "The attached reports represent the timeliness and completeness of death registrations for all funeral homes in your county.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "The 2nd phase of data quality reports will focus on each facility.",
+		"entities": []
+	},
+	{
+		"content": "These reports are forthcoming.",
+		"entities": []
+	},
+	{
+		"content": "If you have any questions, please contact Bianca.Soto@azdhs.gov COVID-19 1.",
+		"entities": [
+			[
+				"Bianca.Soto@azdhs.gov",
+				42,
+				63,
+				"EMAIL"
+			],
+			[
+				"COVID-19",
+				64,
+				72,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Useful links for reference Informational Links https://azdhs.gov/index.php",
+		"entities": [
+			[
+				"https://azdhs.gov/index.php",
+				47,
+				74,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "https://emergency.cdc.gov/coca/calls/2020/callinfo_041620.asp 2.",
+		"entities": [
+			[
+				"https://emergency.cdc.gov/coca/calls/2020/callinfo_041620.asp",
+				0,
+				61,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "New Video (3 minutes) Guidance for Certification of COVID-19 Deaths https://www.youtube.com/watch?v=oL3VMwieAms Important Links 1.",
+		"entities": [
+			[
+				"COVID-19",
+				52,
+				60,
+				"MED"
+			],
+			[
+				"https://www.youtube.com/watch?v=oL3VMwieAms",
+				68,
+				111,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Electronic Version of the BVR Binder: https://drive.google.com/open?id=122H_m4i5s1pxxJItarHIgd- o4t0RjFOS",
+		"entities": [
+			[
+				"BVR",
+				26,
+				29,
+				"ORG"
+			],
+			[
+				"https://drive.google.com/open?id=122H_m4i5s1pxxJItarHIgd- o4t0RjFOS",
+				38,
+				105,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "o This link contains the most current electronic version of all items that should be in your BVR Support Binder.",
+		"entities": [
+			[
+				"BVR",
+				93,
+				96,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Birth Training Link: https://ebrs.azvitals.com/DocumentManagement/Home/GuestView?q=jJ6uFKGUJVVTbgBa2-2B-Nuhb0sKBgOPNbA",
+		"entities": [
+			[
+				"https://ebrs.azvitals.com/DocumentManagement/Home/GuestView?q=jJ6uFKGUJVVTbgBa2-2B-Nuhb0sKBgOPNbA",
+				21,
+				118,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "o This link contains all current Birth resources.",
+		"entities": []
+	},
+	{
+		"content": "3.Death Training Link: https://ebrs.azvitals.com/DocumentManagement/Home/GuestView?q=jJ6uFKGUJVXgI6CRvxWxeFWAOEFNlzXE",
+		"entities": [
+			[
+				"https://ebrs.azvitals.com/DocumentManagement/Home/GuestView?q=jJ6uFKGUJVXgI6CRvxWxeFWAOEFNlzXE",
+				23,
+				117,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "o This link contains all current Death resources.",
+		"entities": []
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "Fetal Death Training Link: https://ebrs.azvitals.com/DocumentManagement/Home/GuestView?q=jJ6uFKGUJVWhYnGMqHK0CAnst7c3R3jy",
+		"entities": [
+			[
+				"https://ebrs.azvitals.com/DocumentManagement/Home/GuestView?q=jJ6uFKGUJVWhYnGMqHK0CAnst7c3R3jy",
+				27,
+				121,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "o This link contains all current Fetal Death resources.",
+		"entities": []
+	},
+	{
+		"content": "5.",
+		"entities": []
+	},
+	{
+		"content": "DAVE Training webpage:",
+		"entities": [
+			[
+				"DAVE",
+				0,
+				4,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "https://azdhs.gov/licensing/vital-records/index.php#dave-home",
+		"entities": [
+			[
+				"https://azdhs.gov/licensing/vital-records/index.php#dave-home",
+				0,
+				61,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "o This is a public facing web page that includes all resources created for all DAVE external partners.",
+		"entities": [
+			[
+				"DAVE",
+				79,
+				83,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "NCHS Training Materials: https://www.cdc.gov/nchs/nvss/training-and-instructional-materials.htm",
+		"entities": [
+			[
+				"NCHS",
+				0,
+				4,
+				"ORG"
+			],
+			[
+				"https://www.cdc.gov/nchs/nvss/training-and-instructional-materials.htm",
+				25,
+				95,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "o This web page was created by the CDC and houses several Birth, Death and Fetal Death Training resources.",
+		"entities": [
+			[
+				"CDC",
+				35,
+				38,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "VitalChek Orders – 1.",
+		"entities": []
+	},
+	{
+		"content": "Gentle reminder to those offices that process VitalChek orders in DAVE.",
+		"entities": [
+			[
+				"DAVE",
+				66,
+				70,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Offices include; BVR, Cochise, Reminder Maricopa and Pima.",
+		"entities": [
+			[
+				"BVR",
+				17,
+				20,
+				"ORG"
+			],
+			[
+				"Cochise",
+				22,
+				29,
+				"GPE"
+			],
+			[
+				"Maricopa",
+				40,
+				48,
+				"GPE"
+			],
+			[
+				"Pima",
+				53,
+				57,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Please ensure you are checking the Shipping Address Invalid Order Work queue.",
+		"entities": []
+	},
+	{
+		"content": "Orders with a foreign mailing address may appear in this queue for your review and processing.",
+		"entities": []
+	},
+	{
+		"content": "Standing Reminders 1.",
+		"entities": []
+	},
+	{
+		"content": "All county offices are required to deposit any funds available to them in DAVE on a daily basis by processing their respective VitalChek Close Report.",
+		"entities": [
+			[
+				"DAVE",
+				74,
+				78,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "Contact us CountySupport@azdhs.gov if you have any questions on how to do this - we're here to help you :) 2.",
+		"entities": [
+			[
+				"CountySupport@azdhs.gov",
+				11,
+				34,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Do Not Share Passwords in any Vital Records Systems.",
+		"entities": []
+	},
+	{
+		"content": "Contact us at CountySupport@azdhs.gov if you need your password reset.",
+		"entities": [
+			[
+				"CountySupport@azdhs.gov",
+				14,
+				37,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "Send all Security Paper Packing Slips for review and provisioning to Toni.Miller@azdhs.gov.",
+		"entities": [
+			[
+				"Toni.Miller@azdhs.gov",
+				69,
+				90,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Refer to policy 009 Security Paper – Ordering, Receipt, and Handling for additional information.",
+		"entities": []
+	},
+	{
+		"content": "4.",
+		"entities": []
+	},
+	{
+		"content": "All surrogacy and gender marker orders/changes must be submitted to the BVR for review.",
+		"entities": [
+			[
+				"BVR",
+				72,
+				75,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "All subpoenas must be forwarded to the BVR for review and response.",
+		"entities": [
+			[
+				"BVR",
+				39,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If possible, do not accept service of a subpoena and direct all subpoenas pertaining to vital records to CountySupport@azdhs.gov 5.",
+		"entities": [
+			[
+				"CountySupport@azdhs.gov",
+				105,
+				128,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Vital records systems shall not be accessed outside of licensed facilities or offices.",
+		"entities": []
+	},
+	{
+		"content": "6.",
+		"entities": []
+	},
+	{
+		"content": "Please email Bianca.Soto@azdhs.gov",
+		"entities": [
+			[
+				"Bianca.Soto@azdhs.gov",
+				13,
+				34,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "and Toni.Miller@azdhs.gov if you are considering any changes to your vital records operational services.",
+		"entities": [
+			[
+				"Toni.Miller@azdhs.gov",
+				4,
+				25,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "This includes but is not limited to office location changes, office additions, fee changes, application changes, etc.",
+		"entities": []
+	},
+	{
+		"content": "Thank you for all you do!",
+		"entities": []
+	},
+	{
+		"content": "Thank you for your time.",
+		"entities": []
+	},
+	{
+		"content": "Bianca Soto Educator & Quality Assurance Manager Arizona Department of Health Services 1818 West Adams Avenue, Phoenix, AZ 85007 Direct 602-364-1252 Email Bianca.Soto@azdhs.gov Health and Wellness for all Arizonans CONFIDENTIALITY NOTICE:",
+		"entities": [
+			[
+				"Bianca Soto",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"Educator & Quality Assurance Manager",
+				12,
+				48,
+				"TITLE"
+			],
+			[
+				"Arizona Department of Health Services",
+				49,
+				86,
+				"ORG"
+			],
+			[
+				"1818 West Adams Avenue",
+				87,
+				109,
+				"ADDRESS"
+			],
+			[
+				"Phoenix, AZ",
+				111,
+				122,
+				"LOC"
+			],
+			[
+				"602-364-1252",
+				136,
+				148,
+				"PHONE"
+			],
+			[
+				"Bianca.Soto@azdhs.gov",
+				155,
+				176,
+				"EMAIL"
+			],
+			[
+				"Arizonans",
+				205,
+				214,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "This e-mail is the property of the Arizona Department of Health Services and contains information that may be PRIVILEGED, CONFIDENTIAL, or otherwise exempt from disclosure by applicable law.",
+		"entities": [
+			[
+				"Arizona Department of Health Services",
+				35,
+				72,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It is intended only for the person(s) to whom it is addressed.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this communication in error, please do not retain or distribute it.",
+		"entities": []
+	},
+	{
+		"content": "Please notify the sender immediately by e-mail at the address shown above and delete the original message.",
+		"entities": []
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "Mail Attachment image.png Mail Attachment Death Data Quality Reports_Provided 05-15-2020.pdf \"]",
+		"entities": []
+	},
+	{
+		"content": "['https://biodesign.asu.edu/research/clinical-testing/critical-covid-19-trends?for-guid=7ac72ec7-d86a-45e5-9454- 151d2821689c&utm_source=azcentral-Coronavirus%20Watch&utm_medium=email&utm_campaign=baseline_greeting&utm_term=newsletter_greeting",
+		"entities": [
+			[
+				"https://biodesign.asu.edu/research/clinical-testing/critical-covid-19-trends?for-guid=7ac72ec7-d86a-45e5-9454- 151d2821689c&utm_source=azcentral-Coronavirus%20Watch&utm_medium=email&utm_campaign=baseline_greeting&utm_term=newsletter_greeting",
+				2,
+				243,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "newsletter_greeting Michael Oxtoby Interim Director/Chief Health Officer Coconino County Health and Human Services 2625 N. King Street Flagstaff, AZ 86004",
+		"entities": [
+			[
+				"Michael Oxtoby",
+				20,
+				34,
+				"PERSON"
+			],
+			[
+				"Interim Director/Chief Health Officer",
+				35,
+				72,
+				"TITLE"
+			],
+			[
+				"Coconino County Health and Human Services",
+				73,
+				114,
+				"ORG"
+			],
+			[
+				"2625 N. King Street",
+				115,
+				134,
+				"ADDRESS"
+			],
+			[
+				"Flagstaff, AZ",
+				135,
+				148,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Phone: 928-679-7241 Fax: 928-679-7205 CONFIDENTIALITY NOTICE:",
+		"entities": [
+			[
+				"928-679-7241",
+				7,
+				19,
+				"PHONE"
+			],
+			[
+				"928-679-7205",
+				25,
+				37,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "This email (including any attachments) is the property of the Coconino County Health and Human Services department and contains information that may be PRIVILEGED, CONFIDENTIAL or otherwise exempt from disclosure by applicable law.",
+		"entities": [
+			[
+				"Coconino County Health and Human Services",
+				62,
+				103,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It is intended only for the person(s) to whom it is addressed.",
+		"entities": []
+	},
+	{
+		"content": "If you receive this communication in error, please do not retain or distribute it, notify the sender immediately by email at the address shown above and delete the original message.",
+		"entities": []
+	},
+	{
+		"content": "Please note that Coconino County is subject to Arizona statutes relating to public records law.",
+		"entities": [
+			[
+				"Coconino County",
+				17,
+				32,
+				"GPE"
+			],
+			[
+				"Arizona",
+				47,
+				54,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Thank you.",
+		"entities": []
+	},
+	{
+		"content": "1 ']",
+		"entities": []
+	},
+	{
+		"content": "['Good morning Marilyn and Hoyt, My team asked the ombudsman for an update on the status of LTCFs in the area.",
+		"entities": [
+			[
+				"Marilyn",
+				15,
+				22,
+				"PERSON"
+			],
+			[
+				"Hoyt",
+				27,
+				31,
+				"PERSON"
+			],
+			[
+				"LTCFs",
+				92,
+				97,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Here what we’ve told:",
+		"entities": []
+	},
+	{
+		"content": "Facility Accepting New Admissions?",
+		"entities": []
+	},
+	{
+		"content": "Bonnell",
+		"entities": [
+			[
+				"Bonnell",
+				0,
+				7,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Yes, but extremely limited—only from independent and assisted living on Good Samaritan campus.",
+		"entities": [
+			[
+				"Good Samaritan",
+				72,
+				86,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "More TBD.",
+		"entities": []
+	},
+	{
+		"content": "Centennial HCC Preparing to accept COVID patients (up to 10 now, max ~30).",
+		"entities": [
+			[
+				"Centennial HCC",
+				0,
+				14,
+				"FAC"
+			],
+			[
+				"COVID",
+				35,
+				40,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "At least a week away—currently accepting and cohorting COVID+ patients from Kenton Manor.",
+		"entities": [
+			[
+				"COVID+",
+				55,
+				61,
+				"MED"
+			],
+			[
+				"Kenton Manor",
+				76,
+				88,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "The Center @Centerplace Preparing for 2nd floor non-COVID unit (27 private rooms).",
+		"entities": [
+			[
+				"The Center @Centerplace",
+				0,
+				23,
+				"FAC"
+			],
+			[
+				"COVID",
+				52,
+				57,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Reviewing plans now.",
+		"entities": []
+	},
+	{
+		"content": "Columbine No—in current outbreak.",
+		"entities": [
+			[
+				"Columbine",
+				0,
+				9,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "FairAcres Manor Preparing for non-COVID admissions—must have no new onset of illness x 14 days (on day 11).",
+		"entities": [
+			[
+				"FairAcres Manor",
+				0,
+				15,
+				"FAC"
+			],
+			[
+				"COVID",
+				34,
+				39,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Start slow but capacity ~30.",
+		"entities": []
+	},
+	{
+		"content": "Grace Pointe No—recently had COVID + resident.",
+		"entities": [
+			[
+				"Grace Pointe",
+				0,
+				12,
+				"FAC"
+			],
+			[
+				"COVID",
+				29,
+				34,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Holding for 14 days.",
+		"entities": []
+	},
+	{
+		"content": "Kenton Manor No—current outbreak.",
+		"entities": [
+			[
+				"Kenton Manor",
+				0,
+				12,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Positive residents being sent to Centennial until release from isolation and will return.",
+		"entities": [
+			[
+				"Centennial",
+				33,
+				43,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "Life Care Center No—on hold; willing to accept non-COVID patients.",
+		"entities": [
+			[
+				"Life Care Center",
+				0,
+				16,
+				"FAC"
+			],
+			[
+				"COVID",
+				51,
+				56,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Have 2 suspect COVID residents; labs pending.",
+		"entities": [
+			[
+				"COVID",
+				15,
+				20,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Windsor Health Care Yes--limited admissions of non-COVID patients only Center Does this all sync with your teams’ awareness of LTCFs in the region?",
+		"entities": [
+			[
+				"Windsor Health Care",
+				0,
+				19,
+				"FAC"
+			],
+			[
+				"COVID",
+				51,
+				56,
+				"MED"
+			],
+			[
+				"LTCFs",
+				127,
+				132,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Are you in need of more LTCF beds to discharge COVID-19 positive patients ?",
+		"entities": [
+			[
+				"LTCF",
+				24,
+				28,
+				"MED"
+			],
+			[
+				"COVID-19",
+				47,
+				55,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "If so, about how many beds per week?",
+		"entities": []
+	},
+	{
+		"content": "Thanks … Mark Mark E. Wallace, MD, MPH Executive Director and Chief Health Officer Department of Public Health & Environment 1555 N. 17th Avenue - Greeley, Colorado - 80631 Tele: 970.304.6410 - Fax: 970.304.6412 Web: http://www.weldhealth.org",
+		"entities": [
+			[
+				"Mark",
+				9,
+				13,
+				"PERSON"
+			],
+			[
+				"Mark E. Wallace",
+				14,
+				29,
+				"PERSON"
+			],
+			[
+				"MD",
+				31,
+				33,
+				"TITLE"
+			],
+			[
+				"MPH",
+				35,
+				38,
+				"TITLE"
+			],
+			[
+				"Executive Director",
+				39,
+				57,
+				"TITLE"
+			],
+			[
+				"Chief Health Officer",
+				62,
+				82,
+				"TITLE"
+			],
+			[
+				"Department of Public Health & Environment",
+				83,
+				124,
+				"ORG"
+			],
+			[
+				"1555 N. 17th Avenue",
+				125,
+				144,
+				"ADDRESS"
+			],
+			[
+				"Greeley, Colorado",
+				147,
+				164,
+				"LOC"
+			],
+			[
+				"970.304.6410",
+				179,
+				191,
+				"PHONE"
+			],
+			[
+				"970.304.6412",
+				199,
+				211,
+				"PHONE"
+			],
+			[
+				"http://www.weldhealth.org",
+				217,
+				242,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Confidentiality Notice: This electronic transmission and any attached documents or other writings are intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this communication in error, please immediately notify sender by return e-mail and destroy the communication.",
+		"entities": []
+	},
+	{
+		"content": "Any disclosure, copying, distribution or the taking of any action concerning the contents of this communication or any attachments by anyone other than the named recipient is strictly prohibited. ']",
+		"entities": []
+	},
+	{
+		"content": "['Gary, I am trying to think COVID again!",
+		"entities": [
+			[
+				"Gary",
+				2,
+				6,
+				"PERSON"
+			],
+			[
+				"COVID",
+				29,
+				34,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "But yes, our attention has been diverted, unfortunately.",
+		"entities": []
+	},
+	{
+		"content": "Thanks for the kind words.",
+		"entities": []
+	},
+	{
+		"content": "I think it would be helpful to have a quick call around what you’ve seen over this past week.",
+		"entities": []
+	},
+	{
+		"content": "We haven’t talked about wanting to transition to yellow, and it sounds like things are sort of the same this week as last.",
+		"entities": []
+	},
+	{
+		"content": "We’d love your perspective on it if you have 15 minutes tomorrow.",
+		"entities": []
+	},
+	{
+		"content": "Thank you!",
+		"entities": []
+	},
+	{
+		"content": "RACHEL OTTO Chief of Staff O: 801-535-7732 C: 801.835.8763 OFFICE of the MAYOR SALT LAKE CITY CORPORATION WWW.SLCMAYOR.COM WWW.SLC.GOV",
+		"entities": [
+			[
+				"RACHEL OTTO",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"Chief of Staff",
+				12,
+				26,
+				"TITLE"
+			],
+			[
+				"801-535-7732",
+				30,
+				42,
+				"PHONE"
+			],
+			[
+				"801.835.8763",
+				46,
+				58,
+				"PHONE"
+			],
+			[
+				"OFFICE of the MAYOR",
+				59,
+				78,
+				"ORG"
+			],
+			[
+				"SALT LAKE CITY CORPORATION",
+				79,
+				105,
+				"GPE"
+			],
+			[
+				"WWW.SLCMAYOR.COM",
+				106,
+				122,
+				"URL"
+			],
+			[
+				"WWW.SLC.GOV",
+				123,
+				134,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "From: Gary Edwards <GEdwards@slco.org",
+		"entities": [
+			[
+				"Gary Edwards",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"GEdwards@slco.org",
+				20,
+				37,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Date: Tuesday, June 2, 2020 at 3:04 PM",
+		"entities": [
+			[
+				"Tuesday, June 2, 2020",
+				6,
+				27,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: \"Otto, Rachel\" <Rachel.Otto@slcgov.com>",
+		"entities": [
+			[
+				"Otto, Rachel",
+				5,
+				17,
+				"PERSON"
+			],
+			[
+				"Rachel.Otto@slcgov.com",
+				20,
+				42,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: (EXTERNAL) COVID Rachel, I know you guys are not thinking COVID right now, but wanted to make sure I knew of any desire on the City’s part to transition to yellow.",
+		"entities": [
+			[
+				"COVID",
+				20,
+				25,
+				"MED"
+			],
+			[
+				"Rachel",
+				26,
+				32,
+				"PERSON"
+			],
+			[
+				"COVID",
+				67,
+				72,
+				"MED"
+			],
+			[
+				"City",
+				136,
+				140,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "In looking at zip codes 84104 and 84116, both seemed to peak the week of 4/26-5/2, 84116 much higher than 84104 (71 vs 44).",
+		"entities": [
+			[
+				"4/26-5/2",
+				73,
+				81,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "84104 has remained fairly stable since that time (from 44 to 38 cases per week) while 84116 has been fairly unpredictable (from 71 to 36 cases per week, with an increase seen over the last week).",
+		"entities": []
+	},
+	{
+		"content": "Please let me know if you want to discuss, or what your desires might be when the Governor make announcements Thursday.",
+		"entities": [
+			[
+				"Governor",
+				82,
+				90,
+				"PERSON"
+			],
+			[
+				"Thursday",
+				110,
+				118,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "I also want to say how impressed I was with SLCPD and the other officers.",
+		"entities": [
+			[
+				"SLCPD",
+				44,
+				49,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Thank you. ']",
+		"entities": []
+	},
+	{
+		"content": "[\"Good morning Trish.",
+		"entities": [
+			[
+				"Trish",
+				15,
+				20,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Our leadership team is in discussion on this.",
+		"entities": []
+	},
+	{
+		"content": "As soon as we have a decision we will get in touch.",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Tyler From: Trish McClain <trishm@nchd.org>",
+		"entities": [
+			[
+				"Tyler",
+				8,
+				13,
+				"PERSON"
+			],
+			[
+				"Trish McClain",
+				20,
+				33,
+				"PERSON"
+			],
+			[
+				"trishm@nchd.org",
+				35,
+				50,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Tuesday, April 21, 2020 8:22 AM",
+		"entities": [
+			[
+				"Tuesday, April 21, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Chantelle Johnson <Chantelle_Johnson@cargill.com",
+		"entities": [
+			[
+				"Chantelle Johnson",
+				4,
+				21,
+				"PERSON"
+			],
+			[
+				"Chantelle_Johnson@cargill.com",
+				23,
+				52,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Tyler Luft <Tyler_Luft@cargill.com>",
+		"entities": [
+			[
+				"Tyler Luft",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"Tyler_Luft@cargill.com",
+				12,
+				34,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: Re: Thanks for being on today's call [EXTERNAL]",
+		"entities": []
+	},
+	{
+		"content": "This email came from outside of Cargill.",
+		"entities": [
+			[
+				"Cargill",
+				32,
+				39,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Do not click links or open attachments unless you recognize the sender.",
+		"entities": []
+	},
+	{
+		"content": "If you suspect this is spam, send this email as an attachment to spam@cargill.com Good morning, I wanted to circle back to make sure I haven't missed anything.",
+		"entities": [
+			[
+				"spam@cargill.com",
+				65,
+				81,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Is it correct to say that at this time Cargill will not be pursuing a testing option for the Fort Morgan site?",
+		"entities": [
+			[
+				"Cargill",
+				39,
+				46,
+				"ORG"
+			],
+			[
+				"Fort Morgan",
+				93,
+				104,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Thanks and hope you both have a good day.",
+		"entities": []
+	},
+	{
+		"content": "Trish On Wed, Apr 15, 2020 at 4:30 PM Chantelle Johnson <Chantelle_Johnson@cargill.com> wrote: No worries – it is a crazy busy time for all of us.",
+		"entities": [
+			[
+				"Trish",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Wed, Apr 15, 2020",
+				9,
+				26,
+				"DATE"
+			],
+			[
+				"Chantelle Johnson",
+				38,
+				55,
+				"PERSON"
+			],
+			[
+				"Chantelle_Johnson@cargill.com",
+				57,
+				86,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "We did get the information we needed to share with our business.",
+		"entities": []
+	},
+	{
+		"content": "Thanks again for all the help and your time.",
+		"entities": []
+	},
+	{
+		"content": "Hang in there!",
+		"entities": []
+	},
+	{
+		"content": "Chantelle Johnson RN/BSN/COHN/CM Occupational Health and Worker’s Comp Manager Cargill Protein Cargill Helping the world thrive direct: 316-291-2152 | mobile: 316-648-5237 Wichita KS | Chantelle_Johnson@cargill.com \"]",
+		"entities": [
+			[
+				"Chantelle Johnson",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"RN/BSN/COHN/CM",
+				18,
+				32,
+				"TITLE"
+			],
+			[
+				"Occupational Health and Worker’s Comp Manager",
+				33,
+				78,
+				"TITLE"
+			],
+			[
+				"Cargill Protein",
+				79,
+				94,
+				"ORG"
+			],
+			[
+				"Cargill",
+				95,
+				102,
+				"ORG"
+			],
+			[
+				"316-291-2152",
+				136,
+				148,
+				"PHONE"
+			],
+			[
+				"316-648-5237",
+				159,
+				171,
+				"PHONE"
+			],
+			[
+				"Wichita KS",
+				172,
+				182,
+				"LOC"
+			],
+			[
+				"Chantelle_Johnson@cargill.com",
+				185,
+				214,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "['Everyone, 1.",
+		"entities": []
+	},
+	{
+		"content": "First: the email issue Brandon Smith mentioned on the call this morning is REAL.",
+		"entities": [
+			[
+				"Brandon Smith",
+				23,
+				36,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If possible, please send an email organization-",
+		"entities": []
+	},
+	{
+		"content": "wide to your staff because if they ever emailed me, or ever received an email from me, they most likely received that spam email.",
+		"entities": []
+	},
+	{
+		"content": "It went out to everyone who has ever been in my email box.",
+		"entities": []
+	},
+	{
+		"content": "It was very well done and the usual warning signs were not obvious.",
+		"entities": []
+	},
+	{
+		"content": "If anyone received an email from me this morning – Delete!",
+		"entities": []
+	},
+	{
+		"content": "Do not open!",
+		"entities": []
+	},
+	{
+		"content": "If opened, get your IT staff on this right away.",
+		"entities": []
+	},
+	{
+		"content": "Also, that spam attack created a process which deleted every incoming email sent to me; this was not fixed until IT staff reset everything (deactivated my account, scanned computer for viruses, established new password, set up 2-step authentication).",
+		"entities": []
+	},
+	{
+		"content": "For that reason, would you please respond to this email so I can confirm receipt?",
+		"entities": []
+	},
+	{
+		"content": "I will reach out by phone to those who don’t respond to make sure all are aware of this. 2.",
+		"entities": []
+	},
+	{
+		"content": "Attached please find a PDF version of the press announcement released by the Treasurer-Tax Collector, to extend the deadline for property tax payments to May 4, 2020.",
+		"entities": [
+			[
+				"Treasurer-Tax Collector",
+				77,
+				100,
+				"ORG"
+			],
+			[
+				"May 4, 2020",
+				154,
+				165,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Jordan Kaufman asked me to share with all of you that the county has taken the necessary steps to ensure there is enough liquidity in the Treasury Pool to withstand this extension.",
+		"entities": [
+			[
+				"Jordan Kaufman",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"Treasury",
+				138,
+				146,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "If you sent me an email this morning to advise of a point of contact to receive information from Public Health on noncompliant businesses, I did not receive it.",
+		"entities": [
+			[
+				"Public Health",
+				97,
+				110,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The only response I’ve received so far is from California City.",
+		"entities": [
+			[
+				"California City",
+				47,
+				62,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Thanks, Geo Georgianna Armstrong Kern County Office of Emergency Services 2601 Panorama Drive, Building B, Bakersfield, CA 93306",
+		"entities": [
+			[
+				"Geo",
+				8,
+				11,
+				"PERSON"
+			],
+			[
+				"Georgianna Armstrong",
+				12,
+				32,
+				"PERSON"
+			],
+			[
+				"Kern County Office of Emergency Services",
+				33,
+				73,
+				"ORG"
+			],
+			[
+				"2601 Panorama Drive, Building B,",
+				74,
+				106,
+				"ADDRESS"
+			],
+			[
+				"Bakersfield, CA",
+				107,
+				122,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Desk: 661-873-2604 Cell: 661-330-0195 Email: garmstrong@kerncountyfire.org",
+		"entities": [
+			[
+				"661-873-2604",
+				6,
+				18,
+				"PHONE"
+			],
+			[
+				"661-330-0195",
+				25,
+				37,
+				"PHONE"
+			],
+			[
+				"garmstrong@kerncountyfire.org",
+				45,
+				74,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "From: Georgianna Armstrong <garmstrong@kerncountyfire.org>",
+		"entities": [
+			[
+				"Georgianna Armstrong",
+				6,
+				26,
+				"PERSON"
+			],
+			[
+				"garmstrong@kerncountyfire.org",
+				28,
+				57,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, April 2, 2020 6:11 PM",
+		"entities": [
+			[
+				"Thursday, April 2, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Bill Malinen <bmalinen@bvcsd.org>; daranda <daranda@stallionspringscsd.com>; Shelly Castaneda - Bakersfield College (shelly.castaneda@bakersfieldcollege.edu) <shelly.castaneda@bakersfieldcollege.edu>; mwilliamson@csub.edu; Christian Shannon <chshannon@kern.org>; Alinn <Alinn@californiacity-ca.gov>; Chris Huot <chuot@bakersfieldcity.us>; Craig Jones <cjones@cityoftaft.org>; Daniel Ortiz-Hernandez <daortiz@ci.wasco.ca.us>; David Tooley <DTooley@mcfarlandcity.org>; Gabriel Gonzalez <ggonzalez@shafter.com>; ggarrett <ggarrett@tehachapicityhall.com>; Jerry Breckinridge <jbreckinridge@arvin.org>; lrobison_com@bak.rr.com; Maribel Reyna <mreyna@cityofdelano.org>; Ron Strand <rstrand@ridgecrest-ca.gov>; Foxe, Brian L. (AFRC-240) <brian.foxe@nasa.gov",
+		"entities": [
+			[
+				"Bill Malinen",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"bmalinen@bvcsd.org",
+				18,
+				36,
+				"EMAIL"
+			],
+			[
+				"daranda@stallionspringscsd.com",
+				48,
+				78,
+				"EMAIL"
+			],
+			[
+				"Shelly Castaneda",
+				81,
+				97,
+				"PERSON"
+			],
+			[
+				"Bakersfield College",
+				100,
+				119,
+				"ORG"
+			],
+			[
+				"shelly.castaneda@bakersfieldcollege.edu",
+				121,
+				160,
+				"EMAIL"
+			],
+			[
+				"shelly.castaneda@bakersfieldcollege.edu",
+				163,
+				202,
+				"EMAIL"
+			],
+			[
+				"mwilliamson@csub.edu",
+				205,
+				225,
+				"EMAIL"
+			],
+			[
+				"Christian Shannon",
+				227,
+				244,
+				"PERSON"
+			],
+			[
+				"chshannon@kern.org",
+				246,
+				264,
+				"EMAIL"
+			],
+			[
+				"Alinn",
+				267,
+				272,
+				"PERSON"
+			],
+			[
+				"Alinn@californiacity-ca.gov",
+				274,
+				301,
+				"EMAIL"
+			],
+			[
+				"Chris Huot",
+				304,
+				314,
+				"PERSON"
+			],
+			[
+				"chuot@bakersfieldcity.us",
+				316,
+				340,
+				"EMAIL"
+			],
+			[
+				"Craig Jones",
+				343,
+				354,
+				"PERSON"
+			],
+			[
+				"cjones@cityoftaft.org",
+				356,
+				377,
+				"EMAIL"
+			],
+			[
+				"Daniel Ortiz-Hernandez",
+				380,
+				402,
+				"PERSON"
+			],
+			[
+				"daortiz@ci.wasco.ca.us",
+				404,
+				426,
+				"EMAIL"
+			],
+			[
+				"David Tooley",
+				429,
+				441,
+				"PERSON"
+			],
+			[
+				"DTooley@mcfarlandcity.org",
+				443,
+				468,
+				"EMAIL"
+			],
+			[
+				"Gabriel Gonzalez",
+				471,
+				487,
+				"PERSON"
+			],
+			[
+				"ggonzalez@shafter.com",
+				489,
+				510,
+				"EMAIL"
+			],
+			[
+				"ggarrett@tehachapicityhall.com",
+				523,
+				553,
+				"EMAIL"
+			],
+			[
+				"Jerry Breckinridge",
+				556,
+				574,
+				"PERSON"
+			],
+			[
+				"jbreckinridge@arvin.org",
+				576,
+				599,
+				"EMAIL"
+			],
+			[
+				"lrobison_com@bak.rr.com",
+				602,
+				625,
+				"EMAIL"
+			],
+			[
+				"Maribel Reyna",
+				627,
+				640,
+				"PERSON"
+			],
+			[
+				"mreyna@cityofdelano.org",
+				642,
+				665,
+				"EMAIL"
+			],
+			[
+				"Ron Strand",
+				668,
+				678,
+				"PERSON"
+			],
+			[
+				"rstrand@ridgecrest-ca.gov",
+				680,
+				705,
+				"EMAIL"
+			],
+			[
+				"Foxe, Brian L.",
+				708,
+				722,
+				"PERSON"
+			],
+			[
+				"brian.foxe@nasa.gov",
+				735,
+				754,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Megan Person <personm@kerncounty.com>; Brandon Smith <bssmith@kerncountyfire.org>; Steve Shoemaker ']",
+		"entities": [
+			[
+				"Megan Person",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"personm@kerncounty.com",
+				14,
+				36,
+				"EMAIL"
+			],
+			[
+				"Brandon Smith",
+				39,
+				52,
+				"PERSON"
+			],
+			[
+				"bssmith@kerncountyfire.org",
+				54,
+				80,
+				"EMAIL"
+			],
+			[
+				"Steve Shoemaker",
+				83,
+				98,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['CAUTION:",
+		"entities": []
+	},
+	{
+		"content": "This email originated from outside of the organization.",
+		"entities": []
+	},
+	{
+		"content": "Do not click links or open attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "Here you go.",
+		"entities": []
+	},
+	{
+		"content": "Please call me if you have questions or would like to discuss.",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Trey Trey Paris Taylor English Decisions | 1600 Parkwood Circle, Suite 200, Atlanta, GA 30339 P: 678.426.4626 | M: 404.754.1158 |",
+		"entities": [
+			[
+				"Trey",
+				8,
+				12,
+				"PERSON"
+			],
+			[
+				"Trey Paris",
+				13,
+				23,
+				"PERSON"
+			],
+			[
+				"Taylor English Decisions",
+				24,
+				48,
+				"ORG"
+			],
+			[
+				"1600 Parkwood Circle, Suite 200",
+				51,
+				82,
+				"ADDRESS"
+			],
+			[
+				"Atlanta, GA",
+				84,
+				95,
+				"LOC"
+			],
+			[
+				"678.426.4626",
+				105,
+				117,
+				"PHONE"
+			],
+			[
+				"404.754.1158",
+				123,
+				135,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "tparis@tedecisions.com \\xa0\\xa0 Website | vCard James Magazine Top 3 Governmental Affairs Firms ']",
+		"entities": [
+			[
+				"tparis@tedecisions.com",
+				0,
+				22,
+				"EMAIL"
+			],
+			[
+				"James Magazine",
+				48,
+				62,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['Please be advised that there is a press conference led by Emergency Management; Public Health and Phoebe on the latest impacts to Dougherty County.",
+		"entities": [
+			[
+				"Emergency Management",
+				60,
+				80,
+				"ORG"
+			],
+			[
+				"Public Health",
+				82,
+				95,
+				"ORG"
+			],
+			[
+				"Phoebe",
+				100,
+				106,
+				"PERSON"
+			],
+			[
+				"Dougherty County",
+				132,
+				148,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We will be streaming Facebook Live if you are unable to attend in person.",
+		"entities": [
+			[
+				"Facebook",
+				21,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "S Sharon D. Subadan, MPS, ICMA-CM, CPM City Manager Office of the City Manager Phone: 229.431.3234 Fax: 229.431.3223 401 Pine Avenue, 2nd Floor Albany, GA 31701 P.O. Box 447 Albany, GA 31702 www.albanyga.gov PUBLIC RECORDS NOTICE:",
+		"entities": [
+			[
+				"Sharon D. Subadan",
+				2,
+				19,
+				"PERSON"
+			],
+			[
+				"MPS",
+				21,
+				24,
+				"TITLE"
+			],
+			[
+				"ICMA-CM",
+				26,
+				33,
+				"TITLE"
+			],
+			[
+				"CPM City Manager",
+				35,
+				51,
+				"TITLE"
+			],
+			[
+				"Office of the City Manager",
+				52,
+				78,
+				"ORG"
+			],
+			[
+				"229.431.3234",
+				86,
+				98,
+				"PHONE"
+			],
+			[
+				"229.431.3223",
+				104,
+				116,
+				"PHONE"
+			],
+			[
+				"401 Pine Avenue, 2nd Floor",
+				117,
+				143,
+				"ADDRESS"
+			],
+			[
+				"Albany, GA",
+				144,
+				154,
+				"LOC"
+			],
+			[
+				"P.O. Box 447",
+				161,
+				173,
+				"ADDRESS"
+			],
+			[
+				"Albany, GA",
+				174,
+				184,
+				"LOC"
+			],
+			[
+				"www.albanyga.gov",
+				199,
+				207,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Georgia has a very broad public records law.",
+		"entities": [
+			[
+				"Georgia",
+				0,
+				7,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Most written communications to or from City and County officials regarding City and County business are public records available to the public and media upon request.",
+		"entities": [
+			[
+				"City",
+				39,
+				43,
+				"GPE"
+			],
+			[
+				"County",
+				48,
+				54,
+				"GPE"
+			],
+			[
+				"City",
+				75,
+				79,
+				"GPE"
+			],
+			[
+				"County",
+				84,
+				90,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Your email communications may be subject to public disclosure.",
+		"entities": []
+	},
+	{
+		"content": "38 ']",
+		"entities": []
+	},
+	{
+		"content": "['Good afternoon, Attached is the daily report of COVID-19 outbreak statistics for long term care facilities.",
+		"entities": [
+			[
+				"COVID-19",
+				50,
+				58,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Today’s count is 468 facilities with one or more COVID-19 positive residents and/or staff.",
+		"entities": [
+			[
+				"COVID-19",
+				49,
+				57,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Additional statistics: 6,746 COVID-19 Positive Residents (cumulative) 4,002 Residents Recovered from COVID-19 1,214 Resident Deaths 3,021 COVID-19 Positive Staff (cumulative)",
+		"entities": [
+			[
+				"COVID-19",
+				29,
+				37,
+				"MED"
+			],
+			[
+				"COVID-19",
+				101,
+				109,
+				"MED"
+			],
+			[
+				"COVID-19",
+				138,
+				146,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Testing: 81.7% of residents tested 63.8% of staff tested For Nursing Homes, specifically: Testing numbers are 100% of residents tested and 73% of staff tested.",
+		"entities": []
+	},
+	{
+		"content": "Best Regards, Melanie Melanie Simon Executive Director, Healthcare Facility Regulation Georgia Department of Community Health 2 Peachtree Street, N.W., Suite 31-403 Atlanta, GA 30303 (404) 657-3990 msimon@dch.ga.gov To schedule meetings, please contact Renee Peoples at renee.peoples@dch.ga.gov.",
+		"entities": [
+			[
+				"Melanie",
+				14,
+				21,
+				"PERSON"
+			],
+			[
+				"Melanie Simon",
+				22,
+				35,
+				"PERSON"
+			],
+			[
+				"Executive Director",
+				36,
+				54,
+				"TITLE"
+			],
+			[
+				"Healthcare Facility Regulation",
+				56,
+				86,
+				"ORG"
+			],
+			[
+				"Georgia Department of Community Health",
+				87,
+				125,
+				"ORG"
+			],
+			[
+				"2 Peachtree Street, N.W., Suite 31-403",
+				126,
+				164,
+				"ADDRESS"
+			],
+			[
+				"Atlanta, GA",
+				165,
+				176,
+				"LOC"
+			],
+			[
+				"(404) 657-3990",
+				183,
+				197,
+				"PHONE"
+			],
+			[
+				"msimon@dch.ga.gov",
+				198,
+				215,
+				"EMAIL"
+			],
+			[
+				"Renee Peoples",
+				253,
+				266,
+				"PERSON"
+			],
+			[
+				"renee.peoples@dch.ga.gov",
+				270,
+				294,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Follow us on Twitter at http://twitter.com/gadch and Facebook at https://www.facebook.com/gadept/communityhealth.",
+		"entities": [
+			[
+				"Twitter",
+				13,
+				20,
+				"ORG"
+			],
+			[
+				"http://twitter.com/gadch",
+				24,
+				48,
+				"URL"
+			],
+			[
+				"Facebook",
+				53,
+				61,
+				"ORG"
+			],
+			[
+				"https://www.facebook.com/gadept/communityhealth.",
+				65,
+				113,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "Reader Advisory Notice: Email to and from a Georgia state agency is generally public record, except for content that is confidential under specific laws.",
+		"entities": [
+			[
+				"Georgia",
+				44,
+				51,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Security by encryption is applied to all confidential information sent by email from the Georgia Department of Community Health.",
+		"entities": [
+			[
+				"Georgia Department of Community Health",
+				89,
+				127,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "119 ']",
+		"entities": []
+	},
+	{
+		"content": "['Total- 1191 Positive- 129 Negative- 1030",
+		"entities": []
+	},
+	{
+		"content": "Pending- 32 Recovered- 107 Deaths- 5 27 mandatory quarantine 379 completed mandatory quarantine Katie Mungari Director of Community Health Services Madison County Department of Health 138 N. Court Street, PO Box 605",
+		"entities": [
+			[
+				"Katie Mungari",
+				96,
+				109,
+				"PERSON"
+			],
+			[
+				"Director of Community Health Services",
+				110,
+				147,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				148,
+				183,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				184,
+				215,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Wampsville, NY 13163 P: 315-366-2362 C: Email: katherine.mungari@madisoncounty.ny.gov Website: www.healthymadisoncounty.org",
+		"entities": [
+			[
+				"Wampsville, NY",
+				0,
+				14,
+				"LOC"
+			],
+			[
+				"315-366-2362",
+				24,
+				36,
+				"PHONE"
+			],
+			[
+				"katherine.mungari@madisoncounty.ny.gov",
+				47,
+				85,
+				"EMAIL"
+			],
+			[
+				"www.healthymadisoncounty.org",
+				95,
+				123,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "From: Katherine Mungari Sent: Saturday, April 25, 2020 11:26 AM To: Eric Faisst (Eric.Faisst@madisoncounty.ny.gov) <",
+		"entities": [
+			[
+				"Katherine Mungari",
+				6,
+				23,
+				"PERSON"
+			],
+			[
+				"Saturday, April 25, 2020",
+				30,
+				54,
+				"DATE"
+			],
+			[
+				"Eric Faisst",
+				68,
+				79,
+				"PERSON"
+			],
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				81,
+				113,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Eric.Faisst@madisoncounty.ny.gov>",
+		"entities": [
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				0,
+				32,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: evening",
+		"entities": []
+	},
+	{
+		"content": "#s 450 Total- 1178 Positive- 128 Negative- 1011 Pending- 39 Recovered- 107 Deaths- 5 36 mandatory quarantine 370 completed mandatory quarantine Katie Mungari Director of Community Health Services Madison County Department of Health 138 N. Court Street, PO Box 605",
+		"entities": [
+			[
+				"Katie Mungari",
+				144,
+				157,
+				"PERSON"
+			],
+			[
+				"Director of Community Health Services",
+				158,
+				195,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				196,
+				231,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				232,
+				263,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Wampsville, NY 13163 P: 315-366-2362 C: Email: katherine.mungari@madisoncounty.ny.gov Website: www.healthymadisoncounty.org",
+		"entities": [
+			[
+				"Wampsville, NY",
+				0,
+				14,
+				"LOC"
+			],
+			[
+				"315-366-2362",
+				24,
+				36,
+				"PHONE"
+			],
+			[
+				"katherine.mungari@madisoncounty.ny.gov",
+				47,
+				85,
+				"EMAIL"
+			],
+			[
+				"www.healthymadisoncounty.org",
+				95,
+				123,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "From: Katherine Mungari Sent: Friday, April 24, 2020 3:38 PM",
+		"entities": [
+			[
+				"Katherine Mungari",
+				6,
+				23,
+				"PERSON"
+			],
+			[
+				"Friday, April 24, 2020",
+				30,
+				52,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Eric Faisst (Eric.Faisst@madisoncounty.ny.gov) <",
+		"entities": [
+			[
+				"Eric Faisst",
+				4,
+				15,
+				"PERSON"
+			],
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				17,
+				49,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Eric.Faisst@madisoncounty.ny.gov>",
+		"entities": [
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				0,
+				32,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: evening",
+		"entities": []
+	},
+	{
+		"content": "#s Importance:",
+		"entities": []
+	},
+	{
+		"content": "High 451 Sorry- use these Total- 1147 Positive-",
+		"entities": []
+	},
+	{
+		"content": "127 Negative- 985",
+		"entities": []
+	},
+	{
+		"content": "Pending- 35 Recovered-",
+		"entities": []
+	},
+	{
+		"content": "107 Deaths- 5 48 mandatory quarantine 355 completed mandatory quarantine Katie Mungari Director of Community Health Services Madison County Department of Health 138 N. Court Street, PO Box 605",
+		"entities": [
+			[
+				"Katie Mungari",
+				73,
+				86,
+				"PERSON"
+			],
+			[
+				"Director of Community Health Services",
+				87,
+				124,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				125,
+				160,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				161,
+				182,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Wampsville, NY 13163 P: 315-366-2362 C: Email: katherine.mungari@madisoncounty.ny.gov Website: www.healthymadisoncounty.org",
+		"entities": [
+			[
+				"Wampsville, NY",
+				0,
+				14,
+				"LOC"
+			],
+			[
+				"315-366-2362",
+				24,
+				36,
+				"PHONE"
+			],
+			[
+				"katherine.mungari@madisoncounty.ny.gov",
+				47,
+				85,
+				"EMAIL"
+			],
+			[
+				"www.healthymadisoncounty.org",
+				95,
+				123,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "From: Katherine Mungari Sent: Friday, April 24, 2020 3:36 PM",
+		"entities": [
+			[
+				"Katherine Mungari",
+				6,
+				23,
+				"PERSON"
+			],
+			[
+				"Friday, April 24, 2020",
+				30,
+				52,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Eric Faisst (Eric.Faisst@madisoncounty.ny.gov) <",
+		"entities": [
+			[
+				"Eric Faisst",
+				4,
+				15,
+				"PERSON"
+			],
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				17,
+				49,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Eric.Faisst@madisoncounty.ny.gov>",
+		"entities": [
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				0,
+				32,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: evening",
+		"entities": []
+	},
+	{
+		"content": "#s 452 Katie Mungari Director of Community Health Services Madison County Department of Health 138 N. Court Street, PO Box 605",
+		"entities": [
+			[
+				"Katie Mungari",
+				7,
+				20,
+				"PERSON"
+			],
+			[
+				"Director of Community Health Services",
+				21,
+				58,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				59,
+				94,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				95,
+				126,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Wampsville, NY 13163 P: 315-366-2362 C: Email: katherine.mungari@madisoncounty.ny.gov Website: www.healthymadisoncounty.org",
+		"entities": [
+			[
+				"Wampsville, NY",
+				0,
+				14,
+				"LOC"
+			],
+			[
+				"315-366-2362",
+				24,
+				36,
+				"PHONE"
+			],
+			[
+				"katherine.mungari@madisoncounty.ny.gov",
+				47,
+				85,
+				"EMAIL"
+			],
+			[
+				"www.healthymadisoncounty.org",
+				95,
+				123,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "From: Katherine Mungari Sent: Wednesday, April 22, 2020 3:51 PM",
+		"entities": [
+			[
+				"Katherine Mungari",
+				6,
+				23,
+				"PERSON"
+			],
+			[
+				"Wednesday, April 22, 2020",
+				30,
+				55,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Eric Faisst (Eric.Faisst@madisoncounty.ny.gov) <",
+		"entities": [
+			[
+				"Eric Faisst",
+				4,
+				15,
+				"PERSON"
+			],
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				17,
+				49,
+				"EMAIL"
+			]
+
+		]
+	},
+	{
+		"content": "Eric.Faisst@madisoncounty.ny.gov>",
+		"entities": [
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				0,
+				32,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: evening",
+		"entities": []
+	},
+	{
+		"content": "#s Total- 1033 Positive- 123 Negative- 885 Pending-",
+		"entities": []
+	},
+	{
+		"content": "25 Recovered- 102 Deaths- 5 61 mandatory quarantine 333 completed mandatory quarantine Katie Mungari 453 Director of Community Health Services Madison County Department of Health 138 N. Court Street, PO Box 605",
+		"entities": [
+			[
+				"Katie Mungari",
+				87,
+				100,
+				"PERSON"
+			],
+			[
+				"Director of Community Health Services",
+				105,
+				142,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				143,
+				178,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				179,
+				210,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Wampsville, NY 13163 P: 315-366-2362 C: Email: katherine.mungari@madisoncounty.ny.gov Website: www.healthymadisoncounty.org",
+		"entities": [
+			[
+				"Wampsville, NY",
+				0,
+				14,
+				"LOC"
+			],
+			[
+				"315-366-2362",
+				24,
+				36,
+				"PHONE"
+			],
+			[
+				"katherine.mungari@madisoncounty.ny.gov",
+				47,
+				85,
+				"EMAIL"
+			],
+			[
+				"www.healthymadisoncounty.org",
+				95,
+				123,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "From: Katherine Mungari Sent: Tuesday, April 21, 2020 3:53 PM",
+		"entities": [
+			[
+				"Katherine Mungari",
+				6,
+				23,
+				"PERSON"
+			],
+			[
+				"Tuesday, April 21, 2020",
+				30,
+				53,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Eric Faisst (Eric.Faisst@madisoncounty.ny.gov) <",
+		"entities": [
+			[
+				"Eric Faisst",
+				4,
+				15,
+				"PERSON"
+			],
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				17,
+				49,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Eric.Faisst@madisoncounty.ny.gov>",
+		"entities": [
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				0,
+				32,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: evening",
+		"entities": []
+	},
+	{
+		"content": "#s Total- 1007",
+		"entities": []
+	},
+	{
+		"content": "Positive 121 Negative 846 Pending 40 Recovered 101 Deaths 5 63 mandatory quarantine 328 completed mandatory quarantine Katie Mungari Director of Community Health Services Madison County Department of Health 138 N. Court Street, PO Box 605 454 Wampsville, NY 13163",
+		"entities": [
+			[
+				"Katie Mungari",
+				119,
+				132,
+				"PERSON"
+			],
+			[
+				"Director of Community Health Services",
+				133,
+				170,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				171,
+				206,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				207,
+				238,
+				"ADDRESS"
+			],
+			[
+				"Wampsville, NY",
+				243,
+				257,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "P: 315-366-2362 C: Email: katherine.mungari@madisoncounty.ny.gov Website: www.healthymadisoncounty.org",
+		"entities": [
+			[
+				"315-366-2362",
+				3,
+				15,
+				"PHONE"
+			],
+			[
+				"katherine.mungari@madisoncounty.ny.gov",
+				26,
+				64,
+				"EMAIL"
+			],
+			[
+				"www.healthymadisoncounty.org",
+				74,
+				102,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "From: Katherine Mungari Sent: Monday, April 20, 2020 3:41 PM",
+		"entities": [
+			[
+				"Katherine Mungari",
+				6,
+				23,
+				"PERSON"
+			],
+			[
+				"Monday, April 20, 2020",
+				30,
+				52,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Eric Faisst (Eric.Faisst@madisoncounty.ny.gov) <",
+		"entities": [
+			[
+				"Eric Faisst",
+				4,
+				15,
+				"PERSON"
+			],
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				17,
+				49,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Eric.Faisst@madisoncounty.ny.gov>",
+		"entities": [
+			[
+				"Eric.Faisst@madisoncounty.ny.gov",
+				0,
+				32,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: evening",
+		"entities": []
+	},
+	{
+		"content": "#s Total- 972 Positive 121 Negative 833",
+		"entities": []
+	},
+	{
+		"content": "Pending 18 Recovered 99 Deaths 5 65 mandatory quarantine 324 completed mandatory quarantine Katie Mungari Director of Community Health Services Madison County Department of Health 138 N. Court Street, PO Box 605",
+		"entities": [
+			[
+				"Katie Mungari",
+				92,
+				105,
+				"PERSON"
+			],
+			[
+				"Director of Community Health Services",
+				106,
+				143,
+				"TITLE"
+			],
+			[
+				"Madison County Department of Health",
+				144,
+				179,
+				"ORG"
+			],
+			[
+				"138 N. Court Street, PO Box 605",
+				180,
+				211,
+				"ADDRESS"
+			]
+		]
+	},
+	{
+		"content": "Wampsville, NY 13163 P: 315-366-2362 C: 455 ']",
+		"entities": [
+			[
+				"Wampsville, NY",
+				0,
+				14,
+				"LOC"
+			],
+			[
+				"315-366-2362",
+				24,
+				36,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "[' CAUTION:",
+		"entities": []
+	},
+	{
+		"content": "This email originated from an External Source.",
+		"entities": []
+	},
+	{
+		"content": "Please use caution before opening attachments, clicking links, or responding to this email.",
+		"entities": []
+	},
+	{
+		"content": "Do not sign-in with your City of Las Vegas account credentials.",
+		"entities": [
+			[
+				"City of Las Vegas",
+				25,
+				42,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "U.S. DEPARTMENT OF HOMELAND SECURITY Intergovernmental Affairs Please see the advisory below from our partners in the Federal Emergency Management Agency (FEMA) regarding an update on the Whole-of-America response to COVID-19.",
+		"entities": [
+			[
+				"U.S. DEPARTMENT OF HOMELAND SECURITY",
+				0,
+				36,
+				"ORG"
+			],
+			[
+				"Federal Emergency Management Agency",
+				118,
+				153,
+				"ORG"
+			],
+			[
+				"FEMA",
+				155,
+				159,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				217,
+				225,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "April 11, 2020 FEMA Advisory Coronavirus (COVID-19) Pandemic Whole-of-America Response Attached you will find today’s FEMA Daily Briefing Points and a Reference Document for Messaging and Resource Links for the Whole-of-America response to coronavirus (COVID-19) pandemic.",
+		"entities": [
+			[
+				"April 11, 2020",
+				0,
+				14,
+				"DATE"
+			],
+			[
+				"FEMA",
+				15,
+				19,
+				"ORG"
+			],
+			[
+				"Coronavirus",
+				29,
+				40,
+				"MED"
+			],
+			[
+				"COVID-19",
+				42,
+				50,
+				"MED"
+			],
+			[
+				"FEMA",
+				118,
+				122,
+				"ORG"
+			],
+			[
+				"coronavirus",
+				240,
+				251,
+				"MED"
+			],
+			[
+				"COVID-19",
+				253,
+				261,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "These briefing points include Topline Messages, as well as By the Numbers; FEMA and Department of Health and Human Services Response; and Guidance from Federal Agencies.",
+		"entities": [
+			[
+				"FEMA",
+				75,
+				79,
+				"ORG"
+			],
+			[
+				"Department of Health and Human Services",
+				84,
+				123,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Topline messaging includes: • FEMA, HHS, and our federal partners work with state, local, tribal and territorial governments to execute a whole- of-America response to COVID-19 pandemic and protect the health and safety of the American people.",
+		"entities": [
+			[
+				"FEMA",
+				30,
+				34,
+				"ORG"
+			],
+			[
+				"HHS",
+				36,
+				39,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				168,
+				176,
+				"MED"
+			],
+			[
+				"American",
+				227,
+				235,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "FEMA continues to expedite movement of commercially pre-sourced and commercially procured critical supplies from the global market to medical distributors in various locations across the U.S. through Project Air Bridge.",
+		"entities": [
+			[
+				"FEMA",
+				0,
+				4,
+				"ORG"
+			],
+			[
+				"U.S.",
+				187,
+				191,
+				"GPE"
+			],
+			[
+				"Project Air Bridge",
+				200,
+				218,
+				"PRODUCT"
+			]
+		]
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "Data and information-sharing are critical for moving forward in this response and equipping areas expected to be the next medical hot spots.",
+		"entities": []
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "Considering both scarcity of ventilators in the Strategic National Stockpile (SNS) and current capacity of the private sector to meet demand, the federal government has adopted a process to manage allocation of federal ventilator resources to ensure the right amount of ventilators are shipped to the to the right states to sustain life within a 72-hour window.",
+		"entities": [
+			[
+				"Strategic National Stockpile",
+				48,
+				76,
+				"ORG"
+			],
+			[
+				"SNS",
+				78,
+				81,
+				"ORG"
+			],
+			[
+				"the federal government",
+				142,
+				164,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "○ Emergency managers and public health officials submit requests for ventilators to FEMA/HHS, providing detailed data on total medical/ hospital beds; total acute care (ICU) beds; normal occupancy; predicted surge occupancy; and number of ventilators available in the state.",
+		"entities": [
+			[
+				"FEMA/HHS",
+				84,
+				92,
+				"ORG"
+			],
+			[
+				"ICU",
+				169,
+				172,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "○ States can send requests outside of the 72-hour window for consideration by the federal government; allocation decisions and/or shipments, however, should not be expected until the state is within the immediate 72-hour window.",
+		"entities": [
+			[
+				"the federal government",
+				78,
+				100,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "Hospital administrators across the country are being asked to provide daily reports on testing, capacity, supplies, utilization, and patient flows to facilitate the ongoing public health response.",
+		"entities": []
+	},
+	{
+		"content": "CLV000394 ○",
+		"entities": []
+	},
+	{
+		"content": "On April 10, HHS Secretary Azar sent a follow up letter to hospital administrators, reinforcing the need for this data to be provided daily to facilitate planning, monitoring, and resource allocation in response to COVID- 19.",
+		"entities": [
+			[
+				"April 10",
+				3,
+				11,
+				"DATE"
+			],
+			[
+				"HHS",
+				13,
+				16,
+				"ORG"
+			],
+			[
+				"Secretary Azar",
+				17,
+				31,
+				"PERSON"
+			],
+			[
+				"COVID- 19",
+				215,
+				224,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "Our objective is to allow states and hospitals either to leverage existing data reporting capabilities or, where those capabilities are insufficient, to provide guidance in how to build on them.",
+		"entities": []
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "The letter included a set of frequently asked questions that details federal government’s data needs, explains the division of reporting responsibility between hospitals and states, and provides clear, flexible options for the timely delivery of this critical information.",
+		"entities": []
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "These FAQs will be updated if additional data delivery methods become available.",
+		"entities": []
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "The letter also recognizes that many non-Federal entities may already be requesting this information from hospitals; therefore, the federal government has done its best to minimize the burden of sharing this data and to reduce further duplication of effort.",
+		"entities": [
+			[
+				"the federal government",
+				128,
+				150,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "On April 10, HHS began delivering the initial $30 billion in relief funding to providers in support of the national response to COVID-19, with $26 of the $30 billion expected to be delivered to providers’ bank accounts the same day.",
+		"entities": [
+			[
+				"April 10,",
+				3,
+				12,
+				"DATE"
+			],
+			[
+				"HHS",
+				13,
+				16,
+				"ORG"
+			],
+			[
+				"COVID-19",
+				128,
+				136,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "The payments are part of the distribution of the $100 billion provider relief fund included in the CARES Act.",
+		"entities": [
+			[
+				"CARES Act",
+				99,
+				108,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "To expedite providers getting money as quickly as possible, the initial funding was distributed immediately proportionate to providers’ share of Medicare fee-for-service reimbursements in 2019.",
+		"entities": [
+			[
+				"Medicare",
+				145,
+				153,
+				"ORG"
+			],
+			[
+				"2019",
+				188,
+				192,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "The Administration is rapidly working on future targeted distributions to hospitals and providers that will focus on providers in areas particularly impacted by COVID-19, rural providers, and providers with lower shares of Medicare reimbursement or who predominantly serve the Medicaid population.",
+		"entities": [
+			[
+				"The Administration",
+				0,
+				18,
+				"GPE"
+			],
+			[
+				"COVID-19",
+				161,
+				169,
+				"MED"
+			],
+			[
+				"Medicare",
+				223,
+				231,
+				"ORG"
+			],
+			[
+				"Medicaid",
+				277,
+				285,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "•",
+		"entities": []
+	},
+	{
+		"content": "On April 8, HHS announced the first contract for ventilator production rated under the Defense Production Act, to General Motors.",
+		"entities": [
+			[
+				"April 8,",
+				3,
+				11,
+				"DATE"
+			],
+			[
+				"HHS",
+				12,
+				15,
+				"ORG"
+			],
+			[
+				"Defense Production Act",
+				87,
+				109,
+				"LAW"
+			],
+			[
+				"General Motors",
+				114,
+				128,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "A second contract was awarded to Philips on the same day for ventilator production.",
+		"entities": [
+			[
+				"Philips",
+				33,
+				40,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "○",
+		"entities": []
+	},
+	{
+		"content": "The Philips contract was for $646.7 million for the delivery of 2,500 ventilators to the Strategic National Stockpile by the end of May 2020 and a total of 43,000 ventilators to be delivered by the end of December 2020.",
+		"entities": [
+			[
+				"Philips",
+				4,
+				11,
+				"ORG"
+			],
+			[
+				"Strategic National Stockpile",
+				89,
+				117,
+				"ORG"
+			],
+			[
+				"May 2020",
+				132,
+				140,
+				"DATE"
+			],
+			[
+				"December 2020",
+				205,
+				218,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "○ GM’s contract, at a total contract price of $489.4 million, is for 30,000 ventilators to be delivered to the Strategic National Stockpile by the end of August, with a production schedule allowing for the delivery of 6,132 ventilators by June 1. •",
+		"entities": [
+			[
+				"GM",
+				2,
+				4,
+				"ORG"
+			],
+			[
+				"Strategic National Stockpile",
+				111,
+				139,
+				"ORG"
+			],
+			[
+				"August",
+				154,
+				160,
+				"DATE"
+			],
+			[
+				"June 1",
+				239,
+				245,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "On April 3, President Trump issued “Memorandum on Allocating Certain Scarce or Threatened Health and Medical Resources to Domestic Use” directing DHS and FEMA, in consultation with the HHS, to use the Defense Production Act to keep scarce medical resources within the United States for domestic use.",
+		"entities": [
+			[
+				"April 3,",
+				3,
+				11,
+				"DATE"
+			],
+			[
+				"President Trump",
+				12,
+				27,
+				"PERSON"
+			],
+			[
+				"DHS",
+				146,
+				149,
+				"ORG"
+			],
+			[
+				"FEMA",
+				154,
+				158,
+				"ORG"
+			],
+			[
+				"HHS",
+				185,
+				188,
+				"ORG"
+			],
+			[
+				"Defense Production Act",
+				201,
+				223,
+				"LAW"
+			],
+			[
+				"United States",
+				268,
+				281,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "CBP is assisting FEMA in temporarily detaining export shipments of PPE.",
+		"entities": [
+			[
+				"CBP",
+				0,
+				3,
+				"ORG"
+			],
+			[
+				"FEMA",
+				17,
+				21,
+				"ORG"
+			],
+			[
+				"PPE",
+				67,
+				70,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "PPE subject to this policy includes: N95 respirators, and a variety of other respirators; surgical masks; and, surgical gloves.",
+		"entities": [
+			[
+				"PPE",
+				67,
+				70,
+				"MED"
+			],
+			[
+				"N95 respirators",
+				37,
+				52,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Follow Us Follow FEMA on social media at: FEMA online, on Twitter @FEMA or @FEMAEspanol, on FEMA Facebook page or FEMA Espanol page and at FEMA YouTube channel.",
+		"entities": [
+			[
+				"FEMA",
+				17,
+				21,
+				"ORG"
+			],
+			[
+				"FEMA",
+				42,
+				46,
+				"ORG"
+			],
+			[
+				"FEMA",
+				92,
+				96,
+				"ORG"
+			],
+			[
+				"FEMA",
+				114,
+				118,
+				"ORG"
+			],
+			[
+				"FEMA",
+				139,
+				143,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Also, follow Administrator Pete Gaynor on Twitter @FEMA_Pete.",
+		"entities": [
+			[
+				"Administrator",
+				13,
+				26,
+				"TITLE"
+			],
+			[
+				"Pete Gaynor",
+				27,
+				38,
+				"PERSON"
+			],
+			[
+				"Twitter",
+				42,
+				49,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FEMA Mission To help people before, during and after disasters.",
+		"entities": [
+			[
+				"FEMA",
+				0,
+				4,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "### CLV000395 • ESF15_DailyBriefingPoints_20200411",
+		"entities": []
+	},
+	{
+		"content": "FINAL.pdf • ESF15_COVID19 _",
+		"entities": []
+	},
+	{
+		"content": "Messaging_20200411_FINAL.pdf Having trouble viewing this message?",
+		"entities": []
+	},
+	{
+		"content": "View it as a webpage.",
+		"entities": []
+	},
+	{
+		"content": "You are subscribed to updates from the U.S. Department of Homeland Security Manage Subscriptions | Privacy Policy | Help",
+		"entities": [
+			[
+				"U.S. Department of Homeland Security",
+				39,
+				75,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If you were forwarded this email and would like to be added to future DHS Intergovernmental Affairs distributions, please register your email address here.",
+		"entities": [
+			[
+				"DHS Intergovernmental Affairs",
+				70,
+				99,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Connect with DHS:",
+		"entities": [
+			[
+				"DHS",
+				13,
+				16,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Facebook | Twitter | Instagram | LinkedIn | Flickr | YouTube U.S. Department of Homeland Security www.dhs.gov U.S. Department of Homeland Security · www.dhs.gov ·",
+		"entities": [
+			[
+				"U.S. Department of Homeland Security",
+				61,
+				97,
+				"ORG"
+			],
+			[
+				"www.dhs.gov",
+				98,
+				109,
+				"URL"
+			],
+			[
+				"U.S. Department of Homeland Security",
+				110,
+				146,
+				"ORG"
+			],
+			[
+				"www.dhs.gov",
+				149,
+				160,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "202-282-8000 CLV000396 CLV000397 CLV000398 CLV000399",
+		"entities": [
+			[
+				"202-282-8000",
+				0,
+				12,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "CLV000400",
+		"entities": []
+	},
+	{
+		"content": "CLV000401 CLV000402",
+		"entities": []
+	},
+	{
+		"content": "CLV000403",
+		"entities": []
+	},
+	{
+		"content": "CLV000404 CLV000405 CLV000406 CLV000407 ']",
+		"entities": []
+	},
+	{
+		"content": "['Hi Fred.",
+		"entities": [
+			[
+				"Fred",
+				5,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sorry for the delay, still catching up.",
+		"entities": []
+	},
+	{
+		"content": "Although July 4th seems like a ways off and there seems to be some talk about eventually relaxing some of the recommendations I’m uncertain about the timing.",
+		"entities": [
+			[
+				"July 4th",
+				9,
+				17,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "As you are likely aware our case count continues to rise the and number of new cases per day seems to be increasing.",
+		"entities": []
+	},
+	{
+		"content": "As we get closer to July 4th we can continue to discuss and explore options.",
+		"entities": [
+			[
+				"July 4th",
+				20,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "- Matt From: Frederick Clark <fclark@farmersagent.com>",
+		"entities": [
+			[
+				"Matt",
+				2,
+				6,
+				"PERSON"
+			],
+			[
+				"Frederick Clark",
+				13,
+				28,
+				"PERSON"
+			],
+			[
+				"fclark@farmersagent.com",
+				30,
+				53,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, April 16, 2020 10:04 AM",
+		"entities": [
+			[
+				"Thursday, April 16, 2020",
+				6,
+				30,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Matt Constantine <matt@kerncounty.com>",
+		"entities": [
+			[
+				"Matt Constantine",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"matt@kerncounty.com",
+				22,
+				41,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: Kern River Valley Chamber of Commerce CAUTION:",
+		"entities": [
+			[
+				"Kern River Valley Chamber of Commerce",
+				9,
+				46,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This email originated from outside of the organization.",
+		"entities": []
+	},
+	{
+		"content": "Do not click links, open attachments, or provide information unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "Good morning",
+		"entities": []
+	},
+	{
+		"content": "Matthew, I hope you and your team are holding up well with the daily flood of questions your team has to deal with.",
+		"entities": [
+			[
+				"Matthew",
+				0,
+				7,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I need a crystal ball moment if possible, The Chamber is preparing for July 4, 2020 mentally",
+		"entities": [
+			[
+				"The Chamber",
+				42,
+				53,
+				"ORG"
+			],
+			[
+				"July 4, 2020",
+				71,
+				83,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "but I need your \"opinion\".",
+		"entities": []
+	},
+	{
+		"content": "Do you feel we will be allowed to have the July 4, 2020 fireworks display over Isabella Lake?",
+		"entities": [
+			[
+				"July 4, 2020",
+				43,
+				55,
+				"DATE"
+			],
+			[
+				"Isabella Lake",
+				79,
+				92,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "I personally do not see a stand down on the social distancing guidelines anytime in the near future",
+		"entities": []
+	},
+	{
+		"content": "but I do not have your team to tell me I am correct or incorrect.",
+		"entities": []
+	},
+	{
+		"content": "My concern is simple, when we hold this event the shoreline and parking lots around this lake are a massive tailgate party which clearly is not a 6' space issue.",
+		"entities": []
+	},
+	{
+		"content": "I am not the guy who wishes to be the barer of bad news but we also need to be realistic as we deal with this virus.",
+		"entities": [
+			[
+				"virus",
+				110,
+				115,
+				"MED"
+			]		
+		]
+	},
+	{
+		"content": "Thank you for your time and your thoughts on the issue, your information will just allow myself and the board to decide what needs to take place for this years event.",
+		"entities": []
+	},
+	{
+		"content": "Stay safe, Frederick Clark Farmers Insurance 6416 Lake Isabella Blvd Ste B Lake Isabella, CA 93240-9475 License Number: 0L04825 760-379-5641 (Office) 760-812-7318 (Mobile) 760-608-8107 (Fax) fclark@farmersagent.com http://www.farmersagent.com/fclark ']",
+		"entities": [
+			[
+				"Frederick Clark",
+				11,
+				26,
+				"PERSON"
+			],
+			[
+				"Farmers Insurance",
+				27,
+				44,
+				"ORG"
+			],
+			[
+				"6416 Lake Isabella Blvd Ste B",
+				45,
+				74,
+				"ADDRESS"
+			],
+			[
+				"Lake Isabella, CA",
+				75,
+				92,
+				"LOC"
+			],
+			[
+				"760-379-5641",
+				128,
+				140,
+				"PHONE"
+			],
+			[
+				"760-812-7318",
+				150,
+				162,
+				"PHONE"
+			],
+			[
+				"760-608-8107",
+				172,
+				184,
+				"PHONE"
+			],
+			[
+				"fclark@farmersagent.com",
+				191,
+				214,
+				"EMAIL"
+			],
+			[
+				"http://www.farmersagent.com/fclark",
+				215,
+				249,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "['Good afternoon, Please see attached.",
+		"entities": []
+	},
+	{
+		"content": "Best regards, Paula Paula Thaqi, M.D., M.P.H. Director Florida Department of Health in Broward County 780 S.W. 24th St. Ft Lauderdale FL 33315 Office (954) 467-4811 Paula.Thaqi@flhealth.gov http://broward.floridahealth.gov/ Mission: To protect, promote & improve the health of all people in Florida through integrated state, county, & community efforts.",
+		"entities": [
+			[
+				"Paula",
+				14,
+				19,
+				"PERSON"
+			],
+			[
+				"Paula Thaqi",
+				20,
+				31,
+				"PERSON"
+			],
+			[
+				"M.D., M.P.H. Director",
+				33,
+				54,
+				"TITLE"
+			],
+			[
+				"Florida Department of Health",
+				55,
+				83,
+				"ORG"
+			],
+			[
+				"Broward County",
+				87,
+				101,
+				"GPE"
+			],
+			[
+				"780 S.W. 24th St.",
+				102,
+				119,
+				"ADDRESS"
+			],
+			[
+				"Ft Lauderdale FL",
+				120,
+				136,
+				"LOC"
+			],
+			[
+				"(954) 467-4811",
+				150,
+				164,
+				"PHONE"
+			],
+			[
+				"Paula.Thaqi@flhealth.gov",
+				165,
+				189,
+				"EMAIL"
+			],
+			[
+				"http://broward.floridahealth.gov/",
+				190,
+				223,
+				"URL"
+			],
+			[
+				"Florida",
+				291,
+				298,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Vision: To be the Healthiest State in the Nation Values: (ICARE)",
+		"entities": []
+	},
+	{
+		"content": "I nnovation: We search for creative solutions and manage resources wisely.",
+		"entities": []
+	},
+	{
+		"content": "C ollaboration: We use teamwork to achieve common goals & solve problems.",
+		"entities": []
+	},
+	{
+		"content": "A ccountability: We perform with integrity & respect.",
+		"entities": []
+	},
+	{
+		"content": "R esponsiveness: We achieve our mission by serving our customers& engaging our partners.",
+		"entities": []
+	},
+	{
+		"content": "E xcellence:",
+		"entities": []
+	},
+	{
+		"content": "We promote quality outcomes through learning & continuous performance improvement.",
+		"entities": []
+	},
+	{
+		"content": "Please Note: Florida has a very broad public records law.",
+		"entities": [
+			[
+				"Florida",
+				13,
+				20,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Most written communications to or from state officials regarding state business are public records available to the public and media upon request.",
+		"entities": []
+	},
+	{
+		"content": "Your e-mail communication may therefore be subject to public disclosure ']",
+		"entities": []
+	},
+	{
+		"content": "[\"Louie - Here are the Dougherty County talking points- Dougherty County supports the COVID- 19 3.",
+		"entities": [
+			[
+				"Louie",
+				2,
+				7,
+				"PERSON"
+			],
+			[
+				"Dougherty County",
+				23,
+				40,
+				"GPE"
+			],
+			[
+				"Dougherty County",
+				56,
+				73,
+				"GPE"
+			],
+			[
+				"COVID- 19",
+				87,
+				96,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "5 plan offered by the congressional Democratic leadership.",
+		"entities": [
+			[
+				"Democratic",
+				36,
+				46,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "150 Billion for State and Local Fiscal Relief for lost revenue and budget needs.",
+		"entities": []
+	},
+	{
+		"content": "29.",
+		"entities": []
+	},
+	{
+		"content": "5 billion for counties Dougherty County is projected to receive approximately $ 7.",
+		"entities": [
+			[
+				"Dougherty County",
+				23,
+				39,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "8 million under the COVID- 19 3.",
+		"entities": [
+			[
+				"COVID- 19",
+				20,
+				29,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "5 package.",
+		"entities": []
+	},
+	{
+		"content": "Dougherty County will utilize about $ 2.",
+		"entities": [
+			[
+				"Dougherty County",
+				0,
+				16,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "8 million of its approximately $ 12 million reserve fund this fiscal year Ending June 301h) as a result of COVID- 19 and Shelter in Place Orders.",
+		"entities": [
+			[
+				"June 301h",
+				81,
+				90,
+				"DATE"
+			],
+			[
+				"COVID- 19",
+				107,
+				116,
+				"MED"
+			],
+			[
+				"Shelter in Place Orders",
+				121,
+				144,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "Will consider furloughs, layoffs, pay cuts and other measures to preserve the reserve fund balance for the next fiscal year ( Beginning July 1).",
+		"entities": [
+			[
+				"July 1",
+				136,
+				142,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We anticipate a increase in demand for funding of public health and social services such as ( EMS, DPH, and DFAC).",
+		"entities": [
+			[
+				"EMS",
+				94,
+				97,
+				"ORG"
+			],
+			[
+				"DPH",
+				99,
+				102,
+				"ORG"
+			],
+			[
+				"DPH",
+				108,
+				112,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Our current funding is around $ 5.",
+		"entities": []
+	},
+	{
+		"content": "5 million.",
+		"entities": []
+	},
+	{
+		"content": "We have experienced an increased demand for pauper burials at a cost of $ 1, 000 each.",
+		"entities": []
+	},
+	{
+		"content": "We have an increased demand for PPE for our entire workforce ( 650).",
+		"entities": []
+	},
+	{
+		"content": "If there' s a protracted disruption to business we could go bankrupt.",
+		"entities": []
+	},
+	{
+		"content": "75% of our revenue is taxes.",
+		"entities": []
+	},
+	{
+		"content": "I iiclhaellMcCoy County Administrator 7 ..",
+		"entities": [
+			[
+				"County Administrator",
+				17,
+				37,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "R1 Y COUZY Dougherty County Board of Commissioners/ Administration f plhone: 229.",
+		"entities": [
+			[
+				"Dougherty County Board of Commissioners",
+				11,
+				50,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "431.",
+		"entities": []
+	},
+	{
+		"content": "2121",
+		"entities": []
+	},
+	{
+		"content": "222 Pine Avenue, Suite 540, Albany, Georgia 31701 e15: Dougherty.ga.us",
+		"entities": [
+			[
+				"222 Pine Avenue, Suite 540",
+				0,
+				26,
+				"ADDRESS"
+			],
+			[
+				"Albany, Georgia",
+				28,
+				43,
+				"LOC"
+			],
+			[
+				"Dougherty.ga.us",
+				55,
+				70,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ":: irnaiill: mmccov _ doughert .",
+		"entities": []
+	},
+	{
+		"content": "a. us lip PUBLIC RECORDS NOTICE:",
+		"entities": []
+	},
+	{
+		"content": "C`eorgia ltas a very broad public records law.",
+		"entities": [
+			[
+				"C`eorgia",
+				0,
+				8,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Most written communications to err from City and County ey dale regardIng City and County business are public records available to the public and media upon?",
+		"entities": [
+			[
+				"City",
+				40,
+				44,
+				"GPE"
+			],
+			[
+				"County",
+				49,
+				55,
+				"GPE"
+			],
+			[
+				"City",
+				74,
+				78,
+				"GPE"
+			],
+			[
+				"County",
+				83,
+				89,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "request Your email communications may be subject to public disclosure.",
+		"entities": []
+	},
+	{
+		"content": "91 \"]",
+		"entities": []
+	},
+	{
+		"content": "['I like it.",
+		"entities": []
+	},
+	{
+		"content": "Ann McDowell Epidemiologist County of San Luis Obispo Health Agency | Public Health Department Phone: 805-788-2095 | Email: amcdowell@co.slo.ca.us From: Whitney Szentesi <wszentesi@co.slo.ca.us>",
+		"entities": [
+			[
+				"Ann McDowell",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"Epidemiologist",
+				13,
+				27,
+				"TITLE"
+			],
+			[
+				"County of San Luis Obispo Health Agency",
+				28,
+				67,
+				"ORG"
+			],
+			[
+				"Public Health Department",
+				70,
+				94,
+				"ORG"
+			],
+			[
+				"805-788-2095",
+				102,
+				114,
+				"PHONE"
+			],
+			[
+				"amcdowell@co.slo.ca.us",
+				124,
+				146,
+				"EMAIL"
+			],
+			[
+				"Whitney Szentesi",
+				153,
+				169,
+				"PERSON"
+			],
+			[
+				"wszentesi@co.slo.ca.us",
+				171,
+				193,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, June 1, 2020 3:39 PM",
+		"entities": [
+			[
+				"Monday, June 1, 2020",
+				6,
+				26,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Elizabeth Merson <emerson@co.slo.ca.us>; Sharon Lovelady <slovelady@co.slo.ca.us>; Christine Gaiger <cgaiger@co.slo.ca.us>; Marc Lea <mlea@co.slo.ca.us>; Laurel Weir <lweir@co.slo.ca.us>; Ann McDowell <amcdowell@co.slo.ca.us>; Frederick S Rosen <frosen@co.slo.ca.us>; John Diodati <jdiodati@co.slo.ca.us>; EOC-Care-Shelter <EOC-Care-Shelter@co.slo.ca.us>; EOC-Lodging <eoc- lodging@co.slo.ca.us>",
+		"entities": [
+			[
+				"Elizabeth Merson",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"emerson@co.slo.ca.us",
+				22,
+				42,
+				"EMAIL"
+			],
+			[
+				"Sharon Lovelady",
+				45,
+				60,
+				"PERSON"
+			],
+			[
+				"slovelady@co.slo.ca.us",
+				62,
+				84,
+				"EMAIL"
+			],
+			[
+				"Christine Gaiger",
+				87,
+				103,
+				"PERSON"
+			],
+			[
+				"cgaiger@co.slo.ca.us",
+				105,
+				125,
+				"EMAIL"
+			],
+			[
+				"Marc Lea",
+				128,
+				136,
+				"PERSON"
+			],
+			[
+				"mlea@co.slo.ca.us",
+				138,
+				155,
+				"EMAIL"
+			],
+			[
+				"Laurel Weir",
+				158,
+				169,
+				"PERSON"
+			],
+			[
+				"lweir@co.slo.ca.us",
+				171,
+				189,
+				"EMAIL"
+			],
+			[
+				"Ann McDowell",
+				192,
+				204,
+				"PERSON"
+			],
+			[
+				"amcdowell@co.slo.ca.us",
+				206,
+				228,
+				"EMAIL"
+			],
+			[
+				"Frederick S Rosen",
+				231,
+				248,
+				"PERSON"
+			],
+			[
+				"frosen@co.slo.ca.us",
+				250,
+				269,
+				"EMAIL"
+			],
+			[
+				"John Diodati",
+				272,
+				284,
+				"PERSON"
+			],
+			[
+				"jdiodati@co.slo.ca.us",
+				288,
+				307,
+				"EMAIL"
+			],
+			[
+				"EOC-Care-Shelter",
+				310,
+				326,
+				"ORG"
+			],
+			[
+				"EOC-Care-Shelter@co.slo.ca.us",
+				328,
+				357,
+				"EMAIL"
+			],
+			[
+				"EOC-Lodging",
+				360,
+				371,
+				"ORG"
+			],
+			[
+				"eoc- lodging@co.slo.ca.us",
+				373,
+				398,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Andrea Montes <amontes@co.slo.ca.us",
+		"entities": [
+			[
+				"Andrea Montes",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"amontes@co.slo.ca.us",
+				19,
+				39,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Brochure (For Review)",
+		"entities": []
+	},
+	{
+		"content": "Here is the designed brochure - one in English and one in Spanish - for your review.",
+		"entities": []
+	},
+	{
+		"content": "Any changes?",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Whitney Whitney Szentesi Lead Public Information Officer Emergency Operations Center County of San Luis Obispo (805) 788-2981 ']",
+		"entities": [
+			[
+				"Whitney",
+				8,
+				15,
+				"PERSON"
+			],
+			[
+				"Whitney Szentesi",
+				16,
+				32,
+				"PERSON"
+			],
+			[
+				"Lead Public Information Officer",
+				33,
+				64,
+				"TITLE"
+			],
+			[
+				"Emergency Operations Center",
+				65,
+				92,
+				"ORG"
+			],
+			[
+				"County of San Luis Obispo",
+				93,
+				118,
+				"GPE"
+			],
+			[
+				"(805) 788-2981",
+				119,
+				133,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "[\"Hi All, There are a few INCREDIBLY key pieces of information in Justin's initial email that are missing.",
+		"entities": [
+			[
+				"Justin",
+				66,
+				72,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "1.",
+		"entities": []
+	},
+	{
+		"content": "Early on in the pandemic, public health officials advised growers AGAINST mass testing of asymptomatic folks.",
+		"entities": []
+	},
+	{
+		"content": "Why?",
+		"entities": []
+	},
+	{
+		"content": "a. We had low testing capacity in the gorge and asymptomatic testing was not part of CDC or public health recommendations at this time.",
+		"entities": [
+			[
+				"CDC",
+				85,
+				88,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Even growers who were considering mass testing backed off of this concept after discussions with local public health.",
+		"entities": []
+	},
+	{
+		"content": "b.",
+		"entities": []
+	},
+	{
+		"content": "Are we mass testing asymptomatic employees in other industries?",
+		"entities": []
+	},
+	{
+		"content": "I haven't needed a test to work in my laboratory at the community college.",
+		"entities": []
+	},
+	{
+		"content": "Forcing testing on a certain population seems like a potential civil rights issue to me.",
+		"entities": []
+	},
+	{
+		"content": "Growers are most concerned with THIS liability.",
+		"entities": []
+	},
+	{
+		"content": "c. I NEVER SAID GROWERS DID NOT WANT",
+		"entities": [
+			[
+				"GROWERS",
+				16,
+				23,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "TESTING!!!!\\u200b",
+		"entities": []
+	},
+	{
+		"content": "This is completely false.",
+		"entities": []
+	},
+	{
+		"content": "Growers want testing for sick folks just like everyone else in the US.",
+		"entities": [
+			[
+				"US",
+				67,
+				69,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "They are leery of mass testing given the discussions with public health.",
+		"entities": []
+	},
+	{
+		"content": "Growers have several unfounded fears around testing and on farm education: 1.",
+		"entities": []
+	},
+	{
+		"content": "Some growers feel like they have no right to ask folks to submit to a medical training or testing.",
+		"entities": []
+	},
+	{
+		"content": "They fear that they are liable because this is seen as medical advice and they are not medical personnel.",
+		"entities": []
+	},
+	{
+		"content": "I am not happy with this response but I can understand their general fear about repercussions if someone does fall ill after a training.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "Some growers think mass testing is a HIPPA issue.",
+		"entities": [
+			[
+				"HIPPA",
+				37,
+				42,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "It's not!",
+		"entities": []
+	},
+	{
+		"content": "Someone with authority should step up and explain why.",
+		"entities": []
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "Some growers are fearful of agencies and their workers are also fearful of agencies.",
+		"entities": []
+	},
+	{
+		"content": "The US doesn't have a great track record with agencies and minority folks.",
+		"entities": [
+			[
+				"US",
+				4,
+				6,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Writing this next bit goes against my better judgment, but over the past several days I have been absolutely disgusted with some people's preconceived notions of the folks I work along side.",
+		"entities": []
+	},
+	{
+		"content": "Growers are not idiots and they are certainly not a group of folks actively engaged in human rights abuses.",
+		"entities": []
+	},
+	{
+		"content": "They recognize the need for a healthy work force.",
+		"entities": []
+	},
+	{
+		"content": "Healthy and well treated workers are needed to harvest fruit.",
+		"entities": []
+	},
+	{
+		"content": "In addition, 99% of them are caring human beings like the general population.",
+		"entities": []
+	},
+	{
+		"content": "They don't want to see people get sick.",
+		"entities": []
+	},
+	{
+		"content": "They want to test sick folks.",
+		"entities": []
+	},
+	{
+		"content": "Don't believe me?",
+		"entities": []
+	},
+	{
+		"content": "Look at the number of reports from The Dalles.",
+		"entities": [
+			[
+				"Dalles",
+				39,
+				45,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Tenneson's have taken an absolute beating from local organizations, but let me tell you this: The moment Hailey realized someone on the farm wasn't feeling well",
+		"entities": [
+			[
+				"Tenneson",
+				0,
+				8,
+				"ORG"
+			],
+			[
+				"Hailey",
+				105,
+				111,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "she called me to find out exactly what to do.",
+		"entities": []
+	},
+	{
+		"content": "After our discussion, she immediately phoned public health and MCMC.",
+		"entities": [
+			[
+				"MCMC",
+				63,
+				67,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Everyone is doing there best in a time of fear and chaos.",
+		"entities": []
+	},
+	{
+		"content": "Sincerely, Ashley Ashley A. Thompson PhD \"]",
+		"entities": [
+			[
+				"Ashley",
+				11,
+				17,
+				"PERSON"
+			],
+			[
+				"Ashley A. Thompson",
+				18,
+				36,
+				"PERSON"
+			],
+			[
+				"PhD",
+				37,
+				40,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "['Thank You From: Nunez, Judith <jnunez@smithfield.com>",
+		"entities": [
+			[
+				"Nunez, Judith",
+				18,
+				31,
+				"PERSON"
+			],
+			[
+				"jnunez@smithfield.com",
+				33,
+				54,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Friday, November 6, 2020 3:49 PM",
+		"entities": [
+			[
+				"Friday, November 6, 2020",
+				6,
+				30,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Agyin, Fredrick <FAgyin@ci.vernon.ca.us>",
+		"entities": [
+			[
+				"Agyin, Fredrick",
+				4,
+				19,
+				"PERSON"
+			],
+			[
+				"FAgyin@ci.vernon.ca.us",
+				21,
+				43,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Veronica Petrosyan (Health@ci.vernon.ca.us) <Health@ci.vernon.ca.us>; DPH-FoodSafety <FoodSafety@ph.lacounty.gov>; Hernandez, Greg <ghernandez@smithfield.com>; Talman, Roxanne <RTalman@smithfield.com>; McClure, Amy <AMcClure@smithfield.com>; Curtis, Barbara <bcurtis@smithfield.com>; Martha Chehadi <mchehadi@ph.lacounty.gov>; Maria Ochoa <",
+		"entities": [
+			[
+				"Veronica Petrosyan",
+				4,
+				22,
+				"PERSON"
+			],
+			[
+				"Health@ci.vernon.ca.us",
+				24,
+				46,
+				"EMAIL"
+			],
+			[
+				"Health@ci.vernon.ca.us",
+				49,
+				71,
+				"EMAIL"
+			],
+			[
+				"DPH-FoodSafety",
+				74,
+				88,
+				"ORG"
+			],
+			[
+				"FoodSafety@ph.lacounty.gov",
+				90,
+				116,
+				"EMAIL"
+			],
+			[
+				"Hernandez, Greg",
+				119,
+				134,
+				"PERSON"
+			],
+			[
+				"ghernandez@smithfield.com",
+				136,
+				161,
+				"EMAIL"
+			],
+			[
+				"Talman, Roxanne",
+				164,
+				179,
+				"LOC"
+			],
+			[
+				"RTalman@smithfield.com",
+				181,
+				203,
+				"EMAIL"
+			],
+			[
+				"McClure, Amy",
+				206,
+				218,
+				"PERSON"
+			],
+			[
+				"AMcClure@smithfield.com",
+				220,
+				243,
+				"EMAIL"
+			],
+			[
+				"Curtis, Barbara",
+				246,
+				261,
+				"PERSON"
+			],
+			[
+				"bcurtis@smithfield.com",
+				263,
+				285,
+				"EMAIL"
+			],
+			[
+				"Martha Chehadi",
+				288,
+				302,
+				"PERSON"
+			],
+			[
+				"mchehadi@ph.lacounty.gov",
+				304,
+				328,
+				"EMAIL"
+			],
+			[
+				"Maria Ochoa",
+				331,
+				342,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "mochoa@ph.lacounty.gov>; Rodel Rutaquio <RRutaquio@ph.lacounty.gov>; Prado, Sindy <SPrado@smithfield.com>; Brenda Quintero <bquintero@ph.lacounty.gov>",
+		"entities": [
+			[
+				"mochoa@ph.lacounty.gov",
+				0,
+				22,
+				"EMAIL"
+			],
+			[
+				"Rodel Rutaquio",
+				25,
+				39,
+				"PERSON"
+			],
+			[
+				"RRutaquio@ph.lacounty.gov",
+				41,
+				66,
+				"EMAIL"
+			],
+			[
+				"Prado, Sindy",
+				69,
+				81,
+				"PERSON"
+			],
+			[
+				"SPrado@smithfield.com",
+				83,
+				104,
+				"EMAIL"
+			],
+			[
+				"Brenda Quintero",
+				107,
+				122,
+				"PERSON"
+			],
+			[
+				"bquintero@ph.lacounty.gov",
+				124,
+				149,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Confirmed COVID-19 Positive Case Reporting CAUTION:",
+		"entities": [
+			[
+				"COVID-19",
+				10,
+				18,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "External Email.",
+		"entities": []
+	},
+	{
+		"content": "Proceed Responsibly.",
+		"entities": []
+	},
+	{
+		"content": "Attached are the Line List, Address Info- Positives and Contact Address List for 11/6/2020 Judith Nunez Human Resources Coordinator p: (323) 583-4621 4500 e: jnunez@smithfield.com",
+		"entities": [
+			[
+				"11/6/2020",
+				81,
+				90,
+				"DATE"
+			],
+			[
+				"Judith Nunez",
+				91,
+				103,
+				"PERSON"
+			],
+			[
+				"Human Resources Coordinator",
+				104,
+				131,
+				"TITLE"
+			],
+			[
+				"(323) 583-4621",
+				135,
+				149,
+				"PHONE"
+			],
+			[
+				"jnunez@smithfield.com",
+				158,
+				179,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "3049 E Vernon Ave Vernon, CA 90058 smithfieldfoods.com",
+		"entities": [
+			[
+				"3049 E Vernon Ave",
+				0,
+				17,
+				"ADDRESS"
+			],
+			[
+				"Vernon, CA",
+				18,
+				28,
+				"LOC"
+			],
+			[
+				"smithfieldfoods.com",
+				30,
+				49,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "This communication (including any attachments) is confidential and is intended to be privileged pursuant to applicable law.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient, or the employee or agent responsible for delivering it to the intended recipient, then you are hereby notified that the dissemination, distribution or copying of this communication is prohibited.",
+		"entities": []
+	},
+	{
+		"content": "If you received this communication in error, please notify Smithfield Foods, Inc. immediately by telephone (+1 757-365-3000) and then delete this communication and destroy all copies thereof.",
+		"entities": [
+			[
+				"Smithfield Foods, Inc.",
+				59,
+				81,
+				"PERSON"
+			],
+			[
+				"+1 757-365-3000",
+				108,
+				123,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "49 ']",
+		"entities": []
+	},
+	{
+		"content": "['Thank you Barry.",
+		"entities": [
+			[
+				"Barry",
+				12,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I’m on a call right now with our team, but also reviewing the release.",
+		"entities": []
+	},
+	{
+		"content": "I will send to you before we finalize internally.",
+		"entities": []
+	},
+	{
+		"content": "BRIANNA SHALES Senior Marketing Manager Stemilt Growers LLC Office 509-662-9667",
+		"entities": [
+			[
+				"BRIANNA SHALES",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"Senior Marketing Manager",
+				15,
+				39,
+				"TITLE"
+			],
+			[
+				"Stemilt Growers LLC",
+				40,
+				59,
+				"ORG"
+			],
+			[
+				"509-662-9667",
+				67,
+				79,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "x1221\\xa0\\xa0 Email Brianna.Shales@Stemilt.com",
+		"entities": [
+			[
+				"Brianna.Shales@Stemilt.com",
+				20,
+				46,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Address 3135 Warehouse Road Wenatchee, Washington 98801 Stemilt exists to cultivate people and delight consumers.",
+		"entities": [
+			[
+				"3135 Warehouse Road,",
+				8,
+				27,
+				"ADDRESS"
+			],
+			[
+				"Wenatchee, Washington,",
+				28,
+				49,
+				"LOC"
+			],
+			[
+				"Stemilt",
+				56,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Barry Kling <barry.kling@cdhd.wa.gov>",
+		"entities": [
+			[
+				"Barry Kling",
+				6,
+				17,
+				"PERSON"
+			],
+			[
+				"barry.kling@cdhd.wa.gov",
+				19,
+				42,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Tuesday, April 21, 2020 8:30 AM",
+		"entities": [
+			[
+				"Tuesday, April 21, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Shales, Brianna <Brianna.Shales@Stemilt.com",
+		"entities": [
+			[
+				"Shales, Brianna",
+				4,
+				19,
+				"PERSON"
+			],
+			[
+				"Brianna.Shales@Stemilt.com",
+				21,
+				47,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "> Subject: [External]RE: DRAFT Press Release - SAS COVID-19",
+		"entities": [
+			[
+				"COVID-19",
+				51,
+				59,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Cases",
+		"entities": []
+	},
+	{
+		"content": "Hi, Brianna.",
+		"entities": [
+			[
+				"Brianna",
+				4,
+				11,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Just sent suggestions.",
+		"entities": []
+	},
+	{
+		"content": "Contact info below, call as needed…",
+		"entities": []
+	},
+	{
+		"content": "BK ~~~~~~~~~~~~~~~~~~~~~~~ Barry Kling, MSPH, Administrator Chelan-Douglas Health District 200 Valley Mall Parkway East Wenatchee, WA 98802 Office: 509-886-6480 Cell: 509-264-7045 From: Shales, Brianna <Brianna.Shales@Stemilt.com",
+		"entities": [
+			[
+				"Barry Kling",
+				27,
+				38,
+				"PERSON"
+			],
+			[
+				"MSPH",
+				40,
+				44,
+				"TITLE"
+			],
+			[
+				"Administrator",
+				46,
+				59,
+				"TITLE"
+			],
+			[
+				"Chelan-Douglas Health District",
+				60,
+				90,
+				"ORG"
+			],
+			[
+				"200 Valley Mall Parkway East",
+				91,
+				119,
+				"ADDRESS"
+			],
+			[
+				"Wenatchee, WA",
+				120,
+				133,
+				"LOC"
+			],
+			[
+				"509-886-6480",
+				148,
+				160,
+				"PHONE"
+			],
+			[
+				"509-264-7045",
+				167,
+				179,
+				"PHONE"
+			],
+			[
+				"Shales, Brianna",
+				186,
+				201,
+				"PERSON"
+			],
+			[
+				"Brianna.Shales@Stemilt.com",
+				203,
+				229,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Sent: Tuesday, April 21, 2020 7:56 AM",
+		"entities": [
+			[
+				"Tuesday, April 21, 2020",
+				6,
+				29,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Mathison, West <West.Mathison@Stemilt.com>",
+		"entities": [
+			[
+				"Mathison, West",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"West.Mathison@Stemilt.com",
+				20,
+				45,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc: Barry Kling <barry.kling@cdhd.wa.gov>; Pepperl, Roger <Roger.Pepperl@Stemilt.com",
+		"entities": [
+			[
+				"Barry Kling",
+				4,
+				15,
+				"PERSON"
+			],
+			[
+				"barry.kling@cdhd.wa.gov",
+				17,
+				40,
+				"EMAIL"
+			],
+			[
+				"Pepperl, Roger",
+				43,
+				57,
+				"PERSON"
+			],
+			[
+				"Roger.Pepperl@Stemilt.com",
+				59,
+				84,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Subject: Re: DRAFT Press Release - SAS COVID-19 Cases Barry, Let me know when you have a moment to discuss, and a number to reach you at.",
+		"entities": [
+			[
+				"COVID-19",
+				39,
+				47,
+				"MED"
+			],
+			[
+				"Barry",
+				54,
+				59,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Thanks, Brianna Sent from my iPhone On Apr 21, 2020, at 7:50 AM, Mathison, West <West.Mathison@stemilt.com> wrote: \\ufeff Thank you Barry for the time this morning!",
+		"entities": [
+			[
+				"Brianna",
+				8,
+				15,
+				"PERSON"
+			],
+			[
+				"Apr 21, 2020",
+				39,
+				51,
+				"DATE"
+			],
+			[
+				"Mathison, West",
+				65,
+				79,
+				"PERSON"
+			],
+			[
+				"West.Mathison@stemilt.com",
+				81,
+				106,
+				"EMAIL"
+			],
+			[
+				"Barry",
+				132,
+				137,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "And we appreciate your leadership at the Chelan Douglas Health District.",
+		"entities": [
+			[
+				"Chelan Douglas Health District",
+				41,
+				71,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Here is rough draft of our press release.",
+		"entities": []
+	},
+	{
+		"content": "We’d love a quote from you as we discussed.",
+		"entities": []
+	},
+	{
+		"content": "Brianna, could you work with Barry on this?",
+		"entities": [
+			[
+				"Brianna",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"Barry",
+				29,
+				34,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Onward, West WEST MATHISON",
+		"entities": [
+			[
+				"West",
+				8,
+				12,
+				"PERSON"
+			],
+			[
+				"WEST MATHISON",
+				13,
+				26,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "President Stemilt Growers LLC Office 509-663-1451 x1307\\xa0\\xa0 Email West.Mathison@Stemilt.com",
+		"entities": [
+			[
+				"President",
+				0,
+				9,
+				"TITLE"
+			],
+			[
+				"Stemilt Growers LLC",
+				10,
+				29,
+				"ORG"
+			],
+			[
+				"509-663-1451",
+				37,
+				49,
+				"PHONE"
+			],
+			[
+				"West.Mathison@Stemilt.com",
+				70,
+				95,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Address 3135 Warehouse Road Wenatchee, Washington 98801 Stemilt exists to cultivate people and delight consumers.",
+		"entities": [
+			[
+				"3135 Warehouse Road,",
+				8,
+				27,
+				"ADDRESS"
+			],
+			[
+				"Wenatchee, Washington,",
+				28,
+				49,
+				"LOC"
+			],
+			[
+				"Stemilt",
+				56,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Mathison, West Sent: Tuesday, April 21, 2020 7:44 AM To: Shales, Brianna <brianna.shales@stemilt.com>; Pepperl, Roger <roger.pepperl@stemilt.com>",
+		"entities": [
+			[
+				"Mathison, West",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"Tuesday, April 21, 2020",
+				27,
+				50,
+				"DATE"
+			],
+			[
+				"Shales, Brianna",
+				63,
+				78,
+				"PERSON"
+			],
+			[
+				"brianna.shales@stemilt.com",
+				80,
+				106,
+				"EMAIL"
+			],
+			[
+				"Pepperl, Roger",
+				109,
+				123,
+				"PERSON"
+			],
+			[
+				"roger.pepperl@stemilt.com",
+				125,
+				150,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: DRAFT Press Release - SAS COVID-19 Cases Here are my thoughts.",
+		"entities": [
+			[
+				"COVID-19",
+				39,
+				47,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "We need to get more of a fact sheet.",
+		"entities": []
+	},
+	{
+		"content": "WEST MATHISON",
+		"entities": [
+			[
+				"WEST MATHISON",
+				0,
+				13,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "President Stemilt Growers LLC Office 509-663-1451 x1307\\xa0\\xa0 Email West.Mathison@Stemilt.com",
+		"entities": [
+			[
+				"President",
+				0,
+				9,
+				"TITLE"
+			],
+			[
+				"Stemilt Growers LLC",
+				10,
+				29,
+				"ORG"
+			],
+			[
+				"509-663-1451",
+				37,
+				49,
+				"PHONE"
+			],
+			[
+				"West.Mathison@Stemilt.com",
+				70,
+				95,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Address 3135 Warehouse Road Wenatchee, Washington 98801 Stemilt exists to cultivate people and delight consumers.",
+		"entities": [
+			[
+				"3135 Warehouse Road,",
+				8,
+				27,
+				"ADDRESS"
+			],
+			[
+				"Wenatchee, Washington,",
+				28,
+				49,
+				"LOC"
+			],
+			[
+				"Stemilt",
+				56,
+				63,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Shales, Brianna Sent: Tuesday, April 21, 2020 5:34 AM To:",
+		"entities": [
+			[
+				"Shales, Brianna",
+				6,
+				21,
+				"PERSON"
+			],
+			[
+				"Tuesday, April 21, 2020",
+				28,
+				51,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Pepperl, Roger <Roger.Pepperl@Stemilt.com>; Mathison, West <West.Mathison@Stemilt.com>",
+		"entities": [
+			[
+				"Pepperl, Roger",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"Roger.Pepperl@Stemilt.com",
+				16,
+				41,
+				"EMAIL"
+			],
+			[
+				"Mathison, West",
+				44,
+				58,
+				"PERSON"
+			],
+			[
+				"West.Mathison@Stemilt.com",
+				60,
+				85,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: DRAFT Press Release - SAS COVID-19 Cases West & Roger, Attached is a draft of the release.",
+		"entities": [
+			[
+				"COVID-19",
+				35,
+				43,
+				"MED"
+			],
+			[
+				"West",
+				50,
+				54,
+				"PERSON"
+			],
+			[
+				"Roger",
+				57,
+				62,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I thought we should complete our internal review before we work with Andrew at Confluence on this.",
+		"entities": [
+			[
+				"Andrew",
+				69,
+				75,
+				"PERSON"
+			],
+			[
+				"Confluence",
+				79,
+				89,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Please see my comments – the yellow highlighted areas are facts to confirm (or remove if not factual), and the outside quote will need reviewed too.",
+		"entities": []
+	},
+	{
+		"content": "I’m available by phone or email when you get to this.",
+		"entities": []
+	},
+	{
+		"content": "Will work on talking points for internal/external next.",
+		"entities": []
+	},
+	{
+		"content": "Brianna <SAS COVID-19 Cases draft 2.docx>",
+		"entities": [
+			[
+				"Brianna",
+				0,
+				7,
+				"PERSON"
+			],
+			[
+				"COVID-19",
+				13,
+				21,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "This e-mail transmission and any accompanying documents contain information from the company, Stemilt Growers, LLC., which is confidential or privileged.",
+		"entities": [
+			[
+				"Stemilt Growers, LLC.",
+				94,
+				115,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The information is intended to be for the use of the individual or entity named in this transmission.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient, be aware that any disclosure, copying, distribution or use of the contents of this transmission is prohibited.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this transmission in error, please notify us by telephone immediately at 509-663-1451.",
+		"entities": [
+			[
+				"509-663-1451",
+				94,
+				106,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "This e-mail transmission and any accompanying documents contain information from the company, Stemilt Growers, LLC., which is confidential or privileged.",
+		"entities": [
+			[
+				"Stemilt Growers, LLC.",
+				94,
+				115,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The information is intended to be for the use of the individual or entity named in this transmission.",
+		"entities": []
+	},
+	{
+		"content": "If you are not the intended recipient, be aware that any disclosure, copying, distribution or use of the contents of this transmission is prohibited.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this transmission in error, please notify us by telephone immediately at 509-663-1451. ']",
+		"entities": [
+			[
+				"509-663-1451",
+				94,
+				106,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "['Hi Folk, This is s a decision that will need to be guided by consultation with our medical teams and best practice.",
+		"entities": []
+	},
+	{
+		"content": "I look forward to my conversation with folks later this week.",
+		"entities": []
+	},
+	{
+		"content": "All the best, Elly From: Costanzo, Cynthia <cynthia.costanzo@uconn.edu>",
+		"entities": [
+			[
+				"Elly",
+				14,
+				18,
+				"PERSON"
+			],
+			[
+				"Costanzo, Cynthia",
+				25,
+				42,
+				"PERSON"
+			],
+			[
+				"cynthia.costanzo@uconn.edu",
+				44,
+				70,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, July 13, 2020 8:33 AM",
+		"entities": [
+			[
+				"Monday, July 13, 2020",
+				6,
+				27,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Schipani, Pamela <p.schipani@uconn.edu>",
+		"entities": [
+			[
+				"Schipani, Pamela",
+				4,
+				20,
+				"PERSON"
+			],
+			[
+				"p.schipani@uconn.edu",
+				22,
+				42,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Daugherty, Eleanor <eleanor.daugherty@uconn.edu>; Eror, Ellyssa <ellyssa.eror@uconn.edu>; Onorato, Suzanne <suzanne.onorato@uconn.edu>",
+		"entities": [
+			[
+				"Daugherty, Eleanor",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"eleanor.daugherty@uconn.edu",
+				20,
+				47,
+				"EMAIL"
+			],
+			[
+				"Eror, Ellyssa",
+				50,
+				63,
+				"PERSON"
+			],
+			[
+				"ellyssa.eror@uconn.edu",
+				65,
+				87,
+				"EMAIL"
+			],
+			[
+				"Onorato, Suzanne",
+				90,
+				106,
+				"PERSON"
+			],
+			[
+				"suzanne.onorato@uconn.edu",
+				108,
+				133,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: RE: Fall Opening Help Pam, I addressed all of this with Michael, David and Joe on Friday and Michael indicated that he was planning to address this item at the AVP meeting today.",
+		"entities": [
+			[
+				"Pam",
+				31,
+				34,
+				"PERSON"
+			],
+			[
+				"Michael",
+				65,
+				72,
+				"PERSON"
+			],
+			[
+				"David",
+				74,
+				79,
+				"PERSON"
+			],
+			[
+				"Joe",
+				84,
+				87,
+				"PERSON"
+			],
+			[
+				"Friday",
+				91,
+				97,
+				"DATE"
+			],
+			[
+				"Michael",
+				102,
+				109,
+				"PERSON"
+			],
+			[
+				"AVP",
+				169,
+				172,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Specific to student staff training, although most of the training has been shifted to a virtual environment, I will need to engage some level of in- person training prior to reopening.",
+		"entities": []
+	},
+	{
+		"content": "Regardless of the opening date, I will need access time to train our staff as our operation has changed considerably.",
+		"entities": []
+	},
+	{
+		"content": "We have developed a plan to train our staff in small groups and would certainly adhere to all appropriate guidelines, but yes, Pam, I agree, there are many details to explore further.",
+		"entities": [
+			[
+				"Pam",
+				127,
+				130,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Cyndi Cynthia Costanzo Executive Director | UConn Recreation 2060 Hillside Road U-1273 Storrs, CT 06269 Office: 860.486.2264 | Fax: 860.486.5064",
+		"entities": [
+			[
+				"Cyndi",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Cynthia Costanzo",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"Executive Director",
+				23,
+				41,
+				"TITLE"
+			],
+			[
+				"UConn Recreation",
+				44,
+				60,
+				"ORG"
+			],
+			[
+				"2060 Hillside Road U-1273",
+				61,
+				86,
+				"ADDRESS"
+			],
+			[
+				"Storrs, CT",
+				87,
+				97,
+				"LOC"
+			],
+			[
+				"860.486.2264",
+				112,
+				124,
+				"PHONE"
+			],
+			[
+				"860.486.5064",
+				132,
+				144,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "From: Schipani, Pamela <p.schipani@uconn.edu>",
+		"entities": [
+			[
+				"Schipani, Pamela",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"p.schipani@uconn.edu",
+				24,
+				44,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, July 13, 2020 7:49 AM",
+		"entities": [
+			[
+				"Monday, July 13, 2020",
+				6,
+				27,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Costanzo, Cynthia <cynthia.costanzo@uconn.edu> ']",
+		"entities": [
+			[
+				"Costanzo, Cynthia",
+				4,
+				21,
+				"PERSON"
+			],
+			[
+				"cynthia.costanzo@uconn.edu",
+				23,
+				49,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "[\"Joy, great question.",
+		"entities": [
+			[
+				"Joy",
+				2,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "We have, as you saw last week, issued guidance for scheduling course for the Spring, but I don't know how far other planning is at this point.",
+		"entities": [
+			[
+				"Spring,",
+				77,
+				84,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Let's submit this to our COVIDgroup.",
+		"entities": [
+			[
+				"COVIDgroup",
+				25,
+				35,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From:Joy B. Landeira <jlandeir@uwyo.edu>",
+		"entities": [
+			[
+				"Joy B. Landeira",
+				5,
+				20,
+				"PERSON"
+			],
+			[
+				"jlandeir@uwyo.edu",
+				22,
+				39,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, September 7, 2020 1:56 PM",
+		"entities": [
+			[
+				"Monday, September 7, 2020",
+				6,
+				31,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Anne M. Alexander <AAlex@uwyo.edu>",
+		"entities": [
+			[
+				"Anne M. Alexander",
+				4,
+				21,
+				"PERSON"
+			],
+			[
+				"AAlex@uwyo.edu",
+				23,
+				37,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: plan for next semester WLD events?",
+		"entities": []
+	},
+	{
+		"content": "Hi Anne, This is the time that our department begins planning for our annual World Language Day, normally held the first weekend of March.",
+		"entities": [
+			[
+				"Anne",
+				3,
+				7,
+				"PERSON"
+			],
+			[
+				"March",
+				132,
+				137,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We held it in 2020 the week before spring break, and it was the largest event ever, over 400 participants from Wyo middle schools and high schools, plus their teachers and chaperones.",
+		"entities": [
+			[
+				"2020",
+				14,
+				18,
+				"DATE"
+			],
+			[
+				"Wyo",
+				111,
+				114,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We were so fortunate to host that many folks on campus without any issues just as the Corona Virus outbreak and the shutdown were happening.",
+		"entities": [
+			[
+				"Corona Virus",
+				86,
+				98,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "I am writing now for your advice about what to do for March 2021.",
+		"entities": [
+			[
+				"March 2021",
+				54,
+				64,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Do you anticipate that we will be able to host such a huge event in March 2021?",
+		"entities": [
+			[
+				"March 2021",
+				68,
+				78,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Shall we try to do it virtually instead of in person?",
+		"entities": []
+	},
+	{
+		"content": "I can't foresee what UW's policy will be, and I don't know if you have made a policy yet for next semester.",
+		"entities": [
+			[
+				"UW",
+				21,
+				23,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I would appreciate your input before we try to organize an on-campus event for next semester.",
+		"entities": []
+	},
+	{
+		"content": "Thank you, Joy Landeira Dept Head, Modern and Classical Languages 55 \"]",
+		"entities": [
+			[
+				"Joy Landeira",
+				11,
+				23,
+				"PERSON"
+			],
+			[
+				"Dept Head",
+				24,
+				33,
+				"TITLE"
+			],
+			[
+				"Modern and Classical Languages",
+				35,
+				65,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "['It would help if I attached the document.",
+		"entities": []
+	},
+	{
+		"content": "Sorry folks!",
+		"entities": []
+	},
+	{
+		"content": "Shiloh Burgess Executive Director Wenatchee Valley Chamber of Commerce 137 N. Wenatchee Avenue Suite 101| Wenatchee, WA | 98801 p: 509.662.2116",
+		"entities": [
+			[
+				"Shiloh Burgess",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"Executive Director",
+				15,
+				33,
+				"TITLE"
+			],
+			[
+				"Wenatchee Valley Chamber of Commerce",
+				34,
+				70,
+				"ORG"
+			],
+			[
+				"137 N. Wenatchee Avenue Suite 101|",
+				71,
+				105,
+				"ADDRESS"
+			],
+			[
+				"Wenatchee, WA",
+				106,
+				119,
+				"LOC"
+			],
+			[
+				"509.662.2116",
+				131,
+				143,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "We invite you to choose this place; to visit, to explore, or to stay.",
+		"entities": []
+	},
+	{
+		"content": "From: Shiloh Burgess <Shiloh@wenatchee.org>",
+		"entities": [
+			[
+				"Shiloh Burgess",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"Shiloh@wenatchee.org",
+				22,
+				42,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, June 8, 2020 10:53 AM",
+		"entities": [
+			[
+				"Monday, June 8, 2020",
+				6,
+				26,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: thompson.jilldaling@gmail.com; Dan Sutton <dsutton@co.douglas.wa.us>; Doug England <Doug.England@co.chelan.wa.us>; Kevin Overbay <kevin.overbay@co.chelan.wa.us>; Marc Straub (x6363) <mstraub@co.douglas.wa.us>; jsterk@east-wenatchee.com; Ruth Esparza - City Council (REsparza@WenatcheeWA.Gov) <REsparza@WenatcheeWA.Gov>; swaters@cityofleavenworth.com",
+		"entities": [
+			[
+				"thompson.jilldaling@gmail.com",
+				4,
+				33,
+				"EMAIL"
+			],
+			[
+				"Dan Sutton",
+				35,
+				45,
+				"PERSON"
+			],
+			[
+				"dsutton@co.douglas.wa.us",
+				47,
+				71,
+				"EMAIL"
+			],
+			[
+				"Doug England",
+				74,
+				86,
+				"PERSON"
+			],
+			[
+				"Doug.England@co.chelan.wa.us",
+				88,
+				116,
+				"EMAIL"
+			],
+			[
+				"Kevin Overbay",
+				119,
+				132,
+				"PERSON"
+			],
+			[
+				"kevin.overbay@co.chelan.wa.us",
+				134,
+				163,
+				"EMAIL"
+			],
+			[
+				"Marc Straub",
+				166,
+				177,
+				"PERSON"
+			],
+			[
+				"mstraub@co.douglas.wa.us",
+				187,
+				211,
+				"EMAIL"
+			],
+			[
+				"jsterk@east-wenatchee.com",
+				214,
+				239,
+				"EMAIL"
+			],
+			[
+				"Ruth Esparza",
+				241,
+				253,
+				"PERSON"
+			],
+			[
+				"City Council",
+				256,
+				268,
+				"ORG"
+			],
+			[
+				"REsparza@WenatcheeWA.Gov",
+				270,
+				284,
+				"EMAIL"
+			],
+			[
+				"REsparza@WenatcheeWA.Gov",
+				297,
+				321,
+				"EMAIL"
+			],
+			[
+				"swaters@cityofleavenworth.com",
+				324,
+				353,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Bob Bugert <Bob.",
+		"entities": [
+			[
+				"Bob Bugert",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"Bob",
+				12,
+				15,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Bugert@CO.CHELAN.WA.US>; ksteinburg@co.douglas.wa.us; Barry Kling <barry.kling@cdhd.wa.gov>; Malcolm Butler <mbutler@cvch.org>; Carol McCormick ']",
+		"entities": [
+			[
+				"Bugert@CO.CHELAN.WA.US",
+				0,
+				22,
+				"EMAIL"
+			],
+			[
+				"ksteinburg@co.douglas.wa.us",
+				25,
+				52,
+				"EMAIL"
+			],
+			[
+				"Barry Kling",
+				54,
+				65,
+				"PERSON"
+			],
+			[
+				"barry.kling@cdhd.wa.gov",
+				67,
+				90,
+				"EMAIL"
+			],
+			[
+				"Malcolm Butler",
+				93,
+				107,
+				"PERSON"
+			],
+			[
+				"mbutler@cvch.org",
+				109,
+				125,
+				"EMAIL"
+			],
+			[
+				"Carol McCormick",
+				128,
+				143,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"Our Liaison Officer is Kelly Martinez.",
+		"entities": [
+			[
+				"Liaison Officer",
+				6,
+				21,
+				"TITLE"
+			],
+			[
+				"Kelly Martinez",
+				25,
+				39,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I can't believe with all the actions being taken by national professional and collegiate athletics there are still events such as the one listed below.",
+		"entities": []
+	},
+	{
+		"content": "Mark Mark E. Wallace, MD, MPH Executive Director and Chief Health Officer Department of Public Health & Environment 1555 N. 17th Avenue -- Greeley, CO 80631",
+		"entities": [
+			[
+				"Mark",
+				0,
+				4,
+				"PERSON"
+			],
+			[
+				"Mark E. Wallace",
+				5,
+				20,
+				"PERSON"
+			],
+			[
+				"MD",
+				22,
+				24,
+				"TITLE"
+			],
+			[
+				"MPH",
+				26,
+				29,
+				"TITLE"
+			],
+			[
+				"Executive Director",
+				30,
+				48,
+				"TITLE"
+			],
+			[
+				"Chief Health Officer",
+				53,
+				73,
+				"TITLE"
+			],
+			[
+				"Department of Public Health & Environment",
+				74,
+				115,
+				"ORG"
+			],
+			[
+				"1555 N. 17th Avenue",
+				116,
+				135,
+				"ADDRESS"
+			],
+			[
+				"Greeley, CO",
+				139,
+				150,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Tel: 970.304.6410 -- Fax: 970-304-6412 Proud to serve in Public Health Confidentiality Notice: This electronic transmission and any attached documents or other writings are intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure.",
+		"entities": [
+			[
+				"970.304.6410",
+				5,
+				17,
+				"PHONE"
+			],
+			[
+				"970-304-6412",
+				26,
+				38,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "If you have received this communication in error, please immediately notify sender by return e-mail and destroy the communication.",
+		"entities": []
+	},
+	{
+		"content": "Any disclosure, copying, distribution or the taking of any action concerning the contents of this communication or any attachments by anyone other than the named recipient is strictly prohibited.",
+		"entities": []
+	},
+	{
+		"content": "From: Tom Gonzales <gonzaltr@co.larimer.co.us>",
+		"entities": [
+			[
+				"Tom Gonzales",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"gonzaltr@co.larimer.co.us",
+				20,
+				45,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Friday, March 13, 2020 1:14 PM",
+		"entities": [
+			[
+				"Friday, March 13, 2020",
+				6,
+				28,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Mark Wallace <mwallace@weldgov.com",
+		"entities": [
+			[
+				"Mark Wallace",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"mwallace@weldgov.com",
+				18,
+				38,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Averil G Strand <strandaa@co.larimer.co.us>",
+		"entities": [
+			[
+				"Averil G Strand",
+				0,
+				15,
+				"PERSON"
+			],
+			[
+				"strandaa@co.larimer.co.us",
+				17,
+				42,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Fwd: Fw: Follow up regarding this weekend's tournament (March 13, 12:00 pm)",
+		"entities": [
+			[
+				"March 13",
+				56,
+				64,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Caution:",
+		"entities": []
+	},
+	{
+		"content": "This email originated from outside of Weld County Government.",
+		"entities": [
+			[
+				"Weld County Government",
+				38,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "Do not click links or open attachments unless you recognize the sender and know the content is safe.",
+		"entities": []
+	},
+	{
+		"content": "Hi Mark, Who is your Liaison Officer.",
+		"entities": [
+			[
+				"Mark",
+				3,
+				7,
+				"PERSON"
+			],
+			[
+				"Liaison Officer",
+				21,
+				36,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Avie Strand is serving as our Liaison Officer.",
+		"entities": [
+			[
+				"Avie Strand",
+				0,
+				11,
+				"PERSON"
+			],
+			[
+				"Liaison Officer",
+				30,
+				45,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "Please see below ----------",
+		"entities": []
+	},
+	{
+		"content": "Forwarded message ---------",
+		"entities": []
+	},
+	{
+		"content": "From: Mackler Family <macklerfamily@yahoo.com",
+		"entities": [
+			[
+				"Mackler Family",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"macklerfamily@yahoo.com",
+				22,
+				45,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "> Date: Fri, Mar 13, 2020 at 12:40 PM Subject: Fw: Follow up regarding this weekend's tournament (March 13, 12:00 pm)",
+		"entities": [
+			[
+				"Fri, Mar 13, 2020",
+				8,
+				25,
+				"DATE"
+			],
+			[
+				"March 13",
+				98,
+				106,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: gonzaltr@larimer.org <",
+		"entities": [
+			[
+				"gonzaltr@larimer.org",
+				4,
+				24,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "gonzaltr@larimer.org",
+		"entities": [
+			[
+				"gonzaltr@larimer.org",
+				0,
+				20,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "> Power to Play Sports in Windsor is out of control...bringing teams from states all over the US for basketball tournaments into Larimer County.",
+		"entities": [
+			[
+				"Power to Play Sports",
+				2,
+				22,
+				"ORG"
+			],
+			[
+				"Windsor",
+				26,
+				33,
+				"LOC"
+			],
+			[
+				"US",
+				94,
+				96,
+				"LOC"
+			],
+			[
+				"Larimer County",
+				129,
+				136,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Beyond irresponsible.",
+		"entities": []
+	},
+	{
+		"content": "Someone needs to shut them down.",
+		"entities": []
+	},
+	{
+		"content": "P2P Sports-Premier Family Destination Event Center They are bringing in 71 teams from all over the United States this weekend.",
+		"entities": [
+			[
+				"P2P Sports",
+				0,
+				10,
+				"ORG"
+			],
+			[
+				"United States",
+				99,
+				112,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "They are refusing all requests to cease/desist these youth basketball activities.",
+		"entities": []
+	},
+	{
+		"content": "Every other sports organization in the state has suspended play...but these guys.",
+		"entities": []
+	},
+	{
+		"content": "Please read this...",
+		"entities": []
+	},
+	{
+		"content": "every County Health Director should: Coronavirus: Why You Must Act Now Coronavirus: Why You Must Act Now Tomas Pueyo Politicians and Business Leaders: What Should You Do and When? \"]",
+		"entities": [
+			[
+				"Coronavirus",
+				37,
+				48,
+				"MED"
+			],
+			[
+				"Coronavirus",
+				71,
+				82,
+				"MED"
+			],
+			[
+				"Tomas Pueyo",
+				105,
+				116,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['R Felicity Harvey I ®© e chris Elias e T Jeremy Farrar [ GREIN, Thomas [IR®IE)>; COX, Paul Michael [ [ ®©>; SCHWARTLANDER, Bernhard F. @ @); MINHAS,",
+		"entities": [
+			[
+				"Felicity Harvey",
+				4,
+				19,
+				"PERSON"
+			],
+			[
+				"chris Elias",
+				27,
+				38,
+				"PERSON"
+			],
+			[
+				"Jeremy Farrar",
+				43,
+				56,
+				"PERSON"
+			],
+			[
+				"GREIN, Thomas",
+				59,
+				72,
+				"PERSON"
+			],
+			[
+				"COX, Paul Michael",
+				83,
+				100,
+				"PERSON"
+			],
+			[
+				"SCHWARTLANDER, Bernhard",
+				110,
+				133,
+				"PERSON"
+			],
+			[
+				"MINHAS",
+				143,
+				149,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[ Raman e 0 MAHIOUR, Jaouad [ ®(@); FALL, Ibrahima Soce ; 'Thomas R. Frieden' [ @)@ ; ‘Elhadj SY' DS Lynn Banks' [ ®I6); President | Resolve to Save Lives [ i e© P AL SHORBAII, Farah 0 I Robynn Leidig!",
+		"entities": [
+			[
+				"Raman",
+				2,
+				7,
+				"PERSON"
+			],
+			[
+				"MAHIOUR, Jaouad",
+				12,
+				27,
+				"TITLE"
+			],
+			[
+				"FALL, Ibrahima Soce",
+				36,
+				55,
+				"TITLE"
+			],
+			[
+				"Thomas R. Frieden",
+				59,
+				76,
+				"PERSON"
+			],
+			[
+				"Lynn Banks",
+				101,
+				111,
+				"PERSON"
+			],
+			[
+				"President",
+				121,
+				130,
+				"TITLE"
+			],
+			[
+				"Resolve to Save Lives",
+				133,
+				154,
+				"ORG"
+			],
+			[
+				"AL SHORBAII, Farah",
+				164,
+				182,
+				"PERSON"
+			],
+			[
+				"Robynn Leidig",
+				187,
+				200,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "MU GI®); DRURY, Patrick Anthony",
+		"entities": [
+			[
+				"DRURY, Patrick Anthony",
+				9,
+				31,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[ I Dr VAN KERKHOVE, Maria S IO e S Cheryl Cohen’ [ >; GRAAFF, Peter an [ BI6); POOLE, Marcia I IO Tarik Mohammed —_— \"Ryan Morhard' <IGI)>; BRIAND, Sylvie [ EI6) ; MORGAN, Oliver [II®I®); 'Harries, Jenny' I B8 Avowad, David (NIK/NIAID)",
+		"entities": [
+			[
+				"Dr VAN KERKHOVE, Maria",
+				4,
+				26,
+				"PERSON"
+			],
+			[
+				"Cheryl Cohen",
+				36,
+				48,
+				"PERSON"
+			],
+			[
+				"GRAAFF, Peter",
+				55,
+				68,
+				"PERSON"
+			],
+			[
+				"POOLE, Marcia",
+				80,
+				93,
+				"PERSON"
+			],
+			[
+				"Tarik Mohammed",
+				99,
+				113,
+				"PERSON"
+			],
+			[
+				"Ryan Morhard",
+				119,
+				131,
+				"PERSON"
+			],
+			[
+				"IGI",
+				134,
+				137,
+				"ORG"
+			],
+			[
+				"BRIAND, Sylvie",
+				141,
+				155,
+				"PERSON"
+			],
+			[
+				"MORGAN, Oliver",
+				165,
+				179,
+				"PERSON"
+			],
+			[
+				"Harries, Jenny",
+				190,
+				204,
+				"PERSON"
+			],
+			[
+				"Avowad, David",
+				211,
+				224,
+				"PERSON"
+			],
+			[
+				"NIK/NIAID",
+				226,
+				235,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "SIMONSON, Stewart [®)(©); SINGER, Peter Alexander (C]",
+		"entities": [
+			[
+				"SIMONSON, Stewart",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"SINGER, Peter Alexander",
+				26,
+				49,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[ I SNG OIS, ©) >; Jayatunga, Wikum' EEEEE e e",
+		"entities": [
+			[
+				"Jayatunga, Wikum",
+				19,
+				35,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "ng- [ Ding'SooB ; SHIN, You'Feng ']",
+		"entities": [
+			[
+				"SHIN, You'Feng",
+				18,
+				32,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['Hi Marc, No problem.",
+		"entities": [
+			[
+				"Marc",
+				5,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I can set time to call our FLC list Monday when I am in office.",
+		"entities": [
+			[
+				"FLC",
+				27,
+				30,
+				"ORG"
+			],
+			[
+				"Monday",
+				36,
+				42,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "We had immediate and really good reception when Amy and I made the calls earlier this week for the masks.\\xa0\\xa0",
+		"entities": [
+			[
+				"Amy",
+				48,
+				51,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Amy",
+		"entities": [
+			[
+				"Amy",
+				0,
+				3,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "and I contacted north county FLC earlier in the week.",
+		"entities": [
+			[
+				"FLC",
+				29,
+				32,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I will query CalAg today for 2020 registrants county wide and work with Amy and Oscar to make these calls.",
+		"entities": [
+			[
+				"CalAg",
+				13,
+				18,
+				"ORG"
+			],
+			[
+				"2020",
+				29,
+				33,
+				"DATE"
+			],
+			[
+				"Amy",
+				72,
+				75,
+				"PERSON"
+			],
+			[
+				"Oscar",
+				80,
+				85,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Best, Jodie Snowbarger Agricultural Inspector/Biologist III (p) 805-434-4898 (f) 805-781-1035 jeckard@co.slo.ca.us www.slocounty.ca.gov From: Marc Lea <mlea@co.slo.ca.us>",
+		"entities": [
+			[
+				"Jodie Snowbarger",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"Agricultural Inspector/Biologist III",
+				23,
+				59,
+				"TITLE"
+			],
+			[
+				"805-434-4898",
+				64,
+				76,
+				"PHONE"
+			],
+			[
+				"805-781-1035",
+				81,
+				93,
+				"PHONE"
+			],
+			[
+				"jeckard@co.slo.ca.us",
+				94,
+				114,
+				"EMAIL"
+			],
+			[
+				"www.slocounty.ca.gov",
+				115,
+				135,
+				"URL"
+			],
+			[
+				"Marc Lea",
+				142,
+				150,
+				"PERSON"
+			],
+			[
+				"mlea@co.slo.ca.us",
+				152,
+				169,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Friday, June 5, 2020 9:38 AM",
+		"entities": [
+			[
+				"Friday, June 5, 2020",
+				6,
+				26,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Amy Breschini <abreschini@co.slo.ca.us>; Oscar Morales <omorales@co.slo.ca.us>; Jodie Snowbarger <jSnowbarger@co.slo.ca.us>",
+		"entities": [
+			[
+				"Amy Breschini",
+				4,
+				17,
+				"PERSON"
+			],
+			[
+				"abreschini@co.slo.ca.us",
+				19,
+				42,
+				"EMAIL"
+			],
+			[
+				"Oscar Morales",
+				45,
+				58,
+				"PERSON"
+			],
+			[
+				"omorales@co.slo.ca.us",
+				61,
+				81,
+				"EMAIL"
+			],
+			[
+				"Jodie Snowbarger",
+				84,
+				100,
+				"PERSON"
+			],
+			[
+				"jSnowbarger@co.slo.ca.us",
+				102,
+				126,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Tom B. Morgan <tbmorgan@co.slo.ca.us> Subject: I need your assistance with a COVID related farm worker project Amy, Jodie, and Oscar, Tom M. mentioned that Amy and Jodie had recently reached out to the FLC's in the county to let them know about the non-surgical masks that we have available for distribution.",
+		"entities": [
+			[
+				"Tom B. Morgan",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"tbmorgan@co.slo.ca.us",
+				15,
+				36,
+				"EMAIL"
+			],
+			[
+				"COVID",
+				77,
+				82,
+				"MED"
+			],
+			[
+				"Amy",
+				111,
+				114,
+				"PERSON"
+			],
+			[
+				"Jodie",
+				116,
+				121,
+				"PERSON"
+			],
+			[
+				"Oscar",
+				127,
+				132,
+				"PERSON"
+			],
+			[
+				"Tom M.",
+				132,
+				140,
+				"PERSON"
+			],
+			[
+				"Amy",
+				156,
+				159,
+				"PERSON"
+			],
+			[
+				"Jodie",
+				164,
+				169,
+				"PERSON"
+			],
+			[
+				"FLC",
+				202,
+				205,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I've got another COVID related project going on regarding access to testing and access to separate shelter for anyone who tests positive for COVID.",
+		"entities": [
+			[
+				"COVID",
+				17,
+				22,
+				"MED"
+			],
+			[
+				"COVID",
+				141,
+				146,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "The County is really looking for input from local growers and FLC's, and since you have reached out to the FLC's recently I'd like your assistance on reaching out to them on these new topics.",
+		"entities": [
+			[
+				"The County",
+				0,
+				10,
+				"GPE"
+			],
+			[
+				"FLC",
+				62,
+				65,
+				"ORG"
+			],
+			[
+				"FLC",
+				107,
+				110,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Here's the questions that we need feedback on: 1.",
+		"entities": []
+	},
+	{
+		"content": "Do your employees know that they can get a free COVID test at any Community Health Center in SLO County? 2.",
+		"entities": [
+			[
+				"COVID",
+				48,
+				53,
+				"MED"
+			],
+			[
+				"Community Health Center",
+				66,
+				89,
+				"FAC"
+			],
+			[
+				"SLO County",
+				93,
+				103,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Would your employees be more likely to get tested if the County ran a free \"pop-up\" testing site at a local farm or vineyard on a pre-arranged day?",
+		"entities": [
+			[
+				"the County",
+				53,
+				63,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "If the answer is yes, do you have any ideas on a good location to hold that kind of testing event?",
+		"entities": []
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "If one of your employees contracts COVID, have you already made arrangements for a place that they can stay that is separated from their co-workers?",
+		"entities": [
+			[
+				"COVID",
+				35,
+				40,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "REGARDLESS OF THEIR ANSWER TO THIS QUESTION, PLEASE LET THEM KNOW THAT THE COUNTY HAS MADE ARRANGEMENTS FOR UTILIZING LOCAL HOTEL ROOMS AS A TEMPORARY SHELTER FOR ANY FARM WORKER WHO'S CONTRACTED COVID AND NEEDS A SEPARATE PLACE TO STAY.",
+		"entities": [
+			[
+				"THE COUNTY",
+				71,
+				81,
+				"GPE"
+			],
+			[
+				"COVID",
+				196,
+				201,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "WE ARE STILL WORKING OUT THE DETAILS ON PAYMENT",
+		"entities": []
+	},
+	{
+		"content": "(e.g. does the County or Employer pay),",
+		"entities": [
+			[
+				"the County",
+				11,
+				21,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "BUT THE PROCESS ITSELF IS ALREADY AVAILABLE",
+		"entities": []
+	},
+	{
+		"content": "IF THAT IS EVER NEEDED.",
+		"entities": []
+	},
+	{
+		"content": "It's not that important that we speak to every single FLC.",
+		"entities": [
+			[
+				"FLC",
+				54,
+				57,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "It's more important that we talk to as many of them as we can in a short period of time.",
+		"entities": []
+	},
+	{
+		"content": "If at all possible, we could use some feedback by next Tuesday from 10-20 FLC's.",
+		"entities": [
+			[
+				"Tuesday",
+				55,
+				62,
+				"DATE"
+			],
+			[
+				"FLC",
+				74,
+				77,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "If any of them have questions that you can't answer, you are welcome to direct them to me.",
+		"entities": []
+	},
+	{
+		"content": "Also, if anyone does express an interest in the \"pop-up\" testing site, please let me know",
+		"entities": []
+	},
+	{
+		"content": "and I will follow up with them myself.",
+		"entities": []
+	},
+	{
+		"content": "If there's a demand for one of those testing sites, I'm going to try and help Public Health facilitate those arrangements.",
+		"entities": [
+			[
+				"Public Health",
+				78,
+				91,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "The County is working on a one-page brochure that explains some of this stuff.",
+		"entities": [
+			[
+				"The County",
+				0,
+				10,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "It's almost ready.",
+		"entities": []
+	},
+	{
+		"content": "As soon as it's cleared for distribution, I'll be sending you those PDFs in English and Spanish.",
+		"entities": [
+			[
+				"English",
+				76,
+				83,
+				"NORP"
+			],
+			[
+				"Spanish",
+				88,
+				95,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "So you can assume that will be ready in the next day or so, and that you will be able to follow up with the FLC via email and send them the PDFs - so please check that we have their email on file.",
+		"entities": [
+			[
+				"FLC",
+				108,
+				111,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Lastly, since you called the FLC's recently, it's probably easiest to have Amy and Jodie work out who is going to call who.",
+		"entities": [
+			[
+				"FLC",
+				29,
+				32,
+				"ORG"
+			],
+			[
+				"Amy",
+				75,
+				78,
+				"PERSON"
+			],
+			[
+				"Jodie",
+				83,
+				88,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If you need additional assistance, or there is an FLC owner who is primarily Spanish speaking, please utilize Oscar's help.",
+		"entities": [
+			[
+				"FLC",
+				50,
+				53,
+				"ORG"
+			],
+			[
+				"Spanish",
+				77,
+				84,
+				"NORP"
+			],
+			[
+				"Oscar",
+				110,
+				115,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "If you're swamped on time and really aren't able to make any calls today, Monday, or Tuesday, please let me know",
+		"entities": [
+			[
+				"Monday,",
+				74,
+				81,
+				"DATE"
+			],
+			[
+				"Tuesday,",
+				85,
+				93,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "and I'll find another staff person who is available.",
+		"entities": []
+	},
+	{
+		"content": "thanks so much for your help on this project, Marc\\xa0\\xa0 Marc Lea, Assistant Agricultural Commissioner/Sealer Department of Agriculture / Weights & Measures (p) 805-781-5907 | (f) 805-781-1035 mlea@co.slo.ca.us | http://www.slocounty.ca.gov/agcomm.htm ']",
+		"entities": [
+			[
+				"Marc Lea",
+				59,
+				67,
+				"PERSON"
+			],
+			[
+				"Assistant Agricultural Commissioner/Sealer Department of Agriculture / Weights & Measures",
+				69,
+				158,
+				"TITLE"
+			],
+			[
+				"805-781-5907",
+				165,
+				177,
+				"PHONE"
+			],
+			[
+				"805-781-1035",
+				184,
+				196,
+				"PHONE"
+			],
+			[
+				"mlea@co.slo.ca.us",
+				197,
+				214,
+				"EMAIL"
+			],
+			[
+				"http://www.slocounty.ca.gov/agcomm.htm",
+				215,
+				253,
+				"URL"
+			]
+		]
+	}
+]

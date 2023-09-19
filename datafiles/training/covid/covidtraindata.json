@@ -1,0 +1,2438 @@
+[
+	{
+		"content": "['Another email from Andre Kalil.",
+		"entities": [
+			[
+				"Andre Kalil",
+				21,
+				32,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Robert W. Eisinger, Ph.D. Special Assistant for Scientific Projects Immediate Office of the Director National Institute of Allergy and Infectious Diseases National Institutes of Health 31 Center Drive, Room 7A-03 Bethesda MD 20892 Telephone: I ®I6) 0",
+		"entities": [
+			[
+				"Robert W. Eisinger",
+				0,
+				18,
+				"PERSON"
+			],
+			[
+				"Ph.D.",
+				20,
+				25,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				101,
+				154,
+				"ORG"
+			],
+			[
+				"National Institutes of Health",
+				155,
+				184,
+				"ORG"
+			],
+			[
+				"31 Center Drive, Room 7A-03",
+				185,
+				212,
+				"ADDRESS"
+			],
+			[
+				"Bethesda, MD",
+				213,
+				224,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "From: Kalil, Andre C [ G)(6) >",
+		"entities": [
+			[
+				"Kalil, Andre",
+				6,
+				18,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Friday, May 1, 2020 2:59 AM",
+		"entities": [
+			[
+				"Friday, May 1, 2020",
+				6,
+				25,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Beigel, John (NIH)",
+		"entities": [
+			[
+				"Beigel, John",
+				4,
+				16,
+				"PERSON"
+			],
+			[
+				"NIH",
+				18,
+				21,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] [E®)(6)",
+		"entities": []
+	},
+	{
+		"content": ">; Davey, Richard (NIH/NIAID)",
+		"entities": [
+			[
+				"Davey, Richard",
+				3,
+				17,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				19,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] >; Lane, CIiff (NIH/NIAID)",
+		"entities": [
+			[
+				"Lane, CIiff",
+				7,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] [ ®)I6); Dodd, Lori (NIH/NIAID)",
+		"entities": [
+			[
+				"Dodd, Lori",
+				13,
+				23,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				25,
+				34,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] [ ®®>; proschan, Michael (NIH/NIAID)",
+		"entities": [
+			[
+				"Michael",
+				21,
+				28,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				30,
+				39,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] [ ®)® Marston, Hilary (NIH/NIAID) (€] [ [ ®I®); Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Marston, Hilary",
+				10,
+				25,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				27,
+				36,
+				"ORG"
+			],
+			[
+				"Fauci, Anthony",
+				52,
+				66,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				68,
+				77,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]",
+		"entities": []
+	},
+	{
+		"content": "SO",
+		"entities": []
+	},
+	{
+		"content": "Subject: FW: ACTT publication Importance:",
+		"entities": [
+			[
+				"ACTT",
+				13,
+				17,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "High Not my first choice, but | want to share the invitation email below with you.",
+		"entities": []
+	},
+	{
+		"content": "Andre Andre Kalil, MD, MPH, FACP, FIDSA, FCCM Professor Department of Internal Medicine Division of Infectious Diseases Director, Transplant ID Program Associate Editor, CMI, Official Journal of ESCMID Editorial Board, CCM, Official Journal of SCCM Y UNMC University of Nebraska Medical Center 985400 Nebraska Medical Center, Omaha, NE 68198-5400 PEE) | fax 402.559-5581 UNMC | Facebook | Twitter YouTube | |",
+		"entities": [
+			[
+				"Andre",
+				0,
+				5,
+				"PERSON"
+			],
+			[
+				"Andre Kalil",
+				6,
+				17,
+				"PERSON"
+			],
+			[
+				"MD",
+				19,
+				21,
+				"TITLE"
+			],
+			[
+				"MPH, FACP",
+				23,
+				32,
+				"TITLE"
+			],
+			[
+				"FIDSA",
+				34,
+				39,
+				"TITLE"
+			],
+			[
+				"FCCM",
+				41,
+				45,
+				"TITLE"
+			],
+			[
+				"CMI",
+				170,
+				173,
+				"ORG"
+			],
+			[
+				"Journal of ESCMID",
+				184,
+				201,
+				"WORK_OF_ART"
+			],
+			[
+				"CCM",
+				219,
+				222,
+				"ORG"
+			],
+			[
+				"UNMC",
+				251,
+				255,
+				"ORG"
+			],
+			[
+				"University of Nebraska Medical Center",
+				256,
+				293,
+				"ORG"
+			],
+			[
+				"Omaha, NE",
+				333,
+				335,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Flickr ']",
+		"entities": [
+			[
+				"Flickr",
+				0,
+				6,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[\"Thanks for the note.",
+		"entities": []
+	},
+	{
+		"content": "We are looking into this possibility.",
+		"entities": []
+	},
+	{
+		"content": "Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda.",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				18,
+				29,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				30,
+				83,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03 31 Center Drive, MSC 2520",
+				84,
+				133,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				134,
+				163,
+				"ORG"
+			],
+			[
+				"Bethesda",
+				164,
+				172,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "MD 20892-2520 Phone: FAX: (301) 496—4409 E-mail: [ENEE)",
+		"entities": [
+			[
+				"MD",
+				0,
+				2,
+				"LOC"
+			],
+			[
+				"(301) 496—4409",
+				26,
+				40,
+				"PHONE"
+			]
+
+		]
+	},
+	{
+		"content": "The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": []
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "1f you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				183,
+				188,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Sent: Saturday, February29 2020 5: 01 PM To: Fauci, Anthony (NTH/NIAID)",
+		"entities": [
+			[
+				"Saturday, February29 2020",
+				6,
+				31,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				45,
+				59,
+				"PERSON"
+			],
+			[
+				"NTH/NIAID",
+				61,
+				70,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] | Subject: Angiotensin Receptor Blockers: a possible therapy foz Covid-19",
+		"entities": [
+			[
+				"Angiotensin Receptor Blockers",
+				15,
+				44,
+				"MED"
+			],
+			[
+				"Covid-19",
+				69,
+				77,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Much appreciation for all of your work past and present.",
+		"entities": []
+	},
+	{
+		"content": "| am a cardiologist in New Jersey and when I read that the virus attaches to the AT2 receptors in the lungs [ couldn’t help but think that maybe the class of ARB's that we use so frequently for HTN and heart failure management could possibly block entry of virus into cells and prevent or mitigate the severity of infection.",
+		"entities": [
+			[
+				"New Jersey",
+				23,
+				33,
+				"LOC"
+			],
+			[
+				"AT2",
+				81,
+				84,
+				"MED"
+			],
+			[
+				"ARB",
+				158,
+				161,
+				"MED"
+			],
+			[
+				"HTN",
+				194,
+				197,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Has this approach ever been studied and is it worth looking into?",
+		"entities": []
+	},
+	{
+		"content": "Imagine if ARBs could lessen the severity of infection how readily available and relatively inexpensive this class of medication is!",
+		"entities": [
+			[
+				"ARBs",
+				11,
+				15,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Would appreciate if someone could get back to inform me whether you received this message.",
+		"entities": []
+	},
+	{
+		"content": "Thanks.",
+		"entities": []
+	},
+	{
+		"content": "Dr Thomas Leopold Email:",
+		"entities": [
+			[
+				"Dr Thomas Leopold",
+				0,
+				17,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent from my iPhone NIH-001165 \"]",
+		"entities": []
+	},
+	{
+		"content": "['Greetings Dr. Fauci: Thank you for agreeing to participate as the keynote speaker for the Keystone eSymposia: Vaccinology in the Age of Pandemics: Strategies Against COVID- 19 & Other Global Threats, a virtual conference which will be held on, Monday, June 15 and Tuesday, June 16, 2020.",
+		"entities": [
+			[
+				"Dr. Fauci",
+				12,
+				21,
+				"PERSON"
+			],
+			[
+				"Keystone eSymposia: Vaccinology in the Age of Pandemics: Strategies Against COVID- 19 & Other Global Threats",
+				92,
+				200,
+				"EVENT"
+			],
+			[
+				"Monday, June 15",
+				246,
+				261,
+				"DATE"
+			],
+			[
+				"Tuesday, June 16, 2020",
+				266,
+				288,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Understanding how busy you are right now, we would like to make this process as easy as possible.",
+		"entities": []
+	},
+	{
+		"content": "We are hoping to receive pre-recorded talks by Monday, May 18.",
+		"entities": [
+			[
+				"Monday, May 18",
+				47,
+				61,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Please keep us apprised on your timeline and we will work with your schedule.",
+		"entities": []
+	},
+	{
+		"content": "Here are the details on next steps.",
+		"entities": []
+	},
+	{
+		"content": "Next Steps: =",
+		"entities": []
+	},
+	{
+		"content": "Keynote Talk Title: Transforming Vaccinology: COVID-19",
+		"entities": [
+			[
+				"COVID-19",
+				46,
+				54,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Emergency and Considerations for the Next Decade",
+		"entities": []
+	},
+	{
+		"content": "o Please review your talk title and return any changes.",
+		"entities": []
+	},
+	{
+		"content": "Changes can be made up to two-weeks prior to the event.",
+		"entities": []
+	},
+	{
+		"content": "« Please follow this link to upload your talk recording, by Monday, May 18.",
+		"entities": [
+			[
+				"Monday, May 18",
+				60,
+				74,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Click here to learn more about recording your presentation.",
+		"entities": []
+	},
+	{
+		"content": "Our media team can assist you with recording on your personal computer.",
+		"entities": []
+	},
+	{
+		"content": "e Similar to the face-to-face conference, we envision approximately 50-60 minutes for the keynote lecture.",
+		"entities": []
+	},
+	{
+		"content": "For questions about the scientific programming of this meeting, please contact Dr. Rappuoli at rino.r.rappuoli@gsk.com and | will serve as the administrative/logistics contact at KristinaH@KeystoneSymposia.",
+		"entities": [
+			[
+				"Dr. Rappuoli",
+				79,
+				91,
+				"PERSON"
+			],
+			[
+				"rino.r.rappuoli@gsk.com",
+				95,
+				118,
+				"EMAIL"
+			],
+			[
+				"KristinaH@KeystoneSymposia",
+				179,
+				205,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Org.",
+		"entities": []
+	},
+	{
+		"content": "Best, Kristina Kristina H. Richardson, MS Scientific Advisory Board Coordinator Administrative Assistant: CSO & Global Development | kristinah@keystonesymposia.org <image001.png> PO Box 1630 | Silverthorne | CO 80498 | USA (regular mail only) 160 US Highway 6, Ste. 200 | Silverthorne | CO 80498 | USA (courier only) 970.262.1230 | 800.253.0685 | www.keystonesymposia.org Visit virtual.keystonesymposia.org to view our digital content.",
+		"entities": [
+			[
+				"Kristina",
+				6,
+				14,
+				"PERSON"
+			],
+			[
+				"Kristina H. Richardson",
+				15,
+				37,
+				"PERSON"
+			],
+			[
+				"MS",
+				39,
+				41,
+				"TITLE"
+			],
+			[
+				"Scientific Advisory Board Coordinator Administrative Assistant",
+				42,
+				104,
+				"TITLE"
+			],
+			[
+				"CSO & Global Development",
+				106,
+				130,
+				"ORG"
+			],
+			[
+				"kristinah@keystonesymposia.org",
+				133,
+				163,
+				"EMAIL"
+			],
+			[
+				"PO Box 1630",
+				179,
+				190,
+				"ADDRESS"
+			],
+			[
+				"Silverthorne | CO",
+				193,
+				210,
+				"LOC"
+			],
+			[
+				"USA",
+				219,
+				222,
+				"LOC"
+			],
+			[
+				"160 US Highway 6, Ste. 200",
+				243,
+				269,
+				"ADDRESS"
+			],
+			[
+				"Silverthorne | CO",
+				272,
+				289,
+				"LOC"
+			],
+			[
+				"USA",
+				298,
+				301,
+				"LOC"
+			],
+			[
+				"970.262.1230",
+				317,
+				329,
+				"PHONE"
+			],
+			[
+				"800.253.0685",
+				332,
+				344,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "<image002.png> <image003.png> <image(04.png> <image005.png> KEYSTONE # SYMPOSIA on Molecular and Cellular Biology Accelerating Life Science Discovery TNCLUDE.",
+		"entities": [
+			[
+				"KEYSTONE # SYMPOSIA on Molecular and Cellular Biology Accelerating Life Science Discovery",
+				60,
+				149,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "DIVERSITY IN THE SCIENTIFIC WORKFORCE 006e TNCLUYUD ']",
+		"entities": []
+	},
+	{
+		"content": "['Please handle.",
+		"entities": []
+	},
+	{
+		"content": "Begin forwarded message: From: Marc Salzberg Date: February 25, 2020 at 4:42:47 PM EST To: \"Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Marc Salzberg",
+				31,
+				44,
+				"PERSON"
+			],
+			[
+				"February 25, 2020",
+				51,
+				68,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				92,
+				106,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				108,
+				117,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]\" GG - Subject: Surfactant Protein-D against coronavirus Dear Dr. Fauci, We are developing a recombinant human form of Surfactant Protein-D (AT-100), an endogenous collectin with strong immune-modulatory properties.",
+		"entities": [
+			[
+				"Surfactant Protein-D",
+				19,
+				39,
+				"MED"
+			],
+			[
+				"coronavirus",
+				48,
+				59,
+				"MED"
+			],
+			[
+				"Dr. Fauci",
+				65,
+				74,
+				"PERSON"
+			],
+			[
+				"Surfactant Protein-D",
+				122,
+				142,
+				"MED"
+			],
+			[
+				"AT-100",
+				144,
+				150,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "AT-100 shows anti-inflammatory and anti-infectious properties.",
+		"entities": [
+			[
+				"AT-100",
+				0,
+				6,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "There are data indicating that SP-D clears coronavirus (https://www .ncbi.nlm.nih.gov/pubmed/19439011 ).",
+		"entities": [
+			[
+				"SP-D",
+				31,
+				35,
+				"MED"
+			],
+			[
+				"coronavirus",
+				43,
+				54,
+				"MED"
+			],
+			[
+				"https://www.ncbi.nlm.nih.gov/pubmed/19439011",
+				56,
+				101,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "While we are discussing this with a number of academic institutions, I was wondering, though, whether you and the NIH are interested to collaborate on evaluating AT-100 against coronavirus.",
+		"entities": [
+			[
+				"NIH",
+				114,
+				117,
+				"ORG"
+			],
+			[
+				"AT-100",
+				162,
+				168,
+				"MED"
+			],
+			[
+				"coronavirus",
+				177,
+				188,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Please let me know, if you are willing to schedule a phone call with our Chief Medical Officer Dr. Paul Kingma and [ to discuss.",
+		"entities": [
+			[
+				"Chief Medical Officer",
+				73,
+				94,
+				"TITLE"
+			],
+			[
+				"Dr. Paul Kingma",
+				95,
+				110,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "There is obviously a sense of urgency behind this request.",
+		"entities": []
+	},
+	{
+		"content": "Best regards, Marc Salzberg Airway Therapeutics, Inc.",
+		"entities": [
+			[
+				"Marc Salzberg",
+				14,
+				27,
+				"PERSON"
+			],
+			[
+				"Airway Therapeutics, Inc.",
+				28,
+				53,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Marc Salzberg, MD President &CEQ 1200 Johnson Ferry Rd., Suite 300 Marietta, GA 30068",
+		"entities": [
+			[
+				"Marc Salzberg",
+				0,
+				13,
+				"PERSON"
+			],
+			[
+				"MD President &CEQ",
+				15,
+				32,
+				"TITLE"
+			],
+			[
+				"1200 Johnson Ferry Rd., Suite 300",
+				33,
+				66,
+				"ADDRESS"
+			],
+			[
+				"Marietta, GA",
+				67,
+				79,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Ph NIH-001347 ¢« 3 AIRWAY QRO THERAPEUTICS NIH-001348 ']",
+		"entities": [
+			[
+				"AIRWAY QRO THERAPEUTICS",
+				19,
+				42,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[\"Done!",
+		"entities": []
+	},
+	{
+		"content": "Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda,MD 20892-2520 Phone: FAX: (301) 496-4409 E-mail: [ The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				18,
+				29,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				30,
+				83,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03 31 Center Drive, MSC 2520",
+				84,
+				133,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				134,
+				163,
+				"ORG"
+			],
+			[
+				"Bethesda,MD",
+				164,
+				175,
+				"LOC"
+			],
+			[
+				"(301) 496-4409",
+				199,
+				213,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				183,
+				188,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Qi Zhang <gizhang@caixin.com>",
+		"entities": [
+			[
+				"Qi Zhang",
+				6,
+				14,
+				"PERSON"
+			],
+			[
+				"gizhang@caixin.com",
+				16,
+				34,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Thursday, February 20, 2020",
+		"entities": [
+			[
+				"Thursday, February 20, 2020",
+				6,
+				33,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "3:16 PM To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				12,
+				26,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				28,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]| Subject: Urgent- Phone Interview Request on Coronavirus",
+		"entities": [
+			[
+				"Coronavirus",
+				49,
+				60,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr. Fauci, Good afternoon.",
+		"entities": [
+			[
+				"Dr. Fauci",
+				5,
+				14,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "| am Olivia Zhang with Caixin Media, which is the front-liner of the Coronavirus reporting in China.",
+		"entities": [
+			[
+				"Olivia Zhang",
+				5,
+				17,
+				"PERSON"
+			],
+			[
+				"Caixin Media",
+				23,
+				35,
+				"ORG"
+			],
+			[
+				"Coronavirus",
+				69,
+				80,
+				"MED"
+			],
+			[
+				"China",
+				94,
+				99,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "We spoke at the very beginning of the virus and | wanted to talk to you regarding the latest situation, especially from test, treatment point of view.",
+		"entities": []
+	},
+	{
+		"content": "| also left you a voice message.",
+		"entities": []
+	},
+	{
+		"content": "Feel free to call me via )whenever you're free.",
+		"entities": []
+	},
+	{
+		"content": "| look forward to hearing from you.",
+		"entities": []
+	},
+	{
+		"content": "Best, Olivia Qi ZHANG (Olivia) U.S. Correspondent Caixin Media Company Limited NIH-001707 Email: gizhang@caixin.com Mobile:+{EEIIITIGIE Twitter: @zhang_giii www.caixin.com | caixinglobal.com NIH-001708 \"]",
+		"entities": [
+			[
+				"Olivia Qi ZHANG",
+				6,
+				21,
+				"PERSON"
+			],
+			[
+				"Olivia",
+				23,
+				29,
+				"PERSON"
+			],
+			[
+				"U.S. Correspondent",
+				31,
+				49,
+				"TITLE"
+			],
+			[
+				"Caixin Media Company Limited",
+				50,
+				78,
+				"ORG"
+			],
+			[
+				"gizhang@caixin.com",
+				97,
+				115,
+				"EMAIL"
+			],
+			[
+				"www.caixin.com",
+				157,
+				171,
+				"URL"
+			],
+			[
+				"caixinglobal.com",
+				174,
+				190,
+				"URL"
+			]
+		]
+	},
+	{
+		"content": "[\"Steve: John loannidis is the one that most of us know.",
+		"entities": [
+			[
+				"Steve",
+				2,
+				7,
+				"PERSON"
+			],
+			[
+				"John loannidis",
+				9,
+				23,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "He is the person one of your people could reach out to.",
+		"entities": []
+	},
+	{
+		"content": "Thanks, Tony Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda, MD 20892-2520 Phone: FAX: (301) 496-4409 E-mail: The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": [
+			[
+				"Tony",
+				8,
+				12,
+				"PERSON"
+			],
+			[
+				"Anthony S. Fauci",
+				13,
+				29,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				31,
+				42,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				43,
+				96,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03 31 Center Drive, MSC 2520",
+				97,
+				146,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				147,
+				176,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				177,
+				189,
+				"LOC"
+			],
+			[
+				"(301) 496-4409",
+				213,
+				227,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				183,
+				188,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Hahn, Stephen [IINE G Sent: Saturday, April 18, 2020 3:25 PM",
+		"entities": [
+			[
+				"Hahn, Stephen",
+				6,
+				19,
+				"PERSON"
+			],
+			[
+				"Saturday, April 18, 2020",
+				34,
+				58,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] [ (@)",
+		"entities": []
+	},
+	{
+		"content": ">",
+		"entities": []
+	},
+	{
+		"content": "Cc:",
+		"entities": []
+	},
+	{
+		"content": "Birx, Deborah L. EOP/I ) (8)>; Redfield, Robert R. (CDC/OD)",
+		"entities": [
+			[
+				"Birx, Deborah L.",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"Redfield, Robert R.",
+				31,
+				50,
+				"PERSON"
+			],
+			[
+				"CDC/OD",
+				52,
+				58,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[ ®®>; Kadlec, Robert (0S/ASPR/10) ®I@>;",
+		"entities": [
+			[
+				"Kadlec, Robert",
+				7,
+				21,
+				"PERSON"
+			],
+			[
+				"0S/ASPR/10",
+				23,
+				33,
+				"PERSON"
+			]
+
+		]
+	},
+	{
+		"content": "I Caliguiri, Laura (FDA/OC)",
+		"entities": [
+			[
+				"Caliguiri, Laura",
+				2,
+				18,
+				"PERSON"
+			],
+			[
+				"FDA/OC",
+				20,
+				26,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I ®I@>; Lenihan, keagan (FDA/OC)",
+		"entities": [
+			[
+				"Lenihan, keagan",
+				8,
+				23,
+				"PERSON"
+			],
+			[
+				"FDA/OC",
+				25,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I®@); shuren, Jeff (FDA/CDRH)",
+		"entities": [
+			[
+				"suhren, Jeff",
+				6,
+				18,
+				"PERSON"
+			],
+			[
+				"FDA/CDRH",
+				20,
+				28,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[ ®I8); Lane, CIiff (NIH/NIAID)",
+		"entities": [
+			[
+				"Lane, CIiff",
+				8,
+				19,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				21,
+				30,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] @16 Subject: RE: medRxiv:",
+		"entities": []
+	},
+	{
+		"content": "COVID-19 Antibody Seroprevalence in Santa Clara County, California We can certainly work with them.",
+		"entities": [
+			[
+				"COVID-19 Antibody Seroprevalence",
+				0,
+				32,
+				"MED"
+			],
+			[
+				"Santa Clara",
+				36,
+				47,
+				"LOC"
+			],
+			[
+				"California",
+				56,
+				66,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Does anyone know any of these folks?",
+		"entities": []
+	},
+	{
+		"content": "From: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				6,
+				20,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				22,
+				31,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E] @)",
+		"entities": []
+	},
+	{
+		"content": "(6) Date: April 18, 2020 at 10:51:33 AM EDT \"]",
+		"entities": [
+			[
+				"April 18, 2020",
+				10,
+				24,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "['Dear Francis and Adam — Sorry for the slight delay in getting to you the recommendations that ASM collected from clinical lab directors.",
+		"entities": [
+			[
+				"Francis",
+				7,
+				14,
+				"PERSON"
+			],
+			[
+				"Adam",
+				19,
+				23,
+				"PERSON"
+			],
+			[
+				"ASM",
+				96,
+				99,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "See attached document.",
+		"entities": []
+	},
+	{
+		"content": "ASM leaders remain available for any further discussion that may be helpful to solve the current impasse.",
+		"entities": [
+			[
+				"ASM",
+				0,
+				3,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "Please do not hesitate to contact us, we are here to serve as a resource to you.",
+		"entities": []
+	},
+	{
+		"content": "Sincerely, Stefano Stefano Bertuzzi, Ph.D., M.P.H. Chief Executive Officer American Society for Microbiology (ASM)",
+		"entities": [
+			[
+				"Stefano",
+				11,
+				18,
+				"PERSON"
+			],
+			[
+				"Stefano Bertuzzi",
+				19,
+				35,
+				"PERSON"
+			],
+			[
+				"Ph.D., M.P.H.",
+				37,
+				50,
+				"TITLE"
+			],
+			[
+				"Chief Executive Officer",
+				51,
+				74,
+				"TITLE"
+			],
+			[
+				"American Society for Microbiology",
+				75,
+				108,
+				"ORG"
+			],
+			[
+				"ASM",
+				110,
+				113,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "1752 N St., NW Washington, DC 20036-2904 Phon IIIIIN®I©) NIH-000663 ']",
+		"entities": [
+			[
+				"1752 N St., NW",
+				0,
+				14,
+				"ADDRESS"
+			],
+			[
+				"Washington, DC",
+				15,
+				29,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "['Let us discuss.",
+		"entities": []
+	},
+	{
+		"content": "We do not need to bring before the OD AM group.",
+		"entities": [
+			[
+				"OD",
+				35,
+				37,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "| would like to do this if possible.",
+		"entities": []
+	},
+	{
+		"content": "Itis an invitation from Meghan O’Sullivan who was one of the security crew from Bush 43.",
+		"entities": [
+			[
+				"Meghan O’Sullivan",
+				24,
+				41,
+				"PERSON"
+			],
+			[
+				"Bush 43",
+				80,
+				87,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda, MD 20892-2520",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				0,
+				16,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				18,
+				29,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				30,
+				83,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03 31 Center Drive, MSC 2520",
+				84,
+				133,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				134,
+				163,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				164,
+				176,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": []
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				183,
+				188,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Richard Fontaine <rfontaine@trilateral.org>",
+		"entities": [
+			[
+				"Richard Fontaine",
+				6,
+				22,
+				"PERSON"
+			],
+			[
+				"rfontaine@trilateral.org",
+				24,
+				48,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Sent: Monday, February 10, 2020 11:30 AM To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Monday, February 10, 2020",
+				6,
+				31,
+				"DATE"
+			],
+			[
+				"Fauci, Anthony",
+				45,
+				59,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				61,
+				70,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]/ Cc: Meghan O'Sullivan| ' ]",
+		"entities": [
+			[
+				"Meghan O'Sullivan|",
+				9,
+				27,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Torrey Taussig <ttaussig@trilateral.org>",
+		"entities": [
+			[
+				"Torrey Taussig",
+				0,
+				14,
+				"PERSON"
+			],
+			[
+				"ttaussig@trilateral.org",
+				16,
+				39,
+				"EMAIL"
+			]
+		]
+	},
+	{
+		"content": "Subject: Invitation to Speak at the March 13-15 Trilateral Commission Meeting in Washington, D.C.",
+		"entities": [
+			[
+				"March 13-15",
+				36,
+				47,
+				"DATE"
+			],
+			[
+				"Trilateral Commission Meeting",
+				48,
+				77,
+				"EVENT"
+			],
+			[
+				"Washington, D.C.",
+				81,
+				97,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Dear Dr. Fauci, The Trilateral Commission will hold its invitation-only annual plenary meeting in Washington, D.C., on March 13-15, 2020.",
+		"entities": [
+			[
+				"Dr. Fauci",
+				5,
+				14,
+				"PERSON"
+			],
+			[
+				"The Trilateral Commission ",
+				16,
+				41,
+				"ORG"
+			],
+			[
+				"Washington, D.C.",
+				98,
+				114,
+				"LOC"
+			],
+			[
+				"March 13-15, 2020",
+				119,
+				136,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "| would like to invite you to participate in a conversation at the meeting on responding to the coronavirus and global pandemics.",
+		"entities": [
+			[
+				"coronavirus",
+				96,
+				107,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "As you may know, the Trilateral Commission was launched by David Rockefeller in 1973 to think through the shared challenges and leadership responsibilities of the three principal industrialized democratic areas of the world; Europe, North American, and Japan (now Asia).",
+		"entities": [
+			[
+				"Trilateral Commission",
+				21,
+				42,
+				"ORG"
+			],
+			[
+				"David Rockefeller",
+				59,
+				76,
+				"PERSON"
+			],
+			[
+				"1973",
+				80,
+				84,
+				"DATE"
+			],
+			[
+				"Europe",
+				225,
+				231,
+				"LOC"
+			],
+			[
+				"North American",
+				233,
+				247,
+				"LOC"
+			],
+			[
+				"Japan",
+				253,
+				258,
+				"LOC"
+			],
+			[
+				"Asia",
+				264,
+				268,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Today, the Commission believes its original mission of bringing democratic countries together to tackle international challenges should once again be a major priarity for our country and our partners.",
+		"entities": [
+			[
+				"Commission",
+				11,
+				21,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "This year's plenary meeting is a major, three- day gathering of our global membership during which we will explore the theme \"Demaocracy and Capitalism at a Crossroads.\"",
+		"entities": []
+	},
+	{
+		"content": "NIH-001990 Your participation would make a great difference if you are available.",
+		"entities": []
+	},
+	{
+		"content": "Attached to this email you will find an invitation from North American chair Meghan O'Sullivan.",
+		"entities": [
+			[
+				"North American",
+				56,
+				70,
+				"NORP"
+			],
+			[
+				"Meghan O'Sullivan",
+				77,
+				94,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Please do let us know if you have any guestions about the event or your potential role in it, and we hope that you are able to accept our invitation.",
+		"entities": []
+	},
+	{
+		"content": "Best wishes, Richard Richard Fontaine Executive Director Trilateral Commission - North America NIH-001991 ']",
+		"entities": [
+			[
+				"Richard",
+				13,
+				20,
+				"PERSON"
+			],
+			[
+				"Richard Fontaine",
+				21,
+				37,
+				"PERSON"
+			],
+			[
+				"Executive Director",
+				38,
+				56,
+				"TITLE"
+			],
+			[
+				"Trilateral Commission",
+				57,
+				78,
+				"ORG"
+			],
+			[
+				"North America",
+				81,
+				94,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "['China has again modified its reporting (first it added clinical cases to lab confirmed cases on Feb-12).",
+		"entities": [
+			[
+				"China",
+				2,
+				7,
+				"GPE"
+			],
+			[
+				"Feb-12",
+				98,
+				104,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Now it is subtracting out those clinical cases and limiting numbers to lab confirmed).",
+		"entities": []
+	},
+	{
+		"content": "Have continued to follow the hospitalization data from Hubei (see below).",
+		"entities": [
+			[
+				"Hubei",
+				55,
+				60,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "NIH-001479 Here is the data being reported by Hubei and Wuhan.",
+		"entities": [
+			[
+				"Hubei",
+				46,
+				51,
+				"LOC"
+			],
+			[
+				"Wuhan",
+				56,
+				61,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Data is pretty sketchy prior to Jan-21.",
+		"entities": [
+			[
+				"Jan-21",
+				32,
+				38,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "Hubei 2019-nCoV Confirmed Hospital Data Hubeland Wulian Cases & Hosp 1tallzatlon Rates Wuh Cum | Cum ( Cum | Hubei an |Hospitali|Hospitali|i Cases",
+		"entities": [
+			[
+				"Hubei",
+				0,
+				5,
+				"LOC"
+			],
+			[
+				"2019-nCoV",
+				6,
+				15,
+				"MED"
+			],
+			[
+				"Hubei",
+				109,
+				114,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "Discha Death Inpatie| Cum p p",
+		"entities": []
+	},
+	{
+		"content": "i Case rges S .",
+		"entities": []
+	},
+	{
+		"content": "oo",
+		"entities": []
+	},
+	{
+		"content": "o — -~ — ~1 LN 1/17/ —_ o 2 20 1/18/ o",
+		"entities": []
+	},
+	{
+		"content": "[[ 20 136 100 3 e} % 2",
+		"entities": []
+	},
+	{
+		"content": "o — Yt",
+		"entities": []
+	},
+	{
+		"content": "= S O —_— oY o0 ~] o |= T — | o ™) p— S < b2 J b ™ 2 S Nlo —_— ~]",
+		"entities": []
+	},
+	{
+		"content": "o o",
+		"entities": []
+	},
+	{
+		"content": "o 399 | 304 oy b N 2 —_",
+		"entities": []
+	},
+	{
+		"content": "[ o S .",
+		"entities": []
+	},
+	{
+		"content": "o=o 106 Lad = o",
+		"entities": []
+	},
+	{
+		"content": "b ~",
+		"entities": []
+	},
+	{
+		"content": "= X n 3] T = T Mh—‘ oo oy ~J —— O o L N n b 125",
+		"entities": []
+	},
+	{
+		"content": "z | s n ~]",
+		"entities": []
+	},
+	{
+		"content": "F=Y =",
+		"entities": []
+	},
+	{
+		"content": "S m E 563 100 (2,714 [2.714 |1 < [ o o 1/30/] 5486 [4:392 | 504 [200 | 116 | 204 [5:806 [5:806 2,63 95 | 315 [100% NIH-001480",
+		"entities": []
+	},
+	{
+		"content": "O N (=] — = =",
+		"entities": []
+	},
+	{
+		"content": "=) — — o 28] on 22!",
+		"entities": []
+	},
+	{
+		"content": "N N",
+		"entities": []
+	},
+	{
+		"content": "\" i i S S = €« s %",
+		"entities": []
+	},
+	{
+		"content": "o o B o on 6 N e~ N o o0 vy ol )",
+		"entities": []
+	},
+	{
+		"content": "N u o o~ L] n gl o =t",
+		"entities": []
+	},
+	{
+		"content": "ol O - —~ r~ o ™ ~.,51,91,2 3.,4 ,10 .,_f",
+		"entities": []
+	},
+	{
+		"content": "aﬂ !",
+		"entities": []
+	},
+	{
+		"content": "o = © o 0 34 ®© ,4 —,86,39:,29,24 5]?",
+		"entities": []
+	},
+	{
+		"content": "ow4A,t2J.2324., ,49,.",
+		"entities": []
+	},
+	{
+		"content": "2 39 o —_ 364545 ol <t 2ﬂw?3?,o W 4244 v 9 NIH-001481 1 o o ']",
+		"entities": []
+	},
+	{
+		"content": "[\"Anthony S. Fauci, MD Director National Institute of Allergy and Infectious Diseases Building 31, Room 7A-03 31 Center Drive, MSC 2520 National Institutes of Health Bethesda, MD 20892-2520 Phone:[ [ (B)(6) FAX: (301) 496-4409 E-mail: | - 06",
+		"entities": [
+			[
+				"Anthony S. Fauci",
+				2,
+				18,
+				"PERSON"
+			],
+			[
+				"MD Director",
+				20,
+				31,
+				"TITLE"
+			],
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				32,
+				85,
+				"ORG"
+			],
+			[
+				"Building 31, Room 7A-03 31 Center Drive, MSC 2520",
+				86,
+				135,
+				"ADDRESS"
+			],
+			[
+				"National Institutes of Health",
+				136,
+				165,
+				"ORG"
+			],
+			[
+				"Bethesda, MD",
+				166,
+				178,
+				"LOC"
+			],
+			[
+				"(301) 496-4409",
+				212,
+				226,
+				"PHONE"
+			]
+		]
+	},
+	{
+		"content": "The information in this e-mail and any of its attachments is confidential and may contain sensitive information.",
+		"entities": []
+	},
+	{
+		"content": "It should not be used by anyone who is not the original intended recipient.",
+		"entities": []
+	},
+	{
+		"content": "If you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage devices.",
+		"entities": []
+	},
+	{
+		"content": "The National Institute of Allergy and Infectious Diseases (NIAID) shall not accept liability for any statements made that are the sender's own and not expressly made on behalf of the NIAID by one of its representatives.",
+		"entities": [
+			[
+				"National Institute of Allergy and Infectious Diseases",
+				4,
+				57,
+				"ORG"
+			],
+			[
+				"NIAID",
+				59,
+				64,
+				"ORG"
+			],
+			[
+				"NIAID",
+				183,
+				188,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "From: Tony Lemmo [T O® >",
+		"entities": [
+			[
+				"Tony Lemmo",
+				6,
+				16,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "Sent: Wednesday, March 18, 2020 3:52 PM",
+		"entities": [
+			[
+				"Wednesday, March 18, 2020",
+				6,
+				31,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "To: Fauci, Anthony (NIH/NIAID)",
+		"entities": [
+			[
+				"Fauci, Anthony",
+				4,
+				18,
+				"PERSON"
+			],
+			[
+				"NIH/NIAID",
+				20,
+				29,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "[E]!",
+		"entities": []
+	},
+	{
+		"content": "Subject:",
+		"entities": []
+	},
+	{
+		"content": "Rapid diagnostic support for Covid-19 Hi Dr Fauci, Hello from IS I'm sure you are swamped.",
+		"entities": [
+			[
+				"Covid-19",
+				29,
+				37,
+				"MED"
+			],
+			[
+				"Dr Fauci",
+				41,
+				49,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "I'll be brief.",
+		"entities": []
+	},
+	{
+		"content": "| am CEO of the world's leading provider of dispensing equipment for the diagnostics market,",
+		"entities": [
+			[
+				"CEO",
+				5,
+				8,
+				"TITLE"
+			]
+		]
+	},
+	{
+		"content": "BioDot Inc.",
+		"entities": [
+			[
+				"BioDot Inc.",
+				0,
+				11,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "We have been around for 25 years and provide enabling technology to virtually every rapid immunoassay and molecular diagnostics company in the world.",
+		"entities": []
+	},
+	{
+		"content": "We are actively involved today with companies around the globe to help commercialize lateral flow point of care products to help fight Covid-19.",
+		"entities": [
+			[
+				"Covid-19",
+				135,
+				143,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "If there is anybody in your organization or on the task force that could help facilitate getting us involved with companies looking to produce tests - we are here to help!",
+		"entities": []
+	},
+	{
+		"content": "For example we are actively working with Biomedomics to get their LFD test into the community as fast as possible.",
+		"entities": [
+			[
+				"Biomedomics",
+				41,
+				52,
+				"ORG"
+			],
+			[
+				"LFD test",
+				66,
+				74,
+				"MED"
+			]
+		]
+	},
+	{
+		"content": "We will move heaven and earth to help the country in any way we can.",
+		"entities": []
+	},
+	{
+		"content": "Thank you for all you have done and best of luck in fighting this pandemic NIH-000438 Anthony V. Lemmo, Ph.D CEO and President BioDot Inc. 2852 Alton Parkway Irvine, B CA 92606",
+		"entities": [
+			[
+				"Anthony V. Lemmo",
+				86,
+				102,
+				"PERSON"
+			],
+			[
+				"Ph.D CEO and President",
+				104,
+				126,
+				"TITLE"
+			],
+			[
+				"BioDot Inc.",
+				127,
+				138,
+				"ORG"
+			],
+			[
+				"2852 Alton Parkway",
+				139,
+				157,
+				"ADDRESS"
+			],
+			[
+				"Irvine, B CA",
+				158,
+				170,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "A F 949-440-3694 www .biodot.com NIH-000439 \"]",
+		"entities": [
+					[
+				"949-440-3694",
+				4,
+				16,
+				"PHONE"
+			],
+			[
+				"www .biodot.com",
+				17,
+				32,
+				"URL"
+			]
+		]
+	}
+]

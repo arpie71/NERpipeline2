@@ -1,0 +1,2438 @@
+[
+	{
+		"content": "['ACTION ADVISES THAT TREASURY ISSUED CHECK IN AMOUNT $34,400 AUGUST 28.",
+		"entities": [
+			[
+				"TREASURY",
+				22,
+				30,
+				"ORG"
+			],
+			[
+				"AUGUST 28",
+				62,
+				71,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "CHECK APPARENTLY LOST, AT LEAST TEMPORARILY.",
+		"entities": []
+	},
+	{
+		"content": "TREASURY HAS PUT CHECK PAYMENT ON HOLD PENDING ITS BEING LOCATED.",
+		"entities": [
+			[
+				"TREASURY",
+				0,
+				8,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "REGULATIONS PRESCRIBE 5-6 WEEK DELAY BEFORE ISSUANCE REPLACEMENT CHECK.",
+		"entities": []
+	},
+	{
+		"content": "WILL KEEP MISSION INFORMED ON DEVELOPMENTS.",
+		"entities": []
+	},
+	{
+		"content": "MISSION",
+		"entities": []
+	},
+	{
+		"content": "MAY EXPLAIN SITUATION TO ISVS.",
+		"entities": []
+	},
+	{
+		"content": "KISSINGER ']",
+		"entities": [
+			[
+				"KISSINGER",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['MRN: 1974NATO B006934 SEGMENT NUMBER: 000001 ERROR READING TEXT INDEX FILE; TELEGRAM TEXT FOR THIS MRN IS UNAVAILABLE ']",
+		"entities": [
+			[
+				"1974NATO B006934",
+				7,
+				23,
+				"WORK_OF_ART"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "INDIAN AVITRONICS EXECUTIVE SURESH MOHAN GUPTA WILL VISIT PITTSBURGH WEEK OF APRIL 14 AND WILL CALL UPON CHARLES WEAVER OR WILLIAM CULBERTSON OF WESTINGHOUSE ELECTRIC INTERNATIONAL.",
+		"entities": [
+			[
+				"INDIAN AVITRONICS",
+				0,
+				17,
+				"ORG"
+			],
+			[
+				"SURESH MOHAN GUPTA",
+				28,
+				46,
+				"PERSON"
+			],
+			[
+				"PITTSBURGH",
+				58,
+				68,
+				"LOC"
+			],
+			[
+				"APRIL 14",
+				77,
+				85,
+				"DATE"
+			],
+			[
+				"CHARLES WEAVER",
+				105,
+				119,
+				"PERSON"
+			],
+			[
+				"WILLIAM CULBERTSON",
+				123,
+				141,
+				"PERSON"
+			],
+			[
+				"WESTINGHOUSE ELECTRIC INTERNATIONAL",
+				145,
+				180,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "INDIAN AVITRONICS REGRETS IT CANNOT PROVIDE EXACT DATE OF ARRIVAL AS AIRLINE TRANSPORTATION SCHEDULES FROM INDIA TEND TO BE SOMEWHAT UNRLIABLE THES DAYS.",
+		"entities": [
+			[
+				"INDIAN AVITRONICS",
+				0,
+				17,
+				"ORG"
+			],
+			[
+				"INDIA",
+				107,
+				112,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "SURESH MOHN GUPTA HAS BEEN GIVEN NAMES OF PITTSBURGH FIELD OFFICE AND BIC/OED CONACS",
+		"entities": [
+			[
+				"SURESH MOHN GUPTA",
+				0,
+				17,
+				"PERSON"
+			],
+			[
+				"PITTSBURGH",
+				42,
+				52,
+				"LOC"
+			],
+			[
+				"BIC/OED",
+				70,
+				77,
+				"ORG"
+			],
+			[
+				"CONACS",
+				78,
+				84,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "PROVIDED USDOC4S GT APPRECIATES THE SUPPORT BIC AND THE PITTSBURGH FIELD OFFICE HAVE ACCORDED US.",
+		"entities": [
+			[
+				"BIC",
+				44,
+				47,
+				"ORG"
+			],
+			[
+				"PITTSBURGH",
+				56,
+				66,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "SCHNEIDER. ']",
+		"entities": [
+			[
+				"SCHNEIDER",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['ON APRIL 20, 1978 RSO WAS ADVISED BY COMMANDING OFFICER NCS H.E. HOLT",
+		"entities": [
+			[
+				"APRIL 20, 1978",
+				5,
+				19,
+				"DATE"
+			],
+			[
+				"RSO",
+				20,
+				23,
+				"PERSON"
+			],
+			[
+				"NCS H.E. HOLT",
+				58,
+				71,
+				"FAC"
+			]
+		]
+	},
+	{
+		"content": "THAT SUBJECT WAS TRANSFERRED TO THE ADVANCED RADIOMANS \"C\" SCHOOL, U.S. NAVAL STATION, SAN DIEGO, ON 31 JANUARY 1978 FOR TRAINING PRIOR TO HER ASSIGNMENT IN JUNE 1978 TO U.S. NAVAL COMMUNICATIONS UNIT, LONDON, ENGLAND.",
+		"entities": [
+			[
+				"U.S. NAVAL STATION",
+				67,
+				85,
+				"LOC"
+			],
+			[
+				"SAN DIEGO",
+				87,
+				96,
+				"LOC"
+			],
+			[
+				"31 JANUARY 1978",
+				101,
+				116,
+				"DATE"
+			],
+			[
+				"JUNE 1978",
+				157,
+				166,
+				"DATE"
+			],
+			[
+				"U.S. NAVAL COMMUNICATIONS",
+				170,
+				195,
+				"ORG"
+			],
+			[
+				"LONDON, ENGLAND",
+				202,
+				217,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "IS IT NECESSARYFOR RSO TO CONDUCT INVESTIGATION IN WESTERN AUSTRLIA SINCE SUBJECT IS NO LONGER LOCATED THERE?",
+		"entities": [
+			[
+				"RSO",
+				19,
+				22,
+				"PERSON"
+			],
+			[
+				"WESTERN AUSTRLIA",
+				51,
+				67,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "IF SO, RSO PLANS TRIP BETWEEN 15-31 MAY.",
+		"entities": [
+			[
+				"RSO",
+				7,
+				10,
+				"PERSON"
+			],
+			[
+				"15-31 MAY",
+				30,
+				39,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "PLEASE ADVISE.",
+		"entities": []
+	},
+	{
+		"content": "ALSTON ']",
+		"entities": [
+			[
+				"ALSTON",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "REGARDING ANNEX 3, PARA 1, ROMANIAN LANGUAGE OFFERS NO DIRECT EQUIVALENT TO PROPOSED CHANGE IN ENGLISH TEXT.",
+		"entities": [
+			[
+				"ROMANIAN",
+				27,
+				35,
+				"NORP"
+			],
+			[
+				"ENGLISH",
+				95,
+				102,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "WE SUGGEST FOLLOWING WORDING, WHICH CONFORMS TO ROMANIAN TEXT:",
+		"entities": [
+			[
+				"ROMANIAN",
+				48,
+				56,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "QUOTE IN THIS AGREEMENT, IN THE EXPRESSION \"FIRMS, COMPANIES AND ECONOMIC ORGANIZATIONS,\" FOR THE UNITED STATE OF AMERICA, SHALL INCLUDE ... AND THE EXPRESSION \"FIRMS, COMPANIES AND ECONOMIC ORGANIZATIONS,\" FOR THE SOCIALIST REPUBLIC OF ROMANIA, SHALL INCLUDE ... UNQUOTE.",
+		"entities": [
+			[
+				"UNITED STATE OF AMERICA",
+				98,
+				121,
+				"GPE"
+			],
+			[
+				"SOCIALIST REPUBLIC OF ROMANIA",
+				215,
+				244,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "SIMILARLY, PARA 2 OF ANNEX 3 WOULD READ QUOTE IN THIS AGREEMENT, THE TERM \"REPRESENTATION,\" IN THE CASE OF THE REPRESENTATIONS ESTABLISHED IN THE UNITED STATES OF AMERICA...UNQUOTE.",
+		"entities": [
+			[
+				"UNITED STATES OF AMERICA",
+				146,
+				170,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "PLEASE ADVISE IF THIS ACCEPTABLE.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "OF REMAINING CHANGES PROPOSED REFTEL, SOME WERE ONLY TYPOGRAPHICAL ERRORS IN TRANSMISSION.",
+		"entities": []
+	},
+	{
+		"content": "ALL OTHER CHANGES ACCEPTED BY MINISTRY OF FOREIGN TRADE AND INCORPORATED INTO FINAL TEXT.",
+		"entities": [
+			[
+				"MINISTRY OF FOREIGN TRADE",
+				30,
+				55,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "PLEASE ADVISE IF TEXT CAN NOW BE CONSIDERED AS FINAL.",
+		"entities": []
+	},
+	{
+		"content": "IF SO, WE WILL ASK GOR TO TYPE ROMANIAN TEXT IN FINAL FORM AND POUCH COPY TO DEPARTMENT AS REQUESTED.",
+		"entities": [
+			[
+				"GOR",
+				19,
+				22,
+				"GPE"
+			],
+			[
+				"ROMANIAN",
+				31,
+				39,
+				"NORP"
+			],
+			[
+				"DEPARTMENT",
+				77,
+				87,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "REQUEST IMMEDIATE REPLY.",
+		"entities": []
+	},
+	{
+		"content": "BARNES ']",
+		"entities": [
+			[
+				"BARNES",
+				0,
+				6,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['DHEW/OE WISHES TO INFORM THE POST THAT THE ALTERNATE PRO- JECTS LISTED IN REFERENCED MESSAGES ARE NOW ELEVATED TO PRINCIPAL PROJECTS.",
+		"entities": [
+			[
+				"DHEW/OE",
+				2,
+				9,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THEREFORE, ALL PROPOSALS LISTED WOULD BE FUNDED.",
+		"entities": []
+	},
+	{
+		"content": "KISSINGER ']",
+		"entities": [
+			[
+				"KISSINGER",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"PAPUA NEW GUINEA REFERENCE: STATE 127928 HAVE REQUESTED FROM YAMAI'S DEPARTMENT OF EDUCATION THEIR PREFERENCE FOR HIS PROGRAM AND WILL ADVISE AS SOON AS REPLY RECEIVED.",
+		"entities": [
+			[
+				"PAPUA NEW GUINEA",
+				2,
+				18,
+				"GPE"
+			],
+			[
+				"STATE 127928",
+				36,
+				42,
+				"WORK_OF_ART"
+			],
+			[
+				"YAMAI",
+				63,
+				69,
+				"PERSON"
+			],
+			[
+				"DEPARTMENT OF EDUCATION",
+				71,
+				94,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "GREEN NOTE BY OC/T: NOT PASSED.",
+		"entities": [
+			[
+				"OC/T",
+				14,
+				18,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "\"]",
+		"entities": []
+	},
+	{
+		"content": "['1.",
+		"entities": []
+	},
+	{
+		"content": "WHEN THE SUBJECT OF RECENT GREEK EVENTS CAME UP IN THE COURSE OF A NOVEMBER 30 CONVERSATION ON OTHER MATTERS, FONOFF NATO AFFAIRS DIRECTOR VAN DER DERCKHOVE REMARKED THAT FOREIGN MINISTER VAN ELSLANDE \"WOULD HAVE A BIG PROBLEM WITH GREECE\" AT THE UP- COMING NATO MINISTERIAL.",
+		"entities": [
+			[
+				"GREEK",
+				27,
+				32,
+				"GPE"
+			],
+			[
+				"NOVEMBER 30",
+				67,
+				78,
+				"DATE"
+			],
+			[
+				"FONOFF NATO AFFAIRS DIRECTOR VAN DER DERCKHOVE",
+				110,
+				156,
+				"PERSON"
+			],
+			[
+				"FOREIGN MINISTER VAN ELSLANDE",
+				171,
+				200,
+				"PERSON"
+			],
+			[
+				"GREECE",
+				232,
+				238,
+				"GPE"
+			],
+			[
+				"NATO",
+				258,
+				262,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WHEN PROBED, VAN DER KERCKHOVE WAS UNABLE TO SAY WITH CERTAINTY THAT VAN ELSLANDE INTENDED TO SPEAK OUT ON GREECE AT THE MINISTERIAL, BUT HE LEFT THE CLEAR IMPRESSION THAT THIS WAS A DISTINCT AND LIVELY POSSIBILITY IN VIEW OF VAN ELSLANDE'S KNOWN VIEWS ON THE GREEK SITUATION IN PARTICULAR AND THE PERSERVATION OF DEMOCRACY IN THE ALLIANCE IN GENERAL.",
+		"entities": [
+			[
+				"VAN DER KERCKHOVE",
+				13,
+				30,
+				"PERSON"
+			],
+			[
+				"VAN ELSLANDE",
+				69,
+				81,
+				"PERSON"
+			],
+			[
+				"GREECE",
+				107,
+				113,
+				"GPE"
+			],
+			[
+				"VAN ELSLANDE",
+				226,
+				238,
+				"PERSON"
+			],
+			[
+				"GREEK",
+				260,
+				265,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "EMBOFF TOOK THE OCCASION TO RESTATE THE US POSITION AS CONTAINED IN REFTEL AND TO URGE THAT IF VAN ELSLANDE FELT COMPELLED TO CRITICIZE GREECE, HE DO IT IN SOME OTHER FORUM AND SPARE NATO ANOTHER ROUND OF POINTLESS AND DIVISIVE BICKERING.",
+		"entities": [
+			[
+				"EMBOFF",
+				0,
+				6,
+				"PERSON"
+			],
+			[
+				"US",
+				40,
+				42,
+				"GPE"
+			],
+			[
+				"VAN ELSLANDE",
+				95,
+				107,
+				"PERSON"
+			],
+			[
+				"GREECE",
+				136,
+				142,
+				"GPE"
+			],
+			[
+				"NATO",
+				183,
+				187,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "COMMENT.",
+		"entities": []
+	},
+	{
+		"content": "VAN ELSLANDE DOES INDEED HAVE STRONG FEELINGS ON THE SUBJECT OF DEMOCRACY IN THE ALLIANCE AND MAY BE COUNTED UPON TO SUPPORT OTHER CRITICS OF GREECE (E.G., THE NORWEGIANS OR DUTCH)",
+		"entities": [
+			[
+				"VAN ELSLANDE",
+				0,
+				12,
+				"PERSON"
+			],
+			[
+				"GREECE",
+				142,
+				148,
+				"GPE"
+			],
+			[
+				"NORWEGIANS",
+				160,
+				170,
+				"GPE"
+			],
+			[
+				"DUTCH",
+				174,
+				179,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IF HE DOES NOT LAUNCH THE INITIAL CRITICISM HIMSELF.",
+		"entities": []
+	},
+	{
+		"content": "IT MIGHT BE USEFUL TO HAVE GERMAN AND BRITISH SUPPORT HERE AS IN OSLO.",
+		"entities": [
+			[
+				"GERMAN",
+				27,
+				33,
+				"GPE"
+			],
+			[
+				"BRITISH",
+				38,
+				45,
+				"GPE"
+			],
+			[
+				"OSLO",
+				65,
+				69,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "STRAUSZ-HUPE ']",
+		"entities": [
+			[
+				"STRAUSZ-HUPE",
+				0,
+				12,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['SHIP IN NUCLEAR ENERGY AGENCY (NEA) 1.",
+		"entities": [
+			[
+				"NUCLEAR ENERGY AGENCY",
+				10,
+				31,
+				"ORG"
+			],
+			[
+				"NEA",
+				33,
+				36,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "DURING FIRST DAY OF HIS WASHINGTON CONSULTATION, SEPT. 22, OECD DEPSECGEN WOOTTON WAS JOINED BY NUCLEAR ENERGY AGENCY DEPUTY DIRECTOR GENERAL IAN WILLIAMS.",
+		"entities": [
+			[
+				"WASHINGTON",
+				24,
+				34,
+				"GPE"
+			],
+			[
+				"SEPT. 22",
+				49,
+				57,
+				"DATE"
+			],
+			[
+				"OECD",
+				59,
+				63,
+				"ORG"
+			],
+			[
+				"DEPSECGEN WOOTTON",
+				64,
+				81,
+				"PERSON"
+			],
+			[
+				"NUCLEAR ENERGY AGENCY",
+				96,
+				117,
+				"ORG"
+			],
+			[
+				"DEPUTY DIRECTOR GENERAL IAN WILLIAMS",
+				118,
+				154,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "IN CALLS ON STATE, FEA, AND ERDA OFFICIALS BOTH MADE STRONG PITCH FOR USG BECOMING FULL MEMBER OF NEA AND CLARIFYING INTER-RELATIONSHIP OF NEA AND IEA IN NUCLEAR WORK.",
+		"entities": [
+			[
+				"STATE",
+				12,
+				17,
+				"ORG"
+			],
+			[
+				"FEA",
+				19,
+				22,
+				"ORG"
+			],
+			[
+				"ERDA",
+				28,
+				32,
+				"ORG"
+			],
+			[
+				"USG",
+				70,
+				73,
+				"GPE"
+			],
+			[
+				"NEA",
+				98,
+				101,
+				"ORG"
+			],
+			[
+				"NEA",
+				139,
+				142,
+				"ORG"
+			],
+			[
+				"IEA",
+				147,
+				150,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "MAIN POINTS MADE BY WOOTTON AND WILLIAMS WERE:",
+		"entities": [
+			[
+				"WOOTTON",
+				20,
+				27,
+				"PERSON"
+			],
+			[
+				"WILLIAMS",
+				32,
+				40,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "A) US IS LAST REMAINING NEA ASSOCIATE MEMBER.",
+		"entities": [
+			[
+				"US",
+				3,
+				5,
+				"GPE"
+			],
+			[
+				"NEA",
+				24,
+				27,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "(FINLAND AND NEW ZEALAND ARE ONLY OECD COUNTRIES NOT ASSOCIATED AT ALL WITH NEA, AND FINLAND IS EXPECTED TO JOIN AS OF NEXT JANUARY 1, ACCORDING TO WILLIAMS.)",
+		"entities": [
+			[
+				"FINLAND",
+				1,
+				8,
+				"GPE"
+			],
+			[
+				"NEW ZEALAND",
+				17,
+				24,
+				"GPE"
+			],
+			[
+				"OECD",
+				34,
+				38,
+				"ORG"
+			],
+			[
+				"NEA",
+				76,
+				79,
+				"ORG"
+			],
+			[
+				"FINLAND",
+				85,
+				92,
+				"GPE"
+			],
+			[
+				"JANUARY 1",
+				124,
+				133,
+				"DATE"
+			],
+			[
+				"WILLIAMS",
+				148,
+				156,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "B) PROPOSAL FOR EXPANSION OF NEA INTO \"OECD ERDA\" IS \"ON THE SHELF,\" AND WILLIAMS INDICATED HIS PERSONAL DISINCLINATION TO RESURRECT IT.",
+		"entities": [
+			[
+				"NEA",
+				29,
+				32,
+				"ORG"
+			],
+			[
+				"OECD",
+				39,
+				43,
+				"ORG"
+			],
+			[
+				"ERDA",
+				44,
+				48,
+				"ORG"
+			],
+			[
+				"WILLIAMS",
+				73,
+				81,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "C) NEA HAS INCREASED ITS 1975 BUDGET BYAROUND 9 PERCENT (IN REAL TERMS) OVER 1974.",
+		"entities": [
+			[
+				"NEA",
+				3,
+				6,
+				"ORG"
+			],
+			[
+				"1975",
+				25,
+				29,
+				"DATE"
+			],
+			[
+				"1974",
+				77,
+				81,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "ANOTHER 9-10 PERCENT BUDGET GROWTH WOULD BE DESIRABLE FOR 1976 (WITHIN PRELIMINARY FISCAL PROPOSAL CURRENTLY BEING FORMULATED, BUT THIS WILL REQUIRE US MEMBERSHIP.",
+		"entities": [
+			[
+				"1976",
+				58,
+				62,
+				"DATE"
+			],
+			[
+				"US",
+				149,
+				151,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "D) 19-20 PERCENT INCREASE IN NEA ACTIVITY IN 1975/76",
+		"entities": [
+			[
+				"NEA",
+				29,
+				32,
+				"ORG"
+			],
+			[
+				"1975/76",
+				45,
+				52,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "LARGELY SPEAKS TO ASSUMED USG CONCERN THAT ITS 25 PERCENT ASSESSMENT OF TOTAL NEA BUDGET (SHOULD IT JOIN) BE REFLECTED IN PROGRAM EXPANSION RATHER THAN DUES REDUCTION FOR OTHER NEA MEMBERS.",
+		"entities": [
+			[
+				"USG",
+				26,
+				29,
+				"GPE"
+			],
+			[
+				"NEA",
+				78,
+				81,
+				"ORG"
+			],
+			[
+				"NEA",
+				177,
+				180,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "E) NEA CONTEMPLATED 1976 DRAFT BUDGET HIKE WOULD COVER COST OF INCREASING PROFESSIONAL STAFF BY FOUR OR FIVE.",
+		"entities": [
+			[
+				"NEA",
+				3,
+				6,
+				"ORG"
+			],
+			[
+				"1976",
+				20,
+				24,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "WILLIAMS ENVISAGED THAT THIS WOULD INCLUDE SECOND DEPUTY DIRECTOR POSITION (FOR SCIENCE AND DEVELOPMENT), TWO ADDITIONAL POSITIONS TO WORK ON NUCLEAR SAFETY PROGRAM, AND ONE MORE FOR NUCLEAR WASTE MANAGEMENT.",
+		"entities": [
+			[
+				"WILLIAMS",
+				0,
+				8,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "F) PERSONNEL EXPANSION OUTLINED IN \"E\" ABOVE LARGELY RELATED TO PROGRAMS NEA IS WORKING ON AT LEAST PARTIALLY AT BEHEST OF IEA.",
+		"entities": [
+			[
+				"NEA",
+				73,
+				76,
+				"ORG"
+			],
+			[
+				"IEA",
+				123,
+				126,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "G) CONCERNING EVOLVING IEA/NEA INTERACTION IN GENERAL, WILLIAMS AT ONE POINT EXPRESSLY STATED HIS VIEW THAT THIS WOULD BE CONTRACTOR (IEA)-CONTRACTEE (NEA) RELATIONSHIP.",
+		"entities": [
+			[
+				"IEA/NEA",
+				23,
+				30,
+				"ORG"
+			],
+			[
+				"WILLIAMS",
+				55,
+				63,
+				"PERSON"
+			],
+			[
+				"IEA",
+				134,
+				137,
+				"ORG"
+			],
+			[
+				"NEA",
+				151,
+				154,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "ALTHOUGH IT COULD NOT BE SPELLED OUT IN SO MANY WORDS DUE TO FRENCH (AND AUSTRALIAN) SENSITIVITES.",
+		"entities": [
+			[
+				"FRENCH",
+				61,
+				67,
+				"GPE"
+			],
+			[
+				"AUSTRALIAN",
+				73,
+				83,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "H) SINCE NEA NOT LIKELY TO BECOME OECD ERDA, WILLIAMS CONSIDERS IT \"LOGICAL\" TO EXPECT THAT IEA WILL ACQUIRE A SMALL R&D SECRETARIAT.",
+		"entities": [
+			[
+				"NEA",
+				9,
+				12,
+				"ORG"
+			],
+			[
+				"OECD",
+				34,
+				38,
+				"ORG"
+			],
+			[
+				"ERDA",
+				39,
+				43,
+				"ORG"
+			],
+			[
+				"WILLIAMS",
+				45,
+				53,
+				"PERSON"
+			],
+			[
+				"IEA",
+				92,
+				95,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "I)",
+		"entities": []
+	},
+	{
+		"content": "WILLIAMS FEELS THAT FRENCH (AND POSSIBLY AUSTRALIAN) OBJECTIONS TO NEA PERFORMING WORK FOR IEA WILL LARGELY EVAPORATE WITH US MEMBERSHIP IN (AND FINANCIAL CONTRIB- UTIONS TO) NEA.",
+		"entities": [
+			[
+				"WILLIAMS",
+				0,
+				8,
+				"PERSON"
+			],
+			[
+				"FRENCH",
+				20,
+				26,
+				"GPE"
+			],
+			[
+				"AUSTRALIAN",
+				41,
+				51,
+				"GPE"
+			],
+			[
+				"NEA",
+				67,
+				70,
+				"ORG"
+			],
+			[
+				"IEA",
+				91,
+				94,
+				"ORG"
+			],
+			[
+				"US",
+				123,
+				125,
+				"GPE"
+			],
+			[
+				"NEA",
+				175,
+				178,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "FURTHER, FRENCH OBSTRUCTIONISM WOULD NEVER BE INSURMOUNTABLE IN ANY EVENT SINCE NEA DECISION- MAKING APPARATUS OPERATES BY CONSENSUS.",
+		"entities": [
+			[
+				"FRENCH",
+				9,
+				15,
+				"GPE"
+			],
+			[
+				"NEA",
+				80,
+				83,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "J) US PARTICIPATION WOULD ENTITLE IT TO \"ONE OF VERY SENIOR POSITIONS: IN NEA SECRETARIAT.",
+		"entities": [
+			[
+				"US",
+				3,
+				5,
+				"GPE"
+			],
+			[
+				"NEA SECRETARIAT",
+				74,
+				89,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THIS IS SOMEWHAT DELICATE, HOWEVER, SINCE JAPAN HAS BEEN NEA MEMBER SINCE 1972, BEARS 22 PERCENT OF FINANCIAL LOAD, AND AS YET HAS NO-ONE IN SECRETARIAT.",
+		"entities": [
+			[
+				"JAPAN",
+				42,
+				47,
+				"GPE"
+			],
+			[
+				"NEA",
+				57,
+				60,
+				"ORG"
+			],
+			[
+				"1972",
+				74,
+				78,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "(COMMENT: WILLIAMS INDICATED HIS DESIRE THAT JAPANESE WOULD FILL HIS HOPED-FOR ADDITIONAL DEPUTY DIRECTOR POSITION.",
+		"entities": [
+			[
+				"WILLIAMS",
+				10,
+				18,
+				"PERSON"
+			],
+			[
+				"JAPANESE",
+				45,
+				53,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IN VIEW OF EXPECTED RETIREMENT OF NEA DIRECTOR GENERAL SAELAND, WILLIAMS DOUBTEDLESSLY HOPES TO MOVE UP TO TOP JOB, PRESUMABLY ANTICIPATING THAT HE WOULD BE REPLACED BY AN AMERICAN.",
+		"entities": [
+			[
+				"NEA DIRECTOR GENERAL SAELAND",
+				34,
+				62,
+				"PERSON"
+			],
+			[
+				"WILLIAMS",
+				64,
+				72,
+				"PERSON"
+			],
+			[
+				"AMERICAN",
+				172,
+				180,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "END COMMENT) 3.",
+		"entities": []
+	},
+	{
+		"content": "WASHINGTON OFFICIALS STRESSED FOLLOWING POINTS: A) US HAS MADE NO DECISION REGARDING NEA MEMBERSHIP B)",
+		"entities": [
+			[
+				"WASHINGTON",
+				0,
+				10,
+				"GPE"
+			],
+			[
+				"US",
+				51,
+				53,
+				"GPE"
+			],
+			[
+				"NEA",
+				85,
+				88,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WE PLACE PRIORITY ON THE PROPER ORGANIZATION OF THE R&D PROGRAM WITHIN IEA (INCLUDING RECRUITMENT OF SMALL STAFF TO HANDLE R&D).",
+		"entities": [
+			[
+				"IEA",
+				71,
+				74,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "US COULD NOT JOIN NEA BEFORE THIS MATTER TAKEN CARE OF WITHOUT CONFUSING OTHER OECD COUNTRIES REGARDING US ENERGY POLICY OBJECTIVES IN THE OECD.",
+		"entities": [
+			[
+				"US",
+				0,
+				2,
+				"GPE"
+			],
+			[
+				"NEA",
+				18,
+				21,
+				"ORG"
+			],
+			[
+				"OECD",
+				79,
+				83,
+				"GPE"
+			],
+			[
+				"US",
+				104,
+				106,
+				"GPE"
+			],
+			[
+				"OECD",
+				139,
+				143,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "C)",
+		"entities": []
+	},
+	{
+		"content": "OUR ADVICE WOULD BE, THEREFORE, THAT NEA SHOULD PREPARE ITS 1976 BUDGET ON THE ASSUMPTION THAT US WOULD NOT JOIN.",
+		"entities": [
+			[
+				"NEA",
+				37,
+				40,
+				"ORG"
+			],
+			[
+				"1976",
+				60,
+				64,
+				"DATE"
+			],
+			[
+				"US",
+				95,
+				97,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "AS IN 1975, A REVISED BUDGET COULD BE SUB- MITTED IN MID-YEAR IF CIRCUMSTANCES CHANGED.",
+		"entities": [
+			[
+				"1975",
+				6,
+				10,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "D) WE ARE PLEASED WITH RELATIONSHIP THAT HAS DEVELOPED BETWEEN IEA AND NEA ON NUCLEAR R&D, IN WHICH THE IEA PLAYS THE POLICY ROLE AND NEA PERFORMS THE TECHNICAL WORK.",
+		"entities": [
+			[
+				"IEA",
+				63,
+				66,
+				"ORG"
+			],
+			[
+				"NEA",
+				71,
+				74,
+				"ORG"
+			],
+			[
+				"IEA",
+				104,
+				107,
+				"ORG"
+			],
+			[
+				"NEA",
+				134,
+				137,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "THESE ARE THE APPROPRIATE ROLES FOR THE TWO AGENCIES AND SHOULD BE MAINTAINED IN THE FUTURE, WHETHER OR NOT US BECOMES FULL MEMBER.",
+		"entities": [
+			[
+				"US",
+				108,
+				110,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "E) WE WELCOMED OPPORTUNITY TO DISCUSS QUESTION WITH WOOTTON AND WILLIAMS AND WILL TAKE THEIR VIEWS INTO ACCOUNT.",
+		"entities": [
+			[
+				"WOOTTON",
+				52,
+				59,
+				"PERSON"
+			],
+			[
+				"WILLIAMS",
+				64,
+				72,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "ASSUMING IEA R&D PROGRAM EVOLVES IN SATISFACTORY WAY, WE WILL BE ABLE TO GIVE QUESTION OF NEA MEMBERSHIP SERIOUS ATTENTION",
+		"entities": [
+			[
+				"IEA",
+				9,
+				12,
+				"ORG"
+			],
+			[
+				"NEA",
+				90,
+				93,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "LATE THIS YEAR OR EARLY IN 1976.",
+		"entities": [
+			[
+				"1976",
+				27,
+				31,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "KISSINGER ']",
+		"entities": [
+			[
+				"KISSINGER",
+				0,
+				9,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['UNAUTHORIZED OVERFLIGHTS 1.",
+		"entities": []
+	},
+	{
+		"content": "WE HAVE RECEIVED TWO ADDITIONAL DIPLOMATIC NOTES FROM IRAQI FOREIGN MINISTRY ALLEGING UNAUTHORIZED OVER- FLIGHTS OF IRAQI TERRITORY ON DECEMBER 4 AND DECEMBER 20, 1976.",
+		"entities": [
+			[
+				"IRAQI FOREIGN MINISTRY",
+				54,
+				76,
+				"ORG"
+			],
+			[
+				"IRAQI",
+				116,
+				121,
+				"GPE"
+			],
+			[
+				"DECEMBER 4",
+				135,
+				145,
+				"DATE"
+			],
+			[
+				"DECEMBER 20, 1976",
+				150,
+				167,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "FIRST NOTE CLAIMS THAT \"ON DECEMBER 4, 1976 A BOEING-TYPE 720 AMERICAN AIRCRAFT ENTERED IRAQI AIR SPACE WHILE FLYING FROM TEHRAN TO LONDON, WITHOUT HAVING OBTAINED FORMAL APPROVAL.",
+		"entities": [
+			[
+				"DECEMBER 4, 1976",
+				27,
+				43,
+				"DATE"
+			],
+			[
+				"BOEING-TYPE 720",
+				46,
+				61,
+				"PRODUCT"
+			],
+			[
+				"AMERICAN",
+				63,
+				71,
+				"NORP"
+			],
+			[
+				"IRAQI",
+				88,
+				93,
+				"GPE"
+			],
+			[
+				"TEHRAN",
+				122,
+				128,
+				"LOC"
+			],
+			[
+				"LONDON",
+				132,
+				138,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "THE AIRCRAFT WAS FORCED TO LAND AT BAGHDAD INTERNATIONAL AIRPORT, AND IT WAS LEARNED THAT THE PILOT OF THE AIRCRAFT HAD SENT A BELATED REQUEST FOR APPROVAL OF THE OVERFLIGHT ACROSS IRAQI AIR SPACE.",
+		"entities": [
+			[
+				"BAGHDAD INTERNATIONAL AIRPORT",
+				35,
+				64,
+				"FAC"
+			],
+			[
+				"IRAQI",
+				181,
+				186,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "THE AIR- CRAFT WAS THEN ALLOWED TO LEAVE THE AIRPORT.\"",
+		"entities": []
+	},
+	{
+		"content": "\"THE MINISTRY REQUESTS THAT THE AMERICAN AUTHORITIES BE NOTIFIED ABOUT THE INCIDENT",
+		"entities": [
+			[
+				"MINISTRY",
+				5,
+				13,
+				"ORG"
+			],
+			[
+				"AMERICAN",
+				32,
+				40,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "AND IT STRESSES THE NECESSITY OF ABIDING BY AIRSPACE RULES.\" 3.",
+		"entities": []
+	},
+	{
+		"content": "SECOND NOTE ADVISES THAT \"ON DECEMBER 20, 1976 AN AMERICAN AIRCRAFT CARRYING 19 PASSENGERS AND A CREW OF 7 ENTERED IRAQI AIRSPACE WITHOUT OBTAINING THE APPROVAL OF THE APPROPRIATE AUTHORITIES.\"",
+		"entities": [
+			[
+				"DECEMBER 20, 1976",
+				29,
+				46,
+				"DATE"
+			],
+			[
+				"AMERICAN",
+				50,
+				58,
+				"NORP"
+			],
+			[
+				"IRAQI",
+				115,
+				120,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "\"THE MINISTRY WOULD APPRECIATE THE EMBASSY BRINING THE ABOVE TO THE ATTENTION OF THE APPROPRIATE AMERICAN AUTHORITIES STRESSING THE NEED TO ABIDE BY IRAQI AIRSPACE REGULATIONS.\" 4.",
+		"entities": [
+			[
+				"MINISTRY",
+				5,
+				13,
+				"ORG"
+			],
+			[
+				"EMBASSY",
+				35,
+				42,
+				"ORG"
+			],
+			[
+				"AMERICAN",
+				97,
+				105,
+				"GPE"
+			],
+			[
+				"IRAQI",
+				149,
+				154,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "PER 76 STATE 275685, WE HAVE REPLIED TO FOREIGN MINISTRY ASKING FOR FURTHER DETAILS IN BOTH CASES.",
+		"entities": [
+			[
+				"STATE 275685",
+				7,
+				19,
+				"WORK_OF_ART"
+			],
+			[
+				"FOREIGN MINISTRY",
+				40,
+				56,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "WILEY ']",
+		"entities": [
+			[
+				"WILEY",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "[\"RESTRAINT 1.",
+		"entities": []
+	},
+	{
+		"content": "SEC,E- - ENTIRE TEXT.",
+		"entities": []
+	},
+	{
+		"content": "2.",
+		"entities": []
+	},
+	{
+		"content": "THE FOLLOWING ARE SOME IDEAS TO BE DRAWN ON IN DIS- CUSSING CONVENTIONAL ARMS RESTRAINT WITH PRESIDENT HERRERA WHEN OP,ORTUNITY ARISES.",
+		"entities": [
+			[
+				"PRESIDENT HERRERA",
+				93,
+				110,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "3.",
+		"entities": []
+	},
+	{
+		"content": "BACKGROUND OF U.S. CAT EFFORTS.",
+		"entities": [
+			[
+				"U.S.",
+				14,
+				18,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "A.",
+		"entities": []
+	},
+	{
+		"content": "THE CARTER /DMINISTRATION IS COMMITTED TO LIMITING U.S. CONVENTIONAL ARMS TRANSFERS.",
+		"entities": [
+			[
+				"CARTER",
+				4,
+				10,
+				"PERSON"
+			],
+			[
+				"U.S.",
+				51,
+				55,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "-- ALTHOUGH WE CONTINUE TO MAKE ARMS TRANSFERS TO SUPPORT THE LEGI ,MATE SELF DEFENSE NEEDS OF OUR FRIENDS AND ALLIES, WE HAVE IMPOSED BOTH QUALITATIVE AND QUANTITATIVE LIMITS ON OUR TRANSFERS.",
+		"entities": []
+	},
+	{
+		"content": "-- WE NEED MULTILATERAL COOPERATION SINCE THIS WOULD BRING MORE EFFECTIVE RESTRAINT THAN IF THE U.S. ACTED ALONE.",
+		"entities": [
+			[
+				"U.S.",
+				96,
+				100,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "B. WE BELIEVE THAT INTERNATIONAL RESTRAINT EFFORTS, LIKE OUR OWN POLICY, SHOULD RECOGNIZE THE LEGITIMATE DEFENSE NEEDS OF RECIPIENTS.",
+		"entities": []
+	},
+	{
+		"content": "WE ARE NOT TALKING ABOUT DISARMAMENT, BUT RATHER STABILIZATION AND REDUCTION OF THE PRESSURES TO BUY ARMS QUALITATIVELY OR QUANTITATIVELY IN EXCESS OF NEEDS.",
+		"entities": []
+	},
+	{
+		"content": "C. WE BELIEVE IT IS APPROPRIATE",
+		"entities": []
+	},
+	{
+		"content": "AT THIS EARLY STAGE THAT SUPPLIERS AND RECIPIENTS HOLD PARALLEL DISCUSSIONS,",
+		"entities": []
+	},
+	{
+		"content": "BUT WE BELIEVE THAT THE TWO EFFORTS MUST COME TOGETHER.",
+		"entities": []
+	},
+	{
+		"content": "A DURABLE INTERNATIONAL RESTRAINT REGIME MUST BE A COOPERATIVE VENTURE BETWEEN SUPPLIERS AND RECIPIENTS.",
+		"entities": []
+	},
+	{
+		"content": "-- ON THE SUPPLIER SIDE, WE HAVE BEEN TALKING TO THE SOVIETS FOR OVER A YEAR.",
+		"entities": [
+			[
+				"SOVIETS",
+				53,
+				60,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "WE HAVE HAD SERIOUS EXCHANGES AND HAVE PROGRESSED AT A REASONABLE PACE, ALTHOUGH WE DID NOT ADVANCE VERY FAR AT THE LAST ROUND, WHICH WAS HELD IN MEXICO CITY.",
+		"entities": [
+			[
+				"MEXICO CITY",
+				146,
+				157,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "-- OUR EUROPEAN ALLIES HAVE NOT BEEN VERY ENTHUSIASTIC ABOUT RESTRAINT.",
+		"entities": [
+			[
+				"EUROPEAN",
+				7,
+				15,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "WE HOPE EVENTUALLY TO BRING THEM ALONG, BUT THIS WILL BE DIFFICULT WITHOUT STRONG INCENTIVES SUCH AS SUBSTANTIAL AGREEMENT WITH THE SOVIETS OR A SUCCESSFUL INITIATIVE AMONG RECIPIENTS.",
+		"entities": [
+			[
+				"SOVIETS",
+				132,
+				139,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "--",
+		"entities": []
+	},
+	{
+		"content": "THE RECIPIENT RESPONSE HAS BEEN VERY MIXED WITH SUPPORT FOR RESTRAINT STRONGEST AMONG STATES WHICH DO NOT SEEK REGIONAL MILITARY DOMINANCE AND IN REGIONS LIKE LATIN AMERICA, WHERE TENSIONS AND ARMS LEVELS ARE RELATIVELY LOW.",
+		"entities": [
+			[
+				"LATIN AMERICA",
+				159,
+				172,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "--",
+		"entities": []
+	},
+	{
+		"content": "THE SSOD WAS THE FIRST EXAMPLE OF A BROAD INTER- NATIONAL CONSENSUS FOR CAT RESTRAINT.",
+		"entities": [
+			[
+				"SSOD",
+				4,
+				8,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "IT WAS MAINLY A SYMBOLIC STEP BUT WAS USEFUL IN ESTABLISHING A BETTER CLIMATE FOR PRACTICAL EFFORTS. 4.",
+		"entities": []
+	},
+	{
+		"content": "BACKGROUND OF LATIN AMERICAN EFFORTS.",
+		"entities": [
+			[
+				"LATIN AMERICAN",
+				14,
+				28,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "A. LATIN AMERICA HAS TRADITIONALLY DEMONSTRATED ITS SUPPORT OF MULTILATERAL COOPERATION IN ARMS CONTROL (TLATELOLCO).",
+		"entities": [
+			[
+				"LATIN AMERICA",
+				3,
+				16,
+				"LOC"
+			],
+			[
+				"TLATELOLCO",
+				105,
+				115,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "-- BEGINNING WITH THE 1974 AYACUCHO DECLARATION, IT IS THE ONLY REGION TO DISCUSS CONVENTIONAL WEAPONS SELF- RESTRAINT.",
+		"entities": [
+			[
+				"1974",
+				22,
+				26,
+				"DATE"
+			],
+			[
+				"AYACUCHO DECLARATION",
+				27,
+				47,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "-- RECENT DEVELOPMENTS, IN WHICH VENEZUELA HAS PLAYED A LEADING ROLE, SUGGEST THAT TANGIBLE PROGRESS IN THIS REGION MIGHT BE POSSIBLE.",
+		"entities": [
+			[
+				"VENEZUELA",
+				33,
+				42,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "--",
+		"entities": []
+	},
+	{
+		"content": "ONE SUCH DEVELOPMENT WAS THE SECOND AYACUCHO DECLARATION ORGANIZED BY VENEZUELA LAST JUNE, IN WHICH THE SIGNATORIES SUGGESTED A FOREIGN MINISTERS MEETING AND A REGIONAL EFFORT TO EXPLORE POSSIBILITIES FOR CON- VENTIONAL ARMS LIMITATIONS.",
+		"entities": [
+			[
+				"AYACUCHO DECLARATION",
+				36,
+				56,
+				"LAW"
+			],
+			[
+				"VENEZUELA",
+				70,
+				79,
+				"GPE"
+			],
+			[
+				"JUNE",
+				85,
+				89,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "WE NOTE THAT THE SSOD ENDORSED THE AYACUCHO DECLARATION AT VENEZEULA'S INITIATIVE.",
+		"entities": [
+			[
+				"SSOD",
+				17,
+				21,
+				"EVENT"
+			],
+			[
+				"AYACUCHO DECLARATION",
+				35,
+				55,
+				"LAW"
+			],
+			[
+				"VENEZEULA",
+				59,
+				68,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "B.",
+		"entities": []
+	},
+	{
+		"content": "THIS VENEZUELAN EFFORT BROKE THE ICE AND OPENED THE WAY FOR THE CONFERENCE OF 20 REGIONAL COUNTRIES ORGANIZED BY MEXICO LAST AUGUST.",
+		"entities": [
+			[
+				"VENEZUELAN",
+				5,
+				15,
+				"GPE"
+			],
+			[
+				"MEXICO",
+				113,
+				119,
+				"GPE"
+			],
+			[
+				"AUGUST",
+				125,
+				131,
+				"DATE"
+			]
+		]
+	},
+	{
+		"content": "-- BECAUSE OF THE NON-PARTICIPATION OF BRAZIL AND ACCORDING TO THE ECUADORIANS OTHER COUNTRIES, THE QUITO MEETING THAT WAS TO HAVE FOLLOWED THIS SPRING IS IN SOME DOUBT.",
+		"entities": [
+			[
+				"BRAZIL",
+				39,
+				45,
+				"GPE"
+			],
+			[
+				"ECUADORIANS",
+				67,
+				78,
+				"GPE"
+			],
+			[
+				"QUITO MEETING",
+				100,
+				113,
+				"EVENT"
+			]
+		]
+	},
+	{
+		"content": "FYI: OUR READING IS THAT REGIONAL RESTRAINT EFFORTS SEEM TO HAVE STALLED.",
+		"entities": []
+	},
+	{
+		"content": "WE WILL BE CONSULTING WITH THE MEXICANS SOON ON HOW BEST TO OVERCOME ECUADORIAN FAINTHEARTEDNESS.",
+		"entities": [
+			[
+				"MEXICANS",
+				31,
+				39,
+				"GPE"
+			],
+			[
+				"ECUADORIAN",
+				69,
+				79,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "END",
+		"entities": []
+	},
+	{
+		"content": "FYI. 5.",
+		"entities": []
+	},
+	{
+		"content": "WHY REGIONAL RESTRAINT IN LATIN AMERICA MAKES SENSE.",
+		"entities": [
+			[
+				"LATIN AMERICA",
+				26,
+				39,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "A. WE BELIEVE THAT LATIN AMERICAN RESTRAINT EFFORTS COULD HAVE A FAVORABLE GLOBAL IMPACT.",
+		"entities": [
+			[
+				"LATIN AMERICAN",
+				19,
+				33,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "SUCCESS OR REAL PROGRESS IN LATIN AMERICA COULD: -- DEMONSTRATE THE PRACTICALITY OF REGIONAL SELF- RESTRAINT INITIATIVES AND LEAD TO EMULATION IN OTHER REGIONS; AND -- ALLOW US TO ARGUE STRONGLY FOR SUPPLIER COOPERATION, SINCE WE BELIEVE EVEN THE MORE RELUCTANT INDUSTRIAL COUNTRIES MAY COOPERATE WITH REGIONAL INITIATIVES.",
+		"entities": [
+			[
+				"LATIN AMERICA",
+				28,
+				41,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "B. WE BELIEVE THAT CONTINUED RESTRAINT EFFORTS WOULD MAKE SENSE IN REGIONAL TERMS.",
+		"entities": []
+	},
+	{
+		"content": "REGIONAL INITIATIVES COULD: -- BUILD ON THE LATIN AMERICAN TRADITION OF MULTILATERAL BUILD ON THE LATIN AMERICAN TRADITION OF MULTILATERAL COOPERATION, INCLUDING TLATELOLCO AND AYACUCHO; AND -- SERVE TO REDUCE REGIONAL TENSIONS, LIMIT FOREIGN INVOLVEMENTS AND BUILD CONFIDENCE. 6.",
+		"entities": [
+			[
+				"LATIN AMERICAN",
+				44,
+				58,
+				"NORP"
+			],
+			[
+				"LATIN AMERICAN",
+				98,
+				112,
+				"NORP"
+			],
+			[
+				"TLATELOLCO",
+				162,
+				172,
+				"LAW"
+			],
+			[
+				"AYACUCHO",
+				177,
+				185,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "POSSIBLE WAYS TO PROCEED.",
+		"entities": []
+	},
+	{
+		"content": "A. WE BELIEVE THE MEXICAN AND VENEZUELAN INITIATIVES, ARE COMPLEMENTARY.",
+		"entities": [
+			[
+				"MEXICAN",
+				18,
+				25,
+				"GPE"
+			],
+			[
+				"VENEZUELAN",
+				30,
+				40,
+				"NORP"
+			]
+		]
+	},
+	{
+		"content": "WE HOPE VENEZUELA WILL CONTINUE TO TAKE ACTIVE LEADERSHIP ROLE IN BOTH MEXICAN INITIATIVE AND AYACUCHO GROUP.",
+		"entities": [
+			[
+				"VENEZUELA",
+				8,
+				17,
+				"GPE"
+			],
+			[
+				"MEXICAN",
+				71,
+				78,
+				"GPE"
+			],
+			[
+				"AYACUCHO GROUP",
+				94,
+				108,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "B.",
+		"entities": []
+	},
+	{
+		"content": "THE MEXICAN EFFORT IS USEFUL IN ENCOURAGING MORE COUNTRIES TO TALK ABOUT RESTRAINT.",
+		"entities": [
+			[
+				"MEXICAN",
+				4,
+				11,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "-- WE HAVE TOLD THE SOVIETS WE ARE PLEASED BY CUBA'S PARTICIPATION, AND THE SOVIETS APPEAR TO HAVE NO OBJECTION TO IT.",
+		"entities": [
+			[
+				"SOVIETS",
+				20,
+				27,
+				"LAW"
+			],
+			[
+				"CUBA",
+				46,
+				50,
+				"GPE"
+			],
+			[
+				"SOVIETS",
+				76,
+				83,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IF CUBA SIGNS WHATEVER AGREEMENT RESULTS FROM THE MEXICAN INITIATIVE, ITS ARMS IMPORTS WOULD OF COURSE BE SUBJECT TO THE SAME RESTRAINTS THAT WOULD APPLY TO ANY OTHER PARTY.",
+		"entities": [
+			[
+				"CUBA",
+				3,
+				7,
+				"GPE"
+			],
+			[
+				"MEXICAN",
+				50,
+				57,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "--",
+		"entities": []
+	},
+	{
+		"content": "A BROADER EFFORT, SUCH AS MEXICO'S, DOES INVOLVE A RISK THAT KEY COUNTRIES LIKE BRAZIL WILL NOT PARTICIPATE.",
+		"entities": [
+			[
+				"MEXICO",
+				26,
+				32,
+				"GPE"
+			],
+			[
+				"BRAZIL",
+				80,
+				86,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "C. AN EFFORT WITHIN THE SMALLER AYACUCHO GROUP COULD BE COORDINATED WITH MEXICO AND CARRIED OUT IN SUCH A WAY AS TO CONTRIBUTE TO THE BROADER MEXICAN INITIATIVE.",
+		"entities": [
+			[
+				"AYACUCHO GROUP",
+				32,
+				46,
+				"ORG"
+			],
+			[
+				"MEXICO",
+				73,
+				79,
+				"GPE"
+			],
+			[
+				"MEXICAN",
+				142,
+				149,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "-- THERE ARE SERIOUS DISPUTES AMONG THE AYACUCHO COUNTRIES, BUT THEY MIGHT BE ABLE TO AGREE ON CONCRETE STEPS WITHIN THE ANDEAN AREA.",
+		"entities": [
+			[
+				"AYACUCHO",
+				40,
+				48,
+				"ORG"
+			],
+			[
+				"ANDEAN",
+				121,
+				127,
+				"ORG"
+			]
+		]
+	},
+	{
+		"content": "-- REAL PROGRESS THERE COULD, IN TURN, SUPPORT THE MEXICAN EFFORT.",
+		"entities": [
+			[
+				"MEXICAN",
+				51,
+				58,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "IT COULD OFFER ONE POSSIBLE WAY TO MAKE INITIAL PROGRESS AND FINESSE THE BRAZILIAN PROBLEM FOR A TIME.",
+		"entities": [
+			[
+				"BRAZILIAN",
+				73,
+				82,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "D. IF POLITICAL PROBLEMS APPEAR TO BE IMPEDING, THE MOMENTUM OF THE MEXICAN EFFORT, VENEZUELA MIGHT THEN WANT TO CONSIDER ANOTHER ROUND WITH THE AYACUCHO SIGNATORIES TO SEE IF SOMETHING CAN BE DONE WITHIN THIS GROUP.",
+		"entities": [
+			[
+				"MEXICAN",
+				68,
+				75,
+				"GPE"
+			],
+			[
+				"VENEZUELA",
+				84,
+				93,
+				"GPE"
+			],
+			[
+				"AYACUCHO SIGNATORIES",
+				145,
+				165,
+				"LAW"
+			]
+		]
+	},
+	{
+		"content": "--",
+		"entities": []
+	},
+	{
+		"content": "ONE POSSIBILITY WOULD BE TO SEEK AGREEMENT ON INTERIM MEASURES WHICH WOULD BE IN EFFECT FOR A LIMITED TIME.",
+		"entities": []
+	},
+	{
+		"content": "THIS COULD STABILIZE THE SITUATION AND SET THE STAGE FOR FURTHER PROGRESS AND BROADER APPLICATION IN LATIN AMERICA.",
+		"entities": [
+			[
+				"LATIN AMERICA",
+				101,
+				114,
+				"LOC"
+			]
+		]
+	},
+	{
+		"content": "-- WE BELIEVE THE DIRECT INVOLVEMENT OF SUPPLIERS WOULD BE INAPPROPRIATE AT THIS STAGE OF THE LATIN AMERICAN REGIONAL EFFORT, BUT, IF VENEZUELA WISHED TO PROCEED, WE WOULD BE GLAD TO PROVIDE ANY OTHER ASSISTANCE IT MIGHT CONSIDER USEFUL.",
+		"entities": [
+			[
+				"LATIN AMERICAN",
+				94,
+				108,
+				"NORP"
+			],
+			[
+				"VENEZUELA",
+				134,
+				143,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "-- WE COULD, FOR EXAMPLE, EXCHANGE IDEAS ON SOME ARMS CONTROL APPROACHES, INCLUDING TECHNICAL PROBLEMS, SUCH AS COMPARABILITY OF DIFFERENT WEAPONS SYSTEMS, EXCHANGE OF INFORMATION ON CURRENT INVENTORIES, ETC.",
+		"entities": []
+	},
+	{
+		"content": "AT AN APPROPRIATE STAGE, WE MIGHT USEFULLY SEEK THE SUPPORT OF OTHER SUPPLIERS.",
+		"entities": []
+	},
+	{
+		"content": "VANCE \"]",
+		"entities": [
+			[
+				"VANCE",
+				0,
+				5,
+				"PERSON"
+			]
+		]
+	},
+	{
+		"content": "['']",
+		"entities": []
+	},
+	{
+		"content": "['SEE A DISTINCTION BETWEEN A BRIEF STOP AND A MONTH-LONG VISIT.",
+		"entities": []
+	},
+	{
+		"content": "ISSRAELYAN DID NOT INDICATE WHETHER SOVIETS WERE RE-EXAMINING THEIR POSITION, THOUGH HIS QUESTION SUGGESTED CONTINUED SOVIET BELIEF THAT TREATY PREJUDICES HIGH SEAS FREEDOMS AND IS DEFICIENT IN NOT PROHIBITING TRANSIT.",
+		"entities": [
+			[
+				"ISSRAELYAN",
+				0,
+				10,
+				"PERSON"
+			],
+			[
+				"SOVIETS",
+				36,
+				43,
+				"GPE"
+			],
+			[
+				"SOVIET",
+				118,
+				124,
+				"GPE"
+			]
+		]
+	},
+	{
+		"content": "12.",
+		"entities": []
+	},
+	{
+		"content": "AT CONCLUSION, ISSRAELYAN EXPRESSED SATISFACTION OVER MEETING, CALLING FOR BOTH SIDES TO KEEP IN CONTACT ON DISARMAMENT PROBLEMS.SORENSON ']",
+		"entities": [
+			[
+				"ISSRAELYAN",
+				15,
+				25,
+				"PERSON"
+			],
+			[
+				"SORENSON",
+				129,
+				137,
+				"PERSON"
+			]
+		]
+	}
+]
