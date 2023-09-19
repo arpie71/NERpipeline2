@@ -4,7 +4,7 @@ This document describes the steps needed to run the NER/NEL pipeline.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This repository has the scripts and raw data neeeded to train an NER model and Knowledge Base using spaCy and then to use those models on text. 
 
 ## Getting Started
 
@@ -15,8 +15,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+A config.ini file listing the credentials for a local MySQL database and the History Lab MySQL database and its postgres database needs to be created in the main folder. 
 
 ### Executing program
 
@@ -34,25 +33,25 @@ python3 scripts/create_kb_base.py
 * Third, train the NER model.
 * The NER model is necessary to create the Knowledge Base because Spacy uses the NER model vocabulary for the Knowledge Base description.
 ```
-python3 scripts/NERtraining.py --nlploc models/covidnlp --iter 30 --train datafiles/training/covid/*.json
+python3 scripts/NERtraining.py --nlploc models/ner_model --iter 30 --train datafiles/training/covid/*.json datafiles/training/dpi/*.json
 ```
 
 * Fourth, add new entries to an SQL database to serve as the basis for the new Knowledge Base.
 
 ```
-python3 scripts/add_to_kb.py --sqldb dpikb --newdb covidkb --entfiles datafiles/kbfiles/*ent* --aliasfiles datafiles/kbfiles/*alias*
+python3 scripts/add_to_kb.py --sqldb dpikb --newdb covidkb --entfiles datafiles/kbfiles/*ent* datafiles/kbfiles/dpi/*ent* datafiles/kbfiles/covid/*ent* --aliasfiles datafiles/kbfiles/*alias* datafiles/kbfiles/dpi/*alias* datafiles/kbfiles/covid/*alias*
 ```
 
 * Fifth, create a new Knowledge Base.
 
 ```
-python3 scripts/createkb.py --ner models/covidnlp --sql local --kb models/covidkb --db covidkb
+python3 scripts/createkb3a.py --ner models/covidnlp --sql local --kb models/covidkb --db covidkb
 ```
 
 * Finally, run the NER/NEL models
 
 ```
-python3 scripts/runNER.py --db covid --ner models/covidnlp --kb models/covidkb --sql covid --outdir nerout/covid
+python3 scripts/runNER3.py --db covid --ner models/covidnlp --kb models/covidkb --sql covid --outdir nerout/covid
 ```
 
 ## Utilities
