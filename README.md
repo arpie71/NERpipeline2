@@ -25,6 +25,7 @@ A config.ini file listing the credentials for a local MySQL database and the His
 python3 -m pip install requirements.txt
 ```
 * Second, create a base knowledge base using files in the kbbase subdirectory
+* This will create a new DB in MySQL 
 * Currently, the base files include: a) All former and current Members of the US Congress; b) World leaders from Archigos; and c) Foreign ministers
 
 ```
